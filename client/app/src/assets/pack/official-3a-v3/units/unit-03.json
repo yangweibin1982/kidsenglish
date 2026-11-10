@@ -1,0 +1,142 @@
+{
+  "title": "Are you Kitty?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I am six years old.",
+          "origin": "curated:u1-be-am",
+          "zh": "我六岁。"
+        }
+      ],
+      "headword": "am",
+      "lexical_entry_id": "w_am",
+      "ordinal": 1,
+      "phonetic_uk": "æm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The boy is Danny.",
+          "origin": "curated:g2u2-boy",
+          "zh": "这个男孩是丹尼。"
+        }
+      ],
+      "headword": "boy",
+      "lexical_entry_id": "w_boy",
+      "ordinal": 2,
+      "phonetic_uk": "bɒi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "男孩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The girl is Alice.",
+          "origin": "curated:g2u2-girl",
+          "zh": "这个女孩是爱丽丝。"
+        }
+      ],
+      "headword": "girl",
+      "lexical_entry_id": "w_girl",
+      "ordinal": 3,
+      "phonetic_uk": "gə:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "女孩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "No, it is not a pear.",
+          "origin": "curated:u3-no",
+          "zh": "不，这不是一个梨。"
+        }
+      ],
+      "headword": "no",
+      "lexical_entry_id": "w_no",
+      "ordinal": 4,
+      "phonetic_uk": "nəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不",
+          "pos": "adv."
+        },
+        {
+          "gloss": "没有",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "That is not my book.",
+          "origin": "curated:u3-not",
+          "zh": "那不是我的书。"
+        }
+      ],
+      "headword": "not",
+      "lexical_entry_id": "w_not",
+      "ordinal": 5,
+      "phonetic_uk": "nɒt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Yes, it is a pear.",
+          "origin": "curated:u5-yes",
+          "zh": "是的，这是一个梨。"
+        }
+      ],
+      "headword": "yes",
+      "lexical_entry_id": "w_yes",
+      "ordinal": 6,
+      "phonetic_uk": "jes",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是的",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

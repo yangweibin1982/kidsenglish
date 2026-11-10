@@ -1,0 +1,348 @@
+{
+  "title": "Great cities of the world",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my building.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的建筑物, 建筑。"
+        },
+        {
+          "en": "I can see a building.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到建筑物, 建筑。"
+        }
+      ],
+      "headword": "building",
+      "lexical_entry_id": "w_building",
+      "ordinal": 1,
+      "phonetic_uk": "'bildiŋ",
+      "phonetic_us": null,
+      "phonics_split": "build·ing",
+      "senses": [
+        {
+          "gloss": "建筑物, 建筑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my capital.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的首都, 大写字母, 资本。"
+        },
+        {
+          "en": "I can see a capital.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到首都, 大写字母, 资本。"
+        }
+      ],
+      "headword": "capital",
+      "lexical_entry_id": "w_capital",
+      "ordinal": 2,
+      "phonetic_uk": "'kæpitəl",
+      "phonetic_us": null,
+      "phonics_split": "cap·i·tal",
+      "senses": [
+        {
+          "gloss": "首都, 大写字母, 资本",
+          "pos": "n."
+        },
+        {
+          "gloss": "首都的, 重要的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my east.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的东方, 东。"
+        },
+        {
+          "en": "I can see an east.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到东方, 东。"
+        }
+      ],
+      "headword": "east",
+      "lexical_entry_id": "w_east",
+      "ordinal": 3,
+      "phonetic_uk": "i:st",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "东方, 东",
+          "pos": "n."
+        },
+        {
+          "gloss": "东方的, 向东的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in the east of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in the east of”。"
+        }
+      ],
+      "headword": "in the east of",
+      "lexical_entry_id": "w_in_the_east_of",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在...东部",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Beijing is in the north of China.",
+          "origin": "curated:primary-6a-north-of",
+          "zh": "北京在中国的北部。"
+        }
+      ],
+      "headword": "in the north of",
+      "lexical_entry_id": "w_in_the_north_of",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在……的北部",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my most.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的最多, 最大。"
+        },
+        {
+          "en": "I can see a most.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到最多, 最大。"
+        }
+      ],
+      "headword": "most",
+      "lexical_entry_id": "w_most",
+      "ordinal": 6,
+      "phonetic_uk": "məust",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "最多, 最大",
+          "pos": "n."
+        },
+        {
+          "gloss": "大多数的, 几乎全部的, 最多的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my north.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的北方, 北。"
+        },
+        {
+          "en": "I can see a north.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到北方, 北。"
+        }
+      ],
+      "headword": "north",
+      "lexical_entry_id": "w_north",
+      "ordinal": 7,
+      "phonetic_uk": "nɔːθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "北方, 北",
+          "pos": "n."
+        },
+        {
+          "gloss": "北的, 北方的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my palace.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的宫, 宫殿, 华丽大厦。"
+        },
+        {
+          "en": "I can see a palace.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到宫, 宫殿, 华丽大厦。"
+        }
+      ],
+      "headword": "palace",
+      "lexical_entry_id": "w_palace",
+      "ordinal": 8,
+      "phonetic_uk": "'pælis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "宫, 宫殿, 华丽大厦",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my south.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的南方, 南。"
+        },
+        {
+          "en": "I can see a south.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到南方, 南。"
+        }
+      ],
+      "headword": "south",
+      "lexical_entry_id": "w_south",
+      "ordinal": 9,
+      "phonetic_uk": "sauθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "南方, 南",
+          "pos": "n."
+        },
+        {
+          "gloss": "南的, 向南的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sushi.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的寿司（生鱼片冷饭团）。"
+        },
+        {
+          "en": "I can see a sushi.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到寿司（生鱼片冷饭团）。"
+        }
+      ],
+      "headword": "sushi",
+      "lexical_entry_id": "w_sushi",
+      "ordinal": 10,
+      "phonetic_uk": "'su:ʃi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "寿司（生鱼片冷饭团）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tourist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的观光客, 旅行者。"
+        },
+        {
+          "en": "I can see a tourist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到观光客, 旅行者。"
+        }
+      ],
+      "headword": "tourist",
+      "lexical_entry_id": "w_tourist",
+      "ordinal": 11,
+      "phonetic_uk": "'tuərist",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "观光客, 旅行者",
+          "pos": "n."
+        },
+        {
+          "gloss": "旅游的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my west.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的西方, 西部。"
+        },
+        {
+          "en": "I can see a west.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到西方, 西部。"
+        }
+      ],
+      "headword": "west",
+      "lexical_entry_id": "w_west",
+      "ordinal": 12,
+      "phonetic_uk": "west",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "西方, 西部",
+          "pos": "n."
+        },
+        {
+          "gloss": "西方的, 向西的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "title": "The Earth",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my Earth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的地球, 泥土, 世界, 尘世。"
+        },
+        {
+          "en": "I can see an Earth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到地球, 泥土, 世界, 尘世。"
+        }
+      ],
+      "headword": "Earth",
+      "lexical_entry_id": "w_earth",
+      "ordinal": 1,
+      "phonetic_uk": "ə:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "地球, 泥土, 世界, 尘世",
+          "pos": "n."
+        },
+        {
+          "gloss": "埋入土中, 赶入洞内",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the forest.",
+          "origin": "curated:g2u11-forest",
+          "zh": "我们在森林里。"
+        }
+      ],
+      "headword": "forest",
+      "lexical_entry_id": "w_forest",
+      "ordinal": 2,
+      "phonetic_uk": "'fɒrist",
+      "phonetic_us": null,
+      "phonics_split": "for·est",
+      "senses": [
+        {
+          "gloss": "森林",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my glass.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的玻璃, 玻璃杯, 透镜。"
+        },
+        {
+          "en": "I can see a glass.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到玻璃, 玻璃杯, 透镜。"
+        }
+      ],
+      "headword": "glass",
+      "lexical_entry_id": "w_glass",
+      "ordinal": 3,
+      "phonetic_uk": "glɑ:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玻璃, 玻璃杯, 透镜",
+          "pos": "n."
+        },
+        {
+          "gloss": "装玻璃于, 反射, 反映",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my land.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的陆地, 地面, 地界, 地产, 国土, 土地。"
+        },
+        {
+          "en": "I can see a land.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到陆地, 地面, 地界, 地产, 国土, 土地。"
+        }
+      ],
+      "headword": "land",
+      "lexical_entry_id": "w_land",
+      "ordinal": 4,
+      "phonetic_uk": "lænd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "陆地, 地面, 地界, 地产, 国土, 土地",
+          "pos": "n."
+        },
+        {
+          "gloss": "登陆, 登岸, 到达",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ocean.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海洋, 广阔, 许多, 一大片。"
+        },
+        {
+          "en": "I can see an ocean.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海洋, 广阔, 许多, 一大片。"
+        }
+      ],
+      "headword": "ocean",
+      "lexical_entry_id": "w_ocean",
+      "ordinal": 5,
+      "phonetic_uk": "'əuʃən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "海洋, 广阔, 许多, 一大片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my own.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的自己。"
+        },
+        {
+          "en": "I can see an own.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到自己。"
+        }
+      ],
+      "headword": "own",
+      "lexical_entry_id": "w_own",
+      "ordinal": 6,
+      "phonetic_uk": "əun",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "自己的",
+          "pos": "n."
+        },
+        {
+          "gloss": "自己的, 嫡亲的, 同胞的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my part.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位。"
+        },
+        {
+          "en": "I can see a part.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位。"
+        }
+      ],
+      "headword": "part",
+      "lexical_entry_id": "w_part",
+      "ordinal": 7,
+      "phonetic_uk": "pɑ:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位",
+          "pos": "n."
+        },
+        {
+          "gloss": "分开, 分离, 断绝, 区别, 分配",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “pick up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“pick up”。"
+        }
+      ],
+      "headword": "pick up",
+      "lexical_entry_id": "w_pick_up",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "掘地, 捡起, 获得, 学会, 看到, 中途带, 搭乘, 重新找到, 振作, 加快, 好转, 整理",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Please don't use plastic bags.",
+          "origin": "curated:primary-6a-plastic-bag",
+          "zh": "请不要使用塑料袋。"
+        }
+      ],
+      "headword": "plastic bag",
+      "lexical_entry_id": "w_plastic_bag",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "塑料袋",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can recycle.",
+          "origin": "template:t-v-can",
+          "zh": "我会使再循环, 重新利用, 再制。"
+        },
+        {
+          "en": "Let's recycle together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使再循环, 重新利用, 再制吧。"
+        }
+      ],
+      "headword": "recycle",
+      "lexical_entry_id": "w_recycle",
+      "ordinal": 10,
+      "phonetic_uk": ".ri:'saikl",
+      "phonetic_us": null,
+      "phonics_split": "re·cy·cle",
+      "senses": [
+        {
+          "gloss": "使再循环, 重新利用, 再制",
+          "pos": "vt."
+        },
+        {
+          "gloss": "再循环",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rubbish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的废物, 垃圾, 胡说。"
+        },
+        {
+          "en": "I can see a rubbish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到废物, 垃圾, 胡说。"
+        }
+      ],
+      "headword": "rubbish",
+      "lexical_entry_id": "w_rubbish",
+      "ordinal": 11,
+      "phonetic_uk": "'rʌbiʃ",
+      "phonetic_us": null,
+      "phonics_split": "rub·bish",
+      "senses": [
+        {
+          "gloss": "废物, 垃圾, 胡说",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shopping bag.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的（带挽手的）购物袋; 提包。"
+        },
+        {
+          "en": "I can see a shopping bag.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到（带挽手的）购物袋; 提包。"
+        }
+      ],
+      "headword": "shopping bag",
+      "lexical_entry_id": "w_shopping_bag",
+      "ordinal": 12,
+      "phonetic_uk": "ˈʃɔpɪŋ bæɡ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "（带挽手的）购物袋; 提包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sick.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的病人。"
+        },
+        {
+          "en": "I can see a sick.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到病人。"
+        }
+      ],
+      "headword": "sick",
+      "lexical_entry_id": "w_sick",
+      "ordinal": 13,
+      "phonetic_uk": "sik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "病人",
+          "pos": "n."
+        },
+        {
+          "gloss": "不舒服, 有病的, 恶心的, 厌恶的, 渴望的, 病态的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “so many”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“so many”。"
+        }
+      ],
+      "headword": "so many",
+      "lexical_entry_id": "w_so_many",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "那么多的, 同数目的",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

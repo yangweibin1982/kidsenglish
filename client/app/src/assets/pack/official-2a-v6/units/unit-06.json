@@ -1,0 +1,94 @@
+{
+  "title": "How do people celebrate the Mid-Autumn Festival?",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We play with lanterns at night.",
+          "origin": "curated:g2an-u6-lanterns",
+          "zh": "晚上我们玩灯笼。"
+        }
+      ],
+      "headword": "play with lanterns",
+      "lexical_entry_id": "w_play_with_lanterns",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩灯笼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We eat mooncakes on Mid-Autumn Day.",
+          "origin": "curated:g2an-u6-mooncakes",
+          "zh": "中秋节我们吃月饼。"
+        }
+      ],
+      "headword": "eat mooncakes",
+      "lexical_entry_id": "w_eat_mooncakes",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃月饼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Can you solve riddles?",
+          "origin": "curated:g2an-u6-riddles",
+          "zh": "你会猜灯谜吗？"
+        }
+      ],
+      "headword": "solve riddles",
+      "lexical_entry_id": "w_solve_riddles",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猜灯谜",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We look at the moon together.",
+          "origin": "curated:g2an-u6-moon",
+          "zh": "我们一起赏月。"
+        }
+      ],
+      "headword": "look at the moon",
+      "lexical_entry_id": "w_look_at_the_moon",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "赏月",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

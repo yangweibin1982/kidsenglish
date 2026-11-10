@@ -1,0 +1,202 @@
+{
+  "title": "What is fun about food?",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my rice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的米, 米饭, 稻。"
+        },
+        {
+          "en": "I can see a rice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到米, 米饭, 稻。"
+        }
+      ],
+      "headword": "rice",
+      "lexical_entry_id": "w_rice",
+      "ordinal": 1,
+      "phonetic_uk": "rais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "米, 米饭, 稻",
+          "pos": "n."
+        },
+        {
+          "gloss": "将...压成米粒状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fish ball.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的<美>炸鱼丸。"
+        },
+        {
+          "en": "I can see a fish ball.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到<美>炸鱼丸。"
+        }
+      ],
+      "headword": "fish ball",
+      "lexical_entry_id": "w_fish_ball",
+      "ordinal": 2,
+      "phonetic_uk": "fiʃ bɔ:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "<美>炸鱼丸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can congee.",
+          "origin": "template:t-v-can",
+          "zh": "我会告别, 鞠躬告辞。"
+        },
+        {
+          "en": "Let's congee together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起告别, 鞠躬告辞吧。"
+        }
+      ],
+      "headword": "congee",
+      "lexical_entry_id": "w_congee",
+      "ordinal": 3,
+      "phonetic_uk": "'kɒndʒi:",
+      "phonetic_us": null,
+      "phonics_split": "con·gee",
+      "senses": [
+        {
+          "gloss": "告别, 鞠躬告辞",
+          "pos": "vi."
+        },
+        {
+          "gloss": "稀饭",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cake.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蛋糕。"
+        },
+        {
+          "en": "I can see a cake.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蛋糕。"
+        }
+      ],
+      "headword": "cake",
+      "lexical_entry_id": "w_cake",
+      "ordinal": 4,
+      "phonetic_uk": "keik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛋糕",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bread.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面包, 生计, 食物。"
+        },
+        {
+          "en": "I can see a bread.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面包, 生计, 食物。"
+        }
+      ],
+      "headword": "bread",
+      "lexical_entry_id": "w_bread",
+      "ordinal": 5,
+      "phonetic_uk": "bred",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "面包, 生计, 食物",
+          "pos": "n."
+        },
+        {
+          "gloss": "裹以面包屑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I eat baozi for breakfast.",
+          "origin": "curated:g1bn-u1-baozi",
+          "zh": "我早餐吃包子。"
+        }
+      ],
+      "headword": "baozi",
+      "lexical_entry_id": "w_baozi",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "包子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dim sum.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的点心。"
+        },
+        {
+          "en": "I can see a dim sum.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到点心。"
+        }
+      ],
+      "headword": "dim sum",
+      "lexical_entry_id": "w_dim_sum",
+      "ordinal": 7,
+      "phonetic_uk": "'dim'sʌm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "点心",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

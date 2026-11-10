@@ -1,0 +1,358 @@
+{
+  "title": "Around my home",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “a lot of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a lot of”。"
+        }
+      ],
+      "headword": "a lot of",
+      "lexical_entry_id": "w_a_lot_of",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "许多的",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “around”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“around”。"
+        }
+      ],
+      "headword": "around",
+      "lexical_entry_id": "w_around",
+      "ordinal": 2,
+      "phonetic_uk": "ə'raund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "包围, 在...周围, 四处",
+          "pos": "prep."
+        },
+        {
+          "gloss": "兜着圈子, 在附近, 到处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “behind”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“behind”。"
+        }
+      ],
+      "headword": "behind",
+      "lexical_entry_id": "w_behind",
+      "ordinal": 3,
+      "phonetic_uk": "bi'haind",
+      "phonetic_us": null,
+      "phonics_split": "be·hind",
+      "senses": [
+        {
+          "gloss": "在后地",
+          "pos": "adv."
+        },
+        {
+          "gloss": "在...背后",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can eat.",
+          "origin": "template:t-v-can",
+          "zh": "我会吃, 腐蚀。"
+        },
+        {
+          "en": "Let's eat together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起吃, 腐蚀吧。"
+        }
+      ],
+      "headword": "eat",
+      "lexical_entry_id": "w_eat",
+      "ordinal": 4,
+      "phonetic_uk": "i:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃, 腐蚀",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my food.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的食物, 养料。"
+        },
+        {
+          "en": "I can see a food.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到食物, 养料。"
+        }
+      ],
+      "headword": "food",
+      "lexical_entry_id": "w_food",
+      "ordinal": 5,
+      "phonetic_uk": "fu:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "食物, 养料",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my home.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的家, 避难所, 故乡。"
+        },
+        {
+          "en": "I can see a home.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到家, 避难所, 故乡。"
+        }
+      ],
+      "headword": "home",
+      "lexical_entry_id": "w_home",
+      "ordinal": 6,
+      "phonetic_uk": "həum",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "家, 避难所, 故乡",
+          "pos": "n."
+        },
+        {
+          "gloss": "家庭的, 国内的, 打中目标的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very live.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常活的, 生动的, 精力充沛的, 实况转播。"
+        }
+      ],
+      "headword": "live",
+      "lexical_entry_id": "w_live",
+      "ordinal": 7,
+      "phonetic_uk": "liv.laiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "活的, 生动的, 精力充沛的, 实况转播的",
+          "pos": "a."
+        },
+        {
+          "gloss": "活, 生存, 居住",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very near.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常近的, 近亲的, 近似。"
+        }
+      ],
+      "headword": "near",
+      "lexical_entry_id": "w_near",
+      "ordinal": 8,
+      "phonetic_uk": "niə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "近的, 近亲的, 近似的",
+          "pos": "a."
+        },
+        {
+          "gloss": "接近, 亲近",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Nice to meet you!",
+          "origin": "curated:u2-nice",
+          "zh": "很高兴见到你！"
+        }
+      ],
+      "headword": "nice",
+      "lexical_entry_id": "w_nice",
+      "ordinal": 9,
+      "phonetic_uk": "nais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandfather is old.",
+          "origin": "curated:g2u5-old",
+          "zh": "我的爷爷年纪大。"
+        }
+      ],
+      "headword": "old",
+      "lexical_entry_id": "w_old",
+      "ordinal": 10,
+      "phonetic_uk": "əuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老的",
+          "pos": "a."
+        },
+        {
+          "gloss": "旧的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the park.",
+          "origin": "curated:g2u12-park",
+          "zh": "我们在公园里。"
+        }
+      ],
+      "headword": "park",
+      "lexical_entry_id": "w_park",
+      "ordinal": 11,
+      "phonetic_uk": "pɑ:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my restaurant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的餐馆, 饭店。"
+        },
+        {
+          "en": "I can see a restaurant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到餐馆, 饭店。"
+        }
+      ],
+      "headword": "restaurant",
+      "lexical_entry_id": "w_restaurant",
+      "ordinal": 12,
+      "phonetic_uk": "'restərɒŋ",
+      "phonetic_us": null,
+      "phonics_split": "restau·rant",
+      "senses": [
+        {
+          "gloss": "餐馆, 饭店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The car is in the street.",
+          "origin": "curated:g2u12-street",
+          "zh": "汽车在街上。"
+        }
+      ],
+      "headword": "street",
+      "lexical_entry_id": "w_street",
+      "ordinal": 13,
+      "phonetic_uk": "stri:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "街道、马路",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The supermarket is big.",
+          "origin": "curated:u8-supermarket",
+          "zh": "超市很大。"
+        }
+      ],
+      "headword": "supermarket",
+      "lexical_entry_id": "w_supermarket",
+      "ordinal": 14,
+      "phonetic_uk": "'sju:pəmɑ:kit",
+      "phonetic_us": null,
+      "phonics_split": "su·per·mar·ket",
+      "senses": [
+        {
+          "gloss": "超市",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

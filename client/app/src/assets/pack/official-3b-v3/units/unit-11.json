@@ -1,0 +1,224 @@
+{
+  "title": "Mother's Day",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cup.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的杯子, 茶杯, 优胜杯。"
+        },
+        {
+          "en": "I can see a cup.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到杯子, 茶杯, 优胜杯。"
+        }
+      ],
+      "headword": "cup",
+      "lexical_entry_id": "w_cup",
+      "ordinal": 1,
+      "phonetic_uk": "kʌp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "杯子, 茶杯, 优胜杯",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成杯状, 为...拔火罐",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Have a nice day!",
+          "origin": "curated:u1-farewell-day",
+          "zh": "祝你度过愉快的一天！"
+        }
+      ],
+      "headword": "day",
+      "lexical_entry_id": "w_day",
+      "ordinal": 2,
+      "phonetic_uk": "dei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "📅",
+          "gloss": "天、日子",
+          "pos": "n."
+        },
+        {
+          "gloss": "白天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What can you do?",
+          "origin": "curated:u4-do",
+          "zh": "你会做什么？"
+        }
+      ],
+      "headword": "do",
+      "lexical_entry_id": "w_do",
+      "ordinal": 3,
+      "phonetic_uk": "du:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The flower is beautiful.",
+          "origin": "curated:g2u12-flower",
+          "zh": "花很美丽。"
+        }
+      ],
+      "headword": "flower",
+      "lexical_entry_id": "w_flower",
+      "ordinal": 4,
+      "phonetic_uk": "'flauə",
+      "phonetic_us": null,
+      "phonics_split": "flow·er",
+      "senses": [
+        {
+          "gloss": "花",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my idea.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的主意, 办法, 理想, 思想, 概念, 意见。"
+        },
+        {
+          "en": "I can see an idea.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到主意, 办法, 理想, 思想, 概念, 意见。"
+        }
+      ],
+      "headword": "idea",
+      "lexical_entry_id": "w_idea",
+      "ordinal": 5,
+      "phonetic_uk": "ai'diə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "主意, 办法, 理想, 思想, 概念, 意见",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my love.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的爱, 恋爱, 爱情, 爱好, 性爱。"
+        },
+        {
+          "en": "I can see a love.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到爱, 恋爱, 爱情, 爱好, 性爱。"
+        }
+      ],
+      "headword": "love",
+      "lexical_entry_id": "w_love",
+      "ordinal": 6,
+      "phonetic_uk": "lʌv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爱, 恋爱, 爱情, 爱好, 性爱",
+          "pos": "n."
+        },
+        {
+          "gloss": "爱, 爱好, 爱慕",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my photo.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的相片, 照片, 逼真的描绘。"
+        },
+        {
+          "en": "I can see a photo.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到相片, 照片, 逼真的描绘。"
+        }
+      ],
+      "headword": "photo",
+      "lexical_entry_id": "w_photo",
+      "ordinal": 7,
+      "phonetic_uk": "'fəutəu",
+      "phonetic_us": null,
+      "phonics_split": "pho·to",
+      "senses": [
+        {
+          "gloss": "相片, 照片, 逼真的描绘",
+          "pos": "n."
+        },
+        {
+          "gloss": "照相",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tea.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的茶, 茶叶。"
+        },
+        {
+          "en": "I can see a tea.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到茶, 茶叶。"
+        }
+      ],
+      "headword": "tea",
+      "lexical_entry_id": "w_tea",
+      "ordinal": 8,
+      "phonetic_uk": "ti:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "茶, 茶叶",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

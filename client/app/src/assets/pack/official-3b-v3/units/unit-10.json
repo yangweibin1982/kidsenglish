@@ -1,0 +1,188 @@
+{
+  "title": "Funny cartoons",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my arm.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的手臂, 袖子, 狭长港湾, 武器。"
+        },
+        {
+          "en": "I can see an arm.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到手臂, 袖子, 狭长港湾, 武器。"
+        }
+      ],
+      "headword": "arm",
+      "lexical_entry_id": "w_arm",
+      "ordinal": 1,
+      "phonetic_uk": "ɑ:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "手臂, 袖子, 狭长港湾, 武器",
+          "pos": "n."
+        },
+        {
+          "gloss": "武装, 装备",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my body.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的身体, 人, 尸体, 主要部分, 团体。"
+        },
+        {
+          "en": "I can see a body.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到身体, 人, 尸体, 主要部分, 团体。"
+        }
+      ],
+      "headword": "body",
+      "lexical_entry_id": "w_body",
+      "ordinal": 2,
+      "phonetic_uk": "'bɒdi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "身体, 人, 尸体, 主要部分, 团体",
+          "pos": "n."
+        },
+        {
+          "gloss": "赋以形体",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my foot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的脚, 步调, 英尺, 底部, 末尾, 步兵。"
+        },
+        {
+          "en": "I can see a foot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到脚, 步调, 英尺, 底部, 末尾, 步兵。"
+        }
+      ],
+      "headword": "foot",
+      "lexical_entry_id": "w_foot",
+      "ordinal": 3,
+      "phonetic_uk": "fut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "脚, 步调, 英尺, 底部, 末尾, 步兵",
+          "pos": "n."
+        },
+        {
+          "gloss": "走在...上, 给...换底, 支付",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hand.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手。"
+        },
+        {
+          "en": "I can see a hand.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手。"
+        }
+      ],
+      "headword": "hand",
+      "lexical_entry_id": "w_hand",
+      "ordinal": 4,
+      "phonetic_uk": "hænd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手",
+          "pos": "n."
+        },
+        {
+          "gloss": "交给, 支持, 搀扶",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my head.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的头。"
+        },
+        {
+          "en": "I can see a head.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到头。"
+        }
+      ],
+      "headword": "head",
+      "lexical_entry_id": "w_head",
+      "ordinal": 5,
+      "phonetic_uk": "hed",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my leg.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的腿, 假腿, 路程。"
+        },
+        {
+          "en": "I can see a leg.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到腿, 假腿, 路程。"
+        }
+      ],
+      "headword": "leg",
+      "lexical_entry_id": "w_leg",
+      "ordinal": 6,
+      "phonetic_uk": "leg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "腿, 假腿, 路程",
+          "pos": "n."
+        },
+        {
+          "gloss": "走, 跑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

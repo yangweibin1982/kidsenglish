@@ -1,0 +1,292 @@
+{
+  "title": "In the street",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The car is in the street.",
+          "origin": "curated:g2u12-street",
+          "zh": "汽车在街上。"
+        }
+      ],
+      "headword": "street",
+      "lexical_entry_id": "w_street",
+      "ordinal": 1,
+      "phonetic_uk": "stri:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "街道、马路",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't climb the tree!",
+          "origin": "curated:g2u12-dont",
+          "zh": "不要爬树！"
+        }
+      ],
+      "headword": "don't",
+      "lexical_entry_id": "w_don_t",
+      "ordinal": 2,
+      "phonetic_uk": "dəunt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不要",
+          "pos": "abbr."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Pick an apple, please.",
+          "origin": "curated:g2u12-pick",
+          "zh": "请摘一个苹果。"
+        }
+      ],
+      "headword": "pick",
+      "lexical_entry_id": "w_pick",
+      "ordinal": 3,
+      "phonetic_uk": "pik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "摘、采",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The flower is beautiful.",
+          "origin": "curated:g2u12-flower",
+          "zh": "花很美丽。"
+        }
+      ],
+      "headword": "flower",
+      "lexical_entry_id": "w_flower",
+      "ordinal": 4,
+      "phonetic_uk": "'flauə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "花",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The monkey can climb.",
+          "origin": "curated:g2u12-climb",
+          "zh": "猴子会爬。"
+        }
+      ],
+      "headword": "climb",
+      "lexical_entry_id": "w_climb",
+      "ordinal": 5,
+      "phonetic_uk": "klaim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爬、攀登",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The tree is tall.",
+          "origin": "curated:g2u12-tree",
+          "zh": "树很高。"
+        }
+      ],
+      "headword": "tree",
+      "lexical_entry_id": "w_tree",
+      "ordinal": 6,
+      "phonetic_uk": "tri:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "树",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Cut the cake.",
+          "origin": "curated:u10-cut",
+          "zh": "把蛋糕切开。"
+        }
+      ],
+      "headword": "cut",
+      "lexical_entry_id": "w_cut",
+      "ordinal": 7,
+      "phonetic_uk": "kʌt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "切、剪",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the park.",
+          "origin": "curated:g2u12-park",
+          "zh": "我们在公园里。"
+        }
+      ],
+      "headword": "park",
+      "lexical_entry_id": "w_park",
+      "ordinal": 8,
+      "phonetic_uk": "pɑ:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Nice to meet you!",
+          "origin": "curated:u2-nice",
+          "zh": "很高兴见到你！"
+        }
+      ],
+      "headword": "nice",
+      "lexical_entry_id": "w_nice",
+      "ordinal": 9,
+      "phonetic_uk": "nais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very beautiful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常美丽。"
+        }
+      ],
+      "headword": "beautiful",
+      "lexical_entry_id": "w_beautiful",
+      "ordinal": 10,
+      "phonetic_uk": "'bju:tiful",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "美丽的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't cry, Danny.",
+          "origin": "curated:g2u12-cry",
+          "zh": "别哭，丹尼。"
+        }
+      ],
+      "headword": "cry",
+      "lexical_entry_id": "w_cry",
+      "ordinal": 11,
+      "phonetic_uk": "krai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哭",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The yak has long hair.",
+          "origin": "curated:g2u12-yak",
+          "zh": "牦牛有长长的毛。"
+        }
+      ],
+      "headword": "yak",
+      "lexical_entry_id": "w_yak",
+      "ordinal": 12,
+      "phonetic_uk": "jæk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "牦牛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The zebra is black and white.",
+          "origin": "curated:g2u12-zebra",
+          "zh": "斑马是黑白色的。"
+        }
+      ],
+      "headword": "zebra",
+      "lexical_entry_id": "w_zebra",
+      "ordinal": 13,
+      "phonetic_uk": "'zi:brə",
+      "phonetic_us": null,
+      "phonics_split": "zeb·ra",
+      "senses": [
+        {
+          "gloss": "斑马",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

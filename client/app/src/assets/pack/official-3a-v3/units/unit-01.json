@@ -1,0 +1,83 @@
+{
+  "title": "Hello!",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Hello! Hello, I'm Li Ming.",
+          "origin": "curated:u1-greet-intro",
+          "zh": "你好！你好，我是李明。"
+        }
+      ],
+      "headword": "hello",
+      "lexical_entry_id": "w_hello",
+      "ordinal": 1,
+      "phonetic_uk": "hə'ləu",
+      "phonetic_us": null,
+      "phonics_split": "hel·lo",
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "你好",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am a pupil. I am seven.",
+          "origin": "curated:u1-pron-i",
+          "zh": "我是小学生。我七岁。"
+        }
+      ],
+      "headword": "I",
+      "lexical_entry_id": "w_i",
+      "ordinal": 2,
+      "phonetic_uk": "ai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "🙋",
+          "gloss": "我",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Miss.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的失误, 避免, 失败, 小姐。"
+        },
+        {
+          "en": "I can see a Miss.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到失误, 避免, 失败, 小姐。"
+        }
+      ],
+      "headword": "Miss",
+      "lexical_entry_id": "w_miss",
+      "ordinal": 3,
+      "phonetic_uk": "mis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "失误, 避免, 失败, 小姐",
+          "pos": "n."
+        },
+        {
+          "gloss": "未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

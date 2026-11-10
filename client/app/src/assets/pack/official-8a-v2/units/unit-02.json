@@ -1,0 +1,831 @@
+{
+  "title": "Amazing numbers",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my flight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝。"
+        },
+        {
+          "en": "I can see a flight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝。"
+        }
+      ],
+      "headword": "flight",
+      "lexical_entry_id": "w_flight",
+      "ordinal": 1,
+      "phonetic_uk": "flait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝",
+          "pos": "n."
+        },
+        {
+          "gloss": "迁徙",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my schedule.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时间表, 一览表, 计划表, 议事日程。"
+        },
+        {
+          "en": "I can see a schedule.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时间表, 一览表, 计划表, 议事日程。"
+        }
+      ],
+      "headword": "schedule",
+      "lexical_entry_id": "w_schedule",
+      "ordinal": 2,
+      "phonetic_uk": "'skedʒuəl",
+      "phonetic_us": null,
+      "phonics_split": "sched·ule",
+      "senses": [
+        {
+          "gloss": "时间表, 一览表, 计划表, 议事日程",
+          "pos": "n."
+        },
+        {
+          "gloss": "预定, 编制目录, 制...表, 安排",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “everywhere”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“everywhere”。"
+        }
+      ],
+      "headword": "everywhere",
+      "lexical_entry_id": "w_everywhere",
+      "ordinal": 3,
+      "phonetic_uk": "'evrihwɛə",
+      "phonetic_us": null,
+      "phonics_split": "ev·ery·where",
+      "senses": [
+        {
+          "gloss": "各处, 到处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my challenge.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的挑战, 盘问。"
+        },
+        {
+          "en": "I can see a challenge.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到挑战, 盘问。"
+        }
+      ],
+      "headword": "challenge",
+      "lexical_entry_id": "w_challenge",
+      "ordinal": 4,
+      "phonetic_uk": "'tʃælindʒ",
+      "phonetic_us": null,
+      "phonics_split": "chal·lenge",
+      "senses": [
+        {
+          "gloss": "挑战, 盘问",
+          "pos": "n."
+        },
+        {
+          "gloss": "向...挑战, 要求, 怀疑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my prize.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奖赏, 奖金, 奖品, 战利品, 捕获。"
+        },
+        {
+          "en": "I can see a prize.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奖赏, 奖金, 奖品, 战利品, 捕获。"
+        }
+      ],
+      "headword": "prize",
+      "lexical_entry_id": "w_prize",
+      "ordinal": 5,
+      "phonetic_uk": "praiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奖赏, 奖金, 奖品, 战利品, 捕获",
+          "pos": "n."
+        },
+        {
+          "gloss": "得奖的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my promise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的诺言, 约定的事情, 有指望。"
+        },
+        {
+          "en": "I can see a promise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到诺言, 约定的事情, 有指望。"
+        }
+      ],
+      "headword": "promise",
+      "lexical_entry_id": "w_promise",
+      "ordinal": 6,
+      "phonetic_uk": "'prɒmis",
+      "phonetic_us": null,
+      "phonics_split": "prom·ise",
+      "senses": [
+        {
+          "gloss": "诺言, 约定的事情, 有指望",
+          "pos": "n."
+        },
+        {
+          "gloss": "允诺, 约定, 预示",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chessboard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的西洋象棋盘。"
+        },
+        {
+          "en": "I can see a chessboard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到西洋象棋盘。"
+        }
+      ],
+      "headword": "chessboard",
+      "lexical_entry_id": "w_chessboard",
+      "ordinal": 7,
+      "phonetic_uk": "'tʃesbɔːd",
+      "phonetic_us": null,
+      "phonics_split": "chess·board",
+      "senses": [
+        {
+          "gloss": "西洋象棋盘",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my silver.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的银, 银币, 银器。"
+        },
+        {
+          "en": "I can see a silver.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到银, 银币, 银器。"
+        }
+      ],
+      "headword": "silver",
+      "lexical_entry_id": "w_silver",
+      "ordinal": 8,
+      "phonetic_uk": "'silvə",
+      "phonetic_us": null,
+      "phonics_split": "sil·ver",
+      "senses": [
+        {
+          "gloss": "银, 银币, 银器",
+          "pos": "n."
+        },
+        {
+          "gloss": "银的, 银制的, 银器的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my reply.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的答复, 回答, 答辩。"
+        },
+        {
+          "en": "I can see a reply.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到答复, 回答, 答辩。"
+        }
+      ],
+      "headword": "reply",
+      "lexical_entry_id": "w_reply",
+      "ordinal": 9,
+      "phonetic_uk": "ri'plai",
+      "phonetic_us": null,
+      "phonics_split": "re·ply",
+      "senses": [
+        {
+          "gloss": "答复, 回答, 答辩",
+          "pos": "n."
+        },
+        {
+          "gloss": "答复, 回答, 回击, 反响, 答辩",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hesitation.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的犹豫, 踌躇, 含糊, 口吃, 暂停。"
+        },
+        {
+          "en": "I can see a hesitation.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到犹豫, 踌躇, 含糊, 口吃, 暂停。"
+        }
+      ],
+      "headword": "hesitation",
+      "lexical_entry_id": "w_hesitation",
+      "ordinal": 10,
+      "phonetic_uk": ".hezi'teiʃən",
+      "phonetic_us": null,
+      "phonics_split": "hes·i·ta·tion",
+      "senses": [
+        {
+          "gloss": "犹豫, 踌躇, 含糊, 口吃, 暂停",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wonder.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奇迹, 惊奇, 惊愕。"
+        },
+        {
+          "en": "I can see a wonder.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奇迹, 惊奇, 惊愕。"
+        }
+      ],
+      "headword": "wonder",
+      "lexical_entry_id": "w_wonder",
+      "ordinal": 11,
+      "phonetic_uk": "'wʌndə",
+      "phonetic_us": null,
+      "phonics_split": "won·der",
+      "senses": [
+        {
+          "gloss": "奇迹, 惊奇, 惊愕",
+          "pos": "n."
+        },
+        {
+          "gloss": "惊奇, 想知道",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can agree.",
+          "origin": "template:t-v-can",
+          "zh": "我会同意, 赞成, 应允, 适合。"
+        },
+        {
+          "en": "Let's agree together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起同意, 赞成, 应允, 适合吧。"
+        }
+      ],
+      "headword": "agree",
+      "lexical_entry_id": "w_agree",
+      "ordinal": 12,
+      "phonetic_uk": "ə'gri:",
+      "phonetic_us": null,
+      "phonics_split": "ag·ree",
+      "senses": [
+        {
+          "gloss": "同意, 赞成, 应允, 适合",
+          "pos": "vi."
+        },
+        {
+          "gloss": "承认, 认定, 同意",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my per cent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的每百中, 百分之..., (英)利息...厘的证券, (非正式)百分率。"
+        },
+        {
+          "en": "I can see a per cent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到每百中, 百分之..., (英)利息...厘的证券, (非正式)百分率。"
+        }
+      ],
+      "headword": "per cent",
+      "lexical_entry_id": "w_per_cent",
+      "ordinal": 13,
+      "phonetic_uk": "pə'sent",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "每百中, 百分之..., (英)利息...厘的证券, (非正式)百分率",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “currently”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“currently”。"
+        }
+      ],
+      "headword": "currently",
+      "lexical_entry_id": "w_currently",
+      "ordinal": 14,
+      "phonetic_uk": "'kʌrəntli",
+      "phonetic_us": null,
+      "phonics_split": "cur·rent·ly",
+      "senses": [
+        {
+          "gloss": "现在, 当前, 一般, 普通",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my check.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的检查, 支票, 阻止物, 寄物牌, 象棋中将军。"
+        },
+        {
+          "en": "I can see a check.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到检查, 支票, 阻止物, 寄物牌, 象棋中将军。"
+        }
+      ],
+      "headword": "check",
+      "lexical_entry_id": "w_check",
+      "ordinal": 15,
+      "phonetic_uk": "tʃek",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "检查, 支票, 阻止物, 寄物牌, 象棋中将军",
+          "pos": "n."
+        },
+        {
+          "gloss": "检查, 阻止, 核对, 寄存, 托运",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my budget.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的预算。"
+        },
+        {
+          "en": "I can see a budget.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到预算。"
+        }
+      ],
+      "headword": "budget",
+      "lexical_entry_id": "w_budget",
+      "ordinal": 16,
+      "phonetic_uk": "'bʌdʒit",
+      "phonetic_us": null,
+      "phonics_split": "bud·get",
+      "senses": [
+        {
+          "gloss": "预算",
+          "pos": "n."
+        },
+        {
+          "gloss": "编预算",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my province.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的省, 地方, 职权, 领域。"
+        },
+        {
+          "en": "I can see a province.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到省, 地方, 职权, 领域。"
+        }
+      ],
+      "headword": "province",
+      "lexical_entry_id": "w_province",
+      "ordinal": 17,
+      "phonetic_uk": "'prɒvins",
+      "phonetic_us": null,
+      "phonics_split": "prov·ince",
+      "senses": [
+        {
+          "gloss": "省, 地方, 职权, 领域",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “sharply”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“sharply”。"
+        }
+      ],
+      "headword": "sharply",
+      "lexical_entry_id": "w_sharply",
+      "ordinal": 18,
+      "phonetic_uk": "'ʃɑ:pli",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "锐利地, 严厉地, 厉害地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's count!",
+          "origin": "curated:u7-count",
+          "zh": "我们一起数吧！"
+        }
+      ],
+      "headword": "count",
+      "lexical_entry_id": "w_count",
+      "ordinal": 19,
+      "phonetic_uk": "kaunt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "数数",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my system.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的系统, 体系, 制度, 方式, 秩序, 分类原则。"
+        },
+        {
+          "en": "I can see a system.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到系统, 体系, 制度, 方式, 秩序, 分类原则。"
+        }
+      ],
+      "headword": "system",
+      "lexical_entry_id": "w_system",
+      "ordinal": 20,
+      "phonetic_uk": "'sistəm",
+      "phonetic_us": null,
+      "phonics_split": "sys·tem",
+      "senses": [
+        {
+          "gloss": "系统, 体系, 制度, 方式, 秩序, 分类原则",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my symbol.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的符号, 象征, 代号, 信条。"
+        },
+        {
+          "en": "I can see a symbol.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到符号, 象征, 代号, 信条。"
+        }
+      ],
+      "headword": "symbol",
+      "lexical_entry_id": "w_symbol",
+      "ordinal": 21,
+      "phonetic_uk": "'simbl",
+      "phonetic_us": null,
+      "phonics_split": "sym·bol",
+      "senses": [
+        {
+          "gloss": "符号, 象征, 代号, 信条",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can represent.",
+          "origin": "template:t-v-can",
+          "zh": "我会表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演。"
+        },
+        {
+          "en": "Let's represent together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演吧。"
+        }
+      ],
+      "headword": "represent",
+      "lexical_entry_id": "w_represent",
+      "ordinal": 22,
+      "phonetic_uk": ".repri'zent",
+      "phonetic_us": null,
+      "phonics_split": "rep·re·sent",
+      "senses": [
+        {
+          "gloss": "表现, 表示, 描绘, 讲述, 代表, 象征, 回忆, 再赠送, 再上演",
+          "pos": "vt."
+        },
+        {
+          "gloss": "提出异议",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “exactly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“exactly”。"
+        }
+      ],
+      "headword": "exactly",
+      "lexical_entry_id": "w_exactly",
+      "ordinal": 23,
+      "phonetic_uk": "i^'zæktli",
+      "phonetic_us": null,
+      "phonics_split": "ex·act·ly",
+      "senses": [
+        {
+          "gloss": "确切地, 精确地, 恰好, 完全地, 确实, 恰恰正是, 确实如此",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my flight schedule.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的航班时刻表。"
+        },
+        {
+          "en": "I can see a flight schedule.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到航班时刻表。"
+        }
+      ],
+      "headword": "flight schedule",
+      "lexical_entry_id": "w_flight_schedule",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "航班时刻表",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “price tag”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“price tag”。"
+        }
+      ],
+      "headword": "price tag",
+      "lexical_entry_id": "w_price_tag",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "价格标签",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “for a moment”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“for a moment”。"
+        }
+      ],
+      "headword": "for a moment",
+      "lexical_entry_id": "w_for_a_moment",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一会儿,片刻",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “without hesitation”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“without hesitation”。"
+        }
+      ],
+      "headword": "without hesitation",
+      "lexical_entry_id": "w_without_hesitation",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "毫不犹豫",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go up”。"
+        }
+      ],
+      "headword": "go up",
+      "lexical_entry_id": "w_go_up",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上升, 兴建",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go down”。"
+        }
+      ],
+      "headword": "go down",
+      "lexical_entry_id": "w_go_down",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下去, 下沉, 坠落, 被接受, 咽下, 平静下来, 下降, 传下去",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “write down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“write down”。"
+        }
+      ],
+      "headword": "write down",
+      "lexical_entry_id": "w_write_down",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "写下, 写文章贬低, 降低地位, 减低帐面价值",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “instead of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“instead of”。"
+        }
+      ],
+      "headword": "instead of",
+      "lexical_entry_id": "w_instead_of",
+      "ordinal": 31,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "代替",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "title": null,
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my mention.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的提到, 言及, 陈述。"
+        },
+        {
+          "en": "I can see a mention.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到提到, 言及, 陈述。"
+        }
+      ],
+      "headword": "mention",
+      "lexical_entry_id": "w_mention",
+      "ordinal": 1,
+      "phonetic_uk": "'menʃən",
+      "phonetic_us": null,
+      "phonics_split": "men·tion",
+      "senses": [
+        {
+          "gloss": "提到, 言及, 陈述",
+          "pos": "n."
+        },
+        {
+          "gloss": "提到, 提及",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tonight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的今晚, 今夜。"
+        },
+        {
+          "en": "I can see a tonight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到今晚, 今夜。"
+        }
+      ],
+      "headword": "tonight",
+      "lexical_entry_id": "w_tonight",
+      "ordinal": 2,
+      "phonetic_uk": "tə'nait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "今晚, 今夜",
+          "pos": "n."
+        },
+        {
+          "gloss": "今晚, 今夜",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very frightened.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常受惊吓的, 受惊的, (非正式)害怕...。"
+        }
+      ],
+      "headword": "frightened",
+      "lexical_entry_id": "w_frightened",
+      "ordinal": 3,
+      "phonetic_uk": "'frait(ə)nd",
+      "phonetic_us": null,
+      "phonics_split": "fright·ened",
+      "senses": [
+        {
+          "gloss": "受惊吓的, 受惊的, (非正式)害怕...的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my throat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的咽喉, 喉咙, 嗓音。"
+        },
+        {
+          "en": "I can see a throat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到咽喉, 喉咙, 嗓音。"
+        }
+      ],
+      "headword": "throat",
+      "lexical_entry_id": "w_throat",
+      "ordinal": 4,
+      "phonetic_uk": "θrəut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "咽喉, 喉咙, 嗓音",
+          "pos": "n."
+        },
+        {
+          "gloss": "用喉音说, 开沟于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cough.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的咳嗽。"
+        },
+        {
+          "en": "I can see a cough.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到咳嗽。"
+        }
+      ],
+      "headword": "cough",
+      "lexical_entry_id": "w_cough",
+      "ordinal": 5,
+      "phonetic_uk": "kɒf",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "咳嗽",
+          "pos": "n."
+        },
+        {
+          "gloss": "咳嗽",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的恐怖, 害怕, 担心。"
+        },
+        {
+          "en": "I can see a fear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到恐怖, 害怕, 担心。"
+        }
+      ],
+      "headword": "fear",
+      "lexical_entry_id": "w_fear",
+      "ordinal": 6,
+      "phonetic_uk": "fiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "恐怖, 害怕, 担心",
+          "pos": "n."
+        },
+        {
+          "gloss": "害怕, 恐惧, 为...担心, 敬畏",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my creature.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的人, 动物, 创造物, 生物。"
+        },
+        {
+          "en": "I can see a creature.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到人, 动物, 创造物, 生物。"
+        }
+      ],
+      "headword": "creature",
+      "lexical_entry_id": "w_creature",
+      "ordinal": 7,
+      "phonetic_uk": "'kri:tʃə",
+      "phonetic_us": null,
+      "phonics_split": "crea·ture",
+      "senses": [
+        {
+          "gloss": "人, 动物, 创造物, 生物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very ugly.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常丑陋的, 邪恶的, 险恶的, 不祥。"
+        }
+      ],
+      "headword": "ugly",
+      "lexical_entry_id": "w_ugly",
+      "ordinal": 8,
+      "phonetic_uk": "'ʌgli",
+      "phonetic_us": null,
+      "phonics_split": "ug·ly",
+      "senses": [
+        {
+          "gloss": "丑陋的, 邪恶的, 险恶的, 不祥的",
+          "pos": "a."
+        },
+        {
+          "gloss": "丑陋的人(或物)",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very crazy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常发狂的, 狂热。"
+        }
+      ],
+      "headword": "crazy",
+      "lexical_entry_id": "w_crazy",
+      "ordinal": 9,
+      "phonetic_uk": "'kreizi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发狂的, 狂热的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can refuse.",
+          "origin": "template:t-v-can",
+          "zh": "我会拒绝, 谢绝。"
+        },
+        {
+          "en": "Let's refuse together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起拒绝, 谢绝吧。"
+        }
+      ],
+      "headword": "refuse",
+      "lexical_entry_id": "w_refuse",
+      "ordinal": 10,
+      "phonetic_uk": "ri'fju:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拒绝, 谢绝",
+          "pos": "vt."
+        },
+        {
+          "gloss": "拒绝",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my emergency.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的紧急状况, 紧急事件, 紧急需要。"
+        },
+        {
+          "en": "I can see an emergency.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到紧急状况, 紧急事件, 紧急需要。"
+        }
+      ],
+      "headword": "emergency",
+      "lexical_entry_id": "w_emergency",
+      "ordinal": 11,
+      "phonetic_uk": "i'mə:dʒənsi",
+      "phonetic_us": null,
+      "phonics_split": "emer·gen·cy",
+      "senses": [
+        {
+          "gloss": "紧急状况, 紧急事件, 紧急需要",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my camera.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的照相机, 摄影机, 密谈室, 暗箱。"
+        },
+        {
+          "en": "I can see a camera.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到照相机, 摄影机, 密谈室, 暗箱。"
+        }
+      ],
+      "headword": "camera",
+      "lexical_entry_id": "w_camera",
+      "ordinal": 12,
+      "phonetic_uk": "'kæmərə",
+      "phonetic_us": null,
+      "phonics_split": "cam·era",
+      "senses": [
+        {
+          "gloss": "照相机, 摄影机, 密谈室, 暗箱",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的帐篷, 帷幕, 住处, 塞条, 塞子。"
+        },
+        {
+          "en": "I can see a tent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到帐篷, 帷幕, 住处, 塞条, 塞子。"
+        }
+      ],
+      "headword": "tent",
+      "lexical_entry_id": "w_tent",
+      "ordinal": 13,
+      "phonetic_uk": "tent",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "帐篷, 帷幕, 住处, 塞条, 塞子",
+          "pos": "n."
+        },
+        {
+          "gloss": "住帐蓬, 宿营, 暂时居住",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very unnecessary.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不必要。"
+        }
+      ],
+      "headword": "unnecessary",
+      "lexical_entry_id": "w_unnecessary",
+      "ordinal": 14,
+      "phonetic_uk": ".ʌn'nesəsəri",
+      "phonetic_us": null,
+      "phonics_split": "un·nec·es·sary",
+      "senses": [
+        {
+          "gloss": "不必要的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “whether”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“whether”。"
+        }
+      ],
+      "headword": "whether",
+      "lexical_entry_id": "w_whether",
+      "ordinal": 15,
+      "phonetic_uk": "'hweðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是否, 不论",
+          "pos": "conj."
+        },
+        {
+          "gloss": "两个中的哪一个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “backward”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“backward”。"
+        }
+      ],
+      "headword": "backward",
+      "lexical_entry_id": "w_backward",
+      "ordinal": 16,
+      "phonetic_uk": "'bækwəd",
+      "phonetic_us": null,
+      "phonics_split": "back·ward",
+      "senses": [
+        {
+          "gloss": "向后地, 相反地",
+          "pos": "adv."
+        },
+        {
+          "gloss": "向后的, 相反的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can disappoint.",
+          "origin": "template:t-v-can",
+          "zh": "我会使失望。"
+        },
+        {
+          "en": "Let's disappoint together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使失望吧。"
+        }
+      ],
+      "headword": "disappoint",
+      "lexical_entry_id": "w_disappoint",
+      "ordinal": 17,
+      "phonetic_uk": ".disə'pɒint",
+      "phonetic_us": null,
+      "phonics_split": "dis·ap·point",
+      "senses": [
+        {
+          "gloss": "使失望",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can argue.",
+          "origin": "template:t-v-can",
+          "zh": "我会提出理由, 争论, 辩论。"
+        },
+        {
+          "en": "Let's argue together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起提出理由, 争论, 辩论吧。"
+        }
+      ],
+      "headword": "argue",
+      "lexical_entry_id": "w_argue",
+      "ordinal": 18,
+      "phonetic_uk": "'ɑ:gju",
+      "phonetic_us": null,
+      "phonics_split": "ar·gue",
+      "senses": [
+        {
+          "gloss": "提出理由, 争论, 辩论",
+          "pos": "vi."
+        },
+        {
+          "gloss": "主张, 辩论, 证明, 说服",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “keep quiet”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“keep quiet”。"
+        }
+      ],
+      "headword": "keep quiet",
+      "lexical_entry_id": "w_keep_quiet",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "保持安静",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “because of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“because of”。"
+        }
+      ],
+      "headword": "because of",
+      "lexical_entry_id": "w_because_of",
+      "ordinal": 20,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "因为",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The mouse ran away in fear.",
+          "origin": "curated:g8b-in-fear",
+          "zh": "老鼠吓得逃走了。"
+        }
+      ],
+      "headword": "in fear",
+      "lexical_entry_id": "w_in_fear",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "恐惧地",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my landing site.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的着陆点。"
+        },
+        {
+          "en": "I can see a landing site.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到着陆点。"
+        }
+      ],
+      "headword": "landing site",
+      "lexical_entry_id": "w_landing_site",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "着陆点",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “agree with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“agree with”。"
+        }
+      ],
+      "headword": "agree with",
+      "lexical_entry_id": "w_agree_with",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "同意…,与…意见一致;适应…",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “disagree with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“disagree with”。"
+        }
+      ],
+      "headword": "disagree with",
+      "lexical_entry_id": "w_disagree_with",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不同意, 不一致, 不适合",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “move about”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“move about”。"
+        }
+      ],
+      "headword": "move about",
+      "lexical_entry_id": "w_move_about",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "走来走去, 经常搬家",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in all directions”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in all directions”。"
+        }
+      ],
+      "headword": "in all directions",
+      "lexical_entry_id": "w_in_all_directions",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "向四面八方, 向各方面",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “speed up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“speed up”。"
+        }
+      ],
+      "headword": "speed up",
+      "lexical_entry_id": "w_speed_up",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "加速",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

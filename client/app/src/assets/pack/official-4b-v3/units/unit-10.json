@@ -1,0 +1,236 @@
+{
+  "title": "My garden",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “every day”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“every day”。"
+        }
+      ],
+      "headword": "every day",
+      "lexical_entry_id": "w_every_day",
+      "ordinal": 1,
+      "phonetic_uk": "ˈevri dei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "每天; 日; 天天; 逐日",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my garden.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的花园, 果园, 菜园。"
+        },
+        {
+          "en": "I can see a garden.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到花园, 果园, 菜园。"
+        }
+      ],
+      "headword": "garden",
+      "lexical_entry_id": "w_garden",
+      "ordinal": 2,
+      "phonetic_uk": "'gɑ:dn",
+      "phonetic_us": null,
+      "phonics_split": "gar·den",
+      "senses": [
+        {
+          "gloss": "花园, 果园, 菜园",
+          "pos": "n."
+        },
+        {
+          "gloss": "栽培花木",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can grow.",
+          "origin": "template:t-v-can",
+          "zh": "我会种植, 使长满。"
+        },
+        {
+          "en": "Let's grow together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起种植, 使长满吧。"
+        }
+      ],
+      "headword": "grow",
+      "lexical_entry_id": "w_grow",
+      "ordinal": 3,
+      "phonetic_uk": "grəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种植, 使长满",
+          "pos": "vt."
+        },
+        {
+          "gloss": "生长, 变成, 发展",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my leaf.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的叶, 树叶, 花瓣, 页。"
+        },
+        {
+          "en": "I can see a leaf.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到叶, 树叶, 花瓣, 页。"
+        }
+      ],
+      "headword": "leaf",
+      "lexical_entry_id": "w_leaf",
+      "ordinal": 4,
+      "phonetic_uk": "li:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "叶, 树叶, 花瓣, 页",
+          "pos": "n."
+        },
+        {
+          "gloss": "生叶, 翻书页",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备。"
+        },
+        {
+          "en": "I can see a plant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备。"
+        }
+      ],
+      "headword": "plant",
+      "lexical_entry_id": "w_plant",
+      "ordinal": 5,
+      "phonetic_uk": "plænt. plɑ:nt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备",
+          "pos": "n."
+        },
+        {
+          "gloss": "种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my seed.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的种子, 籽, 萌芽, 子孙, 精液。"
+        },
+        {
+          "en": "I can see a seed.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到种子, 籽, 萌芽, 子孙, 精液。"
+        }
+      ],
+      "headword": "seed",
+      "lexical_entry_id": "w_seed",
+      "ordinal": 6,
+      "phonetic_uk": "si:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种子, 籽, 萌芽, 子孙, 精液",
+          "pos": "n."
+        },
+        {
+          "gloss": "在...播种, 催...发育, 脱...籽",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's help them.",
+          "origin": "curated:p-pron-them",
+          "zh": "让我们帮帮他们。"
+        }
+      ],
+      "headword": "them",
+      "lexical_entry_id": "w_them",
+      "ordinal": 7,
+      "phonetic_uk": "ðem",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他们, 她们, 它们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my water.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的水, 雨水, 海水, 水位, 水面, 流水。"
+        },
+        {
+          "en": "I can see a water.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到水, 雨水, 海水, 水位, 水面, 流水。"
+        }
+      ],
+      "headword": "water",
+      "lexical_entry_id": "w_water",
+      "ordinal": 8,
+      "phonetic_uk": "'wɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "wa·ter",
+      "senses": [
+        {
+          "gloss": "水, 雨水, 海水, 水位, 水面, 流水",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...浇水, 供以水, 注入水, 使湿",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

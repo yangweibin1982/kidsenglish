@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "bytes": 67698,
+      "path": "units/unit-01.json",
+      "sha256": "744d8f04b33924be64243bf761acb9ad8c10c81e78d85c110d08b180517654cb"
+    },
+    {
+      "bytes": 63996,
+      "path": "units/unit-02.json",
+      "sha256": "e8d306d25f6e05a9daff48a7944bee6b3e7654c7f4073b3f4142d843c36e8769"
+    },
+    {
+      "bytes": 53982,
+      "path": "units/unit-03.json",
+      "sha256": "4f38de2968de74364c56927675a0e17cc7c95ba35edb059a51813b9120c2c853"
+    },
+    {
+      "bytes": 59814,
+      "path": "units/unit-04.json",
+      "sha256": "50619e977578e8b005f86bd1e4d632a48ba967a9b0c2a6998f5a03bba1fee2b8"
+    },
+    {
+      "bytes": 53519,
+      "path": "units/unit-05.json",
+      "sha256": "10dd612c36e6ff8a5943fedf9f619b34a2b57059ed75a72008ca9e5946984024"
+    }
+  ],
+  "generated_at": "2026-11-08T14:40:17+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "高中",
+    "pack_id": 73,
+    "source": "official",
+    "term": "必修三",
+    "textbook_series": "人教版（2019年版）",
+    "version": 3
+  }
+}

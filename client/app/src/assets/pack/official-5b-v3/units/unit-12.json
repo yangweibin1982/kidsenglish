@@ -1,0 +1,213 @@
+{
+  "title": "The giant's garden",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We rest at the end of the day.",
+          "origin": "curated:g5b-u10-end-of",
+          "zh": "我们在一天结束时休息。"
+        }
+      ],
+      "headword": "at the end of",
+      "lexical_entry_id": "w_at_the_end_of",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在……末尾",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my giant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的巨人, 大力士, 巨大怪物。"
+        },
+        {
+          "en": "I can see a giant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到巨人, 大力士, 巨大怪物。"
+        }
+      ],
+      "headword": "giant",
+      "lexical_entry_id": "w_giant",
+      "ordinal": 2,
+      "phonetic_uk": "'dʒaiənt",
+      "phonetic_us": null,
+      "phonics_split": "gi·ant",
+      "senses": [
+        {
+          "gloss": "巨人, 大力士, 巨大怪物",
+          "pos": "n."
+        },
+        {
+          "gloss": "庞大的, 巨大的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wall.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的墙, 墙壁, 垣, 内壁, 分界物, 屏障。"
+        },
+        {
+          "en": "I can see a wall.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到墙, 墙壁, 垣, 内壁, 分界物, 屏障。"
+        }
+      ],
+      "headword": "wall",
+      "lexical_entry_id": "w_wall",
+      "ordinal": 3,
+      "phonetic_uk": "wɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "墙, 墙壁, 垣, 内壁, 分界物, 屏障",
+          "pos": "n."
+        },
+        {
+          "gloss": "墙的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kind.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的种类, 性质, 方式。"
+        },
+        {
+          "en": "I can see a kind.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到种类, 性质, 方式。"
+        }
+      ],
+      "headword": "kind",
+      "lexical_entry_id": "w_kind",
+      "ordinal": 4,
+      "phonetic_uk": "kaind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种类, 性质, 方式",
+          "pos": "n."
+        },
+        {
+          "gloss": "亲切的, 仁慈的, 和蔼的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “through”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“through”。"
+        }
+      ],
+      "headword": "through",
+      "lexical_entry_id": "w_through",
+      "ordinal": 5,
+      "phonetic_uk": "θru:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "穿越, 从头至尾, 到底, 因为",
+          "pos": "adv."
+        },
+        {
+          "gloss": "经过, 穿过",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The door says 'No entry'.",
+          "origin": "curated:g5b-u11-no-entry",
+          "zh": "门上写着「禁止进入」。"
+        }
+      ],
+      "headword": "no entry",
+      "lexical_entry_id": "w_no_entry",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "禁止进入",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Be kind to animals.",
+          "origin": "curated:g5b-u12-kind-to",
+          "zh": "对动物要友善。"
+        }
+      ],
+      "headword": "be kind to",
+      "lexical_entry_id": "w_be_kind_to",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "对……友善",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “knock down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“knock down”。"
+        }
+      ],
+      "headword": "knock down",
+      "lexical_entry_id": "w_knock_down",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "击倒, 拆卸, 拍卖出",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

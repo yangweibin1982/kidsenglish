@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "bytes": 3739,
+      "path": "units/unit-01.json",
+      "sha256": "04aa72489240e9bc791567e88722bc4bb9e1878e4dd12c492f2da720c030e8d4"
+    },
+    {
+      "bytes": 2549,
+      "path": "units/unit-02.json",
+      "sha256": "60ea9965613a8adc027ce7ea797cebea230d790e2aa6c8e0f9684316e031b27b"
+    },
+    {
+      "bytes": 4307,
+      "path": "units/unit-03.json",
+      "sha256": "6fcd58263248bb2eada13526bc75c09065e610070b597f8b31266ad9199f273f"
+    },
+    {
+      "bytes": 2598,
+      "path": "units/unit-04.json",
+      "sha256": "74fc02f54e8b3921a9086f9bfd4b3470de797cd9fb4b338bd1d6252a98510923"
+    },
+    {
+      "bytes": 4268,
+      "path": "units/unit-05.json",
+      "sha256": "1b72c02793130ec114d65e25e6bb327277d35c12a9833ba39f600348b2c3a9fa"
+    },
+    {
+      "bytes": 3557,
+      "path": "units/unit-06.json",
+      "sha256": "496818ba1493d9326e1f4abaa3a9a1572daca4044e7c26c94d549c1db78f3a78"
+    }
+  ],
+  "generated_at": "2026-11-08T03:22:19+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "1",
+    "pack_id": 37,
+    "source": "official",
+    "term": "上",
+    "textbook_series": "沪教牛津（深圳专版）",
+    "version": 6
+  }
+}

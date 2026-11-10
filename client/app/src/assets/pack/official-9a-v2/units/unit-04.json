@@ -1,0 +1,795 @@
+{
+  "title": "A better me",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my pressure.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的压, 榨, 按, 强制, 压力, 压迫, 压强。"
+        },
+        {
+          "en": "I can see a pressure.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到压, 榨, 按, 强制, 压力, 压迫, 压强。"
+        }
+      ],
+      "headword": "pressure",
+      "lexical_entry_id": "w_pressure",
+      "ordinal": 1,
+      "phonetic_uk": "'preʃə",
+      "phonetic_us": null,
+      "phonics_split": "pres·sure",
+      "senses": [
+        {
+          "gloss": "压, 榨, 按, 强制, 压力, 压迫, 压强",
+          "pos": "n."
+        },
+        {
+          "gloss": "迫使, 使增压, 密封",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very addicted.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常沉溺于...的, 无法摆脱(某种嗜好)。"
+        }
+      ],
+      "headword": "addicted",
+      "lexical_entry_id": "w_addicted",
+      "ordinal": 2,
+      "phonetic_uk": "ə'diktid",
+      "phonetic_us": null,
+      "phonics_split": "ad·dict·ed",
+      "senses": [
+        {
+          "gloss": "沉溺于...的, 无法摆脱(某种嗜好)的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can bullying.",
+          "origin": "template:t-v-can",
+          "zh": "我会恐吓, 威逼( bully的现在分词 ); 豪; 跋扈。"
+        },
+        {
+          "en": "Let's bullying together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起恐吓, 威逼( bully的现在分词 ); 豪; 跋扈吧。"
+        }
+      ],
+      "headword": "bullying",
+      "lexical_entry_id": "w_bullying",
+      "ordinal": 3,
+      "phonetic_uk": "ˈbuliŋ",
+      "phonetic_us": null,
+      "phonics_split": "bul·ly·ing",
+      "senses": [
+        {
+          "gloss": "恐吓, 威逼( bully的现在分词 ); 豪; 跋扈",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my charge.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令。"
+        },
+        {
+          "en": "I can see a charge.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令。"
+        }
+      ],
+      "headword": "charge",
+      "lexical_entry_id": "w_charge",
+      "ordinal": 4,
+      "phonetic_uk": "tʃɑ:dʒ",
+      "phonetic_us": null,
+      "phonics_split": "char·ge",
+      "senses": [
+        {
+          "gloss": "指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令",
+          "pos": "n."
+        },
+        {
+          "gloss": "控诉, 加罪于, 使充满, 使充电, 使承担",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very awful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常可怕的, 庄严的, 虔敬。"
+        }
+      ],
+      "headword": "awful",
+      "lexical_entry_id": "w_awful",
+      "ordinal": 5,
+      "phonetic_uk": "'ɔːful",
+      "phonetic_us": null,
+      "phonics_split": "aw·ful",
+      "senses": [
+        {
+          "gloss": "可怕的, 庄严的, 虔敬的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my focus.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的焦点, 焦距。"
+        },
+        {
+          "en": "I can see a focus.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到焦点, 焦距。"
+        }
+      ],
+      "headword": "focus",
+      "lexical_entry_id": "w_focus",
+      "ordinal": 6,
+      "phonetic_uk": "'fəukəs",
+      "phonetic_us": null,
+      "phonics_split": "fo·cus",
+      "senses": [
+        {
+          "gloss": "焦点, 焦距",
+          "pos": "n."
+        },
+        {
+          "gloss": "聚焦, 注视",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can affect.",
+          "origin": "template:t-v-can",
+          "zh": "我会影响, 感动, 假装, 模仿, 爱好, 倾向于。"
+        },
+        {
+          "en": "Let's affect together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起影响, 感动, 假装, 模仿, 爱好, 倾向于吧。"
+        }
+      ],
+      "headword": "affect",
+      "lexical_entry_id": "w_affect",
+      "ordinal": 7,
+      "phonetic_uk": "ə'fekt",
+      "phonetic_us": null,
+      "phonics_split": "af·fect",
+      "senses": [
+        {
+          "gloss": "影响, 感动, 假装, 模仿, 爱好, 倾向于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "自觉感情",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的憎恨, 恨, 厌恶。"
+        },
+        {
+          "en": "I can see a hate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到憎恨, 恨, 厌恶。"
+        }
+      ],
+      "headword": "hate",
+      "lexical_entry_id": "w_hate",
+      "ordinal": 8,
+      "phonetic_uk": "heit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "憎恨, 恨, 厌恶",
+          "pos": "n."
+        },
+        {
+          "gloss": "憎恨, 憎恶",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very embarrassed.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常尴尬的；窘迫。"
+        }
+      ],
+      "headword": "embarrassed",
+      "lexical_entry_id": "w_embarrassed",
+      "ordinal": 9,
+      "phonetic_uk": "im'bærəst",
+      "phonetic_us": null,
+      "phonics_split": "em·bar·rassed",
+      "senses": [
+        {
+          "gloss": "尴尬的；窘迫的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very mad.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常疯狂的, 发疯的, 生气的, 愚蠢的, 狂欢。"
+        }
+      ],
+      "headword": "mad",
+      "lexical_entry_id": "w_mad",
+      "ordinal": 10,
+      "phonetic_uk": "mæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "疯狂的, 发疯的, 生气的, 愚蠢的, 狂欢的",
+          "pos": "a."
+        },
+        {
+          "gloss": "狂怒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mess.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境。"
+        },
+        {
+          "en": "I can see a mess.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境。"
+        }
+      ],
+      "headword": "mess",
+      "lexical_entry_id": "w_mess",
+      "ordinal": 11,
+      "phonetic_uk": "mes",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境",
+          "pos": "n."
+        },
+        {
+          "gloss": "将...弄糟, 妨碍, 使紊乱, 使就餐",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my radio.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的无线电, 收音机, 无线电报, 无线电广播, 无线电台。"
+        },
+        {
+          "en": "I can see a radio.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到无线电, 收音机, 无线电报, 无线电广播, 无线电台。"
+        }
+      ],
+      "headword": "radio",
+      "lexical_entry_id": "w_radio",
+      "ordinal": 12,
+      "phonetic_uk": "'reidiəu",
+      "phonetic_us": null,
+      "phonics_split": "ra·dio",
+      "senses": [
+        {
+          "gloss": "无线电, 收音机, 无线电报, 无线电广播, 无线电台",
+          "pos": "n."
+        },
+        {
+          "gloss": "用无线电发送",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very ashamed.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常惭愧的, 羞耻。"
+        }
+      ],
+      "headword": "ashamed",
+      "lexical_entry_id": "w_ashamed",
+      "ordinal": 13,
+      "phonetic_uk": "ə'ʃeimd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "惭愧的, 羞耻的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can respond.",
+          "origin": "template:t-v-can",
+          "zh": "我会以...回答。"
+        },
+        {
+          "en": "Let's respond together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起以...回答吧。"
+        }
+      ],
+      "headword": "respond",
+      "lexical_entry_id": "w_respond",
+      "ordinal": 14,
+      "phonetic_uk": "ri'spɒnd",
+      "phonetic_us": null,
+      "phonics_split": "re·spond",
+      "senses": [
+        {
+          "gloss": "以...回答",
+          "pos": "vt."
+        },
+        {
+          "gloss": "回答, 响应, 回报, 有反应, 承担责任",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sympathy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的同情, 赞同, 怜悯, 慰问, 吊唁。"
+        },
+        {
+          "en": "I can see a sympathy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到同情, 赞同, 怜悯, 慰问, 吊唁。"
+        }
+      ],
+      "headword": "sympathy",
+      "lexical_entry_id": "w_sympathy",
+      "ordinal": 15,
+      "phonetic_uk": "'simpəθi",
+      "phonetic_us": null,
+      "phonics_split": "sym·pa·thy",
+      "senses": [
+        {
+          "gloss": "同情, 赞同, 怜悯, 慰问, 吊唁",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my section.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区。"
+        },
+        {
+          "en": "I can see a section.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区。"
+        }
+      ],
+      "headword": "section",
+      "lexical_entry_id": "w_section",
+      "ordinal": 16,
+      "phonetic_uk": "'sekʃən",
+      "phonetic_us": null,
+      "phonics_split": "sec·tion",
+      "senses": [
+        {
+          "gloss": "区段, 部分, 区域, 节, 截面, 处, 科, 区, 扇区",
+          "pos": "n."
+        },
+        {
+          "gloss": "把...分段, 把...切片",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my newspaper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的报纸。"
+        },
+        {
+          "en": "I can see a newspaper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到报纸。"
+        }
+      ],
+      "headword": "newspaper",
+      "lexical_entry_id": "w_newspaper",
+      "ordinal": 17,
+      "phonetic_uk": "'nju:z.peipə",
+      "phonetic_us": null,
+      "phonics_split": "news·pa·per",
+      "senses": [
+        {
+          "gloss": "报纸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can operate.",
+          "origin": "template:t-v-can",
+          "zh": "我会操作, 运转, 动手术, 活动。"
+        },
+        {
+          "en": "Let's operate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起操作, 运转, 动手术, 活动吧。"
+        }
+      ],
+      "headword": "operate",
+      "lexical_entry_id": "w_operate",
+      "ordinal": 18,
+      "phonetic_uk": "'ɒpəreit",
+      "phonetic_us": null,
+      "phonics_split": "op·er·ate",
+      "senses": [
+        {
+          "gloss": "操作, 运转, 动手术, 活动",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my helpline.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的热线服务电话。"
+        },
+        {
+          "en": "I can see a helpline.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到热线服务电话。"
+        }
+      ],
+      "headword": "helpline",
+      "lexical_entry_id": "w_helpline",
+      "ordinal": 19,
+      "phonetic_uk": "ˈhelplaɪn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "热线服务电话",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my click.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的咔哒声, 啪嗒声。"
+        },
+        {
+          "en": "I can see a click.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到咔哒声, 啪嗒声。"
+        }
+      ],
+      "headword": "click",
+      "lexical_entry_id": "w_click",
+      "ordinal": 20,
+      "phonetic_uk": "klik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "咔哒声, 啪嗒声",
+          "pos": "n."
+        },
+        {
+          "gloss": "作咔哒声",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't get addicted to games.",
+          "origin": "curated:g9a-addicted",
+          "zh": "不要沉迷游戏。"
+        }
+      ],
+      "headword": "get addicted to",
+      "lexical_entry_id": "w_get_addicted_to",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "沉迷于",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Who is in charge of the club?",
+          "origin": "curated:g9a-in-charge",
+          "zh": "谁负责这个社团？"
+        }
+      ],
+      "headword": "be in charge of",
+      "lexical_entry_id": "w_be_in_charge_of",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "负责",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “focus on”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“focus on”。"
+        }
+      ],
+      "headword": "focus on",
+      "lexical_entry_id": "w_focus_on",
+      "ordinal": 23,
+      "phonetic_uk": "ˈfəukəs ɔn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "致力于; 使聚焦于; 对（某事或做某事）予以注意; 把…作为兴趣中心",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The noise drives me mad.",
+          "origin": "curated:g9a-mad",
+          "zh": "噪音让我抓狂。"
+        }
+      ],
+      "headword": "drive somebody mad",
+      "lexical_entry_id": "w_drive_somebody_mad",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使某人抓狂",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't mess up your room.",
+          "origin": "curated:g9a-mess-up",
+          "zh": "别把房间搞乱。"
+        }
+      ],
+      "headword": "mess something up",
+      "lexical_entry_id": "w_mess_something_up",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "搞砸",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They hit it off at first.",
+          "origin": "curated:g9a-hit-off",
+          "zh": "他们一见如故。"
+        }
+      ],
+      "headword": "hit it off with somebody",
+      "lexical_entry_id": "w_hit_it_off_with_somebody",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "与某人投缘",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He fell out with his best friend.",
+          "origin": "curated:g9a-fall-out",
+          "zh": "他和挚友闹翻了。"
+        }
+      ],
+      "headword": "fall out with somebody",
+      "lexical_entry_id": "w_fall_out_with_somebody",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "与某人闹翻",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't feel ashamed of mistakes.",
+          "origin": "curated:g9a-ashamed",
+          "zh": "不要为错误感到羞愧。"
+        }
+      ],
+      "headword": "feel ashamed of",
+      "lexical_entry_id": "w_feel_ashamed_of",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "对……感到羞愧",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my advice column.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的（报刊上的）答读者问专栏, 答疑解惑专栏。"
+        },
+        {
+          "en": "I can see an advice column.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到（报刊上的）答读者问专栏, 答疑解惑专栏。"
+        }
+      ],
+      "headword": "advice column",
+      "lexical_entry_id": "w_advice_column",
+      "ordinal": 29,
+      "phonetic_uk": "ədˈvais ˈkɔləm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "（报刊上的）答读者问专栏, 答疑解惑专栏",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my agony aunt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的在读者来信专栏回答来信的人。"
+        },
+        {
+          "en": "I can see an agony aunt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到在读者来信专栏回答来信的人。"
+        }
+      ],
+      "headword": "agony aunt",
+      "lexical_entry_id": "w_agony_aunt",
+      "ordinal": 30,
+      "phonetic_uk": "ˈæɡəni ɑ:nt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在读者来信专栏回答来信的人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

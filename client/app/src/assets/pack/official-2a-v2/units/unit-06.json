@@ -1,0 +1,209 @@
+{
+  "title": "My hair is short",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "My hair is short.",
+          "origin": "curated:g2u6-hair",
+          "zh": "我的头发很短。"
+        }
+      ],
+      "headword": "hair",
+      "lexical_entry_id": "w_hair",
+      "ordinal": 1,
+      "phonetic_uk": "hɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头发",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my head.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的头。"
+        },
+        {
+          "en": "I can see a head.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到头。"
+        }
+      ],
+      "headword": "head",
+      "lexical_entry_id": "w_head",
+      "ordinal": 2,
+      "phonetic_uk": "hed",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What is your name?",
+          "origin": "curated:u3-pron-your",
+          "zh": "你叫什么名字？"
+        }
+      ],
+      "headword": "your",
+      "lexical_entry_id": "w_your",
+      "ordinal": 3,
+      "phonetic_uk": "juə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你的、你们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very long.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常长。"
+        }
+      ],
+      "headword": "long",
+      "lexical_entry_id": "w_long",
+      "ordinal": 4,
+      "phonetic_uk": "lɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "长的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can run now.",
+          "origin": "curated:g2u6-now",
+          "zh": "我现在会跑了。"
+        }
+      ],
+      "headword": "now",
+      "lexical_entry_id": "w_now",
+      "ordinal": 5,
+      "phonetic_uk": "nau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "现在",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look! A panda!",
+          "origin": "curated:u3-look",
+          "zh": "看！一只熊猫！"
+        }
+      ],
+      "headword": "look",
+      "lexical_entry_id": "w_look",
+      "ordinal": 6,
+      "phonetic_uk": "luk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at the kangaroo!",
+          "origin": "curated:g2u6-kangaroo",
+          "zh": "看那只袋鼠！"
+        }
+      ],
+      "headword": "kangaroo",
+      "lexical_entry_id": "w_kangaroo",
+      "ordinal": 7,
+      "phonetic_uk": ".kæŋgə'ru:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "袋鼠",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The lion has long hair.",
+          "origin": "curated:g2u6-lion",
+          "zh": "狮子有长长的毛。"
+        }
+      ],
+      "headword": "lion",
+      "lexical_entry_id": "w_lion",
+      "ordinal": 8,
+      "phonetic_uk": "'laiən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狮子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He has a big box.",
+          "origin": "curated:g2u6-has",
+          "zh": "他有一个大箱子。"
+        }
+      ],
+      "headword": "has",
+      "lexical_entry_id": "w_has",
+      "ordinal": 9,
+      "phonetic_uk": "hæz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

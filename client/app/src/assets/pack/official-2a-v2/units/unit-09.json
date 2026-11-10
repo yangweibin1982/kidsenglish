@@ -1,0 +1,219 @@
+{
+  "title": "Dinner is ready",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Dinner is ready!",
+          "origin": "curated:g2u9-dinner",
+          "zh": "晚饭好了！"
+        }
+      ],
+      "headword": "dinner",
+      "lexical_entry_id": "w_dinner",
+      "ordinal": 1,
+      "phonetic_uk": "'dinə",
+      "phonetic_us": null,
+      "phonics_split": "din·ner",
+      "senses": [
+        {
+          "gloss": "晚餐、正餐",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am ready!",
+          "origin": "curated:g2u9-ready",
+          "zh": "我准备好了！"
+        }
+      ],
+      "headword": "ready",
+      "lexical_entry_id": "w_ready",
+      "ordinal": 2,
+      "phonetic_uk": "'redi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "准备好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的盘子。"
+        },
+        {
+          "en": "I can see a plate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到盘子。"
+        }
+      ],
+      "headword": "plate",
+      "lexical_entry_id": "w_plate",
+      "ordinal": 3,
+      "phonetic_uk": "pleit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "盘子、碟子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The chopsticks are long.",
+          "origin": "curated:g2u9-chopsticks",
+          "zh": "筷子很长。"
+        }
+      ],
+      "headword": "chopsticks",
+      "lexical_entry_id": "w_chopsticks",
+      "ordinal": 4,
+      "phonetic_uk": "'tʃɒpstiks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "筷子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bowl.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的碗。"
+        },
+        {
+          "en": "I can see a bowl.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到碗。"
+        }
+      ],
+      "headword": "bowl",
+      "lexical_entry_id": "w_bowl",
+      "ordinal": 5,
+      "phonetic_uk": "bəul",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "碗",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my spoon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的勺子。"
+        },
+        {
+          "en": "I can see a spoon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到勺子。"
+        }
+      ],
+      "headword": "spoon",
+      "lexical_entry_id": "w_spoon",
+      "ordinal": 6,
+      "phonetic_uk": "spu:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "勺子、调羹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at the queen bee!",
+          "origin": "curated:g2u9-queen-bee",
+          "zh": "看那只蜂王！"
+        }
+      ],
+      "headword": "queen bee",
+      "lexical_entry_id": "w_queen_bee",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蜂王",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The birds fly around.",
+          "origin": "curated:g2u9-fly-around",
+          "zh": "鸟儿飞来飞去。"
+        }
+      ],
+      "headword": "fly around",
+      "lexical_entry_id": "w_fly_around",
+      "ordinal": 8,
+      "phonetic_uk": "flai əˈraund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "飞来飞去",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We run around.",
+          "origin": "curated:g2u9-run-around",
+          "zh": "我们跑来跑去。"
+        }
+      ],
+      "headword": "run around",
+      "lexical_entry_id": "w_run_around",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跑来跑去",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "title": "Fire",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can burn.",
+          "origin": "template:t-v-can",
+          "zh": "我会烧, 烧毁, 烧伤。"
+        },
+        {
+          "en": "Let's burn together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起烧, 烧毁, 烧伤吧。"
+        }
+      ],
+      "headword": "burn",
+      "lexical_entry_id": "w_burn",
+      "ordinal": 1,
+      "phonetic_uk": "bə:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "烧, 烧毁, 烧伤",
+          "pos": "vt."
+        },
+        {
+          "gloss": "燃烧, 发热, 烧毁",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “burn down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“burn down”。"
+        }
+      ],
+      "headword": "burn down",
+      "lexical_entry_id": "w_burn_down",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "烧成平地, 火力减弱",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very careful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常小心的, 谨慎。"
+        }
+      ],
+      "headword": "careful",
+      "lexical_entry_id": "w_careful",
+      "ordinal": 3,
+      "phonetic_uk": "'kɛəful",
+      "phonetic_us": null,
+      "phonics_split": "care·ful",
+      "senses": [
+        {
+          "gloss": "小心的, 谨慎的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be careful with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be careful with”。"
+        }
+      ],
+      "headword": "be careful with",
+      "lexical_entry_id": "w_be_careful_with",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "当心,注意,节省,对…十分仔细,对…精打细算",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fire.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情。"
+        },
+        {
+          "en": "I can see a fire.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情。"
+        }
+      ],
+      "headword": "fire",
+      "lexical_entry_id": "w_fire",
+      "ordinal": 5,
+      "phonetic_uk": "'faiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情",
+          "pos": "n."
+        },
+        {
+          "gloss": "点燃, 烧制, 使发光, 激动, 放枪, 解雇",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的憎恨, 恨, 厌恶。"
+        },
+        {
+          "en": "I can see a hate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到憎恨, 恨, 厌恶。"
+        }
+      ],
+      "headword": "hate",
+      "lexical_entry_id": "w_hate",
+      "ordinal": 6,
+      "phonetic_uk": "heit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "憎恨, 恨, 厌恶",
+          "pos": "n."
+        },
+        {
+          "gloss": "憎恨, 憎恶",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my heat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的热, 热度, 体温, 高潮。"
+        },
+        {
+          "en": "I can see a heat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到热, 热度, 体温, 高潮。"
+        }
+      ],
+      "headword": "heat",
+      "lexical_entry_id": "w_heat",
+      "ordinal": 7,
+      "phonetic_uk": "hi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "热, 热度, 体温, 高潮",
+          "pos": "n."
+        },
+        {
+          "gloss": "加热, 激昂, 加剧",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hurt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的伤害, 创伤, 损害。"
+        },
+        {
+          "en": "I can see a hurt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到伤害, 创伤, 损害。"
+        }
+      ],
+      "headword": "hurt",
+      "lexical_entry_id": "w_hurt",
+      "ordinal": 8,
+      "phonetic_uk": "hə:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "伤害, 创伤, 损害",
+          "pos": "n."
+        },
+        {
+          "gloss": "伤害, (使)伤心, 危害, 刺痛",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my match.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比赛, 火柴, 对手。"
+        },
+        {
+          "en": "I can see a match.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比赛, 火柴, 对手。"
+        }
+      ],
+      "headword": "match",
+      "lexical_entry_id": "w_match",
+      "ordinal": 9,
+      "phonetic_uk": "mætʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "比赛, 火柴, 对手",
+          "pos": "n."
+        },
+        {
+          "gloss": "使相配, 使比赛, 与...竞争",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my must.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的必须, 未发酵葡萄汁, 绝对必要的事物。"
+        },
+        {
+          "en": "I can see a must.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到必须, 未发酵葡萄汁, 绝对必要的事物。"
+        }
+      ],
+      "headword": "must",
+      "lexical_entry_id": "w_must",
+      "ordinal": 10,
+      "phonetic_uk": "mʌst",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "必须, 未发酵葡萄汁, 绝对必要的事物",
+          "pos": "n."
+        },
+        {
+          "gloss": "必须",
+          "pos": "aux."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “not at all”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“not at all”。"
+        }
+      ],
+      "headword": "not at all",
+      "lexical_entry_id": "w_not_at_all",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一点也不",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my safety.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的安全, 保险, 平安, 保安设备。"
+        },
+        {
+          "en": "I can see a safety.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到安全, 保险, 平安, 保安设备。"
+        }
+      ],
+      "headword": "safety",
+      "lexical_entry_id": "w_safety",
+      "ordinal": 12,
+      "phonetic_uk": "'seifti",
+      "phonetic_us": null,
+      "phonics_split": "safe·ty",
+      "senses": [
+        {
+          "gloss": "安全, 保险, 平安, 保安设备",
+          "pos": "n."
+        },
+        {
+          "gloss": "保护, 防护",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my smoke.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的烟, 雾气, 烟熏剂, 抽烟, 烟色。"
+        },
+        {
+          "en": "I can see a smoke.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到烟, 雾气, 烟熏剂, 抽烟, 烟色。"
+        }
+      ],
+      "headword": "smoke",
+      "lexical_entry_id": "w_smoke",
+      "ordinal": 13,
+      "phonetic_uk": "sməuk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "烟, 雾气, 烟熏剂, 抽烟, 烟色",
+          "pos": "n."
+        },
+        {
+          "gloss": "吸烟, 冒烟, 弥漫",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

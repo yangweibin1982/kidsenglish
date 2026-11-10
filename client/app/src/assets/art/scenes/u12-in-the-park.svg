@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U12 In the park 情景图样张：公园里孩子牵着四只颜色气球">
+  <!--
+    战机英语美术样张 · U12「In the park」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed112, bf0.035, oct3, scale5) + ke-crayon(seed212, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed312, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 112 / crayon 212 / papergrain 312。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；气球＝小物件圈，
+    半径≈气球 r+14，随球定位）。孩子为无圈锚点角色（同 U5「me」定案）。
+    代表词：red / blue / yellow / green（四色气球各领一词；colour 为上位词不单独设圈）。
+    热点坐标（内容域票接词包配置用）：red=(555,248,38) blue=(640,218,38) yellow=(735,265,38) green=(812,333,36)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="112" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="212" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="312"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 天空 + 草地 -->
+    <rect x="0" y="0" width="900" height="382" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="375" width="900" height="185" fill="#8FBE6E" opacity="0.28" filter="url(#ke-crayon)"/>
+    <path d="M-10,384 Q210,374 450,382 T910,379 L910,570 L-10,570 Z" fill="#8FBE6E" opacity="0.18" filter="url(#ke-crayon)"/>
+
+    <!-- 太阳与云 -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="790" cy="84" r="25" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="790" y1="51" x2="789" y2="42"/><line x1="790" y1="117" x2="791" y2="126"/>
+        <line x1="757" y1="84" x2="748" y2="85"/><line x1="823" y1="84" x2="832" y2="83"/>
+      </g>
+      <g fill="#FFF9EC" opacity="0.85">
+        <circle cx="336" cy="88" r="14"/><circle cx="358" cy="81" r="18"/><circle cx="380" cy="89" r="13"/>
+        <rect x="324" y="86" width="66" height="16" rx="8"/>
+      </g>
+    </g>
+
+    <!-- 大树（左） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="125" cy="494" rx="48" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="112" y="360" width="26" height="130" rx="6" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="125" cy="318" r="52" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="82" cy="352" r="36" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="168" cy="352" r="36" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+    </g>
+
+    <!-- 公园长椅（中景，脚线 y≈518） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="425" cy="521" rx="82" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="368" y="481" width="12" height="37" rx="5" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="470" y="481" width="12" height="37" rx="5" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="372" y="440" width="10" height="26" rx="4" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="458" y="440" width="10" height="26" rx="4" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="360" y="428" width="130" height="13" rx="6" fill="#D9A05B" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="355" y="466" width="140" height="15" rx="7" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+    </g>
+
+    <!-- 四色气球＋牵绳（代表词载体；绳从孩子右手出） -->
+    <g filter="url(#ke-crayon)">
+      <g stroke="#7A5A3D" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.55">
+        <path d="M682,428 Q628,372 556,276"/>
+        <path d="M682,428 Q664,344 641,246"/>
+        <path d="M682,428 Q716,366 734,293"/>
+        <path d="M682,428 Q760,398 811,360"/>
+      </g>
+      <ellipse cx="547" cy="236" rx="6" ry="9" fill="#FFF9EC" opacity="0.5" transform="rotate(-20 547 236)"/>
+      <circle cx="555" cy="245" r="24" fill="#D96843" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M550,274 L560,274 L555,266 Z" fill="#D96843" stroke="#7A5A3D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="632" cy="206" rx="6" ry="9" fill="#FFF9EC" opacity="0.5" transform="rotate(-20 632 206)"/>
+      <circle cx="640" cy="215" r="24" fill="#5B9BB5" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M635,244 L645,244 L640,236 Z" fill="#5B9BB5" stroke="#7A5A3D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="727" cy="253" rx="6" ry="9" fill="#FFF9EC" opacity="0.5" transform="rotate(-20 727 253)"/>
+      <circle cx="735" cy="262" r="24" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M730,291 L740,291 L735,283 Z" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2" stroke-linejoin="round"/>
+      <ellipse cx="804" cy="321" rx="6" ry="9" fill="#FFF9EC" opacity="0.5" transform="rotate(-20 804 321)"/>
+      <circle cx="812" cy="330" r="23" fill="#8FBE6E" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M807,358 L817,358 L812,350 Z" fill="#8FBE6E" stroke="#7A5A3D" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+
+    <!-- 牵气球的孩子（锚点角色，无圈；票 18 站姿儿童几何，脚线 546） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="640" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="612" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="654" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="606" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="654" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="614" y="447" width="52" height="64" rx="20" fill="#5B9BB5" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M618,460 Q604,478 608,500" stroke="#7A5A3D" stroke-width="15" fill="none" stroke-linecap="round"/>
+      <path d="M618,460 Q604,478 608,500" stroke="#5B9BB5" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <path d="M662,460 Q676,444 682,428" stroke="#7A5A3D" stroke-width="15" fill="none" stroke-linecap="round"/>
+      <path d="M662,460 Q676,444 682,428" stroke="#5B9BB5" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <circle cx="640" cy="423" r="28" fill="#F2D6B4" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M613,417 Q613,400 626,395 L623,385 L634,392 L639,382 L645,391 L653,384 L655,394 Q666,400 667,417 Q640,407 613,417 Z" fill="#4A3A2A" opacity="0.9"/>
+      <circle cx="630" cy="421" r="2.8" fill="#4A3A2A"/><circle cx="650" cy="421" r="2.8" fill="#4A3A2A"/>
+      <path d="M621,430 l7,-3 M659,430 l-7,-3" stroke="#E8764F" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+      <path d="M632,432 Q640,439 648,432" stroke="#7A5A3D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- 地面轻细节：小花×3＋草叶两组（公园＝颜色主题呼应） -->
+    <g filter="url(#ke-crayon)">
+      <line x1="280" y1="545" x2="280" y2="522" stroke="#5C9968" stroke-width="3" stroke-linecap="round"/>
+      <g fill="#E8764F" opacity="0.85">
+        <circle cx="280" cy="511" r="5"/><circle cx="272" cy="517" r="5"/><circle cx="288" cy="517" r="5"/>
+        <circle cx="275" cy="528" r="5"/><circle cx="285" cy="528" r="5"/>
+      </g>
+      <circle cx="280" cy="520" r="4" fill="#F0C05A"/>
+      <line x1="330" y1="556" x2="330" y2="546" stroke="#5C9968" stroke-width="3" stroke-linecap="round"/>
+      <g fill="#F0C05A" opacity="0.85">
+        <circle cx="330" cy="533" r="5"/><circle cx="322" cy="539" r="5"/><circle cx="338" cy="539" r="5"/>
+        <circle cx="325" cy="550" r="5"/><circle cx="335" cy="550" r="5"/>
+      </g>
+      <circle cx="330" cy="542" r="4" fill="#E8764F"/>
+      <line x1="520" y1="552" x2="520" y2="540" stroke="#5C9968" stroke-width="3" stroke-linecap="round"/>
+      <g fill="#E8764F" opacity="0.85">
+        <circle cx="520" cy="530" r="4.5"/><circle cx="513" cy="535" r="4.5"/><circle cx="527" cy="535" r="4.5"/>
+        <circle cx="515" cy="545" r="4.5"/><circle cx="525" cy="545" r="4.5"/>
+      </g>
+      <circle cx="520" cy="538" r="3.5" fill="#FFF9EC"/>
+      <path d="M238,552 q8,-10 16,0 M570,550 q8,-9 16,0" stroke="#5C9968" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（气球小物件圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="555" cy="248" r="38"/>
+      <circle cx="640" cy="218" r="38"/>
+      <circle cx="735" cy="265" r="38"/>
+      <circle cx="812" cy="333" r="36"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 12 · In the park</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="530" y="292" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="555" y="310" fill="#FFF9EC">red</text>
+    <rect x="615" y="262" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="640" y="280" fill="#FFF9EC">blue</text>
+    <rect x="696" y="312" width="78" height="26" rx="13" fill="#7A5A3D"/><text x="735" y="330" fill="#FFF9EC">yellow</text>
+    <rect x="776" y="376" width="72" height="26" rx="13" fill="#7A5A3D"/><text x="812" y="394" fill="#FFF9EC">green</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

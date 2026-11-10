@@ -1,0 +1,245 @@
+{
+  "title": "Open day",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my meet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的会, 集会。"
+        },
+        {
+          "en": "I can see a meet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到会, 集会。"
+        }
+      ],
+      "headword": "meet",
+      "lexical_entry_id": "w_meet",
+      "ordinal": 1,
+      "phonetic_uk": "mi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "会, 集会",
+          "pos": "n."
+        },
+        {
+          "gloss": "适宜的, 合适的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Meet me at the school gate.",
+          "origin": "curated:g5b-u7-school-gate",
+          "zh": "在校门口等我。"
+        }
+      ],
+      "headword": "school gate",
+      "lexical_entry_id": "w_school_gate",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "校门口",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We draw in the art room.",
+          "origin": "curated:g5b-u7-art-room",
+          "zh": "我们在美术室画画。"
+        }
+      ],
+      "headword": "art room",
+      "lexical_entry_id": "w_art_room",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "美术室",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hall.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的门厅, 走廊, 会堂。"
+        },
+        {
+          "en": "I can see a hall.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到门厅, 走廊, 会堂。"
+        }
+      ],
+      "headword": "hall",
+      "lexical_entry_id": "w_hall",
+      "ordinal": 4,
+      "phonetic_uk": "hɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "门厅, 走廊, 会堂",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “finally”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“finally”。"
+        }
+      ],
+      "headword": "finally",
+      "lexical_entry_id": "w_finally",
+      "ordinal": 5,
+      "phonetic_uk": "'fainəli",
+      "phonetic_us": null,
+      "phonics_split": "fi·nal·ly",
+      "senses": [
+        {
+          "gloss": "最后, 终于",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The meeting room is big.",
+          "origin": "curated:g5b-u7-meeting-room",
+          "zh": "会议室很大。"
+        }
+      ],
+      "headword": "meeting room",
+      "lexical_entry_id": "w_meeting_room",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "会议室",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my show.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相。"
+        },
+        {
+          "en": "I can see a show.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相。"
+        }
+      ],
+      "headword": "show",
+      "lexical_entry_id": "w_show",
+      "ordinal": 7,
+      "phonetic_uk": "ʃəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相",
+          "pos": "n."
+        },
+        {
+          "gloss": "表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my project.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的计划, 设计, 事业。"
+        },
+        {
+          "en": "I can see a project.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到计划, 设计, 事业。"
+        }
+      ],
+      "headword": "project",
+      "lexical_entry_id": "w_project",
+      "ordinal": 8,
+      "phonetic_uk": "'prɒdʒekt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "计划, 设计, 事业",
+          "pos": "n."
+        },
+        {
+          "gloss": "计划, 设计, 投掷, 发射, 使凸出, 放映",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my board.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的木板, 甲板, 膳食, 会议桌。"
+        },
+        {
+          "en": "I can see a board.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到木板, 甲板, 膳食, 会议桌。"
+        }
+      ],
+      "headword": "board",
+      "lexical_entry_id": "w_board",
+      "ordinal": 9,
+      "phonetic_uk": "bɔːd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "木板, 甲板, 膳食, 会议桌",
+          "pos": "n."
+        },
+        {
+          "gloss": "乘船, 供膳食, 用板覆盖",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

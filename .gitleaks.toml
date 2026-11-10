@@ -1,0 +1,11 @@
+# gitleaks 仓库豁免（本仓纪律：仅 commit/文件精确锚定，禁 path 宽放——票 30 定案）
+# 豁免面＝历史误提交的 Edge profile 运行态（票 20，aad4fcb 已 gitignore，仅存历史）。
+# 历史改写会打断台账哈希锚点故不做，靠精确锚定豁免。
+title = "kidsenglish gitleaks allowlist"
+
+[allowlist]
+  description = "票 20 历史误提交 Edge profile（精确目录锚定）"
+  commits = []
+  paths = [
+    '''(?i)\.squad/.*\.edge-tmp/''',
+  ]

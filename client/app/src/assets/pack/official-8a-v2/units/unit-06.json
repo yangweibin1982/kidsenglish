@@ -1,0 +1,901 @@
+{
+  "title": "Wisdom counts",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my author.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的作家, 作家的著作, 创始人。"
+        },
+        {
+          "en": "I can see an author.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到作家, 作家的著作, 创始人。"
+        }
+      ],
+      "headword": "author",
+      "lexical_entry_id": "w_author",
+      "ordinal": 1,
+      "phonetic_uk": "'ɔːθə",
+      "phonetic_us": null,
+      "phonics_split": "au·thor",
+      "senses": [
+        {
+          "gloss": "作家, 作家的著作, 创始人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my remains.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的剩余物, 废墟, 残余。"
+        },
+        {
+          "en": "I can see a remains.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到剩余物, 废墟, 残余。"
+        }
+      ],
+      "headword": "remains",
+      "lexical_entry_id": "w_remains",
+      "ordinal": 2,
+      "phonetic_uk": "ri'meins",
+      "phonetic_us": null,
+      "phonics_split": "re·mains",
+      "senses": [
+        {
+          "gloss": "剩余物, 废墟, 残余",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can locate.",
+          "origin": "template:t-v-can",
+          "zh": "我会找出, 设于, 位于。"
+        },
+        {
+          "en": "Let's locate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起找出, 设于, 位于吧。"
+        }
+      ],
+      "headword": "locate",
+      "lexical_entry_id": "w_locate",
+      "ordinal": 3,
+      "phonetic_uk": "'ləukeit",
+      "phonetic_us": null,
+      "phonics_split": "lo·cate",
+      "senses": [
+        {
+          "gloss": "找出, 设于, 位于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "定居",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my soldier.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的军人, 士兵, 兵蚁。"
+        },
+        {
+          "en": "I can see a soldier.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到军人, 士兵, 兵蚁。"
+        }
+      ],
+      "headword": "soldier",
+      "lexical_entry_id": "w_soldier",
+      "ordinal": 4,
+      "phonetic_uk": "'səuldʒə",
+      "phonetic_us": null,
+      "phonics_split": "sol·dier",
+      "senses": [
+        {
+          "gloss": "军人, 士兵, 兵蚁",
+          "pos": "n."
+        },
+        {
+          "gloss": "从军, 尽职, 偷懒, 磨洋工",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my captain.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的船长, 指挥官, 海军上校, 首领。"
+        },
+        {
+          "en": "I can see a captain.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到船长, 指挥官, 海军上校, 首领。"
+        }
+      ],
+      "headword": "captain",
+      "lexical_entry_id": "w_captain",
+      "ordinal": 5,
+      "phonetic_uk": "'kæptin",
+      "phonetic_us": null,
+      "phonics_split": "cap·tain",
+      "senses": [
+        {
+          "gloss": "船长, 指挥官, 海军上校, 首领",
+          "pos": "n."
+        },
+        {
+          "gloss": "率领, 指挥",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very empty.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常空的, 空虚的, 空腹的, 空洞。"
+        }
+      ],
+      "headword": "empty",
+      "lexical_entry_id": "w_empty",
+      "ordinal": 6,
+      "phonetic_uk": "'empti",
+      "phonetic_us": null,
+      "phonics_split": "emp·ty",
+      "senses": [
+        {
+          "gloss": "空的, 空虚的, 空腹的, 空洞的",
+          "pos": "a."
+        },
+        {
+          "gloss": "空的东西, 空车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my victory.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胜利, 战胜, 克服。"
+        },
+        {
+          "en": "I can see a victory.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胜利, 战胜, 克服。"
+        }
+      ],
+      "headword": "victory",
+      "lexical_entry_id": "w_victory",
+      "ordinal": 7,
+      "phonetic_uk": "'viktəri",
+      "phonetic_us": null,
+      "phonics_split": "vic·to·ry",
+      "senses": [
+        {
+          "gloss": "胜利, 战胜, 克服",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my joke.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的笑话, 玩笑, 笑柄。"
+        },
+        {
+          "en": "I can see a joke.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到笑话, 玩笑, 笑柄。"
+        }
+      ],
+      "headword": "joke",
+      "lexical_entry_id": "w_joke",
+      "ordinal": 8,
+      "phonetic_uk": "dʒəuk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "笑话, 玩笑, 笑柄",
+          "pos": "n."
+        },
+        {
+          "gloss": "开玩笑, 取笑, 作弄",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my midnight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的午夜, 子夜, 半夜。"
+        },
+        {
+          "en": "I can see a midnight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到午夜, 子夜, 半夜。"
+        }
+      ],
+      "headword": "midnight",
+      "lexical_entry_id": "w_midnight",
+      "ordinal": 9,
+      "phonetic_uk": "'midnait",
+      "phonetic_us": null,
+      "phonics_split": "mid·night",
+      "senses": [
+        {
+          "gloss": "午夜, 子夜, 半夜",
+          "pos": "n."
+        },
+        {
+          "gloss": "午夜的, 半夜的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can except.",
+          "origin": "template:t-v-can",
+          "zh": "我会除, 除外。"
+        },
+        {
+          "en": "Let's except together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起除, 除外吧。"
+        }
+      ],
+      "headword": "except",
+      "lexical_entry_id": "w_except",
+      "ordinal": 10,
+      "phonetic_uk": "ik'sept",
+      "phonetic_us": null,
+      "phonics_split": "ex·cept",
+      "senses": [
+        {
+          "gloss": "除, 除外",
+          "pos": "vt."
+        },
+        {
+          "gloss": "反对",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hide.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的兽皮, 迹象, 躲藏处。"
+        },
+        {
+          "en": "I can see a hide.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到兽皮, 迹象, 躲藏处。"
+        }
+      ],
+      "headword": "hide",
+      "lexical_entry_id": "w_hide",
+      "ordinal": 11,
+      "phonetic_uk": "haid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "兽皮, 迹象, 躲藏处",
+          "pos": "n."
+        },
+        {
+          "gloss": "藏, 隐瞒, 遮避, 剥...的皮, 隐藏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “secretly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“secretly”。"
+        }
+      ],
+      "headword": "secretly",
+      "lexical_entry_id": "w_secretly",
+      "ordinal": 12,
+      "phonetic_uk": "'si:kritli",
+      "phonetic_us": null,
+      "phonics_split": "se·cret·ly",
+      "senses": [
+        {
+          "gloss": "秘密地, 背地里",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can enter.",
+          "origin": "template:t-v-can",
+          "zh": "我会进入, 参加, 开始, 输入, 回车。"
+        },
+        {
+          "en": "Let's enter together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起进入, 参加, 开始, 输入, 回车吧。"
+        }
+      ],
+      "headword": "enter",
+      "lexical_entry_id": "w_enter",
+      "ordinal": 13,
+      "phonetic_uk": "'entə",
+      "phonetic_us": null,
+      "phonics_split": "en·ter",
+      "senses": [
+        {
+          "gloss": "进入, 参加, 开始, 输入, 回车",
+          "pos": "vt."
+        },
+        {
+          "gloss": "进去, 参加",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can succeed.",
+          "origin": "template:t-v-can",
+          "zh": "我会成功, 继承, 继续。"
+        },
+        {
+          "en": "Let's succeed together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起成功, 继承, 继续吧。"
+        }
+      ],
+      "headword": "succeed",
+      "lexical_entry_id": "w_succeed",
+      "ordinal": 14,
+      "phonetic_uk": "sək'si:d",
+      "phonetic_us": null,
+      "phonics_split": "suc·ceed",
+      "senses": [
+        {
+          "gloss": "成功, 继承, 继续",
+          "pos": "vi."
+        },
+        {
+          "gloss": "继承, 接替",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my trick.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍。"
+        },
+        {
+          "en": "I can see a trick.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍。"
+        }
+      ],
+      "headword": "trick",
+      "lexical_entry_id": "w_trick",
+      "ordinal": 15,
+      "phonetic_uk": "trik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍",
+          "pos": "n."
+        },
+        {
+          "gloss": "愚弄, 欺骗, 装饰",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的打架, 争吵, 斗志。"
+        },
+        {
+          "en": "I can see a fight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到打架, 争吵, 斗志。"
+        }
+      ],
+      "headword": "fight",
+      "lexical_entry_id": "w_fight",
+      "ordinal": 16,
+      "phonetic_uk": "fait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "打架, 争吵, 斗志",
+          "pos": "n."
+        },
+        {
+          "gloss": "对抗, 打架",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my beat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的心跳(声), 打, 敲打声, 拍子。"
+        },
+        {
+          "en": "I can see a beat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到心跳(声), 打, 敲打声, 拍子。"
+        }
+      ],
+      "headword": "beat",
+      "lexical_entry_id": "w_beat",
+      "ordinal": 17,
+      "phonetic_uk": "bi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "心跳(声), 打, 敲打声, 拍子",
+          "pos": "n."
+        },
+        {
+          "gloss": "打, 拍打, 打败",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can pretend.",
+          "origin": "template:t-v-can",
+          "zh": "我会假装, 伪称, 自命, 自称。"
+        },
+        {
+          "en": "Let's pretend together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起假装, 伪称, 自命, 自称吧。"
+        }
+      ],
+      "headword": "pretend",
+      "lexical_entry_id": "w_pretend",
+      "ordinal": 18,
+      "phonetic_uk": "pri'tend",
+      "phonetic_us": null,
+      "phonics_split": "pre·tend",
+      "senses": [
+        {
+          "gloss": "假装, 伪称, 自命, 自称",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my enemy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的敌人, 仇敌, 敌军。"
+        },
+        {
+          "en": "I can see an enemy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到敌人, 仇敌, 敌军。"
+        }
+      ],
+      "headword": "enemy",
+      "lexical_entry_id": "w_enemy",
+      "ordinal": 19,
+      "phonetic_uk": "'enimi",
+      "phonetic_us": null,
+      "phonics_split": "en·e·my",
+      "senses": [
+        {
+          "gloss": "敌人, 仇敌, 敌军",
+          "pos": "n."
+        },
+        {
+          "gloss": "敌人的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can fail.",
+          "origin": "template:t-v-can",
+          "zh": "我会失败, 缺乏, 中断, 衰退, 失灵。"
+        },
+        {
+          "en": "Let's fail together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起失败, 缺乏, 中断, 衰退, 失灵吧。"
+        }
+      ],
+      "headword": "fail",
+      "lexical_entry_id": "w_fail",
+      "ordinal": 20,
+      "phonetic_uk": "feil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "失败, 缺乏, 中断, 衰退, 失灵",
+          "pos": "vi."
+        },
+        {
+          "gloss": "忘记, 使...失望, 缺乏, 不及格",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “therefore”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“therefore”。"
+        }
+      ],
+      "headword": "therefore",
+      "lexical_entry_id": "w_therefore",
+      "ordinal": 21,
+      "phonetic_uk": "'ðɛəfɔː",
+      "phonetic_us": null,
+      "phonics_split": "there·fore",
+      "senses": [
+        {
+          "gloss": "因此, 所以",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my within.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的内部, 里头。"
+        },
+        {
+          "en": "I can see a within.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到内部, 里头。"
+        }
+      ],
+      "headword": "within",
+      "lexical_entry_id": "w_within",
+      "ordinal": 22,
+      "phonetic_uk": "wi'ðin",
+      "phonetic_us": null,
+      "phonics_split": "with·in",
+      "senses": [
+        {
+          "gloss": "内部, 里头",
+          "pos": "n."
+        },
+        {
+          "gloss": "在内部, 在内心里",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can fill.",
+          "origin": "template:t-v-can",
+          "zh": "我会装满, 填充, 弥漫, 供给, 满足, 供应。"
+        },
+        {
+          "en": "Let's fill together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起装满, 填充, 弥漫, 供给, 满足, 供应吧。"
+        }
+      ],
+      "headword": "fill",
+      "lexical_entry_id": "w_fill",
+      "ordinal": 23,
+      "phonetic_uk": "fil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "装满, 填充, 弥漫, 供给, 满足, 供应",
+          "pos": "vt."
+        },
+        {
+          "gloss": "充满, 变得沉重",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “towards”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“towards”。"
+        }
+      ],
+      "headword": "towards",
+      "lexical_entry_id": "w_towards",
+      "ordinal": 24,
+      "phonetic_uk": "tə'wɔ:dz",
+      "phonetic_us": null,
+      "phonics_split": "to·wards",
+      "senses": [
+        {
+          "gloss": "向, 对于, 为了",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my attack.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的攻击, 抨击。"
+        },
+        {
+          "en": "I can see an attack.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到攻击, 抨击。"
+        }
+      ],
+      "headword": "attack",
+      "lexical_entry_id": "w_attack",
+      "ordinal": 25,
+      "phonetic_uk": "ə'tæk",
+      "phonetic_us": null,
+      "phonics_split": "at·tack",
+      "senses": [
+        {
+          "gloss": "攻击, 抨击",
+          "pos": "n."
+        },
+        {
+          "gloss": "攻击, 抨击, 动手干",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的雾, 迷惑, (割后的)最生草, 苔藓。"
+        },
+        {
+          "en": "I can see a fog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到雾, 迷惑, (割后的)最生草, 苔藓。"
+        }
+      ],
+      "headword": "fog",
+      "lexical_entry_id": "w_fog",
+      "ordinal": 26,
+      "phonetic_uk": "fɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "雾, 迷惑, (割后的)最生草, 苔藓",
+          "pos": "n."
+        },
+        {
+          "gloss": "被雾笼罩, 变模糊",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't make jokes about others.",
+          "origin": "curated:g8a-jokes",
+          "zh": "不要拿别人开玩笑。"
+        }
+      ],
+      "headword": "make jokes about",
+      "lexical_entry_id": "w_make_jokes_about",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拿……开玩笑",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “succeed in”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“succeed in”。"
+        }
+      ],
+      "headword": "succeed in",
+      "lexical_entry_id": "w_succeed_in",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在...方面成功",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be tired of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be tired of”。"
+        }
+      ],
+      "headword": "be tired of",
+      "lexical_entry_id": "w_be_tired_of",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厌烦",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can go on board.",
+          "origin": "template:t-v-can",
+          "zh": "我会上船（飞机）。"
+        },
+        {
+          "en": "Let's go on board together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起上船（飞机）吧。"
+        }
+      ],
+      "headword": "go on board",
+      "lexical_entry_id": "w_go_on_board",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上船（飞机）",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be jealous of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be jealous of”。"
+        }
+      ],
+      "headword": "be jealous of",
+      "lexical_entry_id": "w_be_jealous_of",
+      "ordinal": 31,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "妒嫉",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The box is full of toys.",
+          "origin": "curated:g5b-u1-full-of",
+          "zh": "盒子里装满了玩具。"
+        }
+      ],
+      "headword": "be full of",
+      "lexical_entry_id": "w_be_full_of",
+      "ordinal": 32,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "充满",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

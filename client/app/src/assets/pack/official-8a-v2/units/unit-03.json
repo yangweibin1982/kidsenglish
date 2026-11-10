@@ -1,0 +1,1228 @@
+{
+  "title": "Our digital lives",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my network.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的网络, 广播网, 网状物。"
+        },
+        {
+          "en": "I can see a network.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到网络, 广播网, 网状物。"
+        }
+      ],
+      "headword": "network",
+      "lexical_entry_id": "w_network",
+      "ordinal": 1,
+      "phonetic_uk": "'netwə:k",
+      "phonetic_us": null,
+      "phonics_split": "net·work",
+      "senses": [
+        {
+          "gloss": "网络, 广播网, 网状物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my flood.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的洪水, 大量之水, 涨潮。"
+        },
+        {
+          "en": "I can see a flood.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到洪水, 大量之水, 涨潮。"
+        }
+      ],
+      "headword": "flood",
+      "lexical_entry_id": "w_flood",
+      "ordinal": 2,
+      "phonetic_uk": "flʌd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洪水, 大量之水, 涨潮",
+          "pos": "n."
+        },
+        {
+          "gloss": "淹没, 使泛滥, 注满",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my multimedia.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的多媒体。"
+        },
+        {
+          "en": "I can see a multimedia.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到多媒体。"
+        }
+      ],
+      "headword": "multimedia",
+      "lexical_entry_id": "w_multimedia",
+      "ordinal": 3,
+      "phonetic_uk": ".mʌlti'mi:diə",
+      "phonetic_us": null,
+      "phonics_split": "mul·ti·me·dia",
+      "senses": [
+        {
+          "gloss": "多媒体",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my expert.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的专家, 行家。"
+        },
+        {
+          "en": "I can see an expert.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到专家, 行家。"
+        }
+      ],
+      "headword": "expert",
+      "lexical_entry_id": "w_expert",
+      "ordinal": 4,
+      "phonetic_uk": "'ekspə:t",
+      "phonetic_us": null,
+      "phonics_split": "ex·pert",
+      "senses": [
+        {
+          "gloss": "专家, 行家",
+          "pos": "n."
+        },
+        {
+          "gloss": "老练的, 内行的, 专门的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very mobile.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常移动的, 易变的, 机动。"
+        }
+      ],
+      "headword": "mobile",
+      "lexical_entry_id": "w_mobile",
+      "ordinal": 5,
+      "phonetic_uk": "'məubil",
+      "phonetic_us": null,
+      "phonics_split": "mo·bile",
+      "senses": [
+        {
+          "gloss": "移动的, 易变的, 机动的",
+          "pos": "a."
+        },
+        {
+          "gloss": "活动物体",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my payment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的付款, 支付的款项(或实物), 偿还, 报应, 惩罚。"
+        },
+        {
+          "en": "I can see a payment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到付款, 支付的款项(或实物), 偿还, 报应, 惩罚。"
+        }
+      ],
+      "headword": "payment",
+      "lexical_entry_id": "w_payment",
+      "ordinal": 6,
+      "phonetic_uk": "'peimənt",
+      "phonetic_us": null,
+      "phonics_split": "pay·ment",
+      "senses": [
+        {
+          "gloss": "付款, 支付的款项(或实物), 偿还, 报应, 惩罚",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can warn.",
+          "origin": "template:t-v-can",
+          "zh": "我会警告, 提醒, 通知。"
+        },
+        {
+          "en": "Let's warn together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起警告, 提醒, 通知吧。"
+        }
+      ],
+      "headword": "warn",
+      "lexical_entry_id": "w_warn",
+      "ordinal": 7,
+      "phonetic_uk": "wɔːn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "警告, 提醒, 通知",
+          "pos": "vt."
+        },
+        {
+          "gloss": "发出警告",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my treatment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的治疗, 待遇, 处理。"
+        },
+        {
+          "en": "I can see a treatment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到治疗, 待遇, 处理。"
+        }
+      ],
+      "headword": "treatment",
+      "lexical_entry_id": "w_treatment",
+      "ordinal": 8,
+      "phonetic_uk": "'tri:tmənt",
+      "phonetic_us": null,
+      "phonics_split": "treat·ment",
+      "senses": [
+        {
+          "gloss": "治疗, 待遇, 处理",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “data”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“data”。"
+        }
+      ],
+      "headword": "data",
+      "lexical_entry_id": "w_data",
+      "ordinal": 9,
+      "phonetic_uk": "'deitə",
+      "phonetic_us": null,
+      "phonics_split": "da·ta",
+      "senses": [
+        {
+          "gloss": "资料, 数据",
+          "pos": "pl."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my company.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公司, 友伴, 交往, 连队, 朋友, 一群。"
+        },
+        {
+          "en": "I can see a company.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公司, 友伴, 交往, 连队, 朋友, 一群。"
+        }
+      ],
+      "headword": "company",
+      "lexical_entry_id": "w_company",
+      "ordinal": 10,
+      "phonetic_uk": "'kʌmpəni",
+      "phonetic_us": null,
+      "phonics_split": "com·pa·ny",
+      "senses": [
+        {
+          "gloss": "公司, 友伴, 交往, 连队, 朋友, 一群",
+          "pos": "n."
+        },
+        {
+          "gloss": "陪伴",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my traffic.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量。"
+        },
+        {
+          "en": "I can see a traffic.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量。"
+        }
+      ],
+      "headword": "traffic",
+      "lexical_entry_id": "w_traffic",
+      "ordinal": 11,
+      "phonetic_uk": "'træfik",
+      "phonetic_us": null,
+      "phonics_split": "traf·fic",
+      "senses": [
+        {
+          "gloss": "交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量",
+          "pos": "n."
+        },
+        {
+          "gloss": "交易, 做买卖",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my flow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的流程, 流动, 流量, 洋溢, 泛滥, 涨潮。"
+        },
+        {
+          "en": "I can see a flow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到流程, 流动, 流量, 洋溢, 泛滥, 涨潮。"
+        }
+      ],
+      "headword": "flow",
+      "lexical_entry_id": "w_flow",
+      "ordinal": 12,
+      "phonetic_uk": "fləu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "流程, 流动, 流量, 洋溢, 泛滥, 涨潮",
+          "pos": "n."
+        },
+        {
+          "gloss": "流动, 流泄, 畅流, 川流不息, 飘扬, 涌出",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “smoothly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“smoothly”。"
+        }
+      ],
+      "headword": "smoothly",
+      "lexical_entry_id": "w_smoothly",
+      "ordinal": 13,
+      "phonetic_uk": "'smu:ðli",
+      "phonetic_us": null,
+      "phonics_split": "smooth·ly",
+      "senses": [
+        {
+          "gloss": "平滑地, 流畅地, 流利地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my laptop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的笔记本电脑。"
+        },
+        {
+          "en": "I can see a laptop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到笔记本电脑。"
+        }
+      ],
+      "headword": "laptop",
+      "lexical_entry_id": "w_laptop",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "lap·top",
+      "senses": [
+        {
+          "gloss": "笔记本电脑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my screen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子。"
+        },
+        {
+          "en": "I can see a screen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子。"
+        }
+      ],
+      "headword": "screen",
+      "lexical_entry_id": "w_screen",
+      "ordinal": 15,
+      "phonetic_uk": "skri:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "幕, 银幕, 屏风, 掩蔽物, 屏蔽, 筛子",
+          "pos": "n."
+        },
+        {
+          "gloss": "掩蔽, 放映, 拍摄, 掩护, 筛, 甄别",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my weight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的重, 重量, 体重, 砝码, 重大, 影响, 力量。"
+        },
+        {
+          "en": "I can see a weight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到重, 重量, 体重, 砝码, 重大, 影响, 力量。"
+        }
+      ],
+      "headword": "weight",
+      "lexical_entry_id": "w_weight",
+      "ordinal": 16,
+      "phonetic_uk": "weit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "重, 重量, 体重, 砝码, 重大, 影响, 力量",
+          "pos": "n."
+        },
+        {
+          "gloss": "加重量于, 压迫, 使加权, 称重量",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very digital.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常数字显示的, 数字。"
+        }
+      ],
+      "headword": "digital",
+      "lexical_entry_id": "w_digital",
+      "ordinal": 17,
+      "phonetic_uk": "'didʒitəl",
+      "phonetic_us": null,
+      "phonics_split": "dig·i·tal",
+      "senses": [
+        {
+          "gloss": "数字显示的, 数字的",
+          "pos": "a."
+        },
+        {
+          "gloss": "数字仪表, 数字式电子表(或时钟)",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very social.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常社会的, 群居的, 社交。"
+        }
+      ],
+      "headword": "social",
+      "lexical_entry_id": "w_social",
+      "ordinal": 18,
+      "phonetic_uk": "'səuʃəl",
+      "phonetic_us": null,
+      "phonics_split": "so·cial",
+      "senses": [
+        {
+          "gloss": "社会的, 群居的, 社交的",
+          "pos": "a."
+        },
+        {
+          "gloss": "联欢会",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my message.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的消息, 通讯, 讯息, 教训, 预言, 广告词。"
+        },
+        {
+          "en": "I can see a message.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到消息, 通讯, 讯息, 教训, 预言, 广告词。"
+        }
+      ],
+      "headword": "message",
+      "lexical_entry_id": "w_message",
+      "ordinal": 19,
+      "phonetic_uk": "'mesidʒ",
+      "phonetic_us": null,
+      "phonics_split": "mes·sage",
+      "senses": [
+        {
+          "gloss": "消息, 通讯, 讯息, 教训, 预言, 广告词",
+          "pos": "n."
+        },
+        {
+          "gloss": "通知",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my interview.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面谈, 访问, 接见, 面试。"
+        },
+        {
+          "en": "I can see an interview.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面谈, 访问, 接见, 面试。"
+        }
+      ],
+      "headword": "interview",
+      "lexical_entry_id": "w_interview",
+      "ordinal": 20,
+      "phonetic_uk": "'intəvju:",
+      "phonetic_us": null,
+      "phonics_split": "in·ter·view",
+      "senses": [
+        {
+          "gloss": "面谈, 访问, 接见, 面试",
+          "pos": "n."
+        },
+        {
+          "gloss": "接见, 对...进行面谈(试)",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very positive.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常肯定的, 积极的, 有把握。"
+        }
+      ],
+      "headword": "positive",
+      "lexical_entry_id": "w_positive",
+      "ordinal": 21,
+      "phonetic_uk": "'pɒzitiv",
+      "phonetic_us": null,
+      "phonics_split": "pos·i·tive",
+      "senses": [
+        {
+          "gloss": "肯定的, 积极的, 有把握的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my negative.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的否定, 否定语, 负数, 底片。"
+        },
+        {
+          "en": "I can see a negative.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到否定, 否定语, 负数, 底片。"
+        }
+      ],
+      "headword": "negative",
+      "lexical_entry_id": "w_negative",
+      "ordinal": 22,
+      "phonetic_uk": "'negətiv",
+      "phonetic_us": null,
+      "phonics_split": "neg·a·tive",
+      "senses": [
+        {
+          "gloss": "否定, 否定语, 负数, 底片",
+          "pos": "n."
+        },
+        {
+          "gloss": "否定的, 消极的, 负的, 阴性的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my effect.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结果, 影响, 效果, 印象。"
+        },
+        {
+          "en": "I can see an effect.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结果, 影响, 效果, 印象。"
+        }
+      ],
+      "headword": "effect",
+      "lexical_entry_id": "w_effect",
+      "ordinal": 23,
+      "phonetic_uk": "i'fekt",
+      "phonetic_us": null,
+      "phonics_split": "ef·fect",
+      "senses": [
+        {
+          "gloss": "结果, 影响, 效果, 印象",
+          "pos": "n."
+        },
+        {
+          "gloss": "实行, 引起, 完成",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my opinion.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的意见, 评价, 主张。"
+        },
+        {
+          "en": "I can see an opinion.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到意见, 评价, 主张。"
+        }
+      ],
+      "headword": "opinion",
+      "lexical_entry_id": "w_opinion",
+      "ordinal": 24,
+      "phonetic_uk": "ə'pinjən",
+      "phonetic_us": null,
+      "phonics_split": "opin·ion",
+      "senses": [
+        {
+          "gloss": "意见, 评价, 主张",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my novel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小说, 长篇故事。"
+        },
+        {
+          "en": "I can see a novel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小说, 长篇故事。"
+        }
+      ],
+      "headword": "novel",
+      "lexical_entry_id": "w_novel",
+      "ordinal": 25,
+      "phonetic_uk": "'nɒvl",
+      "phonetic_us": null,
+      "phonics_split": "nov·el",
+      "senses": [
+        {
+          "gloss": "小说, 长篇故事",
+          "pos": "n."
+        },
+        {
+          "gloss": "新奇的, 异常的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my comment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的注解, 批评, 评论, 备注。"
+        },
+        {
+          "en": "I can see a comment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到注解, 批评, 评论, 备注。"
+        }
+      ],
+      "headword": "comment",
+      "lexical_entry_id": "w_comment",
+      "ordinal": 26,
+      "phonetic_uk": "'kɒment",
+      "phonetic_us": null,
+      "phonics_split": "com·ment",
+      "senses": [
+        {
+          "gloss": "注解, 批评, 评论, 备注",
+          "pos": "n."
+        },
+        {
+          "gloss": "评论, 注解",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my basis.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的基础, 主要成分。"
+        },
+        {
+          "en": "I can see a basis.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到基础, 主要成分。"
+        }
+      ],
+      "headword": "basis",
+      "lexical_entry_id": "w_basis",
+      "ordinal": 27,
+      "phonetic_uk": "'beisis",
+      "phonetic_us": null,
+      "phonics_split": "ba·sis",
+      "senses": [
+        {
+          "gloss": "基础, 主要成分",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my microprocessor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的微处理器。"
+        },
+        {
+          "en": "I can see a microprocessor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到微处理器。"
+        }
+      ],
+      "headword": "microprocessor",
+      "lexical_entry_id": "w_microprocessor",
+      "ordinal": 28,
+      "phonetic_uk": ".maikrəu'prəusesə",
+      "phonetic_us": null,
+      "phonics_split": "mi·cro·pro·ces·sor",
+      "senses": [
+        {
+          "gloss": "微处理器",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my microchip.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的微型集成电路片, 微片, 芯片。"
+        },
+        {
+          "en": "I can see a microchip.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到微型集成电路片, 微片, 芯片。"
+        }
+      ],
+      "headword": "microchip",
+      "lexical_entry_id": "w_microchip",
+      "ordinal": 29,
+      "phonetic_uk": "'maikrəjtʃip",
+      "phonetic_us": null,
+      "phonics_split": "mi·crochip",
+      "senses": [
+        {
+          "gloss": "微型集成电路片, 微片, 芯片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my major.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的主修课, 成年人, 陆军少校。"
+        },
+        {
+          "en": "I can see a major.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到主修课, 成年人, 陆军少校。"
+        }
+      ],
+      "headword": "major",
+      "lexical_entry_id": "w_major",
+      "ordinal": 30,
+      "phonetic_uk": "'meidʒə",
+      "phonetic_us": null,
+      "phonics_split": "ma·jor",
+      "senses": [
+        {
+          "gloss": "主修课, 成年人, 陆军少校",
+          "pos": "n."
+        },
+        {
+          "gloss": "主要的, 较多的, 大部分的, 成年的, 严重的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my breakthrough.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的突破。"
+        },
+        {
+          "en": "I can see a breakthrough.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到突破。"
+        }
+      ],
+      "headword": "breakthrough",
+      "lexical_entry_id": "w_breakthrough",
+      "ordinal": 31,
+      "phonetic_uk": "'breikθru:",
+      "phonetic_us": null,
+      "phonics_split": "break·through",
+      "senses": [
+        {
+          "gloss": "突破",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very electronic.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常电子。"
+        }
+      ],
+      "headword": "electronic",
+      "lexical_entry_id": "w_electronic",
+      "ordinal": 32,
+      "phonetic_uk": ".ilek'trɒnik",
+      "phonetic_us": null,
+      "phonics_split": "elec·tron·ic",
+      "senses": [
+        {
+          "gloss": "电子的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my software.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的软件。"
+        },
+        {
+          "en": "I can see a software.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到软件。"
+        }
+      ],
+      "headword": "software",
+      "lexical_entry_id": "w_software",
+      "ordinal": 33,
+      "phonetic_uk": "'sɒftwɛə",
+      "phonetic_us": null,
+      "phonics_split": "soft·ware",
+      "senses": [
+        {
+          "gloss": "软件",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my app.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的应用程序。"
+        },
+        {
+          "en": "I can see an app.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到应用程序。"
+        }
+      ],
+      "headword": "app",
+      "lexical_entry_id": "w_app",
+      "ordinal": 34,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "应用程序",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my era.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时代, 纪元, 时期。"
+        },
+        {
+          "en": "I can see an era.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时代, 纪元, 时期。"
+        }
+      ],
+      "headword": "era",
+      "lexical_entry_id": "w_era",
+      "ordinal": 35,
+      "phonetic_uk": "'iərə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "时代, 纪元, 时期",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can download.",
+          "origin": "template:t-v-can",
+          "zh": "我会下载。"
+        },
+        {
+          "en": "Let's download together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起下载吧。"
+        }
+      ],
+      "headword": "download",
+      "lexical_entry_id": "w_download",
+      "ordinal": 36,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "down·load",
+      "senses": [
+        {
+          "gloss": "下载",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very tiny.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常很少的, 微小。"
+        }
+      ],
+      "headword": "tiny",
+      "lexical_entry_id": "w_tiny",
+      "ordinal": 37,
+      "phonetic_uk": "'taini",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "很少的, 微小的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “connect to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“connect to”。"
+        }
+      ],
+      "headword": "connect to",
+      "lexical_entry_id": "w_connect_to",
+      "ordinal": 38,
+      "phonetic_uk": "kəˈnekt tu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使与…连接; 使与…接通电话",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Phones have brought big changes to our lives.",
+          "origin": "curated:g8a-big-changes",
+          "zh": "手机给我们的生活带来巨变。"
+        }
+      ],
+      "headword": "bring big changes to",
+      "lexical_entry_id": "w_bring_big_changes_to",
+      "ordinal": 39,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "给……带来巨变",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mobile payment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的移动支付。"
+        },
+        {
+          "en": "I can see a mobile payment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到移动支付。"
+        }
+      ],
+      "headword": "mobile payment",
+      "lexical_entry_id": "w_mobile_payment",
+      "ordinal": 40,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "移动支付",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take for example”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take for example”。"
+        }
+      ],
+      "headword": "take for example",
+      "lexical_entry_id": "w_take_for_example",
+      "ordinal": 41,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "以...为例",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “rubbish bin”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“rubbish bin”。"
+        }
+      ],
+      "headword": "rubbish bin",
+      "lexical_entry_id": "w_rubbish_bin",
+      "ordinal": 42,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "废物箱,垃圾箱",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my social media.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的社交媒体。"
+        },
+        {
+          "en": "I can see a social media.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到社交媒体。"
+        }
+      ],
+      "headword": "social media",
+      "lexical_entry_id": "w_social_media",
+      "ordinal": 43,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "社交媒体",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in person”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in person”。"
+        }
+      ],
+      "headword": "in person",
+      "lexical_entry_id": "w_in_person",
+      "ordinal": 44,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "亲自, 外貌上",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my the general public.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的大众。"
+        },
+        {
+          "en": "I can see a the general public.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到大众。"
+        }
+      ],
+      "headword": "the general public",
+      "lexical_entry_id": "w_the_general_public",
+      "ordinal": 45,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大众",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

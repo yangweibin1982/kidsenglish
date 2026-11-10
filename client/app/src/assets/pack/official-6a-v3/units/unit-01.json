@@ -1,0 +1,253 @@
+{
+  "title": "Growing up",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “be born”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be born”。"
+        }
+      ],
+      "headword": "be born",
+      "lexical_entry_id": "w_be_born",
+      "ordinal": 1,
+      "phonetic_uk": "bi: bɔ:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "出生于…; 落地; 诞; 下生",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my catch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的捕捉, 陷阱, 捕捉之物, 抓, 拉手。"
+        },
+        {
+          "en": "I can see a catch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到捕捉, 陷阱, 捕捉之物, 抓, 拉手。"
+        }
+      ],
+      "headword": "catch",
+      "lexical_entry_id": "w_catch",
+      "ordinal": 2,
+      "phonetic_uk": "kætʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "捕捉, 陷阱, 捕捉之物, 抓, 拉手",
+          "pos": "n."
+        },
+        {
+          "gloss": "捕捉, 赶上, 感染, 听清楚",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very cute.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常可爱。"
+        }
+      ],
+      "headword": "cute",
+      "lexical_entry_id": "w_cute",
+      "ordinal": 3,
+      "phonetic_uk": "kju:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "可爱的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Birds can fly.",
+          "origin": "curated:g2u4-fly",
+          "zh": "鸟会飞。"
+        }
+      ],
+      "headword": "fly",
+      "lexical_entry_id": "w_fly",
+      "ordinal": 4,
+      "phonetic_uk": "flai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "飞",
+          "pos": "vi."
+        },
+        {
+          "gloss": "苍蝇",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “grow up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“grow up”。"
+        }
+      ],
+      "headword": "grow up",
+      "lexical_entry_id": "w_grow_up",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "成熟, 成年, 发展, 逐渐形成",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very handsome.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏。"
+        }
+      ],
+      "headword": "handsome",
+      "lexical_entry_id": "w_handsome",
+      "ordinal": 6,
+      "phonetic_uk": "'hænsəm",
+      "phonetic_us": null,
+      "phonics_split": "hand·some",
+      "senses": [
+        {
+          "gloss": "英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “junior high school”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“junior high school”。"
+        }
+      ],
+      "headword": "junior high school",
+      "lexical_entry_id": "w_junior_high_school",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "初中",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my month.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的月。"
+        },
+        {
+          "en": "I can see a month.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到月。"
+        }
+      ],
+      "headword": "month",
+      "lexical_entry_id": "w_month",
+      "ordinal": 8,
+      "phonetic_uk": "mʌnθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very pretty.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常漂亮的, 优美的, 机灵的, 狡猾的, 恰当。"
+        }
+      ],
+      "headword": "pretty",
+      "lexical_entry_id": "w_pretty",
+      "ordinal": 9,
+      "phonetic_uk": "'priti",
+      "phonetic_us": null,
+      "phonics_split": "pret·ty",
+      "senses": [
+        {
+          "gloss": "漂亮的, 优美的, 机灵的, 狡猾的, 恰当的",
+          "pos": "a."
+        },
+        {
+          "gloss": "相当, 颇",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my turtle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海龟。"
+        },
+        {
+          "en": "I can see a turtle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海龟。"
+        }
+      ],
+      "headword": "turtle",
+      "lexical_entry_id": "w_turtle",
+      "ordinal": 10,
+      "phonetic_uk": "'tə:tl",
+      "phonetic_us": null,
+      "phonics_split": "tur·tle",
+      "senses": [
+        {
+          "gloss": "海龟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

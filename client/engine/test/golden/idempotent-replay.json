@@ -1,0 +1,131 @@
+{
+  "name": "idempotent-duplicate-delivery",
+  "description": "【性质·幂等重放】同集两放：三个事件（两答＋一每日完成）原样重复投递一次（event_id 与内容逐字节相同），折叠按 event_id 去重——answered=2（非 4）、stars=1+2=3（非 6）、每日摘要与池位与单次投递完全同态。同步重试/重复下行是常态路径，本向量钉死幂等语义。",
+  "events": [
+    {
+      "event_id": "ir-101",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-26T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-fig",
+        "question_type": "teach_picture_audio",
+        "correct": true,
+        "reaction_ms": 3000,
+        "answered_on": "2026-10-26",
+        "stars_earned": 1
+      }
+    },
+    {
+      "event_id": "ir-102",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 2000, "counter": 0 },
+      "occurred_at": "2026-10-27T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-fig",
+        "question_type": "audio_pick_picture",
+        "correct": true,
+        "reaction_ms": 2000,
+        "answered_on": "2026-10-27",
+        "shards_earned": 1
+      }
+    },
+    {
+      "event_id": "ir-103",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 3,
+      "hlc": { "physicalMs": 3000, "counter": 0 },
+      "occurred_at": "2026-10-27T20:00:00Z",
+      "type": "daily_completed",
+      "payload": {
+        "date": "2026-10-27",
+        "completed_on_time": true,
+        "segment_seconds": { "new_words": 540, "review": 260 },
+        "stars_earned": 2
+      }
+    },
+    {
+      "event_id": "ir-101",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-26T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-fig",
+        "question_type": "teach_picture_audio",
+        "correct": true,
+        "reaction_ms": 3000,
+        "answered_on": "2026-10-26",
+        "stars_earned": 1
+      }
+    },
+    {
+      "event_id": "ir-102",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 2000, "counter": 0 },
+      "occurred_at": "2026-10-27T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-fig",
+        "question_type": "audio_pick_picture",
+        "correct": true,
+        "reaction_ms": 2000,
+        "answered_on": "2026-10-27",
+        "shards_earned": 1
+      }
+    },
+    {
+      "event_id": "ir-103",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 3,
+      "hlc": { "physicalMs": 3000, "counter": 0 },
+      "occurred_at": "2026-10-27T20:00:00Z",
+      "type": "daily_completed",
+      "payload": {
+        "date": "2026-10-27",
+        "completed_on_time": true,
+        "segment_seconds": { "new_words": 540, "review": 260 },
+        "stars_earned": 2
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-fig",
+        "pool": "P2",
+        "fastStreak": 0,
+        "errorStreak": 0,
+        "dueDate": "2026-10-30",
+        "variationTier": "hard",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": [
+          { "correct": true, "fast": true, "answeredOn": "2026-10-26" },
+          { "correct": true, "fast": true, "answeredOn": "2026-10-27" }
+        ]
+      }
+    ],
+    "counters": { "answered": 2, "correct": 2, "stars": 3, "shards": 1 },
+    "dailySummaries": [
+      { "date": "2026-10-26", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 1, "shardsEarned": 0 },
+      { "date": "2026-10-27", "answered": 1, "correct": 1, "completedOnTime": true, "segmentSeconds": { "newWords": 540, "review": 260 }, "starsEarned": 2, "shardsEarned": 1 }
+    ],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

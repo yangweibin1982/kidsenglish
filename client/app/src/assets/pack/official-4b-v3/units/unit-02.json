@@ -1,0 +1,339 @@
+{
+  "title": "Smell and taste",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The fox is orange.",
+          "origin": "curated:g2u11-fox",
+          "zh": "狐狸是橙色的。"
+        }
+      ],
+      "headword": "fox",
+      "lexical_entry_id": "w_fox",
+      "ordinal": 1,
+      "phonetic_uk": "fɒks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狐狸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can get.",
+          "origin": "template:t-v-can",
+          "zh": "我会得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上。"
+        },
+        {
+          "en": "Let's get together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上吧。"
+        }
+      ],
+      "headword": "get",
+      "lexical_entry_id": "w_get",
+      "ordinal": 2,
+      "phonetic_uk": "get",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上",
+          "pos": "vt."
+        },
+        {
+          "gloss": "到达, 成为, 变得",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my grape.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的葡萄, 葡萄树。"
+        },
+        {
+          "en": "I can see a grape.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到葡萄, 葡萄树。"
+        }
+      ],
+      "headword": "grape",
+      "lexical_entry_id": "w_grape",
+      "ordinal": 3,
+      "phonetic_uk": "greip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "葡萄, 葡萄树",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my minute.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的分, 分钟, 片刻, 备忘录, 笔记。"
+        },
+        {
+          "en": "I can see a minute.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到分, 分钟, 片刻, 备忘录, 笔记。"
+        }
+      ],
+      "headword": "minute",
+      "lexical_entry_id": "w_minute",
+      "ordinal": 4,
+      "phonetic_uk": "'minit. mai'nju:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "分, 分钟, 片刻, 备忘录, 笔记",
+          "pos": "n."
+        },
+        {
+          "gloss": "记录, 摘录, 测定时间",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “or”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“or”。"
+        }
+      ],
+      "headword": "or",
+      "lexical_entry_id": "w_or",
+      "ordinal": 5,
+      "phonetic_uk": "ɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "或, 或者",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my purple.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的紫色, 帝位。"
+        },
+        {
+          "en": "I can see a purple.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到紫色, 帝位。"
+        }
+      ],
+      "headword": "purple",
+      "lexical_entry_id": "w_purple",
+      "ordinal": 6,
+      "phonetic_uk": "'pə:pl",
+      "phonetic_us": null,
+      "phonics_split": "pur·ple",
+      "senses": [
+        {
+          "gloss": "紫色, 帝位",
+          "pos": "n."
+        },
+        {
+          "gloss": "紫色的, 帝王的, 华而不实的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my round.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱。"
+        },
+        {
+          "en": "I can see a round.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱。"
+        }
+      ],
+      "headword": "round",
+      "lexical_entry_id": "w_round",
+      "ordinal": 7,
+      "phonetic_uk": "raund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱",
+          "pos": "n."
+        },
+        {
+          "gloss": "圆的, 球形的, 丰满的, 肥胖的, 完全的, 大概的, 完美的, 圆润的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my smell.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的味道, 气味, 嗅觉, 嗅, 臭味, 气息。"
+        },
+        {
+          "en": "I can see a smell.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到味道, 气味, 嗅觉, 嗅, 臭味, 气息。"
+        }
+      ],
+      "headword": "smell",
+      "lexical_entry_id": "w_smell",
+      "ordinal": 8,
+      "phonetic_uk": "smel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "味道, 气味, 嗅觉, 嗅, 臭味, 气息",
+          "pos": "n."
+        },
+        {
+          "gloss": "闻, 探出, 察觉, 发出...的气味",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my strawberry.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的草莓。"
+        },
+        {
+          "en": "I can see a strawberry.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到草莓。"
+        }
+      ],
+      "headword": "strawberry",
+      "lexical_entry_id": "w_strawberry",
+      "ordinal": 9,
+      "phonetic_uk": "'strɔːbəri",
+      "phonetic_us": null,
+      "phonics_split": "straw·ber·ry",
+      "senses": [
+        {
+          "gloss": "草莓",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Those are green trees.",
+          "origin": "curated:p-pron-those",
+          "zh": "那些是绿树。"
+        }
+      ],
+      "headword": "those",
+      "lexical_entry_id": "w_those",
+      "ordinal": 10,
+      "phonetic_uk": "ðəuz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "那些",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wait.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的等待, 等候。"
+        },
+        {
+          "en": "I can see a wait.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到等待, 等候。"
+        }
+      ],
+      "headword": "wait",
+      "lexical_entry_id": "w_wait",
+      "ordinal": 11,
+      "phonetic_uk": "weit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "等待, 等候",
+          "pos": "n."
+        },
+        {
+          "gloss": "等候, 期待, 延缓, 伺候, 推迟",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my watermelon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的西瓜。"
+        },
+        {
+          "en": "I can see a watermelon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到西瓜。"
+        }
+      ],
+      "headword": "watermelon",
+      "lexical_entry_id": "w_watermelon",
+      "ordinal": 12,
+      "phonetic_uk": "'wɒtə.melən",
+      "phonetic_us": null,
+      "phonics_split": "wa·ter·mel·on",
+      "senses": [
+        {
+          "gloss": "西瓜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

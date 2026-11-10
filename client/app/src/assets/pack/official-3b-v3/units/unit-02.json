@@ -1,0 +1,231 @@
+{
+  "title": "Tastes",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my candy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的糖果, 冰糖。"
+        },
+        {
+          "en": "I can see a candy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到糖果, 冰糖。"
+        }
+      ],
+      "headword": "candy",
+      "lexical_entry_id": "w_candy",
+      "ordinal": 1,
+      "phonetic_uk": "'kændi",
+      "phonetic_us": null,
+      "phonics_split": "can·dy",
+      "senses": [
+        {
+          "gloss": "糖果, 冰糖",
+          "pos": "n."
+        },
+        {
+          "gloss": "用糖煮, 使结晶为砂糖",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "How old are you?",
+          "origin": "curated:u2-how",
+          "zh": "你几岁？"
+        }
+      ],
+      "headword": "how",
+      "lexical_entry_id": "w_how",
+      "ordinal": 2,
+      "phonetic_uk": "hau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "怎样",
+          "pos": "adv."
+        },
+        {
+          "gloss": "多么",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “ice cream”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“ice cream”。"
+        }
+      ],
+      "headword": "ice cream",
+      "lexical_entry_id": "w_ice_cream",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "冰淇淋",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lemon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的柠檬, 柠檬树, 柠檬色。"
+        },
+        {
+          "en": "I can see a lemon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到柠檬, 柠檬树, 柠檬色。"
+        }
+      ],
+      "headword": "lemon",
+      "lexical_entry_id": "w_lemon",
+      "ordinal": 4,
+      "phonetic_uk": "'lemən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "柠檬, 柠檬树, 柠檬色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my orange.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橙子。"
+        },
+        {
+          "en": "I can see an orange.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橙子。"
+        }
+      ],
+      "headword": "orange",
+      "lexical_entry_id": "w_orange",
+      "ordinal": 5,
+      "phonetic_uk": "'ɔːrindʒ",
+      "phonetic_us": null,
+      "phonics_split": "or·ange",
+      "senses": [
+        {
+          "gloss": "橙子",
+          "pos": "n."
+        },
+        {
+          "gloss": "橙色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very sour.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全。"
+        }
+      ],
+      "headword": "sour",
+      "lexical_entry_id": "w_sour",
+      "ordinal": 6,
+      "phonetic_uk": "'sauə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "酸的, 酸臭的, 发酵的, 愠怒的, 讨厌的, 拙劣的, 不健全的",
+          "pos": "a."
+        },
+        {
+          "gloss": "变酸, 发酵, 厌烦, 变坏",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sweet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的甜蜜, 糖果, 情人。"
+        },
+        {
+          "en": "I can see a sweet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到甜蜜, 糖果, 情人。"
+        }
+      ],
+      "headword": "sweet",
+      "lexical_entry_id": "w_sweet",
+      "ordinal": 7,
+      "phonetic_uk": "swi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "甜蜜, 糖果, 情人",
+          "pos": "n."
+        },
+        {
+          "gloss": "甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my taste.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量。"
+        },
+        {
+          "en": "I can see a taste.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量。"
+        }
+      ],
+      "headword": "taste",
+      "lexical_entry_id": "w_taste",
+      "ordinal": 8,
+      "phonetic_uk": "teist",
+      "phonetic_us": null,
+      "phonics_split": "tas·te",
+      "senses": [
+        {
+          "gloss": "味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量",
+          "pos": "n."
+        },
+        {
+          "gloss": "尝, 察觉...的味道, 体会",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

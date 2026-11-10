@@ -1,0 +1,342 @@
+{
+  "title": "My classmates",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Give me the book, please.",
+          "origin": "curated:u2-give",
+          "zh": "请给我这本书。"
+        }
+      ],
+      "headword": "give",
+      "lexical_entry_id": "w_give",
+      "ordinal": 1,
+      "phonetic_uk": "giv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "给",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at me.",
+          "origin": "curated:u2-pron-me",
+          "zh": "看着我。"
+        }
+      ],
+      "headword": "me",
+      "lexical_entry_id": "w_me",
+      "ordinal": 2,
+      "phonetic_uk": "mi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is a book.",
+          "origin": "curated:u2-article-a",
+          "zh": "这是一本书。"
+        }
+      ],
+      "headword": "a",
+      "lexical_entry_id": "w_a",
+      "ordinal": 3,
+      "phonetic_uk": "ei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一个",
+          "pos": "art."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Sit down, please.",
+          "origin": "curated:u2-polite-please",
+          "zh": "请坐。"
+        }
+      ],
+      "headword": "please",
+      "lexical_entry_id": "w_please",
+      "ordinal": 4,
+      "phonetic_uk": "pli:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "请",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Thank you!",
+          "origin": "curated:u2-thank",
+          "zh": "谢谢你！"
+        }
+      ],
+      "headword": "thank",
+      "lexical_entry_id": "w_thank",
+      "ordinal": 5,
+      "phonetic_uk": "θæŋk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "谢谢",
+          "pos": "vt."
+        },
+        {
+          "gloss": "感谢",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "How are you?",
+          "origin": "curated:u2-pron-you",
+          "zh": "你好吗？"
+        }
+      ],
+      "headword": "you",
+      "lexical_entry_id": "w_you",
+      "ordinal": 6,
+      "phonetic_uk": "ju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你、你们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my book.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书。"
+        },
+        {
+          "en": "I can see a book.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书。"
+        }
+      ],
+      "headword": "book",
+      "lexical_entry_id": "w_book",
+      "ordinal": 7,
+      "phonetic_uk": "buk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "书",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ruler.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的尺子。"
+        },
+        {
+          "en": "I can see a ruler.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到尺子。"
+        }
+      ],
+      "headword": "ruler",
+      "lexical_entry_id": "w_ruler",
+      "ordinal": 8,
+      "phonetic_uk": "'ru:lə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "尺子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的铅笔。"
+        },
+        {
+          "en": "I can see a pencil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到铅笔。"
+        }
+      ],
+      "headword": "pencil",
+      "lexical_entry_id": "w_pencil",
+      "ordinal": 9,
+      "phonetic_uk": "'pensl",
+      "phonetic_us": null,
+      "phonics_split": "pen·cil",
+      "senses": [
+        {
+          "gloss": "铅笔",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rubber.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橡皮。"
+        },
+        {
+          "en": "I can see a rubber.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橡皮。"
+        }
+      ],
+      "headword": "rubber",
+      "lexical_entry_id": "w_rubber",
+      "ordinal": 10,
+      "phonetic_uk": "'rʌbə",
+      "phonetic_us": null,
+      "phonics_split": "rub·ber",
+      "senses": [
+        {
+          "gloss": "橡皮",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pencil is on the book.",
+          "origin": "curated:u2-prep-on",
+          "zh": "铅笔在书上。"
+        }
+      ],
+      "headword": "on",
+      "lexical_entry_id": "w_on",
+      "ordinal": 11,
+      "phonetic_uk": "ɒn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…上面",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is Sunday today.",
+          "origin": "curated:u2-sunday",
+          "zh": "今天是星期日。"
+        }
+      ],
+      "headword": "Sunday",
+      "lexical_entry_id": "w_sunday",
+      "ordinal": 12,
+      "phonetic_uk": "'sʌndi",
+      "phonetic_us": null,
+      "phonics_split": "sun·day",
+      "senses": [
+        {
+          "gloss": "星期日",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "How old are you?",
+          "origin": "curated:u2-how",
+          "zh": "你几岁？"
+        }
+      ],
+      "headword": "how",
+      "lexical_entry_id": "w_how",
+      "ordinal": 13,
+      "phonetic_uk": "hau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "怎样",
+          "pos": "adv."
+        },
+        {
+          "gloss": "多么",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Nice to meet you!",
+          "origin": "curated:u2-nice",
+          "zh": "很高兴见到你！"
+        }
+      ],
+      "headword": "nice",
+      "lexical_entry_id": "w_nice",
+      "ordinal": 14,
+      "phonetic_uk": "nais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "title": "Three little pigs",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The little mouse is afraid of the cat.",
+          "origin": "curated:primary-3b-afraid-of",
+          "zh": "小老鼠怕猫。"
+        }
+      ],
+      "headword": "afraid (of)",
+      "lexical_entry_id": "w_afraid_of",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "害怕（……的）",
+          "pos": "adj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bad.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常坏。"
+        }
+      ],
+      "headword": "bad",
+      "lexical_entry_id": "w_bad",
+      "ordinal": 2,
+      "phonetic_uk": "bæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "坏的",
+          "pos": "a."
+        },
+        {
+          "gloss": "坏",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's go to school.",
+          "origin": "curated:u12-go",
+          "zh": "我们去上学吧。"
+        }
+      ],
+      "headword": "go",
+      "lexical_entry_id": "w_go",
+      "ordinal": 3,
+      "phonetic_uk": "gou",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "去",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my house.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的房子, 住宅, 机构, 议院, 家族, 家庭。"
+        },
+        {
+          "en": "I can see a house.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到房子, 住宅, 机构, 议院, 家族, 家庭。"
+        }
+      ],
+      "headword": "house",
+      "lexical_entry_id": "w_house",
+      "ordinal": 4,
+      "phonetic_uk": "haus",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "房子, 住宅, 机构, 议院, 家族, 家庭",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...房子住, 收藏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my little.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的一点点, 少许, 一会儿, 短时间。"
+        },
+        {
+          "en": "I can see a little.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到一点点, 少许, 一会儿, 短时间。"
+        }
+      ],
+      "headword": "little",
+      "lexical_entry_id": "w_little",
+      "ordinal": 5,
+      "phonetic_uk": "'litl",
+      "phonetic_us": null,
+      "phonics_split": "lit·tle",
+      "senses": [
+        {
+          "gloss": "一点点, 少许, 一会儿, 短时间",
+          "pos": "n."
+        },
+        {
+          "gloss": "小的, 很少的, 幼小的, 琐碎的, 短暂的, 矮小的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can make.",
+          "origin": "template:t-v-can",
+          "zh": "我会制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行。"
+        },
+        {
+          "en": "Let's make together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行吧。"
+        }
+      ],
+      "headword": "make",
+      "lexical_entry_id": "w_make",
+      "ordinal": 6,
+      "phonetic_uk": "meik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行",
+          "pos": "vt."
+        },
+        {
+          "gloss": "开始, 前进, 增大, 被制造, 被处理",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can run now.",
+          "origin": "curated:g2u6-now",
+          "zh": "我现在会跑了。"
+        }
+      ],
+      "headword": "now",
+      "lexical_entry_id": "w_now",
+      "ordinal": 7,
+      "phonetic_uk": "nau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "现在",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “there”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“there”。"
+        }
+      ],
+      "headword": "there",
+      "lexical_entry_id": "w_there",
+      "ordinal": 8,
+      "phonetic_uk": "ðɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在那里",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very very.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常真正的, 恰好的, 十足的, 特有。"
+        }
+      ],
+      "headword": "very",
+      "lexical_entry_id": "w_very",
+      "ordinal": 9,
+      "phonetic_uk": "'veri",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "真正的, 恰好的, 十足的, 特有的",
+          "pos": "a."
+        },
+        {
+          "gloss": "非常, 完全",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

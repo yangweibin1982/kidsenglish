@@ -1,0 +1,125 @@
+{
+  "title": "What can you do?",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can draw.",
+          "origin": "curated:u4-draw",
+          "zh": "我会画画。"
+        }
+      ],
+      "headword": "draw",
+      "lexical_entry_id": "w_draw",
+      "ordinal": 1,
+      "phonetic_uk": "drɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "画画",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can write.",
+          "origin": "template:t-v-can",
+          "zh": "我会写字。"
+        },
+        {
+          "en": "Let's write together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起写字吧。"
+        }
+      ],
+      "headword": "write",
+      "lexical_entry_id": "w_write",
+      "ordinal": 2,
+      "phonetic_uk": "rait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "写字",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Read after me.",
+          "origin": "curated:u4-read",
+          "zh": "跟我读。"
+        }
+      ],
+      "headword": "read",
+      "lexical_entry_id": "w_read",
+      "ordinal": 3,
+      "phonetic_uk": "ri:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "读",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can sing.",
+          "origin": "curated:u4-sing",
+          "zh": "我会唱歌。"
+        }
+      ],
+      "headword": "sing",
+      "lexical_entry_id": "w_sing",
+      "ordinal": 4,
+      "phonetic_uk": "siŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "唱歌",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's dance!",
+          "origin": "curated:u4-dance",
+          "zh": "我们一起跳舞吧！"
+        }
+      ],
+      "headword": "dance",
+      "lexical_entry_id": "w_dance",
+      "ordinal": 5,
+      "phonetic_uk": "dæns. dɑ:ns",
+      "phonetic_us": null,
+      "phonics_split": "dan·ce",
+      "senses": [
+        {
+          "gloss": "跳舞",
+          "pos": "v."
+        },
+        {
+          "gloss": "舞蹈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "title": "Music",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very all.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常所有的, 全部的, 一切。"
+        }
+      ],
+      "headword": "all",
+      "lexical_entry_id": "w_all",
+      "ordinal": 1,
+      "phonetic_uk": "ɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "所有的, 全部的, 一切的",
+          "pos": "a."
+        },
+        {
+          "gloss": "全部, 全然",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bag.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的袋子。"
+        },
+        {
+          "en": "I can see a bag.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到袋子。"
+        }
+      ],
+      "headword": "bag",
+      "lexical_entry_id": "w_bag",
+      "ordinal": 2,
+      "phonetic_uk": "bæg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "袋子、包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my city.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的城市, 市。"
+        },
+        {
+          "en": "I can see a city.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到城市, 市。"
+        }
+      ],
+      "headword": "city",
+      "lexical_entry_id": "w_city",
+      "ordinal": 3,
+      "phonetic_uk": "'siti",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "城市, 市",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my gold.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黄金, 钱财, 金块, 金色, 宝贵。"
+        },
+        {
+          "en": "I can see a gold.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黄金, 钱财, 金块, 金色, 宝贵。"
+        }
+      ],
+      "headword": "gold",
+      "lexical_entry_id": "w_gold",
+      "ordinal": 4,
+      "phonetic_uk": "gəuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "黄金, 钱财, 金块, 金色, 宝贵",
+          "pos": "n."
+        },
+        {
+          "gloss": "金的, 似金的, 金色的, 金制的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my guitar.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的吉他。"
+        },
+        {
+          "en": "I can see a guitar.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到吉他。"
+        }
+      ],
+      "headword": "guitar",
+      "lexical_entry_id": "w_guitar",
+      "ordinal": 5,
+      "phonetic_uk": "gi'tɑ:",
+      "phonetic_us": null,
+      "phonics_split": "gui·tar",
+      "senses": [
+        {
+          "gloss": "吉他",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my piano.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钢琴。"
+        },
+        {
+          "en": "I can see a piano.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钢琴。"
+        }
+      ],
+      "headword": "piano",
+      "lexical_entry_id": "w_piano",
+      "ordinal": 6,
+      "phonetic_uk": "pi'ɑ:nəu",
+      "phonetic_us": null,
+      "phonics_split": "pi·ano",
+      "senses": [
+        {
+          "gloss": "钢琴",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My father can play the guitar.",
+          "origin": "curated:primary-4b-guitar",
+          "zh": "我爸爸会弹吉他。"
+        }
+      ],
+      "headword": "play the guitar",
+      "lexical_entry_id": "w_play_the_guitar",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "弹吉他",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "She plays the violin every day.",
+          "origin": "curated:primary-4b-violin",
+          "zh": "她每天拉小提琴。"
+        }
+      ],
+      "headword": "play the violin",
+      "lexical_entry_id": "w_play_the_violin",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拉小提琴",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my violin.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小提琴。"
+        },
+        {
+          "en": "I can see a violin.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小提琴。"
+        }
+      ],
+      "headword": "violin",
+      "lexical_entry_id": "w_violin",
+      "ordinal": 9,
+      "phonetic_uk": ".vaiə'lin",
+      "phonetic_us": null,
+      "phonics_split": "vi·o·lin",
+      "senses": [
+        {
+          "gloss": "小提琴",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Whose bag is this?",
+          "origin": "curated:p-pron-whose",
+          "zh": "这是谁的书包？"
+        }
+      ],
+      "headword": "whose",
+      "lexical_entry_id": "w_whose",
+      "ordinal": 10,
+      "phonetic_uk": "hu:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "谁的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very wonderful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常令人惊奇的, 奇妙的, 极好。"
+        }
+      ],
+      "headword": "wonderful",
+      "lexical_entry_id": "w_wonderful",
+      "ordinal": 11,
+      "phonetic_uk": "'wʌndəful",
+      "phonetic_us": null,
+      "phonics_split": "won·der·ful",
+      "senses": [
+        {
+          "gloss": "令人惊奇的, 奇妙的, 极好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "title": "Touch and feel",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my blind.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蒙蔽物, 窗帘。"
+        },
+        {
+          "en": "I can see a blind.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蒙蔽物, 窗帘。"
+        }
+      ],
+      "headword": "blind",
+      "lexical_entry_id": "w_blind",
+      "ordinal": 1,
+      "phonetic_uk": "blaind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蒙蔽物, 窗帘",
+          "pos": "n."
+        },
+        {
+          "gloss": "盲目的, 瞎的, 不加思考的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can feel.",
+          "origin": "template:t-v-can",
+          "zh": "我会感觉, 觉得, 触摸, 以为。"
+        },
+        {
+          "en": "Let's feel together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起感觉, 觉得, 触摸, 以为吧。"
+        }
+      ],
+      "headword": "feel",
+      "lexical_entry_id": "w_feel",
+      "ordinal": 2,
+      "phonetic_uk": "fi:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "感觉, 觉得, 触摸, 以为",
+          "pos": "vt."
+        },
+        {
+          "gloss": "有知觉, 摸索, 同情",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very hard.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实。"
+        }
+      ],
+      "headword": "hard",
+      "lexical_entry_id": "w_hard",
+      "ordinal": 3,
+      "phonetic_uk": "hɑ:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的",
+          "pos": "a."
+        },
+        {
+          "gloss": "坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my noise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的噪音, 杂音, 响声, 喧闹。"
+        },
+        {
+          "en": "I can see a noise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到噪音, 杂音, 响声, 喧闹。"
+        }
+      ],
+      "headword": "noise",
+      "lexical_entry_id": "w_noise",
+      "ordinal": 4,
+      "phonetic_uk": "nɒiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "噪音, 杂音, 响声, 喧闹",
+          "pos": "n."
+        },
+        {
+          "gloss": "谣传",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very soft.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币。"
+        }
+      ],
+      "headword": "soft",
+      "lexical_entry_id": "w_soft",
+      "ordinal": 5,
+      "phonetic_uk": "sɒft",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的",
+          "pos": "a."
+        },
+        {
+          "gloss": "柔软的东西, 笨人, 纸币",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very thick.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 过分的, 口齿不清。"
+        }
+      ],
+      "headword": "thick",
+      "lexical_entry_id": "w_thick",
+      "ordinal": 6,
+      "phonetic_uk": "θik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 过分的, 口齿不清的",
+          "pos": "a."
+        },
+        {
+          "gloss": "厚地, 密地, 浓浓地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am thin.",
+          "origin": "curated:u6-thin",
+          "zh": "我很瘦。"
+        }
+      ],
+      "headword": "thin",
+      "lexical_entry_id": "w_thin",
+      "ordinal": 7,
+      "phonetic_uk": "θin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "瘦的",
+          "pos": "a."
+        },
+        {
+          "gloss": "薄的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Touch your nose.",
+          "origin": "curated:u3-touch",
+          "zh": "摸摸你的鼻子。"
+        }
+      ],
+      "headword": "touch",
+      "lexical_entry_id": "w_touch",
+      "ordinal": 8,
+      "phonetic_uk": "tʌtʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "摸",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "She is young.",
+          "origin": "curated:g2u5-young",
+          "zh": "她很年轻。"
+        }
+      ],
+      "headword": "young",
+      "lexical_entry_id": "w_young",
+      "ordinal": 9,
+      "phonetic_uk": "jʌŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "年轻的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

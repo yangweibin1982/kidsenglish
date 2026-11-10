@@ -1,0 +1,162 @@
+{
+  "title": "What is your favourite toy?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my doll.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的洋娃娃, 无头脑的美丽女人。"
+        },
+        {
+          "en": "I can see a doll.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到洋娃娃, 无头脑的美丽女人。"
+        }
+      ],
+      "headword": "doll",
+      "lexical_entry_id": "w_doll",
+      "ordinal": 1,
+      "phonetic_uk": "dɒl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洋娃娃, 无头脑的美丽女人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My toy plane can fly high.",
+          "origin": "curated:g2an-u3-toy-plane",
+          "zh": "我的玩具飞机飞得很高。"
+        }
+      ],
+      "headword": "toy plane",
+      "lexical_entry_id": "w_toy_plane",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩具飞机",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The toy bear is soft.",
+          "origin": "curated:g2an-u3-toy-bear",
+          "zh": "玩具熊很软。"
+        }
+      ],
+      "headword": "toy bear",
+      "lexical_entry_id": "w_toy_bear",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩具熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ball.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的球, 舞会, 球状物。"
+        },
+        {
+          "en": "I can see a ball.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到球, 舞会, 球状物。"
+        }
+      ],
+      "headword": "ball",
+      "lexical_entry_id": "w_ball",
+      "ordinal": 4,
+      "phonetic_uk": "bɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "球, 舞会, 球状物",
+          "pos": "n."
+        },
+        {
+          "gloss": "捏成球形",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my robot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的机械人, 自动机械, 机械般工作的人。"
+        },
+        {
+          "en": "I can see a robot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到机械人, 自动机械, 机械般工作的人。"
+        }
+      ],
+      "headword": "robot",
+      "lexical_entry_id": "w_robot",
+      "ordinal": 5,
+      "phonetic_uk": "'rəubət",
+      "phonetic_us": null,
+      "phonics_split": "ro·bot",
+      "senses": [
+        {
+          "gloss": "机械人, 自动机械, 机械般工作的人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my jigsaw puzzle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的七巧板, 智力拼图玩具; 拼板玩具。"
+        },
+        {
+          "en": "I can see a jigsaw puzzle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到七巧板, 智力拼图玩具; 拼板玩具。"
+        }
+      ],
+      "headword": "jigsaw puzzle",
+      "lexical_entry_id": "w_jigsaw_puzzle",
+      "ordinal": 6,
+      "phonetic_uk": "ˈdʒɪgˌsɔ: ˈpʌzl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "七巧板, 智力拼图玩具; 拼板玩具",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

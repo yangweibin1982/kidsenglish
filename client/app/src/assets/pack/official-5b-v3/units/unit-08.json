@@ -1,0 +1,462 @@
+{
+  "title": "Buying clothes",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Which is your pen?",
+          "origin": "curated:p-pron-which",
+          "zh": "哪支是你的钢笔？"
+        }
+      ],
+      "headword": "which",
+      "lexical_entry_id": "w_which",
+      "ordinal": 1,
+      "phonetic_uk": "hwitʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哪一个, 那一个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “trousers”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“trousers”。"
+        }
+      ],
+      "headword": "trousers",
+      "lexical_entry_id": "w_trousers",
+      "ordinal": 2,
+      "phonetic_uk": "'trauzəz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "裤子, 长裤",
+          "pos": "pl."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my size.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的大小, 尺寸, 规模, 尺码, 能力, 浆料。"
+        },
+        {
+          "en": "I can see a size.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到大小, 尺寸, 规模, 尺码, 能力, 浆料。"
+        }
+      ],
+      "headword": "size",
+      "lexical_entry_id": "w_size",
+      "ordinal": 3,
+      "phonetic_uk": "saiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大小, 尺寸, 规模, 尺码, 能力, 浆料",
+          "pos": "n."
+        },
+        {
+          "gloss": "上浆, 依大小排列",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sweater.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的毛衣, 毛线衫, 运动衫, 出汗者。"
+        },
+        {
+          "en": "I can see a sweater.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到毛衣, 毛线衫, 运动衫, 出汗者。"
+        }
+      ],
+      "headword": "sweater",
+      "lexical_entry_id": "w_sweater",
+      "ordinal": 4,
+      "phonetic_uk": "'swetə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "毛衣, 毛线衫, 运动衫, 出汗者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my coat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的外套。"
+        },
+        {
+          "en": "I can see a coat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到外套。"
+        }
+      ],
+      "headword": "coat",
+      "lexical_entry_id": "w_coat",
+      "ordinal": 5,
+      "phonetic_uk": "kəut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "外套",
+          "pos": "n."
+        },
+        {
+          "gloss": "外面覆盖, 给...穿外套",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shoe.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鞋, 靴, 外胎。"
+        },
+        {
+          "en": "I can see a shoe.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鞋, 靴, 外胎。"
+        }
+      ],
+      "headword": "shoe",
+      "lexical_entry_id": "w_shoe",
+      "ordinal": 6,
+      "phonetic_uk": "ʃu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鞋, 靴, 外胎",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...穿鞋, 为马钉蹄铁",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my emperor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的皇帝, 君主。"
+        },
+        {
+          "en": "I can see an emperor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到皇帝, 君主。"
+        }
+      ],
+      "headword": "emperor",
+      "lexical_entry_id": "w_emperor",
+      "ordinal": 7,
+      "phonetic_uk": "'empərə",
+      "phonetic_us": null,
+      "phonics_split": "em·per·or",
+      "senses": [
+        {
+          "gloss": "皇帝, 君主",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very only.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常唯一的, 仅有的, 最佳。"
+        }
+      ],
+      "headword": "only",
+      "lexical_entry_id": "w_only",
+      "ordinal": 8,
+      "phonetic_uk": "'əunli",
+      "phonetic_us": null,
+      "phonics_split": "on·ly",
+      "senses": [
+        {
+          "gloss": "唯一的, 仅有的, 最佳的",
+          "pos": "a."
+        },
+        {
+          "gloss": "只有, 仅仅, 只能",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nod.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的点头, 打盹, 晃动。"
+        },
+        {
+          "en": "I can see a nod.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到点头, 打盹, 晃动。"
+        }
+      ],
+      "headword": "nod",
+      "lexical_entry_id": "w_nod",
+      "ordinal": 9,
+      "phonetic_uk": "nɒd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "点头, 打盹, 晃动",
+          "pos": "n."
+        },
+        {
+          "gloss": "点头, 打盹",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my smile.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的微笑, 喜色, 笑容。"
+        },
+        {
+          "en": "I can see a smile.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到微笑, 喜色, 笑容。"
+        }
+      ],
+      "headword": "smile",
+      "lexical_entry_id": "w_smile",
+      "ordinal": 10,
+      "phonetic_uk": "smail",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "微笑, 喜色, 笑容",
+          "pos": "n."
+        },
+        {
+          "gloss": "微笑, 觉得好笑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my money.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的金钱, 一笔款, 财富, 货币, 金额。"
+        },
+        {
+          "en": "I can see a money.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到金钱, 一笔款, 财富, 货币, 金额。"
+        }
+      ],
+      "headword": "money",
+      "lexical_entry_id": "w_money",
+      "ordinal": 11,
+      "phonetic_uk": "'mʌni",
+      "phonetic_us": null,
+      "phonics_split": "mon·ey",
+      "senses": [
+        {
+          "gloss": "金钱, 一笔款, 财富, 货币, 金额",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my keep.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生计, 维持, 保持。"
+        },
+        {
+          "en": "I can see a keep.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生计, 维持, 保持。"
+        }
+      ],
+      "headword": "keep",
+      "lexical_entry_id": "w_keep",
+      "ordinal": 12,
+      "phonetic_uk": "ki:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "生计, 维持, 保持",
+          "pos": "n."
+        },
+        {
+          "gloss": "保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my laugh.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的笑, 笑声。"
+        },
+        {
+          "en": "I can see a laugh.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到笑, 笑声。"
+        }
+      ],
+      "headword": "laugh",
+      "lexical_entry_id": "w_laugh",
+      "ordinal": 13,
+      "phonetic_uk": "lɑ:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "笑, 笑声",
+          "pos": "n."
+        },
+        {
+          "gloss": "笑, 大笑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Try on the red coat.",
+          "origin": "curated:g5b-u8-try-on",
+          "zh": "试试这件红外套。"
+        }
+      ],
+      "headword": "try on",
+      "lexical_entry_id": "w_try_on",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "试穿",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Put on your scarf.",
+          "origin": "curated:g5b-u8-put-on",
+          "zh": "围上你的围巾。"
+        }
+      ],
+      "headword": "put on",
+      "lexical_entry_id": "w_put_on",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "穿上",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “keep quiet”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“keep quiet”。"
+        }
+      ],
+      "headword": "keep quiet",
+      "lexical_entry_id": "w_keep_quiet",
+      "ordinal": 16,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "保持安静",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have a look”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have a look”。"
+        }
+      ],
+      "headword": "have a look",
+      "lexical_entry_id": "w_have_a_look",
+      "ordinal": 17,
+      "phonetic_uk": "hæv ə luk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看一看",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

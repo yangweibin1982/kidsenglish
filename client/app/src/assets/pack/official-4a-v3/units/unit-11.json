@@ -1,0 +1,259 @@
+{
+  "title": "Shapes",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my circle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圆周, 社交圈, 循环, 范围。"
+        },
+        {
+          "en": "I can see a circle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圆周, 社交圈, 循环, 范围。"
+        }
+      ],
+      "headword": "circle",
+      "lexical_entry_id": "w_circle",
+      "ordinal": 1,
+      "phonetic_uk": "'sə:kl",
+      "phonetic_us": null,
+      "phonics_split": "cir·cle",
+      "senses": [
+        {
+          "gloss": "圆周, 社交圈, 循环, 范围",
+          "pos": "n."
+        },
+        {
+          "gloss": "围着, 环绕",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my picture.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的图画。"
+        },
+        {
+          "en": "I can see a picture.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到图画。"
+        }
+      ],
+      "headword": "picture",
+      "lexical_entry_id": "w_picture",
+      "ordinal": 2,
+      "phonetic_uk": "'piktʃə",
+      "phonetic_us": null,
+      "phonics_split": "pic·ture",
+      "senses": [
+        {
+          "gloss": "图画",
+          "pos": "n."
+        },
+        {
+          "gloss": "照片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rectangle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的长方形, 矩形。"
+        },
+        {
+          "en": "I can see a rectangle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到长方形, 矩形。"
+        }
+      ],
+      "headword": "rectangle",
+      "lexical_entry_id": "w_rectangle",
+      "ordinal": 3,
+      "phonetic_uk": "'rektæŋgl",
+      "phonetic_us": null,
+      "phonics_split": "rec·tan·gle",
+      "senses": [
+        {
+          "gloss": "长方形, 矩形",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shape.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的形状, 形态, 外形, 形式, 身材。"
+        },
+        {
+          "en": "I can see a shape.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到形状, 形态, 外形, 形式, 身材。"
+        }
+      ],
+      "headword": "shape",
+      "lexical_entry_id": "w_shape",
+      "ordinal": 4,
+      "phonetic_uk": "ʃeip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "形状, 形态, 外形, 形式, 身材",
+          "pos": "n."
+        },
+        {
+          "gloss": "定形, 使成形, 塑造, 计划, 使符合",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my square.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的正方形, 街区, 广场, 平方, 直角尺。"
+        },
+        {
+          "en": "I can see a square.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到正方形, 街区, 广场, 平方, 直角尺。"
+        }
+      ],
+      "headword": "square",
+      "lexical_entry_id": "w_square",
+      "ordinal": 5,
+      "phonetic_uk": "skwɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "正方形, 街区, 广场, 平方, 直角尺",
+          "pos": "n."
+        },
+        {
+          "gloss": "正方形的, 正直的, 公正的, 平方的, 方正的, 结清的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can see a star.",
+          "origin": "curated:g2u10-star",
+          "zh": "我看见一颗星星。"
+        }
+      ],
+      "headword": "star",
+      "lexical_entry_id": "w_star",
+      "ordinal": 6,
+      "phonetic_uk": "stɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "星星",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Today is Monday.",
+          "origin": "curated:g2u1-today",
+          "zh": "今天是星期一。"
+        }
+      ],
+      "headword": "today",
+      "lexical_entry_id": "w_today",
+      "ordinal": 7,
+      "phonetic_uk": "tə'dei",
+      "phonetic_us": null,
+      "phonics_split": "to·day",
+      "senses": [
+        {
+          "gloss": "今天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my triangle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的三角形, 三个一组, 三角关系。"
+        },
+        {
+          "en": "I can see a triangle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到三角形, 三个一组, 三角关系。"
+        }
+      ],
+      "headword": "triangle",
+      "lexical_entry_id": "w_triangle",
+      "ordinal": 8,
+      "phonetic_uk": "'traiæŋgl",
+      "phonetic_us": null,
+      "phonics_split": "tri·an·gle",
+      "senses": [
+        {
+          "gloss": "三角形, 三个一组, 三角关系",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my well.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的井, 泉水, 源泉, 好。"
+        },
+        {
+          "en": "I can see a well.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到井, 泉水, 源泉, 好。"
+        }
+      ],
+      "headword": "well",
+      "lexical_entry_id": "w_well",
+      "ordinal": 9,
+      "phonetic_uk": "wel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "井, 泉水, 源泉, 好",
+          "pos": "n."
+        },
+        {
+          "gloss": "涌出",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

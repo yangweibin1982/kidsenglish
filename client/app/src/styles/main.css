@@ -1,0 +1,2340 @@
+/* 战机英语应用壳基础样式：平板优先（R14）＋ 安全区基础适配（横竖屏不破相，深度适配归后续 UI 票）
+ * 美术风格：案 C 蜡笔绘本（P-05 拍板）——本文件是前端 token 唯一落点；
+ * 风格圣经（docs/art-style-bible.md）是参数唯一事实源，两处同值禁漂移。 */
+
+:root {
+  /* 安全区：viewport-fit=cover 时由 WebView 注入（刘海屏/圆角/手势条） */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+
+  /* 壳层语义色（案 C 化，2026-10-26；旧蓝灰系 → 暖纸棕系，对照表见圣经 §2） */
+  --brand: #356e88; /* 蜡笔蓝文字档（旧 #1e6fd9；on 米纸 5.08:1） */
+  --text: #4a3a2a; /* 暖棕深墨（旧 #1c2330；on 米纸 9.84:1） */
+  --muted: #75654f; /* 暖灰棕次级（旧 #5c6675；on 米纸 5.09:1） */
+  --card-bg: #fff9ec; /* 奶油纸卡（旧 #f3f6fb） */
+  --border: #e7dbc2; /* 纸边淡棕（旧 #d8e0ec；仅弱分隔，交互描边用 --ke-line） */
+
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #7fb6ce; /* 蜡笔蓝暗色提亮档（on 夜纸 7.14:1） */
+    --text: #efe6d6; /* 暖米白（旧 #e8ecf3；on 夜纸 12.77:1） */
+    --muted: #b8ab94; /* 暖灰米（旧 #9aa5b5；on 夜纸 7.0:1） */
+    --card-bg: #332e26; /* 夜纸卡（旧 #232b3a） */
+    --border: #4a4236; /* 夜纸边（旧 #38445a） */
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+  color: var(--text);
+  background: transparent;
+  overscroll-behavior: none; /* 原生壳内禁橡皮筋回弹露底 */
+  -webkit-tap-highlight-color: transparent;
+  font-size: clamp(15px, 1.6vw, 18px); /* 平板优先：随视口缩放 */
+}
+
+#app {
+  min-height: 100vh;
+  min-height: 100dvh;
+}
+
+/* 全站焦点环（可达性硬指标）：box-shadow 通道，不与足迹/对错的 outline 通道打架 */
+:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--ke-sky-deep);
+}
+
+/* 减动效偏好：按压缩放/过渡全量降级（interaction-a11y 硬指标） */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+.app-shell {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding:
+    calc(12px + var(--safe-top))
+    calc(16px + var(--safe-right))
+    calc(16px + var(--safe-bottom))
+    calc(16px + var(--safe-left));
+  max-width: 960px;
+  margin: 0 auto;
+  background: var(--ke-paper); /* 米纸全局底（暗色随 --ke-paper-night，见 media query） */
+}
+
+@media (prefers-color-scheme: dark) {
+  .app-shell {
+    background: var(--ke-paper-night); /* 夜纸底：深棕灰非纯黑，阴影退场靠纸面色差分层 */
+  }
+}
+
+.app-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 16px;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 1.4em;
+  color: var(--brand);
+}
+
+.app-version {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.85em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 五域导航：grid auto-fit 自适应列数，横竖屏自动重排不破相 */
+.domain-nav {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.domain-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px;
+  border: 2px solid var(--border); /* 纸边淡棕：壳层卡片弱描边（非交互边界，可达性靠文字色） */
+  border-radius: 12px;
+  background: var(--card-bg);
+  text-decoration: none;
+  color: inherit;
+  min-height: 64px;
+}
+
+.domain-card:active {
+  opacity: 0.7;
+}
+
+.domain-label {
+  font-weight: 600;
+}
+
+.domain-hint {
+  color: var(--muted);
+  font-size: 0.8em;
+}
+
+.app-main {
+  flex: 1;
+}
+
+.view {
+  padding: 8px 0;
+  line-height: 1.7; /* 中文正文 ≥1.7（儿童可读性基线） */
+}
+
+.view h2 {
+  margin-top: 0;
+}
+
+.view code {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 0.9em;
+}
+
+/*
+ * S5 演出域独立画布挂载点（App.vue 兄弟节点）：
+ * 空态不可见不挡交互；PixiJS canvas 挂入后自行覆盖并接管 pointer-events。
+ */
+#stage-canvas-root {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* ==========================================================================
+ * 学习流域壳（Ticket 10 注册的父级布局；Ticket 11 复用）
+ * ========================================================================== */
+
+.learning-shell-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.learning-back {
+  color: var(--ke-sky-deep); /* 链接文字档（原 --ke-sky 原色 on 纸 2.79 不达正文 4.5） */
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 12px; /* 儿童可点 ≥44px */
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.learning-back:active {
+  transform: scale(0.96);
+}
+
+/* 词卡详情页（票 56；wordsfunny 信息架构吸收；圣经 token 零新色值） */
+.wd {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.wd-head {
+  display: flex;
+}
+
+.wd-card {
+  background: var(--ke-card);
+  border: 2.5px solid var(--ke-line);
+  border-radius: var(--ke-radius);
+  box-shadow: var(--ke-shadow);
+  padding: 22px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  text-align: center;
+}
+
+.wd-card--end {
+  padding: 34px 18px;
+}
+
+.wd-hint {
+  margin: 0;
+  color: var(--ke-ink-soft);
+}
+
+.wd-headline {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.wd-word {
+  font-size: 2.4em;
+  font-weight: 700;
+  color: var(--ke-ink);
+}
+
+.wd-speak {
+  font-family: inherit;
+  font-size: 1em;
+  color: var(--ke-sky-deep);
+  background: var(--ke-sky-wash);
+  border: 2px solid var(--ke-sky-deep);
+  border-radius: 999px;
+  padding: 8px 16px;
+  min-height: var(--ke-hit);
+  cursor: pointer;
+}
+
+.wd-phonetic {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  font-size: 0.95em;
+}
+
+.wd-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.wd-sense {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+}
+
+.wd-gloss {
+  color: var(--ke-ink);
+  font-weight: 700;
+  font-size: 1.15em;
+}
+
+.wd-example {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 0;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 6px 10px;
+}
+
+.wd-example:active {
+  background: var(--ke-sun-wash);
+}
+
+.wd-example-en {
+  color: var(--ke-ink);
+}
+
+.wd-example-zh {
+  color: var(--ke-ink-soft);
+  font-size: 0.85em;
+}
+
+.wd-extra {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  background: var(--ke-sun-wash);
+  border-radius: 12px;
+  padding: 10px 14px;
+  text-align: left;
+}
+
+.wd-extra-label {
+  color: var(--ke-warn-fg);
+  font-weight: 700;
+  font-size: 0.85em;
+}
+
+.wd-extra-body,
+.wd-extra-item {
+  color: var(--ke-ink);
+  font-size: 0.92em;
+}
+
+.wd-atlas-source {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  font-size: 0.7em;
+}
+
+.learning-shell-title {
+  margin: 0;
+}
+
+.view-link {
+  color: var(--ke-sky-deep);
+  font-weight: 600;
+}
+
+/* ==========================================================================
+ * 案 C 蜡笔绘本 token 全套（P-05 定案三主色 #5B9BB5/#E8764F/#F0C05A；
+ * Ticket 15 全量扩展：纸底/线稿/语义/深浅态。圣经=docs/art-style-bible.md）
+ * 儿童卡面固定亮底不随暗色反转（色彩识别稳定）；对比度全部实算达 WCAG AA。
+ * ========================================================================== */
+
+:root {
+  /* 三主色（装饰面/大面积涂色） */
+  --ke-sky: #5b9bb5; /* 蜡笔蓝：主操作底 */
+  --ke-coral: #e8764f; /* 蜡笔橘红：强调装饰 */
+  --ke-sun: #f0c05a; /* 蜡笔黄：高亮/星星/奖励 */
+  --ke-grass: #8fbe6e; /* 蜡笔绿：插画植被/角球装饰（案 C 定义色，禁做描边与文字） */
+  /* 主色深档（文字承载面/描边专用，保对比达标） */
+  --ke-sky-deep: #356e88; /* on 米纸 5.08；白字 on 它 5.36 */
+  --ke-coral-deep: #d96843; /* 白字 3.49（大字档）；描边 on 奶油卡 3.33 */
+  /* 淡彩晕染底（徽章/语义淡底家族） */
+  --ke-sky-wash: #e3f0f2; /* 示意天空淡彩 */
+  --ke-coral-wash: #fbe3d6; /* 番茄淡晕 */
+  --ke-sun-wash: #fcf4de; /* 蛋黄淡晕 */
+  /* 纸感 */
+  --ke-paper: #fbf3df; /* 米纸全局底（旧 #fdf8ef → 案 C 定案色） */
+  --ke-paper-night: #26221c; /* 夜纸底（深棕灰非纯黑，仅壳层随暗色） */
+  --ke-card: #fff9ec; /* 奶油纸卡面（儿童卡固定亮底） */
+  --ke-line: #7a5a3d; /* 暖棕线稿（描边 5.66 / 做文字 5.66，双达标） */
+  --ke-line-soft: #e7dbc2; /* 纸边淡棕（弱分隔装饰档，禁做交互边界） */
+  /* 文字 */
+  --ke-ink: #5a4a38; /* 暖棕深墨正文（旧 #3a3f4a 冷灰 → 案 C 暖棕化；on 奶油卡 8.10） */
+  --ke-ink-soft: #75654f; /* 暖灰棕次级（旧 #7a7f8a；on 米纸 5.09） */
+  --ke-on-crayon: #ffffff; /* 蜡笔色块上文字＝纯白（on sky 3.09 大字档；奶油白 2.94 不达标禁用） */
+  /* 语义色三件套（对/错/警示；fg 校准对米纸与淡底双达标） */
+  --ke-ok-bg: #f1f8e9;
+  --ke-ok-fg: #3e7a4e; /* 墨绿蜡笔（4.72 on ok-bg） */
+  --ke-ok-border: #5c9968; /* 叶深（on 奶油卡 3.22 做描边达标） */
+  --ke-no-bg: #fdefe6;
+  --ke-no-fg: #b04a28; /* 砖红蜡笔（4.84 on no-bg） */
+  --ke-no-border: #d96843; /* 与 coral-deep 同值（on 奶油卡 3.33） */
+  --ke-warn-bg: #fcf4de;
+  --ke-warn-fg: #8a6a1f; /* 蜂蜜棕（4.60 on warn-bg） */
+  --ke-warn-border: #e8b84a; /* 装饰档（1.53，禁做交互边界；警示描边用 --ke-no-border） */
+  /* 形状与动效 */
+  --ke-hit: 44px;
+  --ke-radius: 18px;
+  --ke-dur-fast: 150ms; /* 按压/micro */
+  --ke-dur-base: 250ms; /* 展开/收拢 */
+  --ke-ease: cubic-bezier(0.2, 0, 0, 1);
+  /* 蜡笔硬阴影（纸面厚度感；rgba 与线稿/深红同族，token 化禁裸写） */
+  --ke-shadow: 0 4px 0 rgba(122, 90, 61, 0.22);
+  --ke-shadow-coral: 0 4px 0 rgba(217, 104, 67, 0.25);
+  /* 音节块分色循环（三主色 3-循环，相邻块不同色；c2 用深档承载白字） */
+  --ke-syl-1: var(--ke-sky);
+  --ke-syl-2: var(--ke-coral-deep); /* 原 coral 原色白字 2.94 <3，换深档 3.49 */
+  --ke-syl-3: var(--ke-sun);
+}
+
+.nw {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.nw-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.nw-title {
+  margin: 0;
+}
+
+.nw-sub {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 0.85em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 时间盒倒计时（≤10 分钟，到点即停） */
+.nw-timer {
+  font-size: 1.3em;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--ke-sky-deep); /* 数字文字档（原 sky 原色 2.79 连大字 3:1 都不达） */
+  background: var(--ke-card);
+  border: 2px solid var(--ke-sky-deep);
+  border-radius: 12px;
+  padding: 6px 12px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nw-timer--urgent {
+  color: var(--ke-coral-deep); /* 紧迫＝蜡笔红深档（1.3em bold 大字 3.16≥3） */
+  border-color: var(--ke-coral-deep);
+}
+
+/* 四线三格书写线底纹（票 28 读/拼两阶段共用）：三带四线，线色 --ke-line-soft。
+ * 带高按字体度量近似：升部带≈0.32em、x 高带≈0.5em、降部带≈0.18em（基线≈0.82em），
+ * 线画在背景层（四条 linear-gradient），字号随元素 em 缩放对位。 */
+.nw-grid {
+  --nw-line: var(--ke-line-soft);
+  font-size: 2.6em;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ke-ink);
+  background-image:
+    linear-gradient(var(--nw-line), var(--nw-line)),
+    linear-gradient(var(--nw-line), var(--nw-line)),
+    linear-gradient(var(--nw-line), var(--nw-line)),
+    linear-gradient(var(--nw-line), var(--nw-line));
+  background-repeat: no-repeat;
+  background-size: 100% 2px;
+  background-position:
+    0 0,
+    0 0.32em,
+    0 0.82em,
+    0 100%;
+  padding: 0 6px;
+  min-height: 1em;
+}
+
+/* 拼阶段空格槽底格：字号由视图按词长注入（375px 不破版），行内槽排版 */
+.nw-grid--fill {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+/* 读阶段整词行（音节 span 顺排不换行；词形即视觉主体） */
+.nw-word {
+  display: inline-block;
+}
+
+/* 音节分段横线：颜色与音节块分色一致（--ke-syl-1/2/3），标注读阶段分段 */
+.nw-syl {
+  display: inline-block;
+  border-bottom: 4px solid var(--ke-syl-1);
+  padding: 0 1px;
+}
+
+.nw-syl--c2 {
+  border-bottom-color: var(--ke-syl-2);
+}
+
+.nw-syl--c3 {
+  border-bottom-color: var(--ke-syl-3);
+}
+
+/* Q 版箭头：蜡笔红深档，温和上下浮动引导视线到音节块行（reduced-motion 全局降级） */
+.nw-arrow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  animation: nw-arrow-bob 1.6s var(--ke-ease) infinite;
+}
+
+.nw-arrow-stem {
+  width: 4px;
+  height: 14px;
+  border-radius: 2px;
+  background: var(--ke-coral-deep);
+}
+
+.nw-arrow-head {
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 10px solid var(--ke-coral-deep);
+}
+
+@keyframes nw-arrow-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(5px);
+  }
+}
+
+/* 词卡 */
+.nw-card {
+  background: var(--ke-card);
+  border: 2px solid var(--ke-line); /* 暖棕线稿统一描边（案 C 造型语言） */
+  border-radius: var(--ke-radius);
+  padding: 20px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  box-shadow: var(--ke-shadow); /* 蜡笔硬阴影 token */
+}
+
+.nw-card--boss {
+  border-color: var(--ke-coral-deep);
+  box-shadow: var(--ke-shadow-coral);
+}
+
+.nw-card--end {
+  border-style: dashed;
+  box-shadow: none;
+}
+
+.nw-boss-title {
+  margin: 0;
+  color: var(--ke-no-fg); /* boss 标题砖红深档（1em 级标题 4.92；原 coral 2.94 不达标） */
+}
+
+.nw-hint {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  text-align: center;
+}
+
+/* 音节块行（读阶段：点块播块链），点击高亮足迹，≥44px 可点 */
+.nw-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px;
+}
+
+.nw-block {
+  font-family: inherit;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--ke-on-crayon);
+  border: none;
+  border-radius: 14px;
+  padding: 10px 18px;
+  min-height: var(--ke-hit);
+  min-width: var(--ke-hit);
+  cursor: pointer;
+  transition: transform var(--ke-dur-fast) var(--ke-ease);
+}
+
+.nw-block:active {
+  transform: scale(0.94);
+}
+
+.nw-block--c1 {
+  background: var(--ke-syl-1);
+}
+
+.nw-block--c2 {
+  background: var(--ke-syl-2);
+}
+
+.nw-block--c3 {
+  background: var(--ke-syl-3);
+  color: var(--ke-ink); /* 黄底白字对比不足，儿童可读性切深墨（5.01） */
+}
+
+/* 点读足迹：已听过的块打勾（仅展示，不考核）；叶深描边 on 奶油卡 3.22 达标 */
+.nw-block--heard {
+  outline: 3px solid var(--ke-ok-border);
+  outline-offset: 3px;
+}
+
+.nw-block--heard::after {
+  content: ' ✓';
+  font-size: 0.6em;
+  vertical-align: super;
+}
+
+/* 拼阶段空格槽：一格一字母；空槽虚线框、已填实线框（叶深＝拼对反馈）。
+ * 非交互面（选项按钮才是命中面），尺寸随 --nw 格字号 em 缩放。 */
+.nw-fill-slot {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 1.1em;
+  height: 1em;
+  padding-bottom: 0.18em; /* 字母底贴基线（≈0.82em 线） */
+  border: 2px dashed var(--ke-line-soft);
+  border-radius: 6px;
+  line-height: 1;
+  color: var(--ke-ink);
+}
+
+.nw-fill-slot--done {
+  border-style: solid;
+  border-color: var(--ke-ok-border); /* 已填＝叶深实线（拼对反馈） */
+}
+
+/* 拼阶段选项按钮：单字母大按钮，命中 ≥44px；蛋黄淡晕纸面＋暖棕描边 */
+.nw-fill-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: center;
+}
+
+.nw-fill-option {
+  font-family: inherit;
+  font-size: 1.6em;
+  font-weight: 700;
+  width: 64px;
+  height: 64px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ke-ink);
+  background: var(--ke-sun-wash);
+  border: 2px solid var(--ke-line);
+  border-radius: 14px;
+  cursor: pointer;
+  transition: transform var(--ke-dur-fast) var(--ke-ease);
+}
+
+.nw-fill-option:active {
+  transform: scale(0.94);
+}
+
+/* 连错 2 次正确项轻微高亮防挫败（票 28）：叶深描边（on 奶油卡 3.22 达标） */
+.nw-fill-option--hint {
+  border-color: var(--ke-ok-border);
+  outline: 3px solid var(--ke-ok-border);
+  outline-offset: 2px;
+}
+
+/* 词义呈现（票 51）：词性徽章＋释义＋音标＋双语例句——读/整步主块与拼步紧凑行共用 */
+.nw-meaning {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  text-align: center;
+}
+
+.nw-meaning-main,
+.nw-fill-meaning {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+}
+
+.nw-pos {
+  font-size: 0.75em;
+  font-weight: 700;
+  color: var(--ke-sky-deep); /* on 奶油卡 5.08 达标；sky 原色文字对比不足禁用 */
+  background: var(--ke-sky-wash);
+  border-radius: 999px;
+  padding: 2px 10px;
+  white-space: nowrap;
+}
+
+.nw-gloss {
+  color: var(--ke-ink);
+  font-weight: 700;
+}
+
+.nw-meaning-main .nw-gloss {
+  font-size: 1.15em;
+}
+
+.nw-phonetic {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  font-size: 0.8em;
+  letter-spacing: 0.02em;
+}
+
+.nw-example {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 0;
+  max-width: 100%;
+}
+
+.nw-example-en {
+  color: var(--ke-ink);
+  font-size: 0.9em;
+}
+
+.nw-example-zh {
+  color: var(--ke-ink-soft);
+  font-size: 0.78em;
+}
+
+/* 拼步紧凑词义行（票 51 裁定 2：支架保留——格下小字不夺考核面焦点） */
+.nw-fill-meaning {
+  margin: 0;
+  font-size: 0.85em;
+}
+
+.nw-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+/* 主按钮：胶囊＋蜡笔蓝；文字 1.25em bold（≥18.75px 大字线，白字 3.09 达大字 3:1） */
+.nw-btn {
+  font-family: inherit;
+  font-size: 1.25em;
+  font-weight: 700;
+  color: var(--ke-on-crayon);
+  background: var(--ke-sky);
+  border: none;
+  border-radius: 999px;
+  padding: 12px 26px;
+  min-height: var(--ke-hit);
+  min-width: var(--ke-hit);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nw-btn:active {
+  opacity: 0.75;
+}
+
+.nw-btn--ghost {
+  background: transparent;
+  color: var(--ke-sky-deep); /* ghost 字/描边用文字档（5.36 on 奶油卡） */
+  border: 2px solid var(--ke-sky-deep);
+}
+
+.nw-btn--link {
+  color: var(--ke-on-crayon);
+}
+
+/* boss 收官：本段词表点读 */
+.nw-boss-words {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.nw-chip {
+  font-family: inherit;
+  font-size: 1.15em;
+  font-weight: 700;
+  color: var(--ke-ink);
+  background: var(--ke-sun-wash); /* 蛋黄淡晕纸片（原纯白硬编码 → token） */
+  border: 2px solid var(--ke-warn-border);
+  border-radius: 999px;
+  padding: 10px 20px;
+  min-height: var(--ke-hit);
+  min-width: var(--ke-hit);
+  cursor: pointer;
+}
+
+.nw-chip:active {
+  background: var(--ke-sun); /* 按压＝涂满蛋黄 */
+}
+
+/* TTS 状态证据行（小字弱化，仅验证用，不做儿童交互面） */
+.nw-tts {
+  color: var(--muted);
+  font-size: 0.75em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ==========================================================================
+ * 复习段·雷霆战机（Ticket 31，spec v1.5 S9 游戏全屏化）
+ * P-12 构图反转：画布不透明化接管全屏视觉场，本区只叠游戏 HUD——
+ * 顶栏（回航/标题/连击/得分/倒计时）＋底部拼写 dock（考核面 testid 不变）。
+ * 案 C token 同值复用；.rv-card 仅留终态页（done/timeup/fatal/empty/loading）。
+ * ========================================================================== */
+
+.rv {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 640px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ---- 顶栏游戏 HUD（全屏画布之上） ---- */
+.rv-hud {
+  position: fixed;
+  top: 10px;
+  left: 12px;
+  right: 12px;
+  z-index: 30;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  pointer-events: none; /* 画布拖动从 chips 间穿过；仅交互件回收事件 */
+}
+
+.rv-hud-left,
+.rv-hud-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  pointer-events: auto;
+  flex-wrap: wrap;
+}
+
+.rv-hud-back {
+  font-weight: 700;
+  font-size: 0.9em;
+  color: var(--ke-sky-deep);
+  background: #fff;
+  border: 2px solid var(--ke-sky-deep);
+  border-radius: 999px;
+  padding: 6px 12px;
+  text-decoration: none;
+  box-shadow: 0 2px 0 rgba(58, 63, 74, 0.18);
+}
+
+.rv-hud-title {
+  font-size: 1.15em;
+  font-weight: 800;
+  color: #fff;
+  text-shadow: 0 2px 0 rgba(58, 63, 74, 0.35);
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.rv-hud-sub {
+  font-size: 0.72em;
+  font-weight: 700;
+  color: #fff;
+  opacity: 0.92;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 倒计时（游戏 chip 化：白底墨字， urgency 珊瑚） */
+.rv-timer {
+  font-size: 1.1em;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: var(--ke-ink);
+  background: #fff;
+  border: 2px solid var(--ke-sky-deep);
+  border-radius: 999px;
+  padding: 6px 14px;
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  box-shadow: 0 2px 0 rgba(58, 63, 74, 0.18);
+}
+
+.rv-timer--urgent {
+  color: #fff;
+  background: var(--ke-coral-deep, #e8764f);
+  border-color: #fff;
+}
+
+/* 得分/连击 chip（票 30；游戏内展示，不进事件流） */
+.rv-score-chip {
+  font-size: 1em;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: #fff;
+  background: var(--ke-coral-deep, #e8764f);
+  border: 2px solid #fff;
+  border-radius: 999px;
+  padding: 5px 13px;
+  min-height: 36px;
+  display: inline-flex;
+  align-items: center;
+  box-shadow: 0 2px 0 rgba(58, 63, 74, 0.18);
+}
+
+.rv-combo-chip {
+  font-size: 0.88em;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+  background: #fff;
+  border: 2px solid var(--ke-sun, #f0c05a);
+  border-radius: 999px;
+  padding: 4px 11px;
+  display: inline-flex;
+  align-items: center;
+  box-shadow: 0 2px 0 rgba(58, 63, 74, 0.18);
+}
+
+/* ---- 终态页（done/timeup/fatal/empty/loading；悬浮于游戏天空之上） ---- */
+.rv-card {
+  position: relative;
+  z-index: 30;
+  background: var(--ke-card);
+  border: 2px solid var(--ke-line);
+  border-radius: var(--ke-radius);
+  padding: 20px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  box-shadow: var(--ke-shadow);
+}
+
+.rv-card--end {
+  border-style: dashed;
+  box-shadow: none;
+}
+
+/* 战报星星收集行（票 32 元循环：击破数＝星星数，纯游戏内） */
+.rv-stars {
+  margin: 0;
+  font-size: 1.35em;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+  animation: rv-stars-bounce 1.6s ease-in-out infinite;
+}
+
+@keyframes rv-stars-bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+/* ---- 底部拼写 dock（考核面；P-12 由居中大卡压缩为游戏 HUD 条） ---- */
+.rv-dock {
+  position: fixed;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 30;
+  width: min(94vw, 780px);
+  background: var(--ke-sky-deep, #3f7492);
+  border: 3px solid #fff;
+  border-radius: 22px;
+  box-shadow: 0 6px 0 rgba(58, 63, 74, 0.28);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rv-dock-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.rv-dock-meaning {
+  font-size: 1.35em;
+  font-weight: 800;
+  color: var(--ke-ink);
+  background: var(--ke-sun, #f0c05a);
+  border-radius: 12px;
+  padding: 6px 16px;
+  box-shadow: inset 0 -3px 0 rgba(58, 63, 74, 0.2);
+  white-space: nowrap;
+}
+
+/* 拼格 dock 内换装：白底墨字（深色面板对比），基类留给终态/预览页纸面 */
+.rv-dock .rv-fill-slot {
+  background: rgba(255, 255, 255, 0.94);
+  border: 2px dashed rgba(255, 255, 255, 0.55);
+  color: var(--ke-ink);
+}
+
+.rv-dock .rv-fill-slot--done {
+  border: 2px solid var(--ke-ok-border);
+}
+
+.rv-dock .rv-fill-option {
+  border: 3px solid #fff;
+  background: var(--ke-sun, #f0c05a);
+  box-shadow: 0 3px 0 rgba(58, 63, 74, 0.3);
+}
+
+.rv-dock .rv-fill-option:disabled {
+  opacity: 0.5;
+}
+
+.rv-dock .rv-fill-option--hint {
+  outline: 3px solid #fff;
+  outline-offset: 2px;
+}
+
+.rv-dock .rv-dock-status {
+  color: rgba(255, 255, 255, 0.92);
+  font-weight: 700;
+}
+
+.rv-dock .rv-dock-replay {
+  border-color: #fff;
+  color: #fff;
+}
+
+.rv-locked .rv-fill-options {
+  pointer-events: none;
+}
+
+/* 拼格：与新词段 nw-fill 同款（虚线空槽/叶深实线已填），字号随词长收缩 */
+.rv-grid--fill {
+  display: flex;
+  gap: 0.12em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.rv-fill-slot {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 1.1em;
+  height: 1em;
+  padding-bottom: 0.18em; /* 字母底贴基线（≈0.82em 线） */
+  border: 2px dashed var(--ke-line-soft);
+  border-radius: 6px;
+  line-height: 1;
+  color: var(--ke-ink);
+}
+
+.rv-fill-slot--done {
+  border-style: solid;
+  border-color: var(--ke-ok-border); /* 已填＝叶深实线（拼对反馈） */
+}
+
+/* 拼格选项：单字母大按钮（镜像新词段 nw-fill-option），蛋黄淡晕纸面＋暖棕描边 */
+.rv-fill-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: center;
+}
+
+.rv-fill-option {
+  font-family: inherit;
+  font-size: 1.5em;
+  font-weight: 700;
+  width: 58px;
+  height: 58px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ke-ink);
+  background: var(--ke-sun-wash);
+  border: 2px solid var(--ke-line);
+  border-radius: 14px;
+  cursor: pointer;
+  transition: transform var(--ke-dur-fast) var(--ke-ease);
+}
+
+.rv-fill-option:disabled {
+  cursor: default;
+  opacity: 0.65;
+}
+
+.rv-fill-option:active:not(:disabled) {
+  transform: scale(0.94);
+}
+
+/* 连错 2 次正确项轻微高亮防挫败（票 28 同源语义） */
+.rv-fill-option--hint {
+  border-color: var(--ke-ok-border);
+  outline: 3px solid var(--ke-ok-border);
+  outline-offset: 2px;
+}
+
+.rv-hint {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  text-align: center;
+}
+
+.rv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+/* 主按钮：与新词段同款（1.25em bold 大字档） */
+.rv-btn {
+  font-family: inherit;
+  font-size: 1.15em;
+  font-weight: 700;
+  color: var(--ke-on-crayon);
+  background: var(--ke-sky);
+  border: none;
+  border-radius: 999px;
+  padding: 10px 22px;
+  min-height: var(--ke-hit);
+  min-width: var(--ke-hit);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rv-btn:active {
+  opacity: 0.75;
+}
+
+.rv-btn--small {
+  font-size: 0.9em;
+  padding: 8px 18px;
+  min-height: var(--ke-hit);
+}
+
+.rv-btn--ghost {
+  background: transparent;
+  color: var(--ke-sky-deep); /* ghost 字/描边用文字档（5.36 on 奶油卡） */
+  border: 2px solid var(--ke-sky-deep);
+}
+
+.rv-btn--link {
+  color: var(--ke-on-crayon);
+}
+
+/* 演出层错误证据行（小字弱化，仅验证用，不做儿童交互面） */
+.rv-stage-error {
+  position: relative;
+  z-index: 30;
+  color: #fff;
+  background: rgba(58, 63, 74, 0.75);
+  border-radius: 8px;
+  padding: 4px 10px;
+  font-size: 0.75em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ==========================================================================
+ * 首页主界面（票 23：空壳骨架 → 儿童主入口/封面页）
+ * 布局：品牌区＋当日计划一行（顶部）→ 主 CTA（居中）→ 家长入口（右下角）。
+ * 颜色/字体全量消费既有 token（圣经 §2/§5 锁参），零新增色值与字体。
+ * ========================================================================== */
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  /* 封面页满高：撑满壳层纵向 padding（12+16px）＋安全区之外的一屏，
+   * CTA 与家长入口靠 margin-top:auto 分布（CTA 居中、家长贴右下角）。 */
+  min-height: calc(100vh - 28px - var(--safe-top) - var(--safe-bottom));
+  min-height: calc(100dvh - 28px - var(--safe-top) - var(--safe-bottom));
+}
+
+.home-brand {
+  margin-top: clamp(24px, 9vh, 96px);
+}
+
+.home-title {
+  margin: 0;
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1.25; /* 标题行高 1.2-1.3（圣经 §5） */
+  letter-spacing: 0.04em;
+  color: var(--brand); /* 蜡笔蓝文字档（壳层标题同源；on 米纸 5.08 / on 夜纸 7.14） */
+}
+
+.home-plan {
+  margin: 14px 0 0;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted); /* 次级信息档（随暗色；on 米纸 5.09 / on 夜纸 7.0） */
+}
+
+/* 吉祥物贴纸卡（返工 2：视觉锚点；既有样张 monster-trio.svg，自带米纸底）。
+ * 圣经 §6 卡片语言：2px 暖棕描边＋18px 大圆角＋蜡笔硬阴影（卡片级浮面可用，
+ * §2.7）；亮色与米纸同色融合只露描边，暗色呈奶油贴纸卡（§2.6 夜纸色差分层）。
+ * img 放大 158% 裁掉样张纸边（怪身只占画布 46% 高，不放大则锚点太弱）：
+ * aspect-ratio 钉 viewBox 比例（svg 无内建尺寸，width:auto 实测塌 0）；
+ * margin-top 10% 把怪重心（viewBox y≈102）对齐贴纸中心（画布中心 y115 偏下）。 */
+.home-mascot {
+  margin: 20px 0 0;
+  width: clamp(140px, 18vh, 190px);
+  aspect-ratio: 1;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--ke-line);
+  border-radius: var(--ke-radius);
+  box-shadow: var(--ke-shadow);
+}
+
+.home-mascot img {
+  flex: none;
+  width: 158%;
+  margin-top: 10%;
+  aspect-ratio: 200 / 230;
+  height: auto;
+}
+
+/* 主 CTA：胶囊＋蜡笔蓝＋纯白字（圣经 §6 主按钮形态）；触控 ≥56px 硬指标取 64px */
+.home-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: auto;
+  min-height: 64px;
+  min-width: 240px;
+  padding: 16px 40px;
+  border-radius: 999px;
+  background: var(--ke-sky);
+  color: var(--ke-on-crayon); /* 纯白（奶油白 on sky 2.94 禁用——圣经 §2.2） */
+  font-size: 1.35em; /* ≥18.75px bold 大字档：白字 on sky 3.09 达大字 3:1 */
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform var(--ke-dur-fast) var(--ke-ease);
+}
+
+.home-cta:active {
+  transform: scale(0.96); /* 按压 scale 0.94-0.97；按钮不用阴影（圣经 §2.7/§6） */
+}
+
+/* 家长入口：右下角小字；触控目标仍保 ≥44px（--ke-hit），对比走壳层次级档 */
+.home-parent {
+  display: inline-flex;
+  align-items: center;
+  margin-top: auto;
+  align-self: flex-end;
+  min-height: var(--ke-hit);
+  padding: 8px 14px;
+  border-radius: 10px;
+  color: var(--muted); /* on 米纸 5.09 / on 夜纸 7.0，小字 4.5 达标 */
+  font-size: 0.95em;
+  text-decoration: none;
+}
+
+.home-parent:active {
+  opacity: 0.7;
+}
+
+/* ==========================================================================
+ * 美术样张预览页（Ticket 15，dev-only：/art-preview 或 ?art=1；禁进儿童主路径）
+ * ========================================================================== */
+
+.art-preview {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.art-preview figure {
+  margin: 0;
+  background: var(--ke-card);
+  border: 2px solid var(--ke-line);
+  border-radius: var(--ke-radius);
+  padding: 16px;
+  box-shadow: var(--ke-shadow);
+}
+
+.art-preview figure > svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.art-preview figcaption {
+  margin-top: 10px;
+  color: var(--ke-ink-soft);
+  font-size: 0.85em;
+  line-height: 1.6;
+}
+
+.art-preview figcaption code {
+  background: var(--ke-paper);
+  border: 1px solid var(--ke-line-soft);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 0.95em;
+}
+
+/* 色板条 */
+.art-swatches {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.art-swatch {
+  border-radius: 12px;
+  padding: 10px 12px;
+  min-height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 2px;
+  border: 2px solid var(--ke-line-soft);
+  font-size: 0.8em;
+  line-height: 1.4;
+}
+
+.art-swatch b {
+  font-size: 1.05em;
+}
+
+/* ================= 多孩档案（票 34；R10/R11；圣经 token 零新增色值） ================= */
+
+.profiles {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.profiles-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.profiles-title {
+  margin: 0;
+  font-size: 1.6em;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+}
+
+.profiles-back {
+  font-size: 0.95em;
+  color: var(--ke-ink-soft);
+  text-decoration: none;
+  padding: 8px 4px;
+}
+
+.profile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+}
+
+.profile-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  min-height: 148px;
+  padding: 18px 10px 14px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  cursor: pointer;
+  font-family: inherit;
+  transition: transform 0.12s ease, border-color 0.12s ease;
+}
+
+.profile-card:active {
+  transform: scale(0.97);
+}
+
+.profile-card--active {
+  border-color: var(--ke-sky);
+  background: var(--ke-sky-wash);
+}
+
+.profile-card--add {
+  border-style: dashed;
+  border-color: var(--ke-line-soft);
+  color: var(--ke-ink-soft);
+}
+
+.profile-avatar {
+  font-size: 44px;
+  line-height: 1;
+}
+
+.profile-name {
+  font-size: 1.05em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.profile-point {
+  font-size: 0.8em;
+  color: var(--ke-ink-soft);
+  background: var(--ke-sun-wash);
+  border-radius: 999px;
+  padding: 2px 10px;
+}
+
+.profile-badge {
+  position: absolute;
+  top: -10px;
+  right: 10px;
+  font-size: 0.72em;
+  font-weight: 800;
+  color: var(--ke-on-crayon);
+  background: var(--ke-sky);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.profile-edit {
+  position: absolute;
+  top: 6px;
+  left: 8px;
+  font-size: 0.75em;
+  color: var(--ke-ink-soft);
+  padding: 6px;
+  cursor: pointer;
+}
+
+.profile-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 20px 16px;
+}
+
+.profile-form-title {
+  margin: 0;
+  font-size: 1.15em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.profile-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.profile-label {
+  font-size: 0.9em;
+  font-weight: 700;
+  color: var(--ke-ink-soft);
+}
+
+.profile-input {
+  min-height: 52px;
+  font-size: 1.05em;
+  font-family: inherit;
+  color: var(--ke-ink);
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 12px;
+  padding: 8px 14px;
+}
+
+.profile-input:focus {
+  outline: 3px solid var(--ke-sky);
+  outline-offset: 1px;
+}
+
+.avatar-grid,
+.point-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.avatar-cell {
+  width: 56px;
+  height: 56px;
+  font-size: 30px;
+  line-height: 1;
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+.avatar-cell--active {
+  border-color: var(--ke-sky);
+  background: var(--ke-sky-wash);
+}
+
+.point-cell {
+  min-height: 44px;
+  font-size: 0.92em;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--ke-ink);
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 12px;
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.point-cell--active {
+  border-color: var(--ke-sky);
+  background: var(--ke-sky-wash);
+  color: var(--ke-sky-deep);
+}
+
+.profile-hint {
+  margin: 0;
+  font-size: 0.85em;
+  color: var(--ke-ink-soft);
+}
+
+.profile-error {
+  margin: 0;
+  font-size: 0.9em;
+  font-weight: 700;
+  color: var(--ke-coral-deep);
+}
+
+.profile-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.profile-save {
+  flex: 1;
+  min-height: 56px;
+  font-size: 1.1em;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--ke-on-crayon);
+  background: var(--ke-sky);
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.profile-cancel {
+  min-height: 56px;
+  font-size: 1em;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--ke-ink-soft);
+  background: transparent;
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 999px;
+  padding: 0 20px;
+  cursor: pointer;
+}
+
+.profile-remove {
+  min-height: 48px;
+  font-size: 0.9em;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--ke-coral-deep);
+  background: transparent;
+  border: 2px dashed var(--ke-coral-deep);
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+/* 首页孩子 chip（票 34；右上角头像＋名字；零档案不渲染） */
+.home-child {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px 8px 10px;
+  background: var(--ke-card);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.home-child-avatar {
+  font-size: 22px;
+  line-height: 1;
+}
+
+.home-child-name {
+  font-size: 0.9em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+/* 词包回退提示（票 35；档案册次未上线回退缺省包的如实告知） */
+.home-pack-hint {
+  margin: 0;
+  font-size: 0.88em;
+  color: var(--ke-ink-soft);
+  background: var(--ke-sun-wash);
+  border-radius: 12px;
+  padding: 8px 16px;
+}
+
+/* ================= 打卡页（票 36；R8/R9 打卡可见面 v1；圣经 token 零新增色值） ================= */
+
+.home-checkin {
+  font-size: 0.95em;
+  font-weight: 700;
+  color: var(--ke-sky-deep);
+  text-decoration: none;
+  padding: 8px 14px;
+}
+
+.checkin {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.checkin-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.checkin-title {
+  margin: 0;
+  font-size: 1.6em;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+}
+
+.checkin-back {
+  font-size: 0.95em;
+  color: var(--ke-ink-soft);
+  text-decoration: none;
+  padding: 8px 4px;
+}
+
+.checkin-today {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px 18px;
+}
+
+.checkin-today-icon {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.checkin-today-body {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.checkin-today-line {
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.checkin-today-sub {
+  margin: 0;
+  font-size: 0.9em;
+  color: var(--ke-ink-soft);
+}
+
+.checkin-today-sub b {
+  color: var(--ke-coral-deep);
+  font-size: 1.15em;
+}
+
+/* 近半年热力图（票 55；wordsfunny 吸收）：列＝周，蓝系三档＋纸色零档（圣经 token） */
+.checkin-heat {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+}
+
+.checkin-heat-title {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  font-size: 0.9em;
+}
+
+.checkin-heat-grid {
+  display: grid;
+  grid-template-rows: repeat(7, 11px);
+  grid-auto-flow: column;
+  grid-auto-columns: 11px;
+  gap: 3px;
+}
+
+.checkin-heat-cell {
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.checkin-heat-cell--l0 {
+  background: var(--ke-line-soft);
+}
+
+.checkin-heat-cell--l1 {
+  background: var(--ke-sky-wash);
+}
+
+.checkin-heat-cell--l2 {
+  background: var(--ke-sky);
+}
+
+.checkin-heat-cell--l3 {
+  background: var(--ke-sky-deep);
+}
+
+.checkin-heat-cell--future {
+  background: transparent;
+  border: 1px dashed var(--ke-line-soft);
+}
+
+.checkin-heat-cell--today {
+  outline: 2px solid var(--ke-coral-deep);
+  outline-offset: 1px;
+}
+
+.checkin-heat-legend {
+  margin: 0;
+  color: var(--ke-ink-soft);
+  font-size: 0.75em;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.checkin-cal {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 8px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px;
+}
+
+.checkin-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  font-size: 18px;
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 10px;
+}
+
+.checkin-cell--done {
+  background: var(--ke-sun-wash);
+  border-color: var(--ke-sun);
+}
+
+.checkin-cell--today {
+  border-color: var(--ke-sky);
+  border-width: 3px;
+}
+
+.checkin-legend {
+  margin: 0;
+  font-size: 0.82em;
+  color: var(--ke-ink-soft);
+}
+
+/* ================= 家长区统计（票 37；R17 v1＋E8 门禁；圣经 token 零新增色值） ================= */
+
+.parent-gate {
+  max-width: 420px;
+  margin: 32px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 24px 20px;
+}
+
+.parent-gate-q {
+  margin: 0;
+  font-size: 1.15em;
+  color: var(--ke-ink);
+}
+
+.parent-gate-q b {
+  font-size: 1.3em;
+  color: var(--ke-sky-deep);
+}
+
+.parent-gate-input {
+  min-height: 52px;
+  font-size: 1.2em;
+  font-family: inherit;
+  color: var(--ke-ink);
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 12px;
+  padding: 8px 14px;
+}
+
+.parent-gate-btn {
+  min-height: 52px;
+  font-size: 1.05em;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--ke-on-crayon);
+  background: var(--ke-sky);
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.parent-gate-wrong {
+  margin: 0;
+  font-size: 0.9em;
+  font-weight: 700;
+  color: var(--ke-coral-deep);
+}
+
+.parent-gate-hint {
+  margin: 0;
+  font-size: 0.82em;
+  color: var(--ke-ink-soft);
+}
+
+.parent-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 22px;
+  font-size: 0.95em;
+  color: var(--ke-ink);
+  background: var(--ke-sky-wash);
+  border-radius: 14px;
+  padding: 12px 18px;
+}
+
+.parent-summary b {
+  color: var(--ke-sky-deep);
+  font-size: 1.1em;
+}
+
+.parent-card {
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.parent-card-title {
+  margin: 0;
+  font-size: 1.02em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.parent-pool-row {
+  display: grid;
+  grid-template-columns: 64px 1fr 36px;
+  align-items: center;
+  gap: 10px;
+}
+
+.parent-pool-label {
+  font-size: 0.88em;
+  color: var(--ke-ink-soft);
+}
+
+.parent-pool-bar-wrap {
+  height: 12px;
+  background: var(--ke-paper);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.parent-pool-bar {
+  height: 100%;
+  background: var(--ke-sky);
+  border-radius: 999px;
+  min-width: 2px;
+}
+
+.parent-pool-count {
+  font-size: 0.9em;
+  font-weight: 800;
+  color: var(--ke-ink);
+  text-align: right;
+}
+
+.parent-note {
+  margin: 0;
+  font-size: 0.88em;
+  color: var(--ke-ink-soft);
+}
+
+.parent-week-line {
+  margin: 0;
+  font-size: 0.98em;
+  color: var(--ke-ink);
+}
+
+.parent-week-line b {
+  color: var(--ke-sky-deep);
+}
+
+/* 学习周报趋势（票 47；圣经 token 零新增色值） */
+.parent-week-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 72px;
+}
+
+.parent-week-bar-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 4px;
+  height: 100%;
+}
+
+.parent-week-bar {
+  width: 100%;
+  max-width: 28px;
+  background: var(--ke-sky);
+  border-radius: 6px 6px 0 0;
+}
+
+.parent-week-bar-label {
+  font-size: 0.7em;
+  color: var(--ke-ink-soft);
+  white-space: nowrap;
+}
+
+/* 每日目标卡（票 48/50；圣经 token 零新增色值） */
+.parent-goal-child {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.parent-goal-row {
+  display: grid;
+  grid-template-columns: 28px 1fr 36px 40px 36px 44px;
+  align-items: center;
+  gap: 6px;
+}
+
+.parent-goal-name {
+  font-size: 0.95em;
+  color: var(--ke-ink);
+}
+
+.parent-goal-btn {
+  border: 2px solid var(--ke-line-soft);
+  background: var(--ke-card);
+  border-radius: 10px;
+  font-size: 1.05em;
+  font-weight: 800;
+  color: var(--ke-ink);
+  padding: 2px 0;
+  cursor: pointer;
+}
+
+.parent-goal-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.parent-goal-value {
+  font-size: 1.1em;
+  color: var(--ke-sky-deep);
+  text-align: center;
+}
+
+.parent-goal-unit {
+  font-size: 0.85em;
+  color: var(--ke-ink-soft);
+}
+
+/* ================= 打卡页激励簇（票 38/39/40/41；圣经 token 零新增色值） ================= */
+
+.checkin-section-title {
+  margin: 0 0 10px;
+  font-size: 1em;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+}
+
+/* 今日 vs 昨天 对比卡（票 39） */
+.checkin-compare {
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.checkin-compare-status {
+  margin: 0;
+  font-size: 1.02em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.checkin-compare-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.checkin-compare-cell {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 12px;
+  padding: 10px 6px;
+}
+
+.checkin-compare-label {
+  font-size: 0.82em;
+  color: var(--ke-ink-soft);
+}
+
+.checkin-compare-value {
+  font-size: 0.88em;
+  color: var(--ke-ink);
+  text-align: center;
+}
+
+.checkin-compare-value b {
+  color: var(--ke-coral-deep);
+}
+
+.checkin-compare-best {
+  margin: 0;
+  font-size: 0.85em;
+  color: var(--ke-ink-soft);
+}
+
+/* 家庭积分榜（票 39；家长开启才显示） */
+.checkin-rank {
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px;
+}
+
+.checkin-rank-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 8px;
+  padding: 8px 10px;
+  border-radius: 12px;
+  font-size: 1em;
+  color: var(--ke-ink);
+}
+
+.checkin-rank-row--self {
+  background: var(--ke-sun-wash);
+  border: 2px solid var(--ke-sun);
+  font-weight: 800;
+}
+
+.checkin-rank-pos {
+  min-width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 50%;
+  font-size: 0.85em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.checkin-rank-name {
+  flex: 1;
+}
+
+.checkin-rank-points {
+  font-weight: 800;
+  color: var(--ke-coral-deep);
+}
+
+/* 徽章墙（票 40） */
+.badge-wall {
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 16px;
+}
+
+.badge-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.badge-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  background: var(--ke-paper);
+  border: 2px solid var(--ke-line-soft);
+  border-radius: 12px;
+  padding: 10px 4px;
+  filter: grayscale(1);
+  opacity: 0.55;
+}
+
+.badge-cell--earned {
+  background: var(--ke-sun-wash);
+  border-color: var(--ke-sun);
+  filter: none;
+  opacity: 1;
+}
+
+.badge-icon {
+  font-size: 26px;
+  line-height: 1;
+}
+
+.badge-name {
+  font-size: 0.78em;
+  color: var(--ke-ink);
+  text-align: center;
+}
+
+/* 错题本入口（票 41） */
+.checkin-footer {
+  margin: 0;
+  text-align: center;
+}
+
+.checkin-link {
+  display: inline-block;
+  padding: 10px 18px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 14px;
+  font-weight: 800;
+  color: var(--ke-sky-deep);
+  text-decoration: none;
+}
+
+/* ================= 错题本页（票 41；复用 checkin-head/title/back/link） ================= */
+
+.wrongbook {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.wrongbook-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 18px;
+  padding: 36px 20px;
+}
+
+.wrongbook-empty-icon {
+  font-size: 44px;
+  line-height: 1;
+}
+
+.wrongbook-empty-line {
+  margin: 0;
+  font-size: 1.08em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.wrongbook-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wrongbook-row {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  background: var(--ke-card);
+  border: 3px solid var(--ke-line-soft);
+  border-radius: 14px;
+  padding: 12px 14px;
+}
+
+.wrongbook-word {
+  font-size: 1.15em;
+  font-weight: 800;
+  color: var(--ke-ink);
+}
+
+.wrongbook-meaning {
+  flex: 1;
+  font-size: 0.95em;
+  color: var(--ke-ink-soft);
+}
+
+.wrongbook-meta {
+  font-size: 0.85em;
+  font-weight: 800;
+  color: var(--ke-coral-deep);
+}
+
+.wrongbook-hint {
+  margin: 0;
+  text-align: center;
+  font-size: 0.95em;
+  color: var(--ke-ink-soft);
+}
+
+/* 图片头像（票 60；Freddy 图位；三档尺寸随容器） */
+.avatar-img {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  object-fit: cover;
+  display: inline-block;
+}
+
+.avatar-img--cell {
+  width: 40px;
+  height: 40px;
+}
+
+.avatar-img--chip {
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+}
+
+/* 册次三学段分组（票 42 P-15 全学段扩围；圣经 token 零新增色值） */
+.point-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.point-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.point-group-label {
+  font-size: 0.82em;
+  font-weight: 800;
+  color: var(--ke-ink-soft);
+}

@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "bytes": 18092,
+      "path": "units/unit-01.json",
+      "sha256": "bdc2116daed53982e0c2ad737365f275a3dd7c269de6e18268b5d91218c77b29"
+    },
+    {
+      "bytes": 21104,
+      "path": "units/unit-02.json",
+      "sha256": "d2203ccfe75635c998ef420025b58f2e39598d5834ba150feb1a8e6e01298776"
+    },
+    {
+      "bytes": 30741,
+      "path": "units/unit-03.json",
+      "sha256": "20712a492e756d69cb4ff586a7d896dbb9becd710ce8a616ff9cc2f98463551f"
+    },
+    {
+      "bytes": 26377,
+      "path": "units/unit-04.json",
+      "sha256": "6d86ad47e7f47ea786f6d4efd08e6b65f0561314f47a9779f9d6e804a4301beb"
+    },
+    {
+      "bytes": 20257,
+      "path": "units/unit-05.json",
+      "sha256": "fb2a911054c59ae9651becc9357e55522a8f93b65309ab54e4344bee164cf35b"
+    },
+    {
+      "bytes": 22117,
+      "path": "units/unit-06.json",
+      "sha256": "ba995afccc83b39faa52a2aa1f5fd94d12b96eee9db1c79417aae70603169e40"
+    },
+    {
+      "bytes": 21939,
+      "path": "units/unit-07.json",
+      "sha256": "a062115e4bfc63bfafe0d240288468afb4ae8714dd0007bca01fe5eb9f3b8f3c"
+    },
+    {
+      "bytes": 18874,
+      "path": "units/unit-08.json",
+      "sha256": "9792d8b31a80fc754b6ec04be6b10ceb63bbd8fd4ca616e256bf6c7cc9571917"
+    }
+  ],
+  "generated_at": "2026-11-08T03:22:25+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "8",
+    "pack_id": 51,
+    "source": "official",
+    "term": "上",
+    "textbook_series": "沪教牛津（深圳专版）",
+    "version": 2
+  }
+}

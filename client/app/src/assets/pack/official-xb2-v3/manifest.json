@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "bytes": 56617,
+      "path": "units/unit-01.json",
+      "sha256": "c685d4e3999fe19c7ff22f9b82b4783fb8c345ddcd15ff024c568dd0525e15a6"
+    },
+    {
+      "bytes": 51332,
+      "path": "units/unit-02.json",
+      "sha256": "6b397964c9593cd3f1da161b0f8ea2fd0f2266ac948bf0a1bb1bf1098ea93e0f"
+    },
+    {
+      "bytes": 46343,
+      "path": "units/unit-03.json",
+      "sha256": "2a9ceef50450be24e510997fac827dda83c2062210c77b9b5b8adce079b19891"
+    },
+    {
+      "bytes": 48719,
+      "path": "units/unit-04.json",
+      "sha256": "9ed1367f3ed06aa5913791cb1cc0374f1cd10057d87906c4707915f8e07f27f4"
+    },
+    {
+      "bytes": 52521,
+      "path": "units/unit-05.json",
+      "sha256": "da9321cfd32c06c981f82c38d57524b03be6ab7c60b0aef7d0b1ef2b83d55a70"
+    }
+  ],
+  "generated_at": "2026-11-08T03:22:30+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "高中",
+    "pack_id": 59,
+    "source": "official",
+    "term": "选必二",
+    "textbook_series": "人教版（2019年版）",
+    "version": 3
+  }
+}

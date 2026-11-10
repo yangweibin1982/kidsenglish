@@ -1,0 +1,298 @@
+{
+  "title": "Visiting museums",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Look! A little ant.",
+          "origin": "curated:g2u1-ant",
+          "zh": "看！一只小蚂蚁。"
+        }
+      ],
+      "headword": "ant",
+      "lexical_entry_id": "w_ant",
+      "ordinal": 1,
+      "phonetic_uk": "ænt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蚂蚁",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Is there anything in your bag?",
+          "origin": "curated:p-pron-anything",
+          "zh": "你的包里有什么东西吗？"
+        }
+      ],
+      "headword": "anything",
+      "lexical_entry_id": "w_anything",
+      "ordinal": 2,
+      "phonetic_uk": "'eniθiŋ",
+      "phonetic_us": null,
+      "phonics_split": "any·thing",
+      "senses": [
+        {
+          "gloss": "任何事",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bee.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蜜蜂, 聚会。"
+        },
+        {
+          "en": "I can see a bee.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蜜蜂, 聚会。"
+        }
+      ],
+      "headword": "bee",
+      "lexical_entry_id": "w_bee",
+      "ordinal": 3,
+      "phonetic_uk": "bi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蜜蜂, 聚会",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "There are many old cars in the car museum.",
+          "origin": "curated:primary-6a-car-museum",
+          "zh": "汽车博物馆里有很多老式汽车。"
+        }
+      ],
+      "headword": "car museum",
+      "lexical_entry_id": "w_car_museum",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "汽车博物馆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dancer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的舞蹈演员, 跳舞者。"
+        },
+        {
+          "en": "I can see a dancer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到舞蹈演员, 跳舞者。"
+        }
+      ],
+      "headword": "dancer",
+      "lexical_entry_id": "w_dancer",
+      "ordinal": 5,
+      "phonetic_uk": "'dɑ:nsə",
+      "phonetic_us": null,
+      "phonics_split": "dan·cer",
+      "senses": [
+        {
+          "gloss": "舞蹈演员, 跳舞者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my finger.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的手指, 指状物, (手套的)手指部分, 指针。"
+        },
+        {
+          "en": "I can see a finger.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到手指, 指状物, (手套的)手指部分, 指针。"
+        }
+      ],
+      "headword": "finger",
+      "lexical_entry_id": "w_finger",
+      "ordinal": 6,
+      "phonetic_uk": "'fiŋgə",
+      "phonetic_us": null,
+      "phonics_split": "fin·ger",
+      "senses": [
+        {
+          "gloss": "手指, 指状物, (手套的)手指部分, 指针",
+          "pos": "n."
+        },
+        {
+          "gloss": "用手指拨弄, 伸出",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The insect is small.",
+          "origin": "curated:g2u5-insect",
+          "zh": "昆虫很小。"
+        }
+      ],
+      "headword": "insect",
+      "lexical_entry_id": "w_insect",
+      "ordinal": 7,
+      "phonetic_uk": "'insekt",
+      "phonetic_us": null,
+      "phonics_split": "in·sect",
+      "senses": [
+        {
+          "gloss": "昆虫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We see many butterflies in the insect museum.",
+          "origin": "curated:primary-6a-insect-museum",
+          "zh": "我们在昆虫博物馆看到很多蝴蝶。"
+        }
+      ],
+      "headword": "insect museum",
+      "lexical_entry_id": "w_insect_museum",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "昆虫博物馆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kind.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的种类, 性质, 方式。"
+        },
+        {
+          "en": "I can see a kind.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到种类, 性质, 方式。"
+        }
+      ],
+      "headword": "kind",
+      "lexical_entry_id": "w_kind",
+      "ordinal": 9,
+      "phonetic_uk": "kaind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种类, 性质, 方式",
+          "pos": "n."
+        },
+        {
+          "gloss": "亲切的, 仁慈的, 和蔼的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "There are many kinds of animals in the zoo.",
+          "origin": "curated:primary-6a-many-kinds",
+          "zh": "动物园里有许多种动物。"
+        }
+      ],
+      "headword": "many kinds of",
+      "lexical_entry_id": "w_many_kinds_of",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "许多种类的",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Joe makes a model car at home.",
+          "origin": "curated:primary-6a-model-car",
+          "zh": "乔在家做了一辆汽车模型。"
+        }
+      ],
+      "headword": "model car",
+      "lexical_entry_id": "w_model_car",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "汽车模型",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “science museum”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“science museum”。"
+        }
+      ],
+      "headword": "science museum",
+      "lexical_entry_id": "w_science_museum",
+      "ordinal": 12,
+      "phonetic_uk": "ˈsaiəns mju:ˈziəm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "科学博物馆",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

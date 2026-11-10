@@ -1,0 +1,289 @@
+{
+  "title": "Animals in the zoo",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my bear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的熊。"
+        },
+        {
+          "en": "I can see a bear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到熊。"
+        }
+      ],
+      "headword": "bear",
+      "lexical_entry_id": "w_bear",
+      "ordinal": 1,
+      "phonetic_uk": "bɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The elephant is big.",
+          "origin": "curated:g2u3-elephant",
+          "zh": "大象很大。"
+        }
+      ],
+      "headword": "elephant",
+      "lexical_entry_id": "w_elephant",
+      "ordinal": 2,
+      "phonetic_uk": "'elifənt",
+      "phonetic_us": null,
+      "phonics_split": "ele·phant",
+      "senses": [
+        {
+          "gloss": "大象",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very like.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常相似的, 同样。"
+        }
+      ],
+      "headword": "like",
+      "lexical_entry_id": "w_like",
+      "ordinal": 3,
+      "phonetic_uk": "laik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "相似的, 同样的",
+          "pos": "a."
+        },
+        {
+          "gloss": "喜欢, 愿意, 想",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The lion has long hair.",
+          "origin": "curated:g2u6-lion",
+          "zh": "狮子有长长的毛。"
+        }
+      ],
+      "headword": "lion",
+      "lexical_entry_id": "w_lion",
+      "ordinal": 4,
+      "phonetic_uk": "'laiən",
+      "phonetic_us": null,
+      "phonics_split": "li·on",
+      "senses": [
+        {
+          "gloss": "狮子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my man.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的男人, 人类, 人。"
+        },
+        {
+          "en": "I can see a man.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到男人, 人类, 人。"
+        }
+      ],
+      "headword": "man",
+      "lexical_entry_id": "w_man",
+      "ordinal": 5,
+      "phonetic_uk": "mæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "男人, 人类, 人",
+          "pos": "n."
+        },
+        {
+          "gloss": "为...配备人手, 操纵, 使振奋",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my monkey.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猴子。"
+        },
+        {
+          "en": "I can see a monkey.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猴子。"
+        }
+      ],
+      "headword": "monkey",
+      "lexical_entry_id": "w_monkey",
+      "ordinal": 6,
+      "phonetic_uk": "'mʌŋki",
+      "phonetic_us": null,
+      "phonics_split": "mon·key",
+      "senses": [
+        {
+          "gloss": "猴子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandfather is old.",
+          "origin": "curated:g2u5-old",
+          "zh": "我的爷爷年纪大。"
+        }
+      ],
+      "headword": "old",
+      "lexical_entry_id": "w_old",
+      "ordinal": 7,
+      "phonetic_uk": "əuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老的",
+          "pos": "a."
+        },
+        {
+          "gloss": "旧的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is our classroom.",
+          "origin": "curated:p-pron-our",
+          "zh": "这是我们的教室。"
+        }
+      ],
+      "headword": "our",
+      "lexical_entry_id": "w_our",
+      "ordinal": 8,
+      "phonetic_uk": "'auə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my panda.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的熊猫。"
+        },
+        {
+          "en": "I can see a panda.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到熊猫。"
+        }
+      ],
+      "headword": "panda",
+      "lexical_entry_id": "w_panda",
+      "ordinal": 9,
+      "phonetic_uk": "'pændə",
+      "phonetic_us": null,
+      "phonics_split": "pan·da",
+      "senses": [
+        {
+          "gloss": "熊猫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very strong.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良。"
+        }
+      ],
+      "headword": "strong",
+      "lexical_entry_id": "w_strong",
+      "ordinal": 10,
+      "phonetic_uk": "strɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的",
+          "pos": "a."
+        },
+        {
+          "gloss": "强劲地, 有力地, 猛烈地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tiger.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的老虎。"
+        },
+        {
+          "en": "I can see a tiger.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到老虎。"
+        }
+      ],
+      "headword": "tiger",
+      "lexical_entry_id": "w_tiger",
+      "ordinal": 11,
+      "phonetic_uk": "'taigə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老虎",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

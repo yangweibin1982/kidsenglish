@@ -1,0 +1,166 @@
+{
+  "title": "Helping others",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my bell.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的铃, 钟。"
+        },
+        {
+          "en": "I can see a bell.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到铃, 钟。"
+        }
+      ],
+      "headword": "bell",
+      "lexical_entry_id": "w_bell",
+      "ordinal": 1,
+      "phonetic_uk": "bel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "铃, 钟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my neck.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的脖子, 衣领, 颈。"
+        },
+        {
+          "en": "I can see a neck.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到脖子, 衣领, 颈。"
+        }
+      ],
+      "headword": "neck",
+      "lexical_entry_id": "w_neck",
+      "ordinal": 2,
+      "phonetic_uk": "nek",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "脖子, 衣领, 颈",
+          "pos": "n."
+        },
+        {
+          "gloss": "拥抱, 拥吻, 收缩",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “ago”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“ago”。"
+        }
+      ],
+      "headword": "ago",
+      "lexical_entry_id": "w_ago",
+      "ordinal": 3,
+      "phonetic_uk": "ə'gəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "以前",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my gatekeeper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的看门人。"
+        },
+        {
+          "en": "I can see a gatekeeper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到看门人。"
+        }
+      ],
+      "headword": "gatekeeper",
+      "lexical_entry_id": "w_gatekeeper",
+      "ordinal": 4,
+      "phonetic_uk": "'geitki:pə",
+      "phonetic_us": null,
+      "phonics_split": "gate·keep·er",
+      "senses": [
+        {
+          "gloss": "看门人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my praise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的赞美, 称赞, 崇拜。"
+        },
+        {
+          "en": "I can see a praise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到赞美, 称赞, 崇拜。"
+        }
+      ],
+      "headword": "praise",
+      "lexical_entry_id": "w_praise",
+      "ordinal": 5,
+      "phonetic_uk": "preiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "赞美, 称赞, 崇拜",
+          "pos": "n."
+        },
+        {
+          "gloss": "称赞, 赞美",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Mum praised me for my homework.",
+          "origin": "curated:g6b-u7-praise-for",
+          "zh": "妈妈因作业表扬了我。"
+        }
+      ],
+      "headword": "praise for",
+      "lexical_entry_id": "w_praise_for",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "因……赞扬",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "title": "Hobbies",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “at home”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at home”。"
+        }
+      ],
+      "headword": "at home",
+      "lexical_entry_id": "w_at_home",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在家, 在本地, 在国内, 熟悉",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “come in”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“come in”。"
+        }
+      ],
+      "headword": "come in",
+      "lexical_entry_id": "w_come_in",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "进来, 到达, 流行起来, 当选, 到手",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's dance!",
+          "origin": "curated:u4-dance",
+          "zh": "我们一起跳舞吧！"
+        }
+      ],
+      "headword": "dance",
+      "lexical_entry_id": "w_dance",
+      "ordinal": 3,
+      "phonetic_uk": "dæns. dɑ:ns",
+      "phonetic_us": null,
+      "phonics_split": "dan·ce",
+      "senses": [
+        {
+          "gloss": "跳舞",
+          "pos": "v."
+        },
+        {
+          "gloss": "舞蹈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my paint.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的油漆, 颜料, 绘画作品, 涂漆。"
+        },
+        {
+          "en": "I can see a paint.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到油漆, 颜料, 绘画作品, 涂漆。"
+        }
+      ],
+      "headword": "paint",
+      "lexical_entry_id": "w_paint",
+      "ordinal": 4,
+      "phonetic_uk": "peint",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "油漆, 颜料, 绘画作品, 涂漆",
+          "pos": "n."
+        },
+        {
+          "gloss": "油漆, 绘, 画, 描绘, 装饰, 点缀",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Read after me.",
+          "origin": "curated:u4-read",
+          "zh": "跟我读。"
+        }
+      ],
+      "headword": "read",
+      "lexical_entry_id": "w_read",
+      "ordinal": 5,
+      "phonetic_uk": "ri:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "读",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can sing.",
+          "origin": "curated:u4-sing",
+          "zh": "我会唱歌。"
+        }
+      ],
+      "headword": "sing",
+      "lexical_entry_id": "w_sing",
+      "ordinal": 6,
+      "phonetic_uk": "siŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "唱歌",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my skate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的溜冰, 冰鞋。"
+        },
+        {
+          "en": "I can see a skate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到溜冰, 冰鞋。"
+        }
+      ],
+      "headword": "skate",
+      "lexical_entry_id": "w_skate",
+      "ordinal": 7,
+      "phonetic_uk": "skeit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "溜冰, 冰鞋",
+          "pos": "n."
+        },
+        {
+          "gloss": "滑冰, 滑过",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I sleep at night.",
+          "origin": "curated:g2u8-sleep",
+          "zh": "我在夜里睡觉。"
+        }
+      ],
+      "headword": "sleep",
+      "lexical_entry_id": "w_sleep",
+      "ordinal": 8,
+      "phonetic_uk": "sli:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "睡觉",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can swim.",
+          "origin": "template:t-v-can",
+          "zh": "我会游泳。"
+        },
+        {
+          "en": "Let's swim together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起游泳吧。"
+        }
+      ],
+      "headword": "swim",
+      "lexical_entry_id": "w_swim",
+      "ordinal": 9,
+      "phonetic_uk": "swim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "游泳",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Dad goes to work.",
+          "origin": "curated:g2u8-work",
+          "zh": "爸爸去上班。"
+        }
+      ],
+      "headword": "work",
+      "lexical_entry_id": "w_work",
+      "ordinal": 10,
+      "phonetic_uk": "wə:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工作",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my worker.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工人, 劳动者。"
+        },
+        {
+          "en": "I can see a worker.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工人, 劳动者。"
+        }
+      ],
+      "headword": "worker",
+      "lexical_entry_id": "w_worker",
+      "ordinal": 11,
+      "phonetic_uk": "'wə:kə",
+      "phonetic_us": null,
+      "phonics_split": "work·er",
+      "senses": [
+        {
+          "gloss": "工人, 劳动者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

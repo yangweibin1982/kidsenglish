@@ -1,0 +1,286 @@
+{
+  "title": "PE lessons",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "He won the long race.",
+          "origin": "curated:g6b-u6-long-race",
+          "zh": "他赢了长跑。"
+        }
+      ],
+      "headword": "long race",
+      "lexical_entry_id": "w_long_race",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "长跑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The short race is exciting.",
+          "origin": "curated:g6b-u6-short-race",
+          "zh": "短跑很激动人心。"
+        }
+      ],
+      "headword": "short race",
+      "lexical_entry_id": "w_short_race",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "短跑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can win.",
+          "origin": "template:t-v-can",
+          "zh": "我会赢得, 打胜, 成功。"
+        },
+        {
+          "en": "Let's win together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起赢得, 打胜, 成功吧。"
+        }
+      ],
+      "headword": "win",
+      "lexical_entry_id": "w_win",
+      "ordinal": 3,
+      "phonetic_uk": "win",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "赢得, 打胜, 成功",
+          "pos": "vt."
+        },
+        {
+          "gloss": "获胜, 达到, 影响",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “long jump”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“long jump”。"
+        }
+      ],
+      "headword": "long jump",
+      "lexical_entry_id": "w_long_jump",
+      "ordinal": 4,
+      "phonetic_uk": "lɔŋ dʒʌmp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跳远",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “high jump”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“high jump”。"
+        }
+      ],
+      "headword": "high jump",
+      "lexical_entry_id": "w_high_jump",
+      "ordinal": 5,
+      "phonetic_uk": "hai dʒʌmp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跳高",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my swimsuit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的游泳衣。"
+        },
+        {
+          "en": "I can see a swimsuit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到游泳衣。"
+        }
+      ],
+      "headword": "swimsuit",
+      "lexical_entry_id": "w_swimsuit",
+      "ordinal": 6,
+      "phonetic_uk": "'swimsju:t",
+      "phonetic_us": null,
+      "phonics_split": "swim·suit",
+      "senses": [
+        {
+          "gloss": "游泳衣",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my swimming cap.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的泳帽。"
+        },
+        {
+          "en": "I can see a swimming cap.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到泳帽。"
+        }
+      ],
+      "headword": "swimming cap",
+      "lexical_entry_id": "w_swimming_cap",
+      "ordinal": 7,
+      "phonetic_uk": "ˈswɪmɪŋ kæp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "泳帽",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my swimming pool.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的游泳池。"
+        },
+        {
+          "en": "I can see a swimming pool.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到游泳池。"
+        }
+      ],
+      "headword": "swimming pool",
+      "lexical_entry_id": "w_swimming_pool",
+      "ordinal": 8,
+      "phonetic_uk": "ˈswɪmɪŋ pu:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "游泳池",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my warm-up.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的准备动作, 热身, 预热, 热身赛。"
+        },
+        {
+          "en": "I can see a warm-up.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到准备动作, 热身, 预热, 热身赛。"
+        }
+      ],
+      "headword": "warm-up",
+      "lexical_entry_id": "w_warm_up",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "准备动作, 热身, 预热, 热身赛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的适宜, 合身, 发作, 痉挛。"
+        },
+        {
+          "en": "I can see a fit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到适宜, 合身, 发作, 痉挛。"
+        }
+      ],
+      "headword": "fit",
+      "lexical_entry_id": "w_fit",
+      "ordinal": 10,
+      "phonetic_uk": "fit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "适宜, 合身, 发作, 痉挛",
+          "pos": "n."
+        },
+        {
+          "gloss": "适宜的, 对的, 准备好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't forget your swimming goggles.",
+          "origin": "curated:g6b-u6-goggles",
+          "zh": "别忘了你的泳镜。"
+        }
+      ],
+      "headword": "swimming goggles",
+      "lexical_entry_id": "w_swimming_goggles",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "泳镜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

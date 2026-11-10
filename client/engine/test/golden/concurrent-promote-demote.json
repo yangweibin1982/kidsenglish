@@ -1,0 +1,72 @@
+{
+  "name": "concurrent-promote-vs-demote-device-tiebreak",
+  "description": "【四类必含·并发升降】dev-a 与 dev-b 互见前并发各发一事件，HLC 完全相同（物理 200000＋逻辑 3）＝真并发；决胜走排序键第三位 device_id 字典序（dev-a < dev-b），故 dev-a 的升池（→P4）先、dev-b 的降池（→P2）后——自然合并（全序后到者生效），终态 P2、到期=2026-10-27+3 天。『并发段取高池位决胜』制（取 P4）为本向量的对照方案，仅在交付报告对比分析，不改实现。",
+  "events": [
+    {
+      "event_id": "cc-001",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 150000, "counter": 0 },
+      "occurred_at": "2026-10-26T10:00:00Z",
+      "type": "pool_promoted",
+      "payload": {
+        "lexical_entry_id": "w-dog",
+        "to_pool": "P3",
+        "on": "2026-10-26",
+        "reason": "parent_manual_adjust"
+      }
+    },
+    {
+      "event_id": "cc-002",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 200000, "counter": 3 },
+      "occurred_at": "2026-10-27T10:05:00Z",
+      "type": "pool_promoted",
+      "payload": {
+        "lexical_entry_id": "w-dog",
+        "to_pool": "P4",
+        "on": "2026-10-27",
+        "reason": "parent_manual_adjust"
+      }
+    },
+    {
+      "event_id": "cc-003",
+      "child_id": "c1",
+      "device_id": "dev-b",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 200000, "counter": 3 },
+      "occurred_at": "2026-10-27T10:05:00Z",
+      "type": "pool_demoted",
+      "payload": {
+        "lexical_entry_id": "w-dog",
+        "to_pool": "P2",
+        "on": "2026-10-27",
+        "reason": "parent_manual_adjust"
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-dog",
+        "pool": "P2",
+        "fastStreak": 0,
+        "errorStreak": 0,
+        "dueDate": "2026-10-30",
+        "variationTier": "standard",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": []
+      }
+    ],
+    "counters": { "answered": 0, "correct": 0, "stars": 0, "shards": 0 },
+    "dailySummaries": [],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

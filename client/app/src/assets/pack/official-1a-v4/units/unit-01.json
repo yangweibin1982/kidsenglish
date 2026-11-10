@@ -1,0 +1,225 @@
+{
+  "title": "Hello",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Hello! Hello, I'm Li Ming.",
+          "origin": "curated:u1-greet-intro",
+          "zh": "你好！你好，我是李明。"
+        }
+      ],
+      "headword": "hello",
+      "lexical_entry_id": "w_hello",
+      "ordinal": 1,
+      "phonetic_uk": "hə'ləu",
+      "phonetic_us": null,
+      "phonics_split": "hel·lo",
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "你好",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Hi! I'm Amy.",
+          "origin": "curated:u1-greet-casual",
+          "zh": "嗨！我是埃米。"
+        }
+      ],
+      "headword": "hi",
+      "lexical_entry_id": "w_hi",
+      "ordinal": 2,
+      "phonetic_uk": "hai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "嗨",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Goodbye, Miss Li! See you tomorrow.",
+          "origin": "curated:u1-farewell",
+          "zh": "再见，李老师！明天见。"
+        }
+      ],
+      "headword": "goodbye",
+      "lexical_entry_id": "w_goodbye",
+      "ordinal": 3,
+      "phonetic_uk": "gud'bai",
+      "phonetic_us": null,
+      "phonics_split": "good·bye",
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "再见",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good morning, Miss Li!",
+          "origin": "curated:u1-greet-morning",
+          "zh": "早上好，李老师！"
+        }
+      ],
+      "headword": "morning",
+      "lexical_entry_id": "w_morning",
+      "ordinal": 4,
+      "phonetic_uk": "'mɔːniŋ",
+      "phonetic_us": null,
+      "phonics_split": "mor·ning",
+      "senses": [
+        {
+          "emoji": "🌅",
+          "gloss": "早晨",
+          "pos": "n."
+        },
+        {
+          "gloss": "上午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good afternoon, boys and girls.",
+          "origin": "curated:u1-greet-afternoon",
+          "zh": "下午好，同学们。"
+        }
+      ],
+      "headword": "afternoon",
+      "lexical_entry_id": "w_afternoon",
+      "ordinal": 5,
+      "phonetic_uk": "'ɑ:ftə'nu:n",
+      "phonetic_us": null,
+      "phonics_split": "af·ter·noon",
+      "senses": [
+        {
+          "emoji": "🌞",
+          "gloss": "下午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am a pupil. I am seven.",
+          "origin": "curated:u1-pron-i",
+          "zh": "我是小学生。我七岁。"
+        }
+      ],
+      "headword": "I",
+      "lexical_entry_id": "w_i",
+      "ordinal": 6,
+      "phonetic_uk": "ai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "🙋",
+          "gloss": "我",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am six years old.",
+          "origin": "curated:u1-be-am",
+          "zh": "我六岁。"
+        }
+      ],
+      "headword": "am",
+      "lexical_entry_id": "w_am",
+      "ordinal": 7,
+      "phonetic_uk": "æm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my school.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的学校。"
+        },
+        {
+          "en": "I can see a school.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到学校。"
+        }
+      ],
+      "headword": "school",
+      "lexical_entry_id": "w_school",
+      "ordinal": 8,
+      "phonetic_uk": "sku:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "🏫",
+          "gloss": "学校",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Have a nice day!",
+          "origin": "curated:u1-farewell-day",
+          "zh": "祝你度过愉快的一天！"
+        }
+      ],
+      "headword": "day",
+      "lexical_entry_id": "w_day",
+      "ordinal": 9,
+      "phonetic_uk": "dei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "📅",
+          "gloss": "天、日子",
+          "pos": "n."
+        },
+        {
+          "gloss": "白天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U11 In the zoo 情景图样张：动物园里的小猴棕熊熊猫和老虎">
+  <!--
+    战机英语美术样张 · U11「In the zoo」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed111, bf0.035, oct3, scale5) + ke-crayon(seed211, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed311, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 111 / crayon 211 / papergrain 311。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；动物＝罩体圈，随体型定径）。
+    造型注记：四肢沿用票 18 连肩弧线双程描边技法（棕底＋毛色覆面）；唯一偏差＝熊猫
+    四肢单笔深棕 #4A3A2A w12（熊猫黑毛特征，留痕登记，非参数漂移）。
+    代表词：monkey / bear / panda / tiger。
+    热点坐标（内容域票接词包配置用）：monkey=(165,428,60) bear=(358,424,62) panda=(560,426,64) tiger=(756,424,64)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="111" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="211" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="311"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 天空 + 草地 -->
+    <rect x="0" y="0" width="900" height="382" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="375" width="900" height="185" fill="#8FBE6E" opacity="0.28" filter="url(#ke-crayon)"/>
+    <path d="M-10,383 Q230,374 470,382 T910,378 L910,570 L-10,570 Z" fill="#8FBE6E" opacity="0.18" filter="url(#ke-crayon)"/>
+
+    <!-- 太阳与云 -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="105" cy="84" r="25" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="105" y1="51" x2="104" y2="42"/><line x1="105" y1="117" x2="106" y2="126"/>
+        <line x1="72" y1="84" x2="63" y2="85"/><line x1="138" y1="84" x2="147" y2="83"/>
+      </g>
+      <g fill="#FFF9EC" opacity="0.85">
+        <circle cx="456" cy="92" r="14"/><circle cx="478" cy="85" r="18"/><circle cx="500" cy="93" r="13"/>
+        <rect x="444" y="90" width="66" height="16" rx="8"/>
+      </g>
+    </g>
+
+    <!-- 背景树（左·右） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="64" y="352" width="16" height="96" rx="6" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="72" cy="326" r="36" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="46" cy="356" r="24" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="100" cy="356" r="24" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="860" y="356" width="16" height="88" rx="6" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="866" cy="332" r="34" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="838" cy="362" r="24" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="892" cy="364" r="22" fill="#8FBE6E" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+    </g>
+
+    <!-- ZOO 木牌（右中景） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="817" cy="521" rx="24" ry="5" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="812" y="424" width="10" height="94" rx="4" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="786" y="388" width="62" height="36" rx="6" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+    </g>
+
+    <!-- monkey 小猴（代表词 monkey：棕毛浅脸＋卷尾） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="165" cy="521" rx="52" ry="7" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="146" y="478" width="14" height="40" rx="6" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="172" y="478" width="14" height="40" rx="6" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M193,478 Q214,472 212,450 Q210,434 196,440" stroke="#7A5A3D" stroke-width="8" fill="none" stroke-linecap="round"/>
+      <path d="M193,478 Q214,472 212,450 Q210,434 196,440" stroke="#A9764E" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <rect x="137" y="420" width="58" height="70" rx="24" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="166" cy="456" rx="17" ry="21" fill="#F2D6B4" opacity="0.9"/>
+      <path d="M147,436 Q132,458 137,484" stroke="#7A5A3D" stroke-width="13" fill="none" stroke-linecap="round"/>
+      <path d="M147,436 Q132,458 137,484" stroke="#A9764E" stroke-width="9" fill="none" stroke-linecap="round"/>
+      <path d="M185,432 Q202,420 207,400" stroke="#7A5A3D" stroke-width="13" fill="none" stroke-linecap="round"/>
+      <path d="M185,432 Q202,420 207,400" stroke="#A9764E" stroke-width="9" fill="none" stroke-linecap="round"/>
+      <circle cx="138" cy="378" r="9" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="138" cy="378" r="4.5" fill="#F2D6B4"/>
+      <circle cx="192" cy="376" r="9" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="192" cy="376" r="4.5" fill="#F2D6B4"/>
+      <circle cx="165" cy="390" r="27" fill="#A9764E" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="165" cy="401" rx="13" ry="10" fill="#F2D6B4" opacity="0.9" stroke="#7A5A3D" stroke-width="2"/>
+      <circle cx="161" cy="399" r="1.5" fill="#B9844A"/><circle cx="169" cy="399" r="1.5" fill="#B9844A"/>
+      <path d="M159,406 Q165,411 171,406" stroke="#7A5A3D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+      <circle cx="155" cy="385" r="3" fill="#4A3A2A"/><circle cx="175" cy="385" r="3" fill="#4A3A2A"/>
+    </g>
+
+    <!-- bear 棕熊（代表词 bear：圆耳棕熊） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="360" cy="521" rx="66" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="332" y="478" width="16" height="40" rx="7" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="372" y="478" width="16" height="40" rx="7" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="312" y="412" width="96" height="78" rx="34" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="362" cy="462" rx="22" ry="18" fill="#F2D6B4" opacity="0.7"/>
+      <path d="M326,430 Q310,452 317,482" stroke="#7A5A3D" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <path d="M326,430 Q310,452 317,482" stroke="#B9844A" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <path d="M394,428 Q408,418 412,402" stroke="#7A5A3D" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <path d="M394,428 Q408,418 412,402" stroke="#B9844A" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <circle cx="332" cy="362" r="10" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="332" cy="362" r="5" fill="#E8A95C"/>
+      <circle cx="376" cy="360" r="10" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="376" cy="360" r="5" fill="#E8A95C"/>
+      <circle cx="354" cy="386" r="28" fill="#B9844A" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="354" cy="398" rx="13" ry="10" fill="#F2D6B4" opacity="0.9" stroke="#7A5A3D" stroke-width="2"/>
+      <circle cx="354" cy="393" r="3.5" fill="#4A3A2A"/>
+      <path d="M348,403 Q354,408 360,403" stroke="#7A5A3D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+      <circle cx="342" cy="380" r="3" fill="#4A3A2A"/><circle cx="366" cy="380" r="3" fill="#4A3A2A"/>
+    </g>
+
+    <!-- panda 熊猫（代表词 panda：黑眼圈黑耳黑肢；四肢单笔深棕留痕偏差） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="560" cy="521" rx="62" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <path d="M538,474 L536,512 M582,474 L584,512" stroke="#4A3A2A" stroke-width="12" stroke-linecap="round"/>
+      <rect x="510" y="416" width="100" height="74" rx="32" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="560" cy="452" rx="17" ry="21" fill="#4A3A2A" opacity="0.85"/>
+      <path d="M520,434 Q506,454 514,474" stroke="#4A3A2A" stroke-width="12" fill="none" stroke-linecap="round"/>
+      <path d="M600,432 Q612,448 604,468" stroke="#4A3A2A" stroke-width="12" fill="none" stroke-linecap="round"/>
+      <circle cx="538" cy="364" r="9" fill="#4A3A2A"/>
+      <circle cx="586" cy="362" r="9" fill="#4A3A2A"/>
+      <circle cx="562" cy="386" r="27" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="548" cy="382" rx="8" ry="10" fill="#4A3A2A"/>
+      <ellipse cx="576" cy="380" rx="8" ry="10" fill="#4A3A2A"/>
+      <circle cx="548" cy="380" r="2.5" fill="#FFF9EC"/><circle cx="576" cy="378" r="2.5" fill="#FFF9EC"/>
+      <circle cx="562" cy="396" r="3.5" fill="#4A3A2A"/>
+      <path d="M556,402 Q562,407 568,402" stroke="#7A5A3D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- tiger 老虎（代表词 tiger：条纹虎） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="760" cy="521" rx="68" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="726" y="478" width="15" height="40" rx="7" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="776" y="478" width="15" height="40" rx="7" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M810,462 Q832,454 828,430 Q825,416 814,419" stroke="#7A5A3D" stroke-width="9" fill="none" stroke-linecap="round"/>
+      <path d="M810,462 Q832,454 828,430 Q825,416 814,419" stroke="#E8A95C" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M830,440 L821,438 M826,422 L817,424" stroke="#4A3A2A" stroke-width="4" stroke-linecap="round"/>
+      <rect x="708" y="414" width="104" height="74" rx="32" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="762" cy="462" rx="24" ry="18" fill="#FFF9EC" opacity="0.85"/>
+      <path d="M738,426 q-2,14 0,26 M762,422 q-2,16 0,30 M786,426 q-2,14 0,26" stroke="#4A3A2A" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.8"/>
+      <path d="M722,430 Q708,452 714,480" stroke="#7A5A3D" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <path d="M722,430 Q708,452 714,480" stroke="#E8A95C" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <path d="M798,428 Q812,418 816,402" stroke="#7A5A3D" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <path d="M798,428 Q812,418 816,402" stroke="#E8A95C" stroke-width="10" fill="none" stroke-linecap="round"/>
+      <circle cx="726" cy="362" r="10" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="726" cy="362" r="5" fill="#FFF9EC"/>
+      <circle cx="770" cy="360" r="10" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="770" cy="360" r="5" fill="#FFF9EC"/>
+      <circle cx="748" cy="384" r="28" fill="#E8A95C" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M740,362 L744,354 M748,360 L748,352 M756,362 L752,354" stroke="#4A3A2A" stroke-width="3" stroke-linecap="round"/>
+      <ellipse cx="748" cy="396" rx="13" ry="10" fill="#F2D6B4" opacity="0.9" stroke="#7A5A3D" stroke-width="2"/>
+      <circle cx="748" cy="391" r="3.5" fill="#4A3A2A"/>
+      <path d="M742,401 Q748,406 754,401" stroke="#7A5A3D" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+      <circle cx="736" cy="378" r="3" fill="#4A3A2A"/><circle cx="760" cy="378" r="3" fill="#4A3A2A"/>
+    </g>
+
+    <!-- 地面轻细节两件：石块×2（禁堆砌）＋草叶两组 -->
+    <g filter="url(#ke-crayon)">
+      <rect x="490" y="496" width="30" height="16" rx="8" fill="#E7DBC2" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="622" y="504" width="20" height="12" rx="6" fill="#E7DBC2" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <path d="M300,548 q8,-10 16,0 M668,550 q8,-9 16,0" stroke="#5C9968" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（罩体圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="165" cy="428" r="60"/>
+      <circle cx="358" cy="424" r="62"/>
+      <circle cx="560" cy="426" r="64"/>
+      <circle cx="756" cy="424" r="64"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 11 · In the zoo</text>
+  <text x="817" y="412" text-anchor="middle" font-size="16" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', sans-serif">ZOO</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="132" y="528" width="66" height="26" rx="13" fill="#7A5A3D"/><text x="165" y="546" fill="#FFF9EC">monkey</text>
+    <rect x="328" y="528" width="60" height="26" rx="13" fill="#7A5A3D"/><text x="358" y="546" fill="#FFF9EC">bear</text>
+    <rect x="528" y="528" width="64" height="26" rx="13" fill="#7A5A3D"/><text x="560" y="546" fill="#FFF9EC">panda</text>
+    <rect x="724" y="528" width="64" height="26" rx="13" fill="#7A5A3D"/><text x="756" y="546" fill="#FFF9EC">tiger</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

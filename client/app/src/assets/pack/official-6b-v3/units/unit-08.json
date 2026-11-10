@@ -1,0 +1,394 @@
+{
+  "title": "Reading signs",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my sign.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的符号, 招牌, 征兆, 正负号, 手势。"
+        },
+        {
+          "en": "I can see a sign.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到符号, 招牌, 征兆, 正负号, 手势。"
+        }
+      ],
+      "headword": "sign",
+      "lexical_entry_id": "w_sign",
+      "ordinal": 1,
+      "phonetic_uk": "sain",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "符号, 招牌, 征兆, 正负号, 手势",
+          "pos": "n."
+        },
+        {
+          "gloss": "签名, 打手势表达",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my middle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的中央, 中间, 腰部。"
+        },
+        {
+          "en": "I can see a middle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到中央, 中间, 腰部。"
+        }
+      ],
+      "headword": "middle",
+      "lexical_entry_id": "w_middle",
+      "ordinal": 2,
+      "phonetic_uk": "'midl",
+      "phonetic_us": null,
+      "phonics_split": "mid·dle",
+      "senses": [
+        {
+          "gloss": "中央, 中间, 腰部",
+          "pos": "n."
+        },
+        {
+          "gloss": "中央的, 中庸的, 中间的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my special.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的专辑, 专车, 号外, 特别的东西, 负有特别任务的人员。"
+        },
+        {
+          "en": "I can see a special.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到专辑, 专车, 号外, 特别的东西, 负有特别任务的人员。"
+        }
+      ],
+      "headword": "special",
+      "lexical_entry_id": "w_special",
+      "ordinal": 3,
+      "phonetic_uk": "'speʃəl",
+      "phonetic_us": null,
+      "phonics_split": "spe·cial",
+      "senses": [
+        {
+          "gloss": "专辑, 专车, 号外, 特别的东西, 负有特别任务的人员",
+          "pos": "n."
+        },
+        {
+          "gloss": "特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my path.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的路径, 小路, 道路, 途径, 路线, 轨道。"
+        },
+        {
+          "en": "I can see a path.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到路径, 小路, 道路, 途径, 路线, 轨道。"
+        }
+      ],
+      "headword": "path",
+      "lexical_entry_id": "w_path",
+      "ordinal": 4,
+      "phonetic_uk": "pɑ:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "路径, 小路, 道路, 途径, 路线, 轨道",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "May I have a pie?",
+          "origin": "curated:u9-may",
+          "zh": "我可以要一个馅饼吗？"
+        }
+      ],
+      "headword": "May",
+      "lexical_entry_id": "w_may",
+      "ordinal": 5,
+      "phonetic_uk": "mei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "可以",
+          "pos": "aux."
+        },
+        {
+          "gloss": "五月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very lost.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常失去的, 遗失的, 迷惑。"
+        }
+      ],
+      "headword": "lost",
+      "lexical_entry_id": "w_lost",
+      "ordinal": 6,
+      "phonetic_uk": "lɒst",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "失去的, 遗失的, 迷惑的",
+          "pos": "a."
+        },
+        {
+          "gloss": "lose的过去式和过去分词",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my worry.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的担心, 烦恼, 忧虑, 苦恼, 撕咬。"
+        },
+        {
+          "en": "I can see a worry.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到担心, 烦恼, 忧虑, 苦恼, 撕咬。"
+        }
+      ],
+      "headword": "worry",
+      "lexical_entry_id": "w_worry",
+      "ordinal": 7,
+      "phonetic_uk": "'wʌri",
+      "phonetic_us": null,
+      "phonics_split": "wor·ry",
+      "senses": [
+        {
+          "gloss": "担心, 烦恼, 忧虑, 苦恼, 撕咬",
+          "pos": "n."
+        },
+        {
+          "gloss": "使烦恼, 使焦虑, 使苦恼, 困扰, 折磨, 撕咬",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can follow.",
+          "origin": "template:t-v-can",
+          "zh": "我会跟随, 沿行, 遵循, 追求。"
+        },
+        {
+          "en": "Let's follow together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起跟随, 沿行, 遵循, 追求吧。"
+        }
+      ],
+      "headword": "follow",
+      "lexical_entry_id": "w_follow",
+      "ordinal": 8,
+      "phonetic_uk": "'fɒləu",
+      "phonetic_us": null,
+      "phonics_split": "fol·low",
+      "senses": [
+        {
+          "gloss": "跟随, 沿行, 遵循, 追求",
+          "pos": "vt."
+        },
+        {
+          "gloss": "跟随, 接着",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in the middle”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in the middle”。"
+        }
+      ],
+      "headword": "in the middle",
+      "lexical_entry_id": "w_in_the_middle",
+      "ordinal": 9,
+      "phonetic_uk": "in ðə ˈmidl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在中部; 正忙于; 拦腰; 当心",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “look out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“look out”。"
+        }
+      ],
+      "headword": "look out",
+      "lexical_entry_id": "w_look_out",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "面朝, 留神, 找出",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is a no smoking area.",
+          "origin": "curated:g6b-u8-no-smoking",
+          "zh": "这是禁烟区。"
+        }
+      ],
+      "headword": "no smoking",
+      "lexical_entry_id": "w_no_smoking",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "禁止吸烟",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The sign means 'No swimming'.",
+          "origin": "curated:g6b-u8-no-swimming",
+          "zh": "这个标志意思是「禁止游泳」。"
+        }
+      ],
+      "headword": "no swimming",
+      "lexical_entry_id": "w_no_swimming",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "禁止游泳",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get lost”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get lost”。"
+        }
+      ],
+      "headword": "get lost",
+      "lexical_entry_id": "w_get_lost",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "迷路,迷失方向",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “some time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“some time”。"
+        }
+      ],
+      "headword": "some time",
+      "lexical_entry_id": "w_some_time",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一会儿",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “on the way”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“on the way”。"
+        }
+      ],
+      "headword": "on the way",
+      "lexical_entry_id": "w_on_the_way",
+      "ordinal": 15,
+      "phonetic_uk": "ɔn ðə wei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在途中, 接近; <口>（孩子）已成胎而尚未出生; 沿途; 沿路",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

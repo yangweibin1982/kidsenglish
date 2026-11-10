@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U4 I can sing 情景图样张：唱歌跳舞看书画画的四位同学">
+  <!--
+    战机英语美术样张 · U4「I can sing」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed104, bf0.035, oct3, scale5) + ke-crayon(seed204, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed304, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 104 / crayon 204 / papergrain 304。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；人物＝头肩小圈）。
+    代表词：sing / dance / read / draw。
+    热点坐标（内容域票接词包配置用）：sing=(150,438,46) dance=(390,438,46) read=(590,438,46) draw=(690,438,46)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="104" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="204" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="304"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 墙面淡彩 + 蜡笔地板 -->
+    <rect x="0" y="0" width="900" height="392" fill="#E3F0F2" opacity="0.4"/>
+    <rect x="0" y="392" width="900" height="178" fill="#E8A95C" opacity="0.45" filter="url(#ke-crayon)"/>
+    <path d="M-10,400 Q220,386 460,398 T910,394 L910,570 L-10,570 Z" fill="#D9A05B" opacity="0.5" filter="url(#ke-crayon)"/>
+    <path d="M60,520 q28,-4 56,0 M300,544 q26,-4 52,0 M560,510 q30,-4 60,0 M760,546 q24,-4 48,0" stroke="#B9844A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.55"/>
+
+    <!-- 墙上涂鸦小画框两枚（活动室氛围，非热点） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="440" y="80" width="54" height="44" rx="6" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="448" y="88" width="38" height="28" rx="3" fill="#FFF9EC" opacity="0.9"/>
+      <circle cx="467" cy="102" r="8" fill="#F0C05A" opacity="0.85"/>
+      <rect x="520" y="92" width="50" height="42" rx="6" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="528" y="100" width="34" height="26" rx="3" fill="#FFF9EC" opacity="0.9"/>
+      <path d="M536,118 q5,-12 9,0 q5,-12 9,0" stroke="#E8764F" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.85"/>
+    </g>
+
+    <!-- girl 唱歌（代表词 sing：张嘴高音＋飘出的音符） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="150" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="131" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="155" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="124" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="152" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="124" y="447" width="52" height="64" rx="20" fill="#E8764F" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M128,458 Q118,484 123,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M128,458 Q118,484 123,508" stroke="#E8764F" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M172,458 Q196,448 206,424" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M172,458 Q196,448 206,424" stroke="#E8764F" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <ellipse cx="114" cy="424" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="186" cy="422" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="116" cy="412" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="184" cy="410" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="150" cy="423" r="28" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M126,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="141" cy="421" r="3" fill="#4A3A2A"/>
+      <circle cx="161" cy="419" r="3" fill="#4A3A2A"/>
+      <!-- 张嘴唱歌的小嘴 -->
+      <ellipse cx="151" cy="437" rx="5" ry="6.5" fill="#4A3A2A" opacity="0.85"/>
+      <path d="M130,430 l5,4 M170,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+      <!-- 飘出的两个音符 -->
+      <g stroke-width="2.5" stroke-linecap="round" fill="none">
+        <ellipse cx="228" cy="386" rx="7" ry="5.5" fill="#5B9BB5" stroke="#7A5A3D" transform="rotate(-20 228 386)"/>
+        <path d="M235,384 L235,362 q8,3 12,10" stroke="#7A5A3D"/>
+        <ellipse cx="256" cy="352" rx="7" ry="5.5" fill="#E8764F" stroke="#7A5A3D" transform="rotate(-20 256 352)"/>
+        <path d="M263,350 L263,328 q8,3 12,10" stroke="#7A5A3D"/>
+      </g>
+    </g>
+
+    <!-- boy 跳舞（代表词 dance：双臂高举＋单脚点地＋动感弧线） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="390" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="371" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="395" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="364" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="392" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="364" y="447" width="52" height="64" rx="20" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M368,458 Q348,444 342,418" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M368,458 Q348,444 342,418" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M412,458 Q432,444 438,418" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M412,458 Q432,444 438,418" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="390" cy="423" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M364,423 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M374,392 l3,-8 M384,393 l3,-7" stroke="#4A3A2A" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="381" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="401" cy="423" r="3" fill="#4A3A2A"/>
+      <path d="M382,436 Q391,443 400,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M370,430 l5,4 M410,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+      <!-- 踢起的右腿（腿组旋转 26°＝舞步点地） -->
+      <g transform="rotate(26 402 505)">
+        <rect x="395" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+        <rect x="392" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      </g>
+      <path d="M334,528 q-9,10 0,20 M446,528 q9,10 0,20" stroke="#B9844A" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.55"/>
+    </g>
+
+    <!-- girl 看书（代表词 read：双手捧打开的书） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="590" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="571" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="595" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="564" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="592" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="564" y="447" width="52" height="64" rx="20" fill="#F0C05A" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M566,456 Q556,462 562,468" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M566,456 Q556,462 562,468" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M614,456 Q624,462 618,468" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M614,456 Q624,462 618,468" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="590" cy="423" r="28" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M564,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M590,394 q2,-9 8,-10" stroke="#4A3A2A" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="581" cy="427" r="3" fill="#4A3A2A"/>
+      <circle cx="601" cy="425" r="3" fill="#4A3A2A"/>
+      <path d="M582,438 Q590,443 598,437" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <!-- 捧着的打开小书（压住双臂端点） -->
+      <path d="M562,462 L590,452 L590,478 L562,486 Z" fill="#FFF9EC" opacity="0.95" stroke="#7A5A3D" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M618,462 L590,452 L590,478 L618,486 Z" fill="#FFF9EC" opacity="0.95" stroke="#7A5A3D" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M568,468 q9,-4 17,-1 M595,467 q9,-3 17,1" stroke="#7A5A3D" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.5"/>
+      <path d="M570,436 l5,4 M610,434 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 画架＋boy 画画（代表词 draw：蜡笔触纸） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="810" cy="546" rx="65" ry="8" fill="#7A5A3D" opacity="0.12"/>
+      <line x1="810" y1="215" x2="765" y2="540" stroke="#7A5A3D" stroke-width="6" stroke-linecap="round"/>
+      <line x1="810" y1="215" x2="855" y2="540" stroke="#7A5A3D" stroke-width="6" stroke-linecap="round"/>
+      <line x1="787" y1="470" x2="833" y2="470" stroke="#7A5A3D" stroke-width="5" stroke-linecap="round"/>
+      <rect x="725" y="210" width="170" height="180" rx="10" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3.5"/>
+      <circle cx="775" cy="262" r="17" fill="#F0C05A" opacity="0.8" stroke="#7A5A3D" stroke-width="2"/>
+      <g stroke="#E8B84A" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.8">
+        <line x1="775" y1="238" x2="775" y2="231"/><line x1="775" y1="286" x2="775" y2="293"/>
+        <line x1="751" y1="262" x2="744" y2="262"/><line x1="799" y1="262" x2="806" y2="262"/>
+      </g>
+      <path d="M748,348 q20,-7 42,0 M796,352 q18,-6 36,0" stroke="#8FBE6E" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/>
+    </g>
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="690" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="671" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="695" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="664" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="692" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="664" y="447" width="52" height="64" rx="20" fill="#5B9BB5" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M668,458 Q658,484 663,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M668,458 Q658,484 663,508" stroke="#5B9BB5" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="690" cy="423" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M664,423 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="681" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="701" cy="423" r="3" fill="#4A3A2A"/>
+      <!-- 持蜡笔触纸手臂（画在脸之后，蜡笔端点落在画纸上） -->
+      <path d="M712,458 Q730,446 738,426" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M712,458 Q730,446 738,426" stroke="#5B9BB5" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <g transform="rotate(-32 742 414)">
+        <rect x="738" y="402" width="8" height="20" rx="3" fill="#F0C05A" opacity="0.92" stroke="#7A5A3D" stroke-width="2"/>
+        <rect x="738" y="402" width="8" height="6" rx="2.5" fill="#D96843" opacity="0.9" stroke="#7A5A3D" stroke-width="1.6"/>
+      </g>
+      <path d="M682,436 Q690,443 698,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M670,430 l5,4 M710,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 地面轻细节两件：蜡笔＋散页纸（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <g transform="rotate(-4 300 535)">
+        <rect x="268" y="530" width="8" height="10" rx="2.5" fill="#E8764F" stroke="#7A5A3D" stroke-width="2" opacity="0.9"/>
+        <rect x="274" y="531" width="38" height="8" rx="4" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2.2" opacity="0.9"/>
+      </g>
+      <g transform="rotate(3 480 540)">
+        <rect x="462" y="530" width="38" height="19" rx="4" fill="#FFF9EC" stroke="#7A5A3D" stroke-width="2.5" opacity="0.85"/>
+        <path d="M469,538 q11,-3 24,0" stroke="#7A5A3D" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.45"/>
+      </g>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（头肩小圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="150" cy="438" r="46"/>
+      <circle cx="390" cy="438" r="46"/>
+      <circle cx="590" cy="438" r="46"/>
+      <circle cx="690" cy="438" r="46"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 4 · I can sing</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="119" y="470" width="62" height="26" rx="13" fill="#7A5A3D"/><text x="150" y="488" fill="#FFF9EC">sing</text>
+    <rect x="355" y="470" width="70" height="26" rx="13" fill="#7A5A3D"/><text x="390" y="488" fill="#FFF9EC">dance</text>
+    <rect x="560" y="486" width="60" height="26" rx="13" fill="#7A5A3D"/><text x="590" y="504" fill="#FFF9EC">read</text>
+    <rect x="660" y="470" width="60" height="26" rx="13" fill="#7A5A3D"/><text x="690" y="488" fill="#FFF9EC">draw</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

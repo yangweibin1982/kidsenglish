@@ -1,0 +1,326 @@
+{
+  "title": "Reusing things",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can reuse.",
+          "origin": "template:t-v-can",
+          "zh": "我会再使用。"
+        },
+        {
+          "en": "Let's reuse together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起再使用吧。"
+        }
+      ],
+      "headword": "reuse",
+      "lexical_entry_id": "w_reuse",
+      "ordinal": 1,
+      "phonetic_uk": "ri:'ju:z",
+      "phonetic_us": null,
+      "phonics_split": "re·use",
+      "senses": [
+        {
+          "gloss": "再使用",
+          "pos": "vt."
+        },
+        {
+          "gloss": "重新使用",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Can you sing?",
+          "origin": "curated:u4-can",
+          "zh": "你会唱歌吗？"
+        }
+      ],
+      "headword": "can",
+      "lexical_entry_id": "w_can",
+      "ordinal": 2,
+      "phonetic_uk": "kæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "会、能",
+          "pos": "aux."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rubber.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橡皮。"
+        },
+        {
+          "en": "I can see a rubber.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橡皮。"
+        }
+      ],
+      "headword": "rubber",
+      "lexical_entry_id": "w_rubber",
+      "ordinal": 3,
+      "phonetic_uk": "'rʌbə",
+      "phonetic_us": null,
+      "phonics_split": "rub·ber",
+      "senses": [
+        {
+          "gloss": "橡皮",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my vase.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的花瓶, 瓶。"
+        },
+        {
+          "en": "I can see a vase.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到花瓶, 瓶。"
+        }
+      ],
+      "headword": "vase",
+      "lexical_entry_id": "w_vase",
+      "ordinal": 4,
+      "phonetic_uk": "veis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "花瓶, 瓶",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pen holder is on my desk.",
+          "origin": "curated:g6b-u5-pen-holder",
+          "zh": "笔筒在我书桌上。"
+        }
+      ],
+      "headword": "pen holder",
+      "lexical_entry_id": "w_pen_holder",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "笔筒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my envelope.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的信封, 封套, 封袋。"
+        },
+        {
+          "en": "I can see an envelope.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到信封, 封套, 封袋。"
+        }
+      ],
+      "headword": "envelope",
+      "lexical_entry_id": "w_envelope",
+      "ordinal": 6,
+      "phonetic_uk": "'envələup",
+      "phonetic_us": null,
+      "phonics_split": "en·ve·lope",
+      "senses": [
+        {
+          "gloss": "信封, 封套, 封袋",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plastic.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的塑料, 可塑体, 可塑性物质。"
+        },
+        {
+          "en": "I can see a plastic.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到塑料, 可塑体, 可塑性物质。"
+        }
+      ],
+      "headword": "plastic",
+      "lexical_entry_id": "w_plastic",
+      "ordinal": 7,
+      "phonetic_uk": "'plæstik",
+      "phonetic_us": null,
+      "phonics_split": "plas·tic",
+      "senses": [
+        {
+          "gloss": "塑料, 可塑体, 可塑性物质",
+          "pos": "n."
+        },
+        {
+          "gloss": "塑料的, 塑造的, 有可塑性的, 造型的, 易受影响的, 有创造力的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “rubbish bin”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“rubbish bin”。"
+        }
+      ],
+      "headword": "rubbish bin",
+      "lexical_entry_id": "w_rubbish_bin",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "废物箱,垃圾箱",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my truck.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话。"
+        },
+        {
+          "en": "I can see a truck.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话。"
+        }
+      ],
+      "headword": "truck",
+      "lexical_entry_id": "w_truck",
+      "ordinal": 9,
+      "phonetic_uk": "trʌk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "卡车, 货车, 对...进行交易, 来往, 实物工资, (供应市场的)蔬菜, 废物, 废话",
+          "pos": "n."
+        },
+        {
+          "gloss": "对...进行交易, 交往, 以卡车运输",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my piece.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的块, 片, 篇, 碎片, 部分, 部件, 标准量。"
+        },
+        {
+          "en": "I can see a piece.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到块, 片, 篇, 碎片, 部分, 部件, 标准量。"
+        }
+      ],
+      "headword": "piece",
+      "lexical_entry_id": "w_piece",
+      "ordinal": 10,
+      "phonetic_uk": "pi:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "块, 片, 篇, 碎片, 部分, 部件, 标准量",
+          "pos": "n."
+        },
+        {
+          "gloss": "修补, 修理, 拼合, 接线头",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cloth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的布料, 织品, 布。"
+        },
+        {
+          "en": "I can see a cloth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到布料, 织品, 布。"
+        }
+      ],
+      "headword": "cloth",
+      "lexical_entry_id": "w_cloth",
+      "ordinal": 11,
+      "phonetic_uk": "klɔːθ. klɒθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "布料, 织品, 布",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “throw away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“throw away”。"
+        }
+      ],
+      "headword": "throw away",
+      "lexical_entry_id": "w_throw_away",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "丢弃",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

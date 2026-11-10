@@ -1,0 +1,692 @@
+{
+  "title": null,
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my stage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架。"
+        },
+        {
+          "en": "I can see a stage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架。"
+        }
+      ],
+      "headword": "stage",
+      "lexical_entry_id": "w_stage",
+      "ordinal": 1,
+      "phonetic_uk": "steidʒ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "阶段, 舞台, 场所, 戏剧, 站, 驿站, 级, 层, 脚手架",
+          "pos": "n."
+        },
+        {
+          "gloss": "上演, 表演, 筹划",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my clue.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的线索, 暗示。"
+        },
+        {
+          "en": "I can see a clue.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到线索, 暗示。"
+        }
+      ],
+      "headword": "clue",
+      "lexical_entry_id": "w_clue",
+      "ordinal": 2,
+      "phonetic_uk": "klu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "线索, 暗示",
+          "pos": "n."
+        },
+        {
+          "gloss": "暗示, 提供线索",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can promote.",
+          "origin": "template:t-v-can",
+          "zh": "我会促进, 晋升, 创办, 推销。"
+        },
+        {
+          "en": "Let's promote together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起促进, 晋升, 创办, 推销吧。"
+        }
+      ],
+      "headword": "promote",
+      "lexical_entry_id": "w_promote",
+      "ordinal": 3,
+      "phonetic_uk": "prəu'məut",
+      "phonetic_us": null,
+      "phonics_split": "pro·mote",
+      "senses": [
+        {
+          "gloss": "促进, 晋升, 创办, 推销",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “abroad”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“abroad”。"
+        }
+      ],
+      "headword": "abroad",
+      "lexical_entry_id": "w_abroad",
+      "ordinal": 4,
+      "phonetic_uk": "ə'brɔːd",
+      "phonetic_us": null,
+      "phonics_split": "ab·road",
+      "senses": [
+        {
+          "gloss": "往国外, 到室外, 到处",
+          "pos": "adv."
+        },
+        {
+          "gloss": "往国外的, 在室外的, 广泛四散的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my costume.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的装束, 服装。"
+        },
+        {
+          "en": "I can see a costume.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到装束, 服装。"
+        }
+      ],
+      "headword": "costume",
+      "lexical_entry_id": "w_costume",
+      "ordinal": 5,
+      "phonetic_uk": "'kɒstju:m",
+      "phonetic_us": null,
+      "phonics_split": "cos·tume",
+      "senses": [
+        {
+          "gloss": "装束, 服装",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my opportunity.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的机会, 时机。"
+        },
+        {
+          "en": "I can see an opportunity.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到机会, 时机。"
+        }
+      ],
+      "headword": "opportunity",
+      "lexical_entry_id": "w_opportunity",
+      "ordinal": 6,
+      "phonetic_uk": ".ɒpə'tju:niti",
+      "phonetic_us": null,
+      "phonics_split": "op·por·tu·ni·ty",
+      "senses": [
+        {
+          "gloss": "机会, 时机",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can acquire.",
+          "origin": "template:t-v-can",
+          "zh": "我会获得, 学到。"
+        },
+        {
+          "en": "Let's acquire together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起获得, 学到吧。"
+        }
+      ],
+      "headword": "acquire",
+      "lexical_entry_id": "w_acquire",
+      "ordinal": 7,
+      "phonetic_uk": "ə'kwaiə",
+      "phonetic_us": null,
+      "phonics_split": "ac·quire",
+      "senses": [
+        {
+          "gloss": "获得, 学到",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sheet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的床单, 张, 纸张, 印刷品, 裹尸布, 薄片。"
+        },
+        {
+          "en": "I can see a sheet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到床单, 张, 纸张, 印刷品, 裹尸布, 薄片。"
+        }
+      ],
+      "headword": "sheet",
+      "lexical_entry_id": "w_sheet",
+      "ordinal": 8,
+      "phonetic_uk": "ʃi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "床单, 张, 纸张, 印刷品, 裹尸布, 薄片",
+          "pos": "n."
+        },
+        {
+          "gloss": "盖上被单, 遍布",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my conclusion.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结论, 结尾, 推论。"
+        },
+        {
+          "en": "I can see a conclusion.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结论, 结尾, 推论。"
+        }
+      ],
+      "headword": "conclusion",
+      "lexical_entry_id": "w_conclusion",
+      "ordinal": 9,
+      "phonetic_uk": "kən'klu:ʒən",
+      "phonetic_us": null,
+      "phonics_split": "con·clu·sion",
+      "senses": [
+        {
+          "gloss": "结论, 结尾, 推论",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my poetry.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的诗, 韵文, 诗歌艺术。"
+        },
+        {
+          "en": "I can see a poetry.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到诗, 韵文, 诗歌艺术。"
+        }
+      ],
+      "headword": "poetry",
+      "lexical_entry_id": "w_poetry",
+      "ordinal": 10,
+      "phonetic_uk": "'pəuitri",
+      "phonetic_us": null,
+      "phonics_split": "po·et·ry",
+      "senses": [
+        {
+          "gloss": "诗, 韵文, 诗歌艺术",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very concerned.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常关心的, 有关的, 参与的, 担心。"
+        }
+      ],
+      "headword": "concerned",
+      "lexical_entry_id": "w_concerned",
+      "ordinal": 11,
+      "phonetic_uk": "kən'sə:nd",
+      "phonetic_us": null,
+      "phonics_split": "con·cerned",
+      "senses": [
+        {
+          "gloss": "关心的, 有关的, 参与的, 担心的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very creative.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有创造力的, 创作的, 产生。"
+        }
+      ],
+      "headword": "creative",
+      "lexical_entry_id": "w_creative",
+      "ordinal": 12,
+      "phonetic_uk": "kri:'eitiv",
+      "phonetic_us": null,
+      "phonics_split": "cre·ative",
+      "senses": [
+        {
+          "gloss": "有创造力的, 创作的, 产生的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pleasure.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的快乐, 愉快, 令人高兴的事, 娱乐, 希望。"
+        },
+        {
+          "en": "I can see a pleasure.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到快乐, 愉快, 令人高兴的事, 娱乐, 希望。"
+        }
+      ],
+      "headword": "pleasure",
+      "lexical_entry_id": "w_pleasure",
+      "ordinal": 13,
+      "phonetic_uk": "'pleʒə",
+      "phonetic_us": null,
+      "phonics_split": "plea·sure",
+      "senses": [
+        {
+          "gloss": "快乐, 愉快, 令人高兴的事, 娱乐, 希望",
+          "pos": "n."
+        },
+        {
+          "gloss": "(使)高兴",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very rosy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常蔷薇色的, 玫瑰红色。"
+        }
+      ],
+      "headword": "rosy",
+      "lexical_entry_id": "w_rosy",
+      "ordinal": 14,
+      "phonetic_uk": "'rəuzi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蔷薇色的, 玫瑰红色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my youth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的年轻, 青年时代, 青年们, 青春。"
+        },
+        {
+          "en": "I can see a youth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到年轻, 青年时代, 青年们, 青春。"
+        }
+      ],
+      "headword": "youth",
+      "lexical_entry_id": "w_youth",
+      "ordinal": 15,
+      "phonetic_uk": "ju:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "年轻, 青年时代, 青年们, 青春",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my worth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的价值, 财产。"
+        },
+        {
+          "en": "I can see a worth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到价值, 财产。"
+        }
+      ],
+      "headword": "worth",
+      "lexical_entry_id": "w_worth",
+      "ordinal": 16,
+      "phonetic_uk": "wə:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "价值, 财产",
+          "pos": "n."
+        },
+        {
+          "gloss": "值...的, 值得的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Christmas.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圣诞节。"
+        },
+        {
+          "en": "I can see a Christmas.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圣诞节。"
+        }
+      ],
+      "headword": "Christmas",
+      "lexical_entry_id": "w_christmas",
+      "ordinal": 17,
+      "phonetic_uk": "'krisməs",
+      "phonetic_us": null,
+      "phonics_split": "christ·mas",
+      "senses": [
+        {
+          "gloss": "圣诞节",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my eve.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的前夕, 前夜。"
+        },
+        {
+          "en": "I can see an eve.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到前夕, 前夜。"
+        }
+      ],
+      "headword": "eve",
+      "lexical_entry_id": "w_eve",
+      "ordinal": 18,
+      "phonetic_uk": "i:v",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "前夕, 前夜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “spelling bee”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“spelling bee”。"
+        }
+      ],
+      "headword": "spelling bee",
+      "lexical_entry_id": "w_spelling_bee",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拼字比赛会",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my treasure hunt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的寻宝, 寻找珍宝。"
+        },
+        {
+          "en": "I can see a treasure hunt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到寻宝, 寻找珍宝。"
+        }
+      ],
+      "headword": "treasure hunt",
+      "lexical_entry_id": "w_treasure_hunt",
+      "ordinal": 20,
+      "phonetic_uk": "ˈtreʒə hʌnt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "寻宝, 寻找珍宝",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cultural exchange.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的文化交流。"
+        },
+        {
+          "en": "I can see a cultural exchange.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到文化交流。"
+        }
+      ],
+      "headword": "cultural exchange",
+      "lexical_entry_id": "w_cultural_exchange",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "文化交流",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my technological development.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的科技发展。"
+        },
+        {
+          "en": "I can see a technological development.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到科技发展。"
+        }
+      ],
+      "headword": "technological development",
+      "lexical_entry_id": "w_technological_development",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "科技发展",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “no wonder”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“no wonder”。"
+        }
+      ],
+      "headword": "no wonder",
+      "lexical_entry_id": "w_no_wonder",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不足为奇的",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my high-speed train.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的高铁。"
+        },
+        {
+          "en": "I can see a high-speed train.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到高铁。"
+        }
+      ],
+      "headword": "high-speed train",
+      "lexical_entry_id": "w_high_speed_train",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高铁",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “pass by”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“pass by”。"
+        }
+      ],
+      "headword": "pass by",
+      "lexical_entry_id": "w_pass_by",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "经过, 掠过, 忽视",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go by”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go by”。"
+        }
+      ],
+      "headword": "go by",
+      "lexical_entry_id": "w_go_by",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "走过, 依照, 顺便走访",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

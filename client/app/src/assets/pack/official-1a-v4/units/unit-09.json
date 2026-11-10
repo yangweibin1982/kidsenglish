@@ -1,0 +1,215 @@
+{
+  "title": "May I have a pie?",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "May I have a pie?",
+          "origin": "curated:u9-may",
+          "zh": "我可以要一个馅饼吗？"
+        }
+      ],
+      "headword": "May",
+      "lexical_entry_id": "w_may",
+      "ordinal": 1,
+      "phonetic_uk": "mei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "可以",
+          "pos": "aux."
+        },
+        {
+          "gloss": "五月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a pie.",
+          "origin": "curated:u9-have",
+          "zh": "我有一个馅饼。"
+        }
+      ],
+      "headword": "have",
+      "lexical_entry_id": "w_have",
+      "ordinal": 2,
+      "phonetic_uk": "hæv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pie.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的馅饼。"
+        },
+        {
+          "en": "I can see a pie.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到馅饼。"
+        }
+      ],
+      "headword": "pie",
+      "lexical_entry_id": "w_pie",
+      "ordinal": 3,
+      "phonetic_uk": "pai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "馅饼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hamburger.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的汉堡包。"
+        },
+        {
+          "en": "I can see a hamburger.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到汉堡包。"
+        }
+      ],
+      "headword": "hamburger",
+      "lexical_entry_id": "w_hamburger",
+      "ordinal": 4,
+      "phonetic_uk": "'hæmbə:gə",
+      "phonetic_us": null,
+      "phonics_split": "ham·bur·ger",
+      "senses": [
+        {
+          "gloss": "汉堡包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pizza.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比萨饼。"
+        },
+        {
+          "en": "I can see a pizza.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比萨饼。"
+        }
+      ],
+      "headword": "pizza",
+      "lexical_entry_id": "w_pizza",
+      "ordinal": 5,
+      "phonetic_uk": "'pi:tsə",
+      "phonetic_us": null,
+      "phonics_split": "piz·za",
+      "senses": [
+        {
+          "gloss": "比萨饼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cake.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蛋糕。"
+        },
+        {
+          "en": "I can see a cake.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蛋糕。"
+        }
+      ],
+      "headword": "cake",
+      "lexical_entry_id": "w_cake",
+      "ordinal": 6,
+      "phonetic_uk": "keik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛋糕",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my snack.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的零食。"
+        },
+        {
+          "en": "I can see a snack.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到零食。"
+        }
+      ],
+      "headword": "snack",
+      "lexical_entry_id": "w_snack",
+      "ordinal": 7,
+      "phonetic_uk": "snæk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "零食",
+          "pos": "n."
+        },
+        {
+          "gloss": "点心",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a chocolate bar.",
+          "origin": "curated:u9-bar",
+          "zh": "我有一块巧克力。"
+        }
+      ],
+      "headword": "bar",
+      "lexical_entry_id": "w_bar",
+      "ordinal": 8,
+      "phonetic_uk": "bɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "条、棒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

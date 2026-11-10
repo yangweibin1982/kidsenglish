@@ -1,0 +1,8 @@
+# KidsEnglish server 运行时依赖（版本经本机 Python 3.11 实测锁定）
+fastapi==0.162.0
+uvicorn==0.54.0
+SQLAlchemy==2.1.6
+alembic==1.20.1
+pydantic==2.14.1
+openpyxl==3.1.5
+pyphen==0.18.1  # 拼读拆分词典主源（票 54；en_US 连字）

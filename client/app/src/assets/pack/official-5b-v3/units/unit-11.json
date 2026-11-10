@@ -1,0 +1,361 @@
+{
+  "title": "Chinese festival",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very festival.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常节日的, 喜庆的, 快乐。"
+        }
+      ],
+      "headword": "festival",
+      "lexical_entry_id": "w_festival",
+      "ordinal": 1,
+      "phonetic_uk": "'festəvəl",
+      "phonetic_us": null,
+      "phonics_split": "fes·ti·val",
+      "senses": [
+        {
+          "gloss": "节日的, 喜庆的, 快乐的",
+          "pos": "a."
+        },
+        {
+          "gloss": "节日, 庆祝, 欢宴",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very important.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常重要的, 有地位的, 大量的, 显要的, 自负。"
+        }
+      ],
+      "headword": "important",
+      "lexical_entry_id": "w_important",
+      "ordinal": 2,
+      "phonetic_uk": "im'pɔːtənt",
+      "phonetic_us": null,
+      "phonics_split": "im·por·tant",
+      "senses": [
+        {
+          "gloss": "重要的, 有地位的, 大量的, 显要的, 自负的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my call.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的呼叫, 访问, 打电话, 号召, 召集, 要求。"
+        },
+        {
+          "en": "I can see a call.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到呼叫, 访问, 打电话, 号召, 召集, 要求。"
+        }
+      ],
+      "headword": "call",
+      "lexical_entry_id": "w_call",
+      "ordinal": 3,
+      "phonetic_uk": "kɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "呼叫, 访问, 打电话, 号召, 召集, 要求",
+          "pos": "n."
+        },
+        {
+          "gloss": "呼叫, 召集, 打电话",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dumpling.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面团布丁, 团子。"
+        },
+        {
+          "en": "I can see a dumpling.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面团布丁, 团子。"
+        }
+      ],
+      "headword": "dumpling",
+      "lexical_entry_id": "w_dumpling",
+      "ordinal": 4,
+      "phonetic_uk": "'dʌmpliŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "面团布丁, 团子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my relative.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的亲戚, 关系词。"
+        },
+        {
+          "en": "I can see a relative.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到亲戚, 关系词。"
+        }
+      ],
+      "headword": "relative",
+      "lexical_entry_id": "w_relative",
+      "ordinal": 5,
+      "phonetic_uk": "'relətiv",
+      "phonetic_us": null,
+      "phonics_split": "rel·a·tive",
+      "senses": [
+        {
+          "gloss": "亲戚, 关系词",
+          "pos": "n."
+        },
+        {
+          "gloss": "有关系的, 相对的, 比较的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “red packet”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“red packet”。"
+        }
+      ],
+      "headword": "red packet",
+      "lexical_entry_id": "w_red_packet",
+      "ordinal": 6,
+      "phonetic_uk": "red ˈpækit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "红袋子; 红包",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my firework.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现。"
+        },
+        {
+          "en": "I can see a firework.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现。"
+        }
+      ],
+      "headword": "firework",
+      "lexical_entry_id": "w_firework",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "fire·work",
+      "senses": [
+        {
+          "gloss": "烟火具, 烟火, 烟火信号弹, 焰火, 激情的表现",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my monster.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的怪物, 恶人, 巨物。"
+        },
+        {
+          "en": "I can see a monster.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到怪物, 恶人, 巨物。"
+        }
+      ],
+      "headword": "monster",
+      "lexical_entry_id": "w_monster",
+      "ordinal": 8,
+      "phonetic_uk": "'mɒnstə",
+      "phonetic_us": null,
+      "phonics_split": "mon·ster",
+      "senses": [
+        {
+          "gloss": "怪物, 恶人, 巨物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my end.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结束, 终点, 目标, 末端, 梢, 死亡, 残余。"
+        },
+        {
+          "en": "I can see an end.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结束, 终点, 目标, 末端, 梢, 死亡, 残余。"
+        }
+      ],
+      "headword": "end",
+      "lexical_entry_id": "w_end",
+      "ordinal": 9,
+      "phonetic_uk": "end",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "结束, 终点, 目标, 末端, 梢, 死亡, 残余",
+          "pos": "n."
+        },
+        {
+          "gloss": "结束, 终结, 终止",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my village.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的村庄。"
+        },
+        {
+          "en": "I can see a village.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到村庄。"
+        }
+      ],
+      "headword": "village",
+      "lexical_entry_id": "w_village",
+      "ordinal": 10,
+      "phonetic_uk": "'vilidʒ",
+      "phonetic_us": null,
+      "phonics_split": "vil·lage",
+      "senses": [
+        {
+          "gloss": "村庄",
+          "pos": "n."
+        },
+        {
+          "gloss": "乡村的, 村庄的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very last.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常最后的, 末尾的, 最近。"
+        }
+      ],
+      "headword": "last",
+      "lexical_entry_id": "w_last",
+      "ordinal": 11,
+      "phonetic_uk": "lɑ:st",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "最后的, 末尾的, 最近的",
+          "pos": "a."
+        },
+        {
+          "gloss": "持续, 支持, 维持",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my firecracker.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的爆竹, 鞭炮。"
+        },
+        {
+          "en": "I can see a firecracker.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到爆竹, 鞭炮。"
+        }
+      ],
+      "headword": "firecracker",
+      "lexical_entry_id": "w_firecracker",
+      "ordinal": 12,
+      "phonetic_uk": "'faiəkrækə",
+      "phonetic_us": null,
+      "phonics_split": "fire·crack·er",
+      "senses": [
+        {
+          "gloss": "爆竹, 鞭炮",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mooncake.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的月饼。"
+        },
+        {
+          "en": "I can see a mooncake.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到月饼。"
+        }
+      ],
+      "headword": "mooncake",
+      "lexical_entry_id": "w_mooncake",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "moon·cake",
+      "senses": [
+        {
+          "gloss": "月饼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

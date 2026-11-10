@@ -1,0 +1,142 @@
+{
+  "title": "Are you Alice?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Sorry, Mum.",
+          "origin": "curated:g2u3-sorry",
+          "zh": "对不起，妈妈。"
+        }
+      ],
+      "headword": "sorry",
+      "lexical_entry_id": "w_sorry",
+      "ordinal": 1,
+      "phonetic_uk": "'sɒri",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "对不起",
+          "pos": "int."
+        },
+        {
+          "gloss": "难过的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am seven years old.",
+          "origin": "curated:g2u3-seven",
+          "zh": "我七岁。"
+        }
+      ],
+      "headword": "seven",
+      "lexical_entry_id": "w_seven",
+      "ordinal": 2,
+      "phonetic_uk": "'sevn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "七",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see eight fish.",
+          "origin": "curated:g2u3-eight",
+          "zh": "我看见八条鱼。"
+        }
+      ],
+      "headword": "eight",
+      "lexical_entry_id": "w_eight",
+      "ordinal": 3,
+      "phonetic_uk": "eit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "八",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see nine birds.",
+          "origin": "curated:g2u3-nine",
+          "zh": "我看见九只鸟。"
+        }
+      ],
+      "headword": "nine",
+      "lexical_entry_id": "w_nine",
+      "ordinal": 4,
+      "phonetic_uk": "nain",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "九",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have ten fingers.",
+          "origin": "curated:g2u3-ten",
+          "zh": "我有十根手指。"
+        }
+      ],
+      "headword": "ten",
+      "lexical_entry_id": "w_ten",
+      "ordinal": 5,
+      "phonetic_uk": "ten",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "十",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The elephant is big.",
+          "origin": "curated:g2u3-elephant",
+          "zh": "大象很大。"
+        }
+      ],
+      "headword": "elephant",
+      "lexical_entry_id": "w_elephant",
+      "ordinal": 6,
+      "phonetic_uk": "'elifənt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大象",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

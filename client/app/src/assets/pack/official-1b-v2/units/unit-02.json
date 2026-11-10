@@ -1,0 +1,172 @@
+{
+  "title": "What do we do in the classroom?",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my window.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的窗户, 窗子, 窗口。"
+        },
+        {
+          "en": "I can see a window.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到窗户, 窗子, 窗口。"
+        }
+      ],
+      "headword": "window",
+      "lexical_entry_id": "w_window",
+      "ordinal": 1,
+      "phonetic_uk": "'windəu",
+      "phonetic_us": null,
+      "phonics_split": "win·dow",
+      "senses": [
+        {
+          "gloss": "窗户, 窗子, 窗口",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...开窗",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my blackboard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黑板。"
+        },
+        {
+          "en": "I can see a blackboard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黑板。"
+        }
+      ],
+      "headword": "blackboard",
+      "lexical_entry_id": "w_blackboard",
+      "ordinal": 2,
+      "phonetic_uk": "'blækbɔːd",
+      "phonetic_us": null,
+      "phonics_split": "black·board",
+      "senses": [
+        {
+          "gloss": "黑板",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my door.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的门。"
+        },
+        {
+          "en": "I can see a door.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到门。"
+        }
+      ],
+      "headword": "door",
+      "lexical_entry_id": "w_door",
+      "ordinal": 3,
+      "phonetic_uk": "dɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "门",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my desk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书桌。"
+        },
+        {
+          "en": "I can see a desk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书桌。"
+        }
+      ],
+      "headword": "desk",
+      "lexical_entry_id": "w_desk",
+      "ordinal": 4,
+      "phonetic_uk": "desk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "书桌",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chair.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的椅子。"
+        },
+        {
+          "en": "I can see a chair.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到椅子。"
+        }
+      ],
+      "headword": "chair",
+      "lexical_entry_id": "w_chair",
+      "ordinal": 5,
+      "phonetic_uk": "tʃɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "椅子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my schoolbag.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书包。"
+        },
+        {
+          "en": "I can see a schoolbag.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书包。"
+        }
+      ],
+      "headword": "schoolbag",
+      "lexical_entry_id": "w_schoolbag",
+      "ordinal": 6,
+      "phonetic_uk": "'sku:lbæ^",
+      "phonetic_us": null,
+      "phonics_split": "school·bag",
+      "senses": [
+        {
+          "gloss": "书包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

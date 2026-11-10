@@ -1,0 +1,196 @@
+{
+  "title": "Toys",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my fun.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的乐趣, 玩笑, 娱乐。"
+        },
+        {
+          "en": "I can see a fun.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到乐趣, 玩笑, 娱乐。"
+        }
+      ],
+      "headword": "fun",
+      "lexical_entry_id": "w_fun",
+      "ordinal": 1,
+      "phonetic_uk": "fʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乐趣, 玩笑, 娱乐",
+          "pos": "n."
+        },
+        {
+          "gloss": "开玩笑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kite.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的风筝, 筝帆, 空头支票, 骗子。"
+        },
+        {
+          "en": "I can see a kite.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到风筝, 筝帆, 空头支票, 骗子。"
+        }
+      ],
+      "headword": "kite",
+      "lexical_entry_id": "w_kite",
+      "ordinal": 2,
+      "phonetic_uk": "kait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "风筝, 筝帆, 空头支票, 骗子",
+          "pos": "n."
+        },
+        {
+          "gloss": "象风筝一样飞, 轻快地移动, 使用空头支票",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very lovely.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常可爱的, 有趣。"
+        }
+      ],
+      "headword": "lovely",
+      "lexical_entry_id": "w_lovely",
+      "ordinal": 3,
+      "phonetic_uk": "'lʌvli",
+      "phonetic_us": null,
+      "phonics_split": "love·ly",
+      "senses": [
+        {
+          "gloss": "可爱的, 有趣的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my play.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本。"
+        },
+        {
+          "en": "I can see a play.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本。"
+        }
+      ],
+      "headword": "play",
+      "lexical_entry_id": "w_play",
+      "ordinal": 4,
+      "phonetic_uk": "plei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本",
+          "pos": "n."
+        },
+        {
+          "gloss": "玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳动",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my robot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的机械人, 自动机械, 机械般工作的人。"
+        },
+        {
+          "en": "I can see a robot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到机械人, 自动机械, 机械般工作的人。"
+        }
+      ],
+      "headword": "robot",
+      "lexical_entry_id": "w_robot",
+      "ordinal": 5,
+      "phonetic_uk": "'rəubət",
+      "phonetic_us": null,
+      "phonics_split": "ro·bot",
+      "senses": [
+        {
+          "gloss": "机械人, 自动机械, 机械般工作的人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Sorry, Mum.",
+          "origin": "curated:g2u3-sorry",
+          "zh": "对不起，妈妈。"
+        }
+      ],
+      "headword": "sorry",
+      "lexical_entry_id": "w_sorry",
+      "ordinal": 6,
+      "phonetic_uk": "'sɒri",
+      "phonetic_us": null,
+      "phonics_split": "sor·ry",
+      "senses": [
+        {
+          "gloss": "对不起",
+          "pos": "int."
+        },
+        {
+          "gloss": "难过的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The toy bear is soft.",
+          "origin": "curated:g2an-u3-toy-bear",
+          "zh": "玩具熊很软。"
+        }
+      ],
+      "headword": "toy bear",
+      "lexical_entry_id": "w_toy_bear",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩具熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

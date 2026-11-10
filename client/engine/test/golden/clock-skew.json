@@ -1,0 +1,57 @@
+{
+  "name": "clock-skew-occurred-at-not-ordered",
+  "description": "【四类必含·时钟偏斜】dev-b 墙钟慢约 9.5 分钟：其事件 occurred_at（07:50:30）早于 dev-a 的（08:00:00），但 HLC 物理（100500 > 100000）说明它逻辑在后。按排序键 (hlc 物理, hlc 逻辑, device_id, event_id) 折叠，dev-b 的降池（→P1）为全序后到者、终态生效；若误按墙钟 occurred_at 排序则会得到 P3。expected 钉死 P1——墙钟只是遥测字段，设备时钟偏移不打乱合并序（R16）。",
+  "events": [
+    {
+      "event_id": "sk-001",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 100000, "counter": 0 },
+      "occurred_at": "2026-10-26T08:00:00Z",
+      "type": "pool_promoted",
+      "payload": {
+        "lexical_entry_id": "w-cat",
+        "to_pool": "P3",
+        "on": "2026-10-26",
+        "reason": "parent_manual_adjust"
+      }
+    },
+    {
+      "event_id": "sk-002",
+      "child_id": "c1",
+      "device_id": "dev-b",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 100500, "counter": 0 },
+      "occurred_at": "2026-10-26T07:50:30Z",
+      "type": "pool_demoted",
+      "payload": {
+        "lexical_entry_id": "w-cat",
+        "to_pool": "P1",
+        "on": "2026-10-26",
+        "reason": "parent_manual_adjust"
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-cat",
+        "pool": "P1",
+        "fastStreak": 0,
+        "errorStreak": 0,
+        "dueDate": "2026-10-27",
+        "variationTier": "standard",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": []
+      }
+    ],
+    "counters": { "answered": 0, "correct": 0, "stars": 0, "shards": 0 },
+    "dailySummaries": [],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

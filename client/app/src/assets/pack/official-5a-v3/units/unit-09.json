@@ -1,0 +1,337 @@
+{
+  "title": "Around the city",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “along”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“along”。"
+        }
+      ],
+      "headword": "along",
+      "lexical_entry_id": "w_along",
+      "ordinal": 1,
+      "phonetic_uk": "ə'lɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "平行地, 向前",
+          "pos": "adv."
+        },
+        {
+          "gloss": "沿着",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “between”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“between”。"
+        }
+      ],
+      "headword": "between",
+      "lexical_entry_id": "w_between",
+      "ordinal": 2,
+      "phonetic_uk": "bi'twi:n",
+      "phonetic_us": null,
+      "phonics_split": "be·tween",
+      "senses": [
+        {
+          "gloss": "在...之间",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Mum buys flowers at the flower shop.",
+          "origin": "curated:primary-5a-flower-shop",
+          "zh": "妈妈在花店买花。"
+        }
+      ],
+      "headword": "flower shop",
+      "lexical_entry_id": "w_flower_shop",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "花店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get to”。"
+        }
+      ],
+      "headword": "get to",
+      "lexical_entry_id": "w_get_to",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "到达, 接触到, 开始, 对...有影响",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hospital.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的医院。"
+        },
+        {
+          "en": "I can see a hospital.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到医院。"
+        }
+      ],
+      "headword": "hospital",
+      "lexical_entry_id": "w_hospital",
+      "ordinal": 5,
+      "phonetic_uk": "'hɒspitəl",
+      "phonetic_us": null,
+      "phonics_split": "hos·pi·tal",
+      "senses": [
+        {
+          "gloss": "医院",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very left.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常左边的, 左倾的, 左侧的, 左派。"
+        }
+      ],
+      "headword": "left",
+      "lexical_entry_id": "w_left",
+      "ordinal": 6,
+      "phonetic_uk": "left",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "左边的, 左倾的, 左侧的, 左派的",
+          "pos": "a."
+        },
+        {
+          "gloss": "在左面",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “post office”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“post office”。"
+        }
+      ],
+      "headword": "post office",
+      "lexical_entry_id": "w_post_office",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "邮局",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “quite”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“quite”。"
+        }
+      ],
+      "headword": "quite",
+      "lexical_entry_id": "w_quite",
+      "ordinal": 8,
+      "phonetic_uk": "kwait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "相当, 完全, 十分",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my right.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的权利, 右边, 正义, 右派, 公正。"
+        },
+        {
+          "en": "I can see a right.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到权利, 右边, 正义, 右派, 公正。"
+        }
+      ],
+      "headword": "right",
+      "lexical_entry_id": "w_right",
+      "ordinal": 9,
+      "phonetic_uk": "rait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "权利, 右边, 正义, 右派, 公正",
+          "pos": "n."
+        },
+        {
+          "gloss": "正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my road.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的路, 道路, 公路, 途径, 方法。"
+        },
+        {
+          "en": "I can see a road.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到路, 道路, 公路, 途径, 方法。"
+        }
+      ],
+      "headword": "road",
+      "lexical_entry_id": "w_road",
+      "ordinal": 10,
+      "phonetic_uk": "rəud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "路, 道路, 公路, 途径, 方法",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my straight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的直线, 直。"
+        },
+        {
+          "en": "I can see a straight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到直线, 直。"
+        }
+      ],
+      "headword": "straight",
+      "lexical_entry_id": "w_straight",
+      "ordinal": 11,
+      "phonetic_uk": "streit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "直线, 直",
+          "pos": "n."
+        },
+        {
+          "gloss": "直的, 笔直的, 正直的, 直接的, 连续的, 整齐的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The toy shop is big.",
+          "origin": "curated:g2an-u4-toy-shop",
+          "zh": "玩具店很大。"
+        }
+      ],
+      "headword": "toy shop",
+      "lexical_entry_id": "w_toy_shop",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩具店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my turn.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折。"
+        },
+        {
+          "en": "I can see a turn.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折。"
+        }
+      ],
+      "headword": "turn",
+      "lexical_entry_id": "w_turn",
+      "ordinal": 13,
+      "phonetic_uk": "tə:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折",
+          "pos": "n."
+        },
+        {
+          "gloss": "使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

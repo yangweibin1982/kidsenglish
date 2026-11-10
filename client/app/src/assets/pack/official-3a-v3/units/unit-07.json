@@ -1,0 +1,271 @@
+{
+  "title": "In the classroom",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my blackboard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黑板。"
+        },
+        {
+          "en": "I can see a blackboard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黑板。"
+        }
+      ],
+      "headword": "blackboard",
+      "lexical_entry_id": "w_blackboard",
+      "ordinal": 1,
+      "phonetic_uk": "'blækbɔːd",
+      "phonetic_us": null,
+      "phonics_split": "black·board",
+      "senses": [
+        {
+          "gloss": "黑板",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very clean.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常干净的, 清白的, 简洁。"
+        }
+      ],
+      "headword": "clean",
+      "lexical_entry_id": "w_clean",
+      "ordinal": 2,
+      "phonetic_uk": "kli:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "干净的, 清白的, 简洁的",
+          "pos": "a."
+        },
+        {
+          "gloss": "清洁地, 完全地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my close.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结束, 完结。"
+        },
+        {
+          "en": "I can see a close.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结束, 完结。"
+        }
+      ],
+      "headword": "close",
+      "lexical_entry_id": "w_close",
+      "ordinal": 3,
+      "phonetic_uk": "kləuz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "结束, 完结",
+          "pos": "n."
+        },
+        {
+          "gloss": "靠近的, 亲近的, 亲密的, 严密的, 关闭的, 狭窄的, 秘密的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my door.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的门。"
+        },
+        {
+          "en": "I can see a door.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到门。"
+        }
+      ],
+      "headword": "door",
+      "lexical_entry_id": "w_door",
+      "ordinal": 4,
+      "phonetic_uk": "dɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "门",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very late.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常迟的, 晚的, 已故。"
+        }
+      ],
+      "headword": "late",
+      "lexical_entry_id": "w_late",
+      "ordinal": 5,
+      "phonetic_uk": "leit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "迟的, 晚的, 已故的",
+          "pos": "a."
+        },
+        {
+          "gloss": "很晚, 很迟, 晚",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at me!",
+          "origin": "curated:g2u8-look-at",
+          "zh": "看我！"
+        }
+      ],
+      "headword": "look at",
+      "lexical_entry_id": "w_look_at",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my open.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公开, 户外, 空旷。"
+        },
+        {
+          "en": "I can see an open.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公开, 户外, 空旷。"
+        }
+      ],
+      "headword": "open",
+      "lexical_entry_id": "w_open",
+      "ordinal": 7,
+      "phonetic_uk": "'əupən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公开, 户外, 空旷",
+          "pos": "n."
+        },
+        {
+          "gloss": "开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Sit down, please.",
+          "origin": "curated:u2-polite-please",
+          "zh": "请坐。"
+        }
+      ],
+      "headword": "please",
+      "lexical_entry_id": "w_please",
+      "ordinal": 8,
+      "phonetic_uk": "pli:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "请",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Open the book, please.",
+          "origin": "curated:u8-art-the",
+          "zh": "请打开书。"
+        }
+      ],
+      "headword": "the",
+      "lexical_entry_id": "w_the",
+      "ordinal": 9,
+      "phonetic_uk": "ðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "定冠词",
+          "pos": "art."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my window.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的窗户, 窗子, 窗口。"
+        },
+        {
+          "en": "I can see a window.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到窗户, 窗子, 窗口。"
+        }
+      ],
+      "headword": "window",
+      "lexical_entry_id": "w_window",
+      "ordinal": 10,
+      "phonetic_uk": "'windəu",
+      "phonetic_us": null,
+      "phonics_split": "win·dow",
+      "senses": [
+        {
+          "gloss": "窗户, 窗子, 窗口",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...开窗",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

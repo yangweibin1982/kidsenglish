@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U7 Let's count 情景图样张：数数卡一、二、三和指着卡片数数的小男孩">
+  <!--
+    战机英语美术样张 · U7「Let's count」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed107, bf0.035, oct3, scale5) + ke-crayon(seed207, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed307, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 107 / crayon 207 / papergrain 307。
+    文字层不参与抖动滤镜（圣经 §3.5）——数字 1/2/3 属文字层，零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；人物＝头肩小圈，物件＝罩物圈）。
+    代表词：one / two / three / count。
+    热点坐标（内容域票接词包配置用）：one=(250,428,48) two=(350,428,48) three=(450,428,48) count=(640,438,46)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="107" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="207" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="307"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 墙面淡彩 + 蜡笔地板 -->
+    <rect x="0" y="0" width="900" height="392" fill="#E3F0F2" opacity="0.4"/>
+    <rect x="0" y="392" width="900" height="178" fill="#E8A95C" opacity="0.45" filter="url(#ke-crayon)"/>
+    <path d="M-10,400 Q220,386 460,398 T910,394 L910,570 L-10,570 Z" fill="#D9A05B" opacity="0.5" filter="url(#ke-crayon)"/>
+    <path d="M80,520 q28,-4 56,0 M340,546 q26,-4 52,0 M600,512 q30,-4 60,0 M810,548 q24,-4 48,0" stroke="#B9844A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.55"/>
+
+    <!-- 窗（蜡笔框 + 天空淡彩 + 太阳贴纸，与 U2 同款构图元素） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="620" y="60" width="200" height="150" rx="16" fill="#FFF9EC" opacity="0.9" stroke="#7A5A3D" stroke-width="3.5"/>
+      <rect x="636" y="76" width="168" height="118" rx="10" fill="#A8D3E2" opacity="0.75"/>
+      <line x1="720" y1="76" x2="720" y2="194" stroke="#7A5A3D" stroke-width="3"/>
+      <line x1="636" y1="135" x2="804" y2="135" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="688" cy="108" r="20" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="688" y1="80" x2="687" y2="70"/><line x1="688" y1="136" x2="689" y2="146"/>
+        <line x1="660" y1="108" x2="650" y2="109"/><line x1="716" y1="108" x2="726" y2="107"/>
+      </g>
+    </g>
+
+    <!-- 小桌（桌腿垂直落地，脚线 546） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="345" cy="549" rx="195" ry="8.5" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="185" y="486" width="15" height="60" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="490" y="486" width="15" height="60" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="170" y="470" width="350" height="16" rx="8" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+    </g>
+
+    <!-- 数数卡三张（立在桌上：数字点卡，数字在文字层） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="218" y="386" width="64" height="84" rx="9" fill="#FFF9EC" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="250" cy="456" r="6" fill="#5B9BB5" opacity="0.9"/>
+      <rect x="318" y="386" width="64" height="84" rx="9" fill="#FFF9EC" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="338" cy="456" r="6" fill="#E8764F" opacity="0.9"/>
+      <circle cx="362" cy="456" r="6" fill="#E8764F" opacity="0.9"/>
+      <rect x="418" y="386" width="64" height="84" rx="9" fill="#FFF9EC" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="432" cy="456" r="6" fill="#8FBE6E" opacity="0.9"/>
+      <circle cx="450" cy="456" r="6" fill="#8FBE6E" opacity="0.9"/>
+      <circle cx="468" cy="456" r="6" fill="#8FBE6E" opacity="0.9"/>
+    </g>
+
+    <!-- boy 数数（代表词 count：指向卡片＋张嘴数数） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="640" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="621" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="645" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="614" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="642" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="614" y="447" width="52" height="64" rx="20" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M662,458 Q672,484 667,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M662,458 Q672,484 667,508" stroke="#8FBE6E" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M618,458 Q585,447 560,432" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M618,458 Q585,447 560,432" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="640" cy="423" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M614,423 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M624,392 l3,-8 M634,393 l3,-7" stroke="#4A3A2A" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="627" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="647" cy="423" r="3" fill="#4A3A2A"/>
+      <!-- 张嘴数数的小嘴 -->
+      <ellipse cx="637" cy="438" rx="4.5" ry="5.5" fill="#4A3A2A" opacity="0.85"/>
+      <path d="M620,430 l5,4 M660,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 地面轻细节两件：积木两块＋蜡笔（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="742" y="505" width="34" height="34" rx="5" fill="#5B9BB5" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="748" y="471" width="34" height="34" rx="5" fill="#E8764F" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <g transform="rotate(-4 560 540)">
+        <rect x="528" y="536" width="8" height="10" rx="2.5" fill="#8FBE6E" stroke="#7A5A3D" stroke-width="2" opacity="0.9"/>
+        <rect x="534" y="537" width="38" height="8" rx="4" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2.2" opacity="0.9"/>
+      </g>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（头肩小圈＋罩物圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="250" cy="428" r="48"/>
+      <circle cx="350" cy="428" r="48"/>
+      <circle cx="450" cy="428" r="48"/>
+      <circle cx="640" cy="438" r="46"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5）：卡片数字 -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 7 · Let's count</text>
+  <g font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif" fill="#5A4A38">
+    <text x="250" y="442" font-size="40">1</text>
+    <text x="350" y="442" font-size="40">2</text>
+    <text x="450" y="442" font-size="40">3</text>
+  </g>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="228" y="486" width="44" height="26" rx="13" fill="#7A5A3D"/><text x="250" y="504" fill="#FFF9EC">one</text>
+    <rect x="327" y="486" width="46" height="26" rx="13" fill="#7A5A3D"/><text x="350" y="504" fill="#FFF9EC">two</text>
+    <rect x="425" y="486" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="450" y="504" fill="#FFF9EC">three</text>
+    <rect x="605" y="470" width="70" height="26" rx="13" fill="#7A5A3D"/><text x="640" y="488" fill="#FFF9EC">count</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

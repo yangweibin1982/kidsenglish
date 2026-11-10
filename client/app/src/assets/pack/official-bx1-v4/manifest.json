@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "bytes": 36837,
+      "path": "units/unit-01.json",
+      "sha256": "3575ee963fb1ef530883d89e5310933996b944a5fa6e8574a73a66dde9c324a7"
+    },
+    {
+      "bytes": 35969,
+      "path": "units/unit-02.json",
+      "sha256": "9e549bd0bc59dc5da769b2bb9502690fae672ed039852874738f0dfecde08191"
+    },
+    {
+      "bytes": 46743,
+      "path": "units/unit-03.json",
+      "sha256": "9485e4ad33e2a27ddd6e72708c37bf81c26843ea5459309ca02cc29d26f79cc6"
+    },
+    {
+      "bytes": 38591,
+      "path": "units/unit-04.json",
+      "sha256": "d987ca39a82f5a8d45667a9d74d15c4180aa751af26a2827308c992924b91456"
+    },
+    {
+      "bytes": 51460,
+      "path": "units/unit-05.json",
+      "sha256": "37d1ab490ea67cb57879406429c07afc53a7f6d72072019657062d0fb5fd781c"
+    },
+    {
+      "bytes": 37832,
+      "path": "units/unit-06.json",
+      "sha256": "910384f0a2c9e5224c5291ecd2f5fd6e80f1ba324fd6627eaf8b9a97904f6d58"
+    }
+  ],
+  "generated_at": "2026-11-08T14:40:16+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "高中",
+    "pack_id": 72,
+    "source": "official",
+    "term": "必修一",
+    "textbook_series": "人教版（2019年版）",
+    "version": 4
+  }
+}

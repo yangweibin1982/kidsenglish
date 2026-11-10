@@ -1,0 +1,505 @@
+{
+  "title": "Tidy up!",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my tidy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的椅子的背罩, 装杂物的容器。"
+        },
+        {
+          "en": "I can see a tidy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到椅子的背罩, 装杂物的容器。"
+        }
+      ],
+      "headword": "tidy",
+      "lexical_entry_id": "w_tidy",
+      "ordinal": 1,
+      "phonetic_uk": "'taidi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "椅子的背罩, 装杂物的容器",
+          "pos": "n."
+        },
+        {
+          "gloss": "整齐的, 有条理的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mess.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境。"
+        },
+        {
+          "en": "I can see a mess.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境。"
+        }
+      ],
+      "headword": "mess",
+      "lexical_entry_id": "w_mess",
+      "ordinal": 2,
+      "phonetic_uk": "mes",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境",
+          "pos": "n."
+        },
+        {
+          "gloss": "将...弄糟, 妨碍, 使紊乱, 使就餐",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can let.",
+          "origin": "template:t-v-can",
+          "zh": "我会让, 假设, 出租, 排放, 妨碍。"
+        },
+        {
+          "en": "Let's let together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起让, 假设, 出租, 排放, 妨碍吧。"
+        }
+      ],
+      "headword": "let",
+      "lexical_entry_id": "w_let",
+      "ordinal": 3,
+      "phonetic_uk": "let",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "让, 假设, 出租, 排放, 妨碍",
+          "pos": "vt."
+        },
+        {
+          "gloss": "出租, 被承包",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sock.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的短袜, 鞋垫, 一击。"
+        },
+        {
+          "en": "I can see a sock.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到短袜, 鞋垫, 一击。"
+        }
+      ],
+      "headword": "sock",
+      "lexical_entry_id": "w_sock",
+      "ordinal": 4,
+      "phonetic_uk": "sɒk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "短袜, 鞋垫, 一击",
+          "pos": "n."
+        },
+        {
+          "gloss": "重击, 猛投, 给...穿袜",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This pen is yours.",
+          "origin": "curated:p-pron-yours",
+          "zh": "这支钢笔是你的。"
+        }
+      ],
+      "headword": "yours",
+      "lexical_entry_id": "w_yours",
+      "ordinal": 5,
+      "phonetic_uk": "juəz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你的(东西), 你们的(东西)",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cap.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的盖子, 帽子。"
+        },
+        {
+          "en": "I can see a cap.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到盖子, 帽子。"
+        }
+      ],
+      "headword": "cap",
+      "lexical_entry_id": "w_cap",
+      "ordinal": 6,
+      "phonetic_uk": "kæp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "盖子, 帽子",
+          "pos": "n."
+        },
+        {
+          "gloss": "戴帽子, 覆盖, 胜过",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的矿, 矿藏, 地雷。"
+        },
+        {
+          "en": "I can see a mine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到矿, 矿藏, 地雷。"
+        }
+      ],
+      "headword": "mine",
+      "lexical_entry_id": "w_mine",
+      "ordinal": 7,
+      "phonetic_uk": "main",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "矿, 矿藏, 地雷",
+          "pos": "n."
+        },
+        {
+          "gloss": "挖掘, 开采, 在...布雷, 破坏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my crayon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蜡笔, 蜡笔画。"
+        },
+        {
+          "en": "I can see a crayon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蜡笔, 蜡笔画。"
+        }
+      ],
+      "headword": "crayon",
+      "lexical_entry_id": "w_crayon",
+      "ordinal": 8,
+      "phonetic_uk": "'kreiən",
+      "phonetic_us": null,
+      "phonics_split": "cray·on",
+      "senses": [
+        {
+          "gloss": "蜡笔, 蜡笔画",
+          "pos": "n."
+        },
+        {
+          "gloss": "以蜡笔作画",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my umbrella.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的伞, 雨伞, 保护伞。"
+        },
+        {
+          "en": "I can see an umbrella.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到伞, 雨伞, 保护伞。"
+        }
+      ],
+      "headword": "umbrella",
+      "lexical_entry_id": "w_umbrella",
+      "ordinal": 9,
+      "phonetic_uk": "ʌm'brelə",
+      "phonetic_us": null,
+      "phonics_split": "um·brel·la",
+      "senses": [
+        {
+          "gloss": "伞, 雨伞, 保护伞",
+          "pos": "n."
+        },
+        {
+          "gloss": "伞的, 包罗万象的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nail.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钉子, 指甲。"
+        },
+        {
+          "en": "I can see a nail.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钉子, 指甲。"
+        }
+      ],
+      "headword": "nail",
+      "lexical_entry_id": "w_nail",
+      "ordinal": 10,
+      "phonetic_uk": "neil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "钉子, 指甲",
+          "pos": "n."
+        },
+        {
+          "gloss": "用钉钉牢, 使固定, 截住, 揭露",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my drop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的滴, 微量, 落下, 空投。"
+        },
+        {
+          "en": "I can see a drop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到滴, 微量, 落下, 空投。"
+        }
+      ],
+      "headword": "drop",
+      "lexical_entry_id": "w_drop",
+      "ordinal": 11,
+      "phonetic_uk": "drɒp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "滴, 微量, 落下, 空投",
+          "pos": "n."
+        },
+        {
+          "gloss": "放下, 掉下, 下降",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Stick it here.",
+          "origin": "curated:u10-stick",
+          "zh": "把它贴在这里。"
+        }
+      ],
+      "headword": "stick",
+      "lexical_entry_id": "w_stick",
+      "ordinal": 12,
+      "phonetic_uk": "stik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "贴",
+          "pos": "vt."
+        },
+        {
+          "gloss": "棍、棒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my second.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的秒, 瞬间, 第二名, 支持者, 助手。"
+        },
+        {
+          "en": "I can see a second.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到秒, 瞬间, 第二名, 支持者, 助手。"
+        }
+      ],
+      "headword": "second",
+      "lexical_entry_id": "w_second",
+      "ordinal": 13,
+      "phonetic_uk": "'sekənd",
+      "phonetic_us": null,
+      "phonics_split": "sec·ond",
+      "senses": [
+        {
+          "gloss": "秒, 瞬间, 第二名, 支持者, 助手",
+          "pos": "n."
+        },
+        {
+          "gloss": "第二的, 其次的, 次要的, 附加的, 辅助的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This pen is hers.",
+          "origin": "curated:p-pron-hers",
+          "zh": "这支钢笔是她的。"
+        }
+      ],
+      "headword": "hers",
+      "lexical_entry_id": "w_hers",
+      "ordinal": 14,
+      "phonetic_uk": "hə:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "她的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The classroom is theirs.",
+          "origin": "curated:p-pron-theirs",
+          "zh": "这间教室是他们的。"
+        }
+      ],
+      "headword": "theirs",
+      "lexical_entry_id": "w_theirs",
+      "ordinal": 15,
+      "phonetic_uk": "ðɛəz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “tidy up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“tidy up”。"
+        }
+      ],
+      "headword": "tidy up",
+      "lexical_entry_id": "w_tidy_up",
+      "ordinal": 16,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "整理",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The box is full of toys.",
+          "origin": "curated:g5b-u1-full-of",
+          "zh": "盒子里装满了玩具。"
+        }
+      ],
+      "headword": "be full of",
+      "lexical_entry_id": "w_be_full_of",
+      "ordinal": 17,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "充满",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a few”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a few”。"
+        }
+      ],
+      "headword": "a few",
+      "lexical_entry_id": "w_a_few",
+      "ordinal": 18,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "几个, 少数, 一些",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

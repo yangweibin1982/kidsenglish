@@ -1,0 +1,573 @@
+{
+  "title": "Great ideas",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my firm.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公司, 商号。"
+        },
+        {
+          "en": "I can see a firm.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公司, 商号。"
+        }
+      ],
+      "headword": "firm",
+      "lexical_entry_id": "w_firm",
+      "ordinal": 1,
+      "phonetic_uk": "fə:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公司, 商号",
+          "pos": "n."
+        },
+        {
+          "gloss": "坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 确定的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ignorance.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的无知, 愚味。"
+        },
+        {
+          "en": "I can see an ignorance.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到无知, 愚味。"
+        }
+      ],
+      "headword": "ignorance",
+      "lexical_entry_id": "w_ignorance",
+      "ordinal": 2,
+      "phonetic_uk": "'ignərəns",
+      "phonetic_us": null,
+      "phonics_split": "ig·no·rance",
+      "senses": [
+        {
+          "gloss": "无知, 愚味",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my application.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的应用, 申请, 志愿书, 应用程序。"
+        },
+        {
+          "en": "I can see an application.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到应用, 申请, 志愿书, 应用程序。"
+        }
+      ],
+      "headword": "application",
+      "lexical_entry_id": "w_application",
+      "ordinal": 3,
+      "phonetic_uk": ".æpli'keiʃən",
+      "phonetic_us": null,
+      "phonics_split": "ap·pli·ca·tion",
+      "senses": [
+        {
+          "gloss": "应用, 申请, 志愿书, 应用程序",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fancy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的想象力, 幻想, 喜好。"
+        },
+        {
+          "en": "I can see a fancy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到想象力, 幻想, 喜好。"
+        }
+      ],
+      "headword": "fancy",
+      "lexical_entry_id": "w_fancy",
+      "ordinal": 4,
+      "phonetic_uk": "'fænsi",
+      "phonetic_us": null,
+      "phonics_split": "fan·cy",
+      "senses": [
+        {
+          "gloss": "想象力, 幻想, 喜好",
+          "pos": "n."
+        },
+        {
+          "gloss": "想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very satisfied.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常感到满意。"
+        }
+      ],
+      "headword": "satisfied",
+      "lexical_entry_id": "w_satisfied",
+      "ordinal": 5,
+      "phonetic_uk": "'sætisfaiəd",
+      "phonetic_us": null,
+      "phonics_split": "sat·is·fied",
+      "senses": [
+        {
+          "gloss": "感到满意的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my prince.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物。"
+        },
+        {
+          "en": "I can see a prince.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物。"
+        }
+      ],
+      "headword": "prince",
+      "lexical_entry_id": "w_prince",
+      "ordinal": 6,
+      "phonetic_uk": "prins",
+      "phonetic_us": null,
+      "phonics_split": "prin·ce",
+      "senses": [
+        {
+          "gloss": "王子, 亲王, 国君, 贵族, 诸侯, 有权势的大人物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can displace.",
+          "origin": "template:t-v-can",
+          "zh": "我会移置, 替换, 转移。"
+        },
+        {
+          "en": "Let's displace together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起移置, 替换, 转移吧。"
+        }
+      ],
+      "headword": "displace",
+      "lexical_entry_id": "w_displace",
+      "ordinal": 7,
+      "phonetic_uk": "dis'pleis",
+      "phonetic_us": null,
+      "phonics_split": "dis·place",
+      "senses": [
+        {
+          "gloss": "移置, 替换, 转移",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fool.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的愚人, 受骗者, 奶油拌水果。"
+        },
+        {
+          "en": "I can see a fool.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到愚人, 受骗者, 奶油拌水果。"
+        }
+      ],
+      "headword": "fool",
+      "lexical_entry_id": "w_fool",
+      "ordinal": 8,
+      "phonetic_uk": "fu:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "愚人, 受骗者, 奶油拌水果",
+          "pos": "n."
+        },
+        {
+          "gloss": "愚弄, 欺骗, 浪费",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my prison.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的监狱, 监禁, 拘留所。"
+        },
+        {
+          "en": "I can see a prison.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到监狱, 监禁, 拘留所。"
+        }
+      ],
+      "headword": "prison",
+      "lexical_entry_id": "w_prison",
+      "ordinal": 9,
+      "phonetic_uk": "'prizn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "监狱, 监禁, 拘留所",
+          "pos": "n."
+        },
+        {
+          "gloss": "监禁",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wire.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电线, 电报, 电信, 铁丝网, 金属丝。"
+        },
+        {
+          "en": "I can see a wire.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电线, 电报, 电信, 铁丝网, 金属丝。"
+        }
+      ],
+      "headword": "wire",
+      "lexical_entry_id": "w_wire",
+      "ordinal": 10,
+      "phonetic_uk": "'waiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电线, 电报, 电信, 铁丝网, 金属丝",
+          "pos": "n."
+        },
+        {
+          "gloss": "用金属丝捆扎, 拍电报",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can prove.",
+          "origin": "template:t-v-can",
+          "zh": "我会证明, 查验, 检验, 勘探, 显示。"
+        },
+        {
+          "en": "Let's prove together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起证明, 查验, 检验, 勘探, 显示吧。"
+        }
+      ],
+      "headword": "prove",
+      "lexical_entry_id": "w_prove",
+      "ordinal": 11,
+      "phonetic_uk": "pru:v",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "证明, 查验, 检验, 勘探, 显示",
+          "pos": "vt."
+        },
+        {
+          "gloss": "证明是",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “hardly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“hardly”。"
+        }
+      ],
+      "headword": "hardly",
+      "lexical_entry_id": "w_hardly",
+      "ordinal": 12,
+      "phonetic_uk": "'hɑ:dli",
+      "phonetic_us": null,
+      "phonics_split": "hard·ly",
+      "senses": [
+        {
+          "gloss": "刚刚, 几乎不, 勉强是",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very balanced.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常公平的, 平衡。"
+        }
+      ],
+      "headword": "balanced",
+      "lexical_entry_id": "w_balanced",
+      "ordinal": 13,
+      "phonetic_uk": "'bælənst",
+      "phonetic_us": null,
+      "phonics_split": "bal·anced",
+      "senses": [
+        {
+          "gloss": "公平的, 平衡的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my reject.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的被拒之人, 被弃之物, 不合格品, 次品。"
+        },
+        {
+          "en": "I can see a reject.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到被拒之人, 被弃之物, 不合格品, 次品。"
+        }
+      ],
+      "headword": "reject",
+      "lexical_entry_id": "w_reject",
+      "ordinal": 14,
+      "phonetic_uk": "ri'dʒekt",
+      "phonetic_us": null,
+      "phonics_split": "re·ject",
+      "senses": [
+        {
+          "gloss": "被拒之人, 被弃之物, 不合格品, 次品",
+          "pos": "n."
+        },
+        {
+          "gloss": "拒绝, 抵制, 否决, 驳回, 丢弃, 呕出",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “thus”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“thus”。"
+        }
+      ],
+      "headword": "thus",
+      "lexical_entry_id": "w_thus",
+      "ordinal": 15,
+      "phonetic_uk": "ðʌs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "如此, 因此, 到如此程度",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be satisfied with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be satisfied with”。"
+        }
+      ],
+      "headword": "be satisfied with",
+      "lexical_entry_id": "w_be_satisfied_with",
+      "ordinal": 16,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "对...感到满意",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “fill with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“fill with”。"
+        }
+      ],
+      "headword": "fill with",
+      "lexical_entry_id": "w_fill_with",
+      "ordinal": 17,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "充满",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “run over”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“run over”。"
+        }
+      ],
+      "headword": "run over",
+      "lexical_entry_id": "w_run_over",
+      "ordinal": 18,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跑过去, 溢出, 超过限度, 扼要复述, 匆匆看, 辗过",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Go straight to the office.",
+          "origin": "curated:g9a-straight-to",
+          "zh": "径直去办公室。"
+        }
+      ],
+      "headword": "go straight to",
+      "lexical_entry_id": "w_go_straight_to",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "直奔",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “lightning rod”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“lightning rod”。"
+        }
+      ],
+      "headword": "lightning rod",
+      "lexical_entry_id": "w_lightning_rod",
+      "ordinal": 20,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "避雷针",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “as a whole”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“as a whole”。"
+        }
+      ],
+      "headword": "as a whole",
+      "lexical_entry_id": "w_as_a_whole",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "总体上",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good stories get ideas across.",
+          "origin": "curated:g9a-across",
+          "zh": "好故事能把想法讲清楚。"
+        }
+      ],
+      "headword": "get something across",
+      "lexical_entry_id": "w_get_something_across",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "讲清楚",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

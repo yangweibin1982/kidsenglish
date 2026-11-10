@@ -1,0 +1,391 @@
+{
+  "title": "Animals in danger",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my blue whale.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蓝鲸。"
+        },
+        {
+          "en": "I can see a blue whale.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蓝鲸。"
+        }
+      ],
+      "headword": "blue whale",
+      "lexical_entry_id": "w_blue_whale",
+      "ordinal": 1,
+      "phonetic_uk": "blu: hweil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蓝鲸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can die.",
+          "origin": "template:t-v-can",
+          "zh": "我会死亡, 消逝, 平息, 熄灭, 漠然, 渴望。"
+        },
+        {
+          "en": "Let's die together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起死亡, 消逝, 平息, 熄灭, 漠然, 渴望吧。"
+        }
+      ],
+      "headword": "die",
+      "lexical_entry_id": "w_die",
+      "ordinal": 2,
+      "phonetic_uk": "dai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "死亡, 消逝, 平息, 熄灭, 漠然, 渴望",
+          "pos": "vi."
+        },
+        {
+          "gloss": "死",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “drive away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“drive away”。"
+        }
+      ],
+      "headword": "drive away",
+      "lexical_entry_id": "w_drive_away",
+      "ordinal": 3,
+      "phonetic_uk": "draiv əˈwei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "驱车离开; 把…驱开, 赶走; 祛",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go for a walk”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go for a walk”。"
+        }
+      ],
+      "headword": "go for a walk",
+      "lexical_entry_id": "w_go_for_a_walk",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "散步",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hundred.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的百, 百个东西。"
+        },
+        {
+          "en": "I can see a hundred.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到百, 百个东西。"
+        }
+      ],
+      "headword": "hundred",
+      "lexical_entry_id": "w_hundred",
+      "ordinal": 5,
+      "phonetic_uk": "'hʌndrəd",
+      "phonetic_us": null,
+      "phonics_split": "hun·dred",
+      "senses": [
+        {
+          "gloss": "百, 百个东西",
+          "pos": "n."
+        },
+        {
+          "gloss": "百, 百个",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in danger”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in danger”。"
+        }
+      ],
+      "headword": "in danger",
+      "lexical_entry_id": "w_in_danger",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在危险中",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in the past”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in the past”。"
+        }
+      ],
+      "headword": "in the past",
+      "lexical_entry_id": "w_in_the_past",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在过去",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can learn.",
+          "origin": "template:t-v-can",
+          "zh": "我会学习；认识到；得知。"
+        },
+        {
+          "en": "Let's learn together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起学习；认识到；得知吧。"
+        }
+      ],
+      "headword": "learn",
+      "lexical_entry_id": "w_learn",
+      "ordinal": 8,
+      "phonetic_uk": "lə:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "学习；认识到；得知",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rhino.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钱, 现金, 犀牛。"
+        },
+        {
+          "en": "I can see a rhino.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钱, 现金, 犀牛。"
+        }
+      ],
+      "headword": "rhino",
+      "lexical_entry_id": "w_rhino",
+      "ordinal": 9,
+      "phonetic_uk": "'rainəu",
+      "phonetic_us": null,
+      "phonics_split": "rhi·no",
+      "senses": [
+        {
+          "gloss": "钱, 现金, 犀牛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can send.",
+          "origin": "template:t-v-can",
+          "zh": "我会发送, 使进入, 寄, 派遣, 发射, 使陷于。"
+        },
+        {
+          "en": "Let's send together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起发送, 使进入, 寄, 派遣, 发射, 使陷于吧。"
+        }
+      ],
+      "headword": "send",
+      "lexical_entry_id": "w_send",
+      "ordinal": 10,
+      "phonetic_uk": "send",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发送, 使进入, 寄, 派遣, 发射, 使陷于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "寄信, 派人, 播送",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The South China tiger is in danger.",
+          "origin": "curated:primary-6a-south-china-tiger",
+          "zh": "华南虎濒临灭绝。"
+        }
+      ],
+      "headword": "South China tiger",
+      "lexical_entry_id": "w_south_china_tiger",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "华南虎",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take care of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take care of”。"
+        }
+      ],
+      "headword": "take care of",
+      "lexical_entry_id": "w_take_care_of",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "照顾",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “thousand”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“thousand”。"
+        }
+      ],
+      "headword": "thousand",
+      "lexical_entry_id": "w_thousand",
+      "ordinal": 13,
+      "phonetic_uk": "'θauznd",
+      "phonetic_us": null,
+      "phonics_split": "thou·sand",
+      "senses": [
+        {
+          "gloss": "千",
+          "pos": "num."
+        },
+        {
+          "gloss": "成千的, 许多的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my way.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面。"
+        },
+        {
+          "en": "I can see a way.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面。"
+        }
+      ],
+      "headword": "way",
+      "lexical_entry_id": "w_way",
+      "ordinal": 14,
+      "phonetic_uk": "wei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面",
+          "pos": "n."
+        },
+        {
+          "gloss": "远远地, 非常",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Wild animals live in the forest.",
+          "origin": "curated:g2u11-wild",
+          "zh": "野生动物住在森林里。"
+        }
+      ],
+      "headword": "wild",
+      "lexical_entry_id": "w_wild",
+      "ordinal": 15,
+      "phonetic_uk": "waild",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "野生的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "title": "Holiday",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my holiday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的假日, 假期, 节日。"
+        },
+        {
+          "en": "I can see a holiday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到假日, 假期, 节日。"
+        }
+      ],
+      "headword": "holiday",
+      "lexical_entry_id": "w_holiday",
+      "ordinal": 1,
+      "phonetic_uk": "'hɒlədi",
+      "phonetic_us": null,
+      "phonics_split": "hol·i·day",
+      "senses": [
+        {
+          "gloss": "假日, 假期, 节日",
+          "pos": "n."
+        },
+        {
+          "gloss": "度假",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very clear.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常清楚的, 明确的, 澄清。"
+        }
+      ],
+      "headword": "clear",
+      "lexical_entry_id": "w_clear",
+      "ordinal": 2,
+      "phonetic_uk": "kliə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "清楚的, 明确的, 澄清的",
+          "pos": "a."
+        },
+        {
+          "gloss": "清晰地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my seafood.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海味, 海鲜, 鱼类。"
+        },
+        {
+          "en": "I can see a seafood.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海味, 海鲜, 鱼类。"
+        }
+      ],
+      "headword": "seafood",
+      "lexical_entry_id": "w_seafood",
+      "ordinal": 3,
+      "phonetic_uk": "'si:fu:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "海味, 海鲜, 鱼类",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hotel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的旅馆, 客栈。"
+        },
+        {
+          "en": "I can see a hotel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到旅馆, 客栈。"
+        }
+      ],
+      "headword": "hotel",
+      "lexical_entry_id": "w_hotel",
+      "ordinal": 4,
+      "phonetic_uk": "həu'tel",
+      "phonetic_us": null,
+      "phonics_split": "ho·tel",
+      "senses": [
+        {
+          "gloss": "旅馆, 客栈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my island.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的岛, 岛屿, 孤立地区, 安全岛。"
+        },
+        {
+          "en": "I can see an island.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到岛, 岛屿, 孤立地区, 安全岛。"
+        }
+      ],
+      "headword": "island",
+      "lexical_entry_id": "w_island",
+      "ordinal": 5,
+      "phonetic_uk": "'ailənd",
+      "phonetic_us": null,
+      "phonics_split": "is·land",
+      "senses": [
+        {
+          "gloss": "岛, 岛屿, 孤立地区, 安全岛",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成岛状, 孤立",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my butterfly.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蝴蝶。"
+        },
+        {
+          "en": "I can see a butterfly.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蝴蝶。"
+        }
+      ],
+      "headword": "butterfly",
+      "lexical_entry_id": "w_butterfly",
+      "ordinal": 6,
+      "phonetic_uk": "'bʌtəflai",
+      "phonetic_us": null,
+      "phonics_split": "but·ter·fly",
+      "senses": [
+        {
+          "gloss": "蝴蝶",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “how long”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“how long”。"
+        }
+      ],
+      "headword": "how long",
+      "lexical_entry_id": "w_how_long",
+      "ordinal": 7,
+      "phonetic_uk": "hau lɔŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多久; 多长",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I go swimming on Sundays.",
+          "origin": "curated:g5b-u6-go-swimming",
+          "zh": "我周日去游泳。"
+        }
+      ],
+      "headword": "go swimming",
+      "lexical_entry_id": "w_go_swimming",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "去游泳",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in the south of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in the south of”。"
+        }
+      ],
+      "headword": "in the south of",
+      "lexical_entry_id": "w_in_the_south_of",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…的南部",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is warm all year round there.",
+          "origin": "curated:g5b-u6-year-round",
+          "zh": "那里一年到头都很暖和。"
+        }
+      ],
+      "headword": "all year round",
+      "lexical_entry_id": "w_all_year_round",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一年到头",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

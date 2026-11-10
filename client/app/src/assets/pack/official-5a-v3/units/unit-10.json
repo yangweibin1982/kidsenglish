@@ -1,0 +1,369 @@
+{
+  "title": "Wind",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my blow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的吹, 打击, 殴打, 花开。"
+        },
+        {
+          "en": "I can see a blow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到吹, 打击, 殴打, 花开。"
+        }
+      ],
+      "headword": "blow",
+      "lexical_entry_id": "w_blow",
+      "ordinal": 1,
+      "phonetic_uk": "bləu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吹, 打击, 殴打, 花开",
+          "pos": "n."
+        },
+        {
+          "gloss": "吹, 风吹, 吹响, 开花",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Cut the cake.",
+          "origin": "curated:u10-cut",
+          "zh": "把蛋糕切开。"
+        }
+      ],
+      "headword": "cut",
+      "lexical_entry_id": "w_cut",
+      "ordinal": 2,
+      "phonetic_uk": "kʌt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "切、剪",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “gently”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“gently”。"
+        }
+      ],
+      "headword": "gently",
+      "lexical_entry_id": "w_gently",
+      "ordinal": 3,
+      "phonetic_uk": "'dʒentli",
+      "phonetic_us": null,
+      "phonics_split": "gen·tly",
+      "senses": [
+        {
+          "gloss": "温和地, 温柔地, 轻轻地, 逐渐地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “happily”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“happily”。"
+        }
+      ],
+      "headword": "happily",
+      "lexical_entry_id": "w_happily",
+      "ordinal": 4,
+      "phonetic_uk": "'hæpili",
+      "phonetic_us": null,
+      "phonics_split": "hap·pi·ly",
+      "senses": [
+        {
+          "gloss": "幸福地, 快乐地, 幸好",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my move.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的移动, 迁居, 步骤。"
+        },
+        {
+          "en": "I can see a move.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到移动, 迁居, 步骤。"
+        }
+      ],
+      "headword": "move",
+      "lexical_entry_id": "w_move",
+      "ordinal": 5,
+      "phonetic_uk": "mu:v",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "移动, 迁居, 步骤",
+          "pos": "n."
+        },
+        {
+          "gloss": "移动, 开动, 感动, 搬(家)",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my paper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的纸, 文件, 文章, 报纸, 证券, 证件。"
+        },
+        {
+          "en": "I can see a paper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到纸, 文件, 文章, 报纸, 证券, 证件。"
+        }
+      ],
+      "headword": "paper",
+      "lexical_entry_id": "w_paper",
+      "ordinal": 6,
+      "phonetic_uk": "'peipə",
+      "phonetic_us": null,
+      "phonics_split": "pa·per",
+      "senses": [
+        {
+          "gloss": "纸, 文件, 文章, 报纸, 证券, 证件",
+          "pos": "n."
+        },
+        {
+          "gloss": "用纸糊, 贴壁纸于, 用纸包装",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “quickly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“quickly”。"
+        }
+      ],
+      "headword": "quickly",
+      "lexical_entry_id": "w_quickly",
+      "ordinal": 7,
+      "phonetic_uk": "'kwikli",
+      "phonetic_us": null,
+      "phonics_split": "quick·ly",
+      "senses": [
+        {
+          "gloss": "很快地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my quiet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的安静, 闲适, 平静。"
+        },
+        {
+          "en": "I can see a quiet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到安静, 闲适, 平静。"
+        }
+      ],
+      "headword": "quiet",
+      "lexical_entry_id": "w_quiet",
+      "ordinal": 8,
+      "phonetic_uk": "'kwaiət",
+      "phonetic_us": null,
+      "phonics_split": "qui·et",
+      "senses": [
+        {
+          "gloss": "安静, 闲适, 平静",
+          "pos": "n."
+        },
+        {
+          "gloss": "安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “slowly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“slowly”。"
+        }
+      ],
+      "headword": "slowly",
+      "lexical_entry_id": "w_slowly",
+      "ordinal": 9,
+      "phonetic_uk": "'sləuli",
+      "phonetic_us": null,
+      "phonics_split": "slow·ly",
+      "senses": [
+        {
+          "gloss": "慢慢地, 迟缓地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “softly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“softly”。"
+        }
+      ],
+      "headword": "softly",
+      "lexical_entry_id": "w_softly",
+      "ordinal": 10,
+      "phonetic_uk": "'sɒftli",
+      "phonetic_us": null,
+      "phonics_split": "soft·ly",
+      "senses": [
+        {
+          "gloss": "柔和地, 静静地, 温柔地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sound.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡。"
+        },
+        {
+          "en": "I can see a sound.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡。"
+        }
+      ],
+      "headword": "sound",
+      "lexical_entry_id": "w_sound",
+      "ordinal": 11,
+      "phonetic_uk": "saund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡",
+          "pos": "n."
+        },
+        {
+          "gloss": "健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “strongly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“strongly”。"
+        }
+      ],
+      "headword": "strongly",
+      "lexical_entry_id": "w_strongly",
+      "ordinal": 12,
+      "phonetic_uk": "'strɒŋli",
+      "phonetic_us": null,
+      "phonics_split": "strong·ly",
+      "senses": [
+        {
+          "gloss": "强有力地, 坚强地, 激烈地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wind-bell.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的风铃。"
+        },
+        {
+          "en": "I can see a wind-bell.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到风铃。"
+        }
+      ],
+      "headword": "wind-bell",
+      "lexical_entry_id": "w_wind_bell",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "风铃",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my windmill.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的风车。"
+        },
+        {
+          "en": "I can see a windmill.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到风车。"
+        }
+      ],
+      "headword": "windmill",
+      "lexical_entry_id": "w_windmill",
+      "ordinal": 14,
+      "phonetic_uk": "'windmil",
+      "phonetic_us": null,
+      "phonics_split": "wind·mill",
+      "senses": [
+        {
+          "gloss": "风车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

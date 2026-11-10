@@ -1,0 +1,218 @@
+{
+  "title": "E-friends",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my country.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的国家, 乡村, 地区, 故乡。"
+        },
+        {
+          "en": "I can see a country.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到国家, 乡村, 地区, 故乡。"
+        }
+      ],
+      "headword": "country",
+      "lexical_entry_id": "w_country",
+      "ordinal": 1,
+      "phonetic_uk": "'kʌntri",
+      "phonetic_us": null,
+      "phonics_split": "coun·try",
+      "senses": [
+        {
+          "gloss": "国家, 乡村, 地区, 故乡",
+          "pos": "n."
+        },
+        {
+          "gloss": "乡下的, 农村的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “e-friend”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“e-friend”。"
+        }
+      ],
+      "headword": "e-friend",
+      "lexical_entry_id": "w_e_friend",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "= e-pal",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my grade.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡。"
+        },
+        {
+          "en": "I can see a grade.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡。"
+        }
+      ],
+      "headword": "grade",
+      "lexical_entry_id": "w_grade",
+      "ordinal": 3,
+      "phonetic_uk": "greid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "等级, 年级, 阶段, 成绩, 程度, 坡度, 斜坡",
+          "pos": "n."
+        },
+        {
+          "gloss": "分等, 分级, 评分",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hobby.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的嗜好, 癖好, 爱好。"
+        },
+        {
+          "en": "I can see a hobby.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到嗜好, 癖好, 爱好。"
+        }
+      ],
+      "headword": "hobby",
+      "lexical_entry_id": "w_hobby",
+      "ordinal": 4,
+      "phonetic_uk": "'hɒbi",
+      "phonetic_us": null,
+      "phonics_split": "hob·by",
+      "senses": [
+        {
+          "gloss": "嗜好, 癖好, 爱好",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very other.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常其他的, 另外的, 从前。"
+        }
+      ],
+      "headword": "other",
+      "lexical_entry_id": "w_other",
+      "ordinal": 5,
+      "phonetic_uk": "'ʌðə",
+      "phonetic_us": null,
+      "phonics_split": "oth·er",
+      "senses": [
+        {
+          "gloss": "其他的, 另外的, 从前的",
+          "pos": "a."
+        },
+        {
+          "gloss": "其他的, 他人, 另外一个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my team.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的队, 组。"
+        },
+        {
+          "en": "I can see a team.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到队, 组。"
+        }
+      ],
+      "headword": "team",
+      "lexical_entry_id": "w_team",
+      "ordinal": 6,
+      "phonetic_uk": "ti:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "队, 组",
+          "pos": "n."
+        },
+        {
+          "gloss": "把马(牛)套在同一辆车上, 把...编成一组",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “would like”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“would like”。"
+        }
+      ],
+      "headword": "would like",
+      "lexical_entry_id": "w_would_like",
+      "ordinal": 7,
+      "phonetic_uk": "wud laik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "想要",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "You can do it yourself.",
+          "origin": "curated:p-pron-yourself",
+          "zh": "你自己能做这件事。"
+        }
+      ],
+      "headword": "yourself",
+      "lexical_entry_id": "w_yourself",
+      "ordinal": 8,
+      "phonetic_uk": "juə'self",
+      "phonetic_us": null,
+      "phonics_split": "your·self",
+      "senses": [
+        {
+          "gloss": "你自己",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "title": "Apples, please",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my apple.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的苹果。"
+        },
+        {
+          "en": "I can see an apple.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到苹果。"
+        }
+      ],
+      "headword": "apple",
+      "lexical_entry_id": "w_apple",
+      "ordinal": 1,
+      "phonetic_uk": "'æpl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "苹果",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的梨。"
+        },
+        {
+          "en": "I can see a pear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到梨。"
+        }
+      ],
+      "headword": "pear",
+      "lexical_entry_id": "w_pear",
+      "ordinal": 2,
+      "phonetic_uk": "pɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "梨",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my peach.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的桃子。"
+        },
+        {
+          "en": "I can see a peach.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到桃子。"
+        }
+      ],
+      "headword": "peach",
+      "lexical_entry_id": "w_peach",
+      "ordinal": 3,
+      "phonetic_uk": "pi:tʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "桃子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my orange.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橙子。"
+        },
+        {
+          "en": "I can see an orange.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橙子。"
+        }
+      ],
+      "headword": "orange",
+      "lexical_entry_id": "w_orange",
+      "ordinal": 4,
+      "phonetic_uk": "'ɔːrindʒ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "橙子",
+          "pos": "n."
+        },
+        {
+          "gloss": "橙色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am at school.",
+          "origin": "curated:u8-prep-at",
+          "zh": "我在学校。"
+        }
+      ],
+      "headword": "at",
+      "lexical_entry_id": "w_at",
+      "ordinal": 5,
+      "phonetic_uk": "æt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Open the book, please.",
+          "origin": "curated:u8-art-the",
+          "zh": "请打开书。"
+        }
+      ],
+      "headword": "the",
+      "lexical_entry_id": "w_the",
+      "ordinal": 6,
+      "phonetic_uk": "ðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "定冠词",
+          "pos": "art."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The supermarket is big.",
+          "origin": "curated:u8-supermarket",
+          "zh": "超市很大。"
+        }
+      ],
+      "headword": "supermarket",
+      "lexical_entry_id": "w_supermarket",
+      "ordinal": 7,
+      "phonetic_uk": "'sju:pəmɑ:kit",
+      "phonetic_us": null,
+      "phonics_split": "super·mar·ket",
+      "senses": [
+        {
+          "gloss": "超市",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

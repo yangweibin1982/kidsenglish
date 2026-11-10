@@ -1,0 +1,393 @@
+{
+  "title": "In my room",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my room.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的房间。"
+        },
+        {
+          "en": "I can see a room.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到房间。"
+        }
+      ],
+      "headword": "room",
+      "lexical_entry_id": "w_room",
+      "ordinal": 1,
+      "phonetic_uk": "ru:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "房间",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Put the book in the bag.",
+          "origin": "curated:g2u8-put",
+          "zh": "把书放进包里。"
+        }
+      ],
+      "headword": "put",
+      "lexical_entry_id": "w_put",
+      "ordinal": 2,
+      "phonetic_uk": "put",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "放",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Open the book, please.",
+          "origin": "curated:u8-art-the",
+          "zh": "请打开书。"
+        }
+      ],
+      "headword": "the",
+      "lexical_entry_id": "w_the",
+      "ordinal": 3,
+      "phonetic_uk": "ðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "定冠词",
+          "pos": "art."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pencil is in the bag.",
+          "origin": "curated:g2u8-prep-in",
+          "zh": "铅笔在包里。"
+        }
+      ],
+      "headword": "in",
+      "lexical_entry_id": "w_in",
+      "ordinal": 4,
+      "phonetic_uk": "in",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…里",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bag.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的袋子。"
+        },
+        {
+          "en": "I can see a bag.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到袋子。"
+        }
+      ],
+      "headword": "bag",
+      "lexical_entry_id": "w_bag",
+      "ordinal": 5,
+      "phonetic_uk": "bæg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "袋子、包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dad.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的爸爸。"
+        },
+        {
+          "en": "I can see a dad.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到爸爸。"
+        }
+      ],
+      "headword": "dad",
+      "lexical_entry_id": "w_dad",
+      "ordinal": 6,
+      "phonetic_uk": "dæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爸爸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my box.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的盒子。"
+        },
+        {
+          "en": "I can see a box.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到盒子。"
+        }
+      ],
+      "headword": "box",
+      "lexical_entry_id": "w_box",
+      "ordinal": 7,
+      "phonetic_uk": "bɒks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "盒子、箱子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pencil is on the book.",
+          "origin": "curated:u2-prep-on",
+          "zh": "铅笔在书上。"
+        }
+      ],
+      "headword": "on",
+      "lexical_entry_id": "w_on",
+      "ordinal": 8,
+      "phonetic_uk": "ɒn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…上面",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chair.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的椅子。"
+        },
+        {
+          "en": "I can see a chair.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到椅子。"
+        }
+      ],
+      "headword": "chair",
+      "lexical_entry_id": "w_chair",
+      "ordinal": 9,
+      "phonetic_uk": "tʃɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "椅子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my desk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书桌。"
+        },
+        {
+          "en": "I can see a desk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书桌。"
+        }
+      ],
+      "headword": "desk",
+      "lexical_entry_id": "w_desk",
+      "ordinal": 10,
+      "phonetic_uk": "desk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "书桌",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my car.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小汽车。"
+        },
+        {
+          "en": "I can see a car.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小汽车。"
+        }
+      ],
+      "headword": "car",
+      "lexical_entry_id": "w_car",
+      "ordinal": 11,
+      "phonetic_uk": "kɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小汽车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at me!",
+          "origin": "curated:g2u8-look-at",
+          "zh": "看我！"
+        }
+      ],
+      "headword": "look at",
+      "lexical_entry_id": "w_look_at",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “pencil case”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“pencil case”。"
+        }
+      ],
+      "headword": "pencil case",
+      "lexical_entry_id": "w_pencil_case",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "铅笔盒",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The ox is big.",
+          "origin": "curated:g2u8-ox",
+          "zh": "牛很大。"
+        }
+      ],
+      "headword": "ox",
+      "lexical_entry_id": "w_ox",
+      "ordinal": 14,
+      "phonetic_uk": "ɒks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公牛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Dad goes to work.",
+          "origin": "curated:g2u8-work",
+          "zh": "爸爸去上班。"
+        }
+      ],
+      "headword": "work",
+      "lexical_entry_id": "w_work",
+      "ordinal": 15,
+      "phonetic_uk": "wə:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工作",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I sleep at night.",
+          "origin": "curated:g2u8-sleep",
+          "zh": "我在夜里睡觉。"
+        }
+      ],
+      "headword": "sleep",
+      "lexical_entry_id": "w_sleep",
+      "ordinal": 16,
+      "phonetic_uk": "sli:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "睡觉",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

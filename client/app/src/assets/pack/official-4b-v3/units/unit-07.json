@@ -1,0 +1,439 @@
+{
+  "title": "My day",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Brush your teeth before you go to bed.",
+          "origin": "curated:primary-4b-brush-teeth",
+          "zh": "睡觉前要刷牙。"
+        }
+      ],
+      "headword": "brush teeth",
+      "lexical_entry_id": "w_brush_teeth",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "刷牙",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my catch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的捕捉, 陷阱, 捕捉之物, 抓, 拉手。"
+        },
+        {
+          "en": "I can see a catch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到捕捉, 陷阱, 捕捉之物, 抓, 拉手。"
+        }
+      ],
+      "headword": "catch",
+      "lexical_entry_id": "w_catch",
+      "ordinal": 2,
+      "phonetic_uk": "kætʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "捕捉, 陷阱, 捕捉之物, 抓, 拉手",
+          "pos": "n."
+        },
+        {
+          "gloss": "捕捉, 赶上, 感染, 听清楚",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Dinner is ready!",
+          "origin": "curated:g2u9-dinner",
+          "zh": "晚饭好了！"
+        }
+      ],
+      "headword": "dinner",
+      "lexical_entry_id": "w_dinner",
+      "ordinal": 3,
+      "phonetic_uk": "'dinə",
+      "phonetic_us": null,
+      "phonics_split": "din·ner",
+      "senses": [
+        {
+          "gloss": "晚餐、正餐",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get up”。"
+        }
+      ],
+      "headword": "get up",
+      "lexical_entry_id": "w_get_up",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "(使)起床, (使)起立, (使)爬上",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go to bed”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go to bed”。"
+        }
+      ],
+      "headword": "go to bed",
+      "lexical_entry_id": "w_go_to_bed",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上床, 睡觉",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go to school”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go to school”。"
+        }
+      ],
+      "headword": "go to school",
+      "lexical_entry_id": "w_go_to_school",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上学",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my half.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的一半, 半场, 不完全。"
+        },
+        {
+          "en": "I can see a half.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到一半, 半场, 不完全。"
+        }
+      ],
+      "headword": "half",
+      "lexical_entry_id": "w_half",
+      "ordinal": 7,
+      "phonetic_uk": "hɑ:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一半, 半场, 不完全",
+          "pos": "n."
+        },
+        {
+          "gloss": "一半的, 不完全的, 部分的, 半场的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is half past seven.",
+          "origin": "curated:primary-4b-half-past",
+          "zh": "现在是七点半。"
+        }
+      ],
+      "headword": "half past",
+      "lexical_entry_id": "w_half_past",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "……点半",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have breakfast at seven.",
+          "origin": "curated:primary-4b-breakfast",
+          "zh": "我七点吃早餐。"
+        }
+      ],
+      "headword": "have breakfast",
+      "lexical_entry_id": "w_have_breakfast",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃早餐",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have dinner”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have dinner”。"
+        }
+      ],
+      "headword": "have dinner",
+      "lexical_entry_id": "w_have_dinner",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃晚饭",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We have lunch at school.",
+          "origin": "curated:primary-4b-lunch",
+          "zh": "我们在学校吃午餐。"
+        }
+      ],
+      "headword": "have lunch",
+      "lexical_entry_id": "w_have_lunch",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃午餐",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my o'clock.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的...点钟, 钟头。"
+        },
+        {
+          "en": "I can see an o'clock.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到...点钟, 钟头。"
+        }
+      ],
+      "headword": "o'clock",
+      "lexical_entry_id": "w_o_clock",
+      "ordinal": 12,
+      "phonetic_uk": "ə'klɔk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "...点钟, 钟头",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my quarter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的四分之一, 一刻钟, 季度, 地区。"
+        },
+        {
+          "en": "I can see a quarter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到四分之一, 一刻钟, 季度, 地区。"
+        }
+      ],
+      "headword": "quarter",
+      "lexical_entry_id": "w_quarter",
+      "ordinal": 13,
+      "phonetic_uk": "'kwɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "quar·ter",
+      "senses": [
+        {
+          "gloss": "四分之一, 一刻钟, 季度, 地区",
+          "pos": "n."
+        },
+        {
+          "gloss": "四等分, 肢解",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my start.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的惊起, 出发, 开端, 起点, 吃惊, 有利条件。"
+        },
+        {
+          "en": "I can see a start.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到惊起, 出发, 开端, 起点, 吃惊, 有利条件。"
+        }
+      ],
+      "headword": "start",
+      "lexical_entry_id": "w_start",
+      "ordinal": 14,
+      "phonetic_uk": "stɑ:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "惊起, 出发, 开端, 起点, 吃惊, 有利条件",
+          "pos": "n."
+        },
+        {
+          "gloss": "开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my time.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间。"
+        },
+        {
+          "en": "I can see a time.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间。"
+        }
+      ],
+      "headword": "time",
+      "lexical_entry_id": "w_time",
+      "ordinal": 15,
+      "phonetic_uk": "taim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间",
+          "pos": "n."
+        },
+        {
+          "gloss": "测定...的时间, 记录...的时间, 计时, 定时",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wash.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地。"
+        },
+        {
+          "en": "I can see a wash.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地。"
+        }
+      ],
+      "headword": "wash",
+      "lexical_entry_id": "w_wash",
+      "ordinal": 16,
+      "phonetic_uk": "wɒʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洗, 洗涤, 冲洗, 洗的衣服, 冲积物, 洼地",
+          "pos": "n."
+        },
+        {
+          "gloss": "洗, 洗涤, 洗清, 用水冲洗, 流过, 弄湿, 粉刷, 镀金属薄层于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Wash your face and brush your teeth.",
+          "origin": "curated:primary-4b-wash-face",
+          "zh": "洗洗脸，刷刷牙。"
+        }
+      ],
+      "headword": "wash face",
+      "lexical_entry_id": "w_wash_face",
+      "ordinal": 17,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洗脸",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

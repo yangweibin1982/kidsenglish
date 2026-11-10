@@ -1,0 +1,364 @@
+{
+  "title": "At the weekend",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my weekend.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的周末, 周末休假。"
+        },
+        {
+          "en": "I can see a weekend.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到周末, 周末休假。"
+        }
+      ],
+      "headword": "weekend",
+      "lexical_entry_id": "w_weekend",
+      "ordinal": 1,
+      "phonetic_uk": "'wi:kend",
+      "phonetic_us": null,
+      "phonics_split": "week·end",
+      "senses": [
+        {
+          "gloss": "周末, 周末休假",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my stay.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索。"
+        },
+        {
+          "en": "I can see a stay.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索。"
+        }
+      ],
+      "headword": "stay",
+      "lexical_entry_id": "w_stay",
+      "ordinal": 2,
+      "phonetic_uk": "stei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索",
+          "pos": "n."
+        },
+        {
+          "gloss": "制止, 延缓, 坚持, 支持, 支撑, 用支索固定",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my film.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的软片, 薄膜, 胶卷, 电影。"
+        },
+        {
+          "en": "I can see a film.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到软片, 薄膜, 胶卷, 电影。"
+        }
+      ],
+      "headword": "film",
+      "lexical_entry_id": "w_film",
+      "ordinal": 3,
+      "phonetic_uk": "film",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "软片, 薄膜, 胶卷, 电影",
+          "pos": "n."
+        },
+        {
+          "gloss": "覆以薄膜, 拍摄",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my boat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的船。"
+        },
+        {
+          "en": "I can see a boat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到船。"
+        }
+      ],
+      "headword": "boat",
+      "lexical_entry_id": "w_boat",
+      "ordinal": 4,
+      "phonetic_uk": "bəut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "船",
+          "pos": "n."
+        },
+        {
+          "gloss": "乘船",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plan.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图。"
+        },
+        {
+          "en": "I can see a plan.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图。"
+        }
+      ],
+      "headword": "plan",
+      "lexical_entry_id": "w_plan",
+      "ordinal": 5,
+      "phonetic_uk": "plæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "计划, 方案, 策略, 方法, 进度表, 程序表, 平面图, 设计图, 轮廓, 示意图",
+          "pos": "n."
+        },
+        {
+          "gloss": "计划, 设计, 意欲",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tomorrow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的明天, 未来。"
+        },
+        {
+          "en": "I can see a tomorrow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到明天, 未来。"
+        }
+      ],
+      "headword": "tomorrow",
+      "lexical_entry_id": "w_tomorrow",
+      "ordinal": 6,
+      "phonetic_uk": "tə'mɔːrəu",
+      "phonetic_us": null,
+      "phonics_split": "to·mor·row",
+      "senses": [
+        {
+          "gloss": "明天, 未来",
+          "pos": "n."
+        },
+        {
+          "gloss": "明天, 未来地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can build.",
+          "origin": "template:t-v-can",
+          "zh": "我会建立, 建筑。"
+        },
+        {
+          "en": "Let's build together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起建立, 建筑吧。"
+        }
+      ],
+      "headword": "build",
+      "lexical_entry_id": "w_build",
+      "ordinal": 7,
+      "phonetic_uk": "bild",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "建立, 建筑",
+          "pos": "v."
+        },
+        {
+          "gloss": "构造, 体格",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my next.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的下一个。"
+        },
+        {
+          "en": "I can see a next.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到下一个。"
+        }
+      ],
+      "headword": "next",
+      "lexical_entry_id": "w_next",
+      "ordinal": 8,
+      "phonetic_uk": "'nekst",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下一个",
+          "pos": "n."
+        },
+        {
+          "gloss": "下一个的, 其次的, 贴近的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The swing is green.",
+          "origin": "curated:g2u7-swing",
+          "zh": "秋千是绿色的。"
+        }
+      ],
+      "headword": "swing",
+      "lexical_entry_id": "w_swing",
+      "ordinal": 9,
+      "phonetic_uk": "swiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "秋千",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Don't cry, Danny.",
+          "origin": "curated:g2u12-cry",
+          "zh": "别哭，丹尼。"
+        }
+      ],
+      "headword": "cry",
+      "lexical_entry_id": "w_cry",
+      "ordinal": 10,
+      "phonetic_uk": "krai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哭",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “until”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“until”。"
+        }
+      ],
+      "headword": "until",
+      "lexical_entry_id": "w_until",
+      "ordinal": 11,
+      "phonetic_uk": "ən'til",
+      "phonetic_us": null,
+      "phonics_split": "un·til",
+      "senses": [
+        {
+          "gloss": "直到, 在...以前",
+          "pos": "prep."
+        },
+        {
+          "gloss": "直到...时, 在...以前",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's see a film tonight.",
+          "origin": "curated:g5b-u5-see-film",
+          "zh": "今晚我们去看电影吧。"
+        }
+      ],
+      "headword": "see a film",
+      "lexical_entry_id": "w_see_a_film",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看电影",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Can you row a boat?",
+          "origin": "curated:g5b-u5-row-boat",
+          "zh": "你会划船吗？"
+        }
+      ],
+      "headword": "row a boat",
+      "lexical_entry_id": "w_row_a_boat",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "划船",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

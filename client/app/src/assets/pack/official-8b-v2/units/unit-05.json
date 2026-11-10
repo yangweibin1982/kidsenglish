@@ -1,0 +1,921 @@
+{
+  "title": null,
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can recognize.",
+          "origin": "template:t-v-can",
+          "zh": "我会认出, 认可, 承认, 公认, 识别, 赏识。"
+        },
+        {
+          "en": "Let's recognize together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起认出, 认可, 承认, 公认, 识别, 赏识吧。"
+        }
+      ],
+      "headword": "recognize",
+      "lexical_entry_id": "w_recognize",
+      "ordinal": 1,
+      "phonetic_uk": "'rekəgnaiz",
+      "phonetic_us": null,
+      "phonics_split": "rec·og·nize",
+      "senses": [
+        {
+          "gloss": "认出, 认可, 承认, 公认, 识别, 赏识",
+          "pos": "vt."
+        },
+        {
+          "gloss": "承认, 具结",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mirror.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的镜子, 写真, 典范。"
+        },
+        {
+          "en": "I can see a mirror.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到镜子, 写真, 典范。"
+        }
+      ],
+      "headword": "mirror",
+      "lexical_entry_id": "w_mirror",
+      "ordinal": 2,
+      "phonetic_uk": "'mirə",
+      "phonetic_us": null,
+      "phonics_split": "mir·ror",
+      "senses": [
+        {
+          "gloss": "镜子, 写真, 典范",
+          "pos": "n."
+        },
+        {
+          "gloss": "反映, 映出",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my gun.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的枪。"
+        },
+        {
+          "en": "I can see a gun.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到枪。"
+        }
+      ],
+      "headword": "gun",
+      "lexical_entry_id": "w_gun",
+      "ordinal": 3,
+      "phonetic_uk": "gʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "枪",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very handsome.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏。"
+        }
+      ],
+      "headword": "handsome",
+      "lexical_entry_id": "w_handsome",
+      "ordinal": 4,
+      "phonetic_uk": "'hænsəm",
+      "phonetic_us": null,
+      "phonics_split": "hand·some",
+      "senses": [
+        {
+          "gloss": "英俊的, 大方的, 慷慨的, 相当可观的, 美观的, 灵敏的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my force.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的力量, 武力, 势力, 影响力, 军队, 力, 效力。"
+        },
+        {
+          "en": "I can see a force.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到力量, 武力, 势力, 影响力, 军队, 力, 效力。"
+        }
+      ],
+      "headword": "force",
+      "lexical_entry_id": "w_force",
+      "ordinal": 5,
+      "phonetic_uk": "fɔːs",
+      "phonetic_us": null,
+      "phonics_split": "for·ce",
+      "senses": [
+        {
+          "gloss": "力量, 武力, 势力, 影响力, 军队, 力, 效力",
+          "pos": "n."
+        },
+        {
+          "gloss": "强迫, 强夺, 推动, 提高",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my corn.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的玉蜀黍, 谷类, 谷粒, 鸡眼。"
+        },
+        {
+          "en": "I can see a corn.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到玉蜀黍, 谷类, 谷粒, 鸡眼。"
+        }
+      ],
+      "headword": "corn",
+      "lexical_entry_id": "w_corn",
+      "ordinal": 6,
+      "phonetic_uk": "kɔːn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玉蜀黍, 谷类, 谷粒, 鸡眼",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成颗粒, 腌",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my direction.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的方向, 指导, 趋势。"
+        },
+        {
+          "en": "I can see a direction.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到方向, 指导, 趋势。"
+        }
+      ],
+      "headword": "direction",
+      "lexical_entry_id": "w_direction",
+      "ordinal": 7,
+      "phonetic_uk": "di'rekʃən",
+      "phonetic_us": null,
+      "phonics_split": "di·rec·tion",
+      "senses": [
+        {
+          "gloss": "方向, 指导, 趋势",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my progress.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的进步, 发展, 前进。"
+        },
+        {
+          "en": "I can see a progress.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到进步, 发展, 前进。"
+        }
+      ],
+      "headword": "progress",
+      "lexical_entry_id": "w_progress",
+      "ordinal": 8,
+      "phonetic_uk": "'prəugres",
+      "phonetic_us": null,
+      "phonics_split": "prog·ress",
+      "senses": [
+        {
+          "gloss": "进步, 发展, 前进",
+          "pos": "n."
+        },
+        {
+          "gloss": "进步, 进行",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my value.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的价值, 价格, 购买力, 评价, 估价, 计算结果。"
+        },
+        {
+          "en": "I can see a value.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到价值, 价格, 购买力, 评价, 估价, 计算结果。"
+        }
+      ],
+      "headword": "value",
+      "lexical_entry_id": "w_value",
+      "ordinal": 9,
+      "phonetic_uk": "'vælju:",
+      "phonetic_us": null,
+      "phonics_split": "val·ue",
+      "senses": [
+        {
+          "gloss": "价值, 价格, 购买力, 评价, 估价, 计算结果",
+          "pos": "n."
+        },
+        {
+          "gloss": "评价, 估价, 重视",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my official.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的官员, 公务员, 职员。"
+        },
+        {
+          "en": "I can see an official.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到官员, 公务员, 职员。"
+        }
+      ],
+      "headword": "official",
+      "lexical_entry_id": "w_official",
+      "ordinal": 10,
+      "phonetic_uk": "ə'fiʃəl",
+      "phonetic_us": null,
+      "phonics_split": "of·fi·cial",
+      "senses": [
+        {
+          "gloss": "官员, 公务员, 职员",
+          "pos": "n."
+        },
+        {
+          "gloss": "公务的, 官方的, 正式的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can throw.",
+          "origin": "template:t-v-can",
+          "zh": "我会投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱。"
+        },
+        {
+          "en": "Let's throw together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱吧。"
+        }
+      ],
+      "headword": "throw",
+      "lexical_entry_id": "w_throw",
+      "ordinal": 11,
+      "phonetic_uk": "θrəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱",
+          "pos": "vt."
+        },
+        {
+          "gloss": "丢, 掷, 抛",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my law.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼。"
+        },
+        {
+          "en": "I can see a law.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼。"
+        }
+      ],
+      "headword": "law",
+      "lexical_entry_id": "w_law",
+      "ordinal": 12,
+      "phonetic_uk": "lɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼",
+          "pos": "n."
+        },
+        {
+          "gloss": "起诉",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can punish.",
+          "origin": "template:t-v-can",
+          "zh": "我会处罚, 惩罚, 严厉对待。"
+        },
+        {
+          "en": "Let's punish together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起处罚, 惩罚, 严厉对待吧。"
+        }
+      ],
+      "headword": "punish",
+      "lexical_entry_id": "w_punish",
+      "ordinal": 13,
+      "phonetic_uk": "'pʌniʃ",
+      "phonetic_us": null,
+      "phonics_split": "pun·ish",
+      "senses": [
+        {
+          "gloss": "处罚, 惩罚, 严厉对待",
+          "pos": "vt."
+        },
+        {
+          "gloss": "惩罚",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my blog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的博客；部落格；网络日志。"
+        },
+        {
+          "en": "I can see a blog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到博客；部落格；网络日志。"
+        }
+      ],
+      "headword": "blog",
+      "lexical_entry_id": "w_blog",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "博客；部落格；网络日志",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can publish.",
+          "origin": "template:t-v-can",
+          "zh": "我会出版, 发行, 公开, 发表, 宣传, 公布。"
+        },
+        {
+          "en": "Let's publish together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起出版, 发行, 公开, 发表, 宣传, 公布吧。"
+        }
+      ],
+      "headword": "publish",
+      "lexical_entry_id": "w_publish",
+      "ordinal": 15,
+      "phonetic_uk": "'pʌbliʃ",
+      "phonetic_us": null,
+      "phonics_split": "pub·lish",
+      "senses": [
+        {
+          "gloss": "出版, 发行, 公开, 发表, 宣传, 公布",
+          "pos": "vt."
+        },
+        {
+          "gloss": "出版, 发行",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shoulder.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的肩, 肩膀, 衣肩。"
+        },
+        {
+          "en": "I can see a shoulder.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到肩, 肩膀, 衣肩。"
+        }
+      ],
+      "headword": "shoulder",
+      "lexical_entry_id": "w_shoulder",
+      "ordinal": 16,
+      "phonetic_uk": "'ʃəuldə",
+      "phonetic_us": null,
+      "phonics_split": "shoul·der",
+      "senses": [
+        {
+          "gloss": "肩, 肩膀, 衣肩",
+          "pos": "n."
+        },
+        {
+          "gloss": "肩负, 负担, 担任",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very rare.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好。"
+        }
+      ],
+      "headword": "rare",
+      "lexical_entry_id": "w_rare",
+      "ordinal": 17,
+      "phonetic_uk": "rɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "稀罕的, 罕有的, 珍奇的, 稀薄的, 半熟的, 非常好的",
+          "pos": "a."
+        },
+        {
+          "gloss": "非常",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very slim.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常瘦的, 苗条的, 微小的, 稀少的, 微薄。"
+        }
+      ],
+      "headword": "slim",
+      "lexical_entry_id": "w_slim",
+      "ordinal": 18,
+      "phonetic_uk": "slim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "瘦的, 苗条的, 微小的, 稀少的, 微薄的",
+          "pos": "a."
+        },
+        {
+          "gloss": "变苗条",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very alarmed.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常受惊的；焦虑的；惊恐。"
+        }
+      ],
+      "headword": "alarmed",
+      "lexical_entry_id": "w_alarmed",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "alar·med",
+      "senses": [
+        {
+          "gloss": "受惊的；焦虑的；惊恐的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very typical.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常典型的, 象征性。"
+        }
+      ],
+      "headword": "typical",
+      "lexical_entry_id": "w_typical",
+      "ordinal": 20,
+      "phonetic_uk": "'tipikl",
+      "phonetic_us": null,
+      "phonics_split": "typ·i·cal",
+      "senses": [
+        {
+          "gloss": "典型的, 象征性的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very thirsty.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常口渴的, 渴望的, 干燥。"
+        }
+      ],
+      "headword": "thirsty",
+      "lexical_entry_id": "w_thirsty",
+      "ordinal": 21,
+      "phonetic_uk": "'θə:sti",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "口渴的, 渴望的, 干燥的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very sore.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常悲伤的, 痛的, 引起痛苦。"
+        }
+      ],
+      "headword": "sore",
+      "lexical_entry_id": "w_sore",
+      "ordinal": 22,
+      "phonetic_uk": "sɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "悲伤的, 痛的, 引起痛苦的",
+          "pos": "a."
+        },
+        {
+          "gloss": "痛处, 溃疡, 疮",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my red-crowned crane.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的丹顶鹤。"
+        },
+        {
+          "en": "I can see a red-crowned crane.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到丹顶鹤。"
+        }
+      ],
+      "headword": "red-crowned crane",
+      "lexical_entry_id": "w_red_crowned_crane",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "丹顶鹤",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “polar bear”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“polar bear”。"
+        }
+      ],
+      "headword": "polar bear",
+      "lexical_entry_id": "w_polar_bear",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "北极熊",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very more than enough.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常绰绰有余。"
+        }
+      ],
+      "headword": "more than enough",
+      "lexical_entry_id": "w_more_than_enough",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "绰绰有余",
+          "pos": "adj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The hunter shot the wolf dead.",
+          "origin": "curated:g8b-shoot-dead",
+          "zh": "猎人射杀了狼。"
+        }
+      ],
+      "headword": "shoot dead",
+      "lexical_entry_id": "w_shoot_dead",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "射杀",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “make use of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“make use of”。"
+        }
+      ],
+      "headword": "make use of",
+      "lexical_entry_id": "w_make_use_of",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使用",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Kids play without a care in the world.",
+          "origin": "curated:g8b-without-care",
+          "zh": "孩子们无忧无虑地玩。"
+        }
+      ],
+      "headword": "without a care in the world",
+      "lexical_entry_id": "w_without_a_care_in_the_world",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "无忧无虑",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “ought to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“ought to”。"
+        }
+      ],
+      "headword": "ought to",
+      "lexical_entry_id": "w_ought_to",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "应该",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “up to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“up to”。"
+        }
+      ],
+      "headword": "up to",
+      "lexical_entry_id": "w_up_to",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "从事于(坏事), 忙于, 胜任, 能做, 适合, 适于",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nature reserve.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的自然保护区。"
+        },
+        {
+          "en": "I can see a nature reserve.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到自然保护区。"
+        }
+      ],
+      "headword": "nature reserve",
+      "lexical_entry_id": "w_nature_reserve",
+      "ordinal": 31,
+      "phonetic_uk": "ˈneitʃə riˈzə:v",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "自然保护区",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “day and night”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“day and night”。"
+        }
+      ],
+      "headword": "day and night",
+      "lexical_entry_id": "w_day_and_night",
+      "ordinal": 32,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "日以继夜",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go missing”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go missing”。"
+        }
+      ],
+      "headword": "go missing",
+      "lexical_entry_id": "w_go_missing",
+      "ordinal": 33,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "失踪；不见；丢失",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “look for”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“look for”。"
+        }
+      ],
+      "headword": "look for",
+      "lexical_entry_id": "w_look_for",
+      "ordinal": 34,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "寻找, 期待",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He lost his life in the war.",
+          "origin": "curated:g8b-lose-life",
+          "zh": "他在战争中丧生。"
+        }
+      ],
+      "headword": "lose one's life",
+      "lexical_entry_id": "w_lose_one_s_life",
+      "ordinal": 35,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "丧命",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

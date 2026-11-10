@@ -1,0 +1,316 @@
+{
+  "title": "My parents",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The bus driver drives our bus every day.",
+          "origin": "curated:primary-4a-bus-driver",
+          "zh": "公交车司机每天开我们的公交车。"
+        }
+      ],
+      "headword": "bus driver",
+      "lexical_entry_id": "w_bus_driver",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公交车司机",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my doctor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的医生, 博士。"
+        },
+        {
+          "en": "I can see a doctor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到医生, 博士。"
+        }
+      ],
+      "headword": "doctor",
+      "lexical_entry_id": "w_doctor",
+      "ordinal": 2,
+      "phonetic_uk": "'dɒktə",
+      "phonetic_us": null,
+      "phonics_split": "doc·tor",
+      "senses": [
+        {
+          "gloss": "医生, 博士",
+          "pos": "n."
+        },
+        {
+          "gloss": "授以博士学位, 诊断, 修改",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fire.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情。"
+        },
+        {
+          "en": "I can see a fire.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情。"
+        }
+      ],
+      "headword": "fire",
+      "lexical_entry_id": "w_fire",
+      "ordinal": 3,
+      "phonetic_uk": "'faiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情",
+          "pos": "n."
+        },
+        {
+          "gloss": "点燃, 烧制, 使发光, 激动, 放枪, 解雇",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fireman.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的救火队员, 消防队员。"
+        },
+        {
+          "en": "I can see a fireman.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到救火队员, 消防队员。"
+        }
+      ],
+      "headword": "fireman",
+      "lexical_entry_id": "w_fireman",
+      "ordinal": 4,
+      "phonetic_uk": "'faiəmən",
+      "phonetic_us": null,
+      "phonics_split": "fire·man",
+      "senses": [
+        {
+          "gloss": "救火队员, 消防队员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my job.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工作, 零活, 职业, 事情。"
+        },
+        {
+          "en": "I can see a job.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工作, 零活, 职业, 事情。"
+        }
+      ],
+      "headword": "job",
+      "lexical_entry_id": "w_job",
+      "ordinal": 5,
+      "phonetic_uk": "dʒɒb",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工作, 零活, 职业, 事情",
+          "pos": "n."
+        },
+        {
+          "gloss": "做零工, 打杂, 做股票经纪, 假公济私",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kid.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小山羊, 小山羊肉, 小孩, 欺骗。"
+        },
+        {
+          "en": "I can see a kid.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小山羊, 小山羊肉, 小孩, 欺骗。"
+        }
+      ],
+      "headword": "kid",
+      "lexical_entry_id": "w_kid",
+      "ordinal": 6,
+      "phonetic_uk": "kid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小山羊, 小山羊肉, 小孩, 欺骗",
+          "pos": "n."
+        },
+        {
+          "gloss": "小山羊皮制的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nurse.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的护士, 保姆, 奶妈。"
+        },
+        {
+          "en": "I can see a nurse.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到护士, 保姆, 奶妈。"
+        }
+      ],
+      "headword": "nurse",
+      "lexical_entry_id": "w_nurse",
+      "ordinal": 7,
+      "phonetic_uk": "nə:s",
+      "phonetic_us": null,
+      "phonics_split": "nur·se",
+      "senses": [
+        {
+          "gloss": "护士, 保姆, 奶妈",
+          "pos": "n."
+        },
+        {
+          "gloss": "看护, 照顾, 培养",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my people.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的人, 人民, 民族, 平民。"
+        },
+        {
+          "en": "I can see a people.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到人, 人民, 民族, 平民。"
+        }
+      ],
+      "headword": "people",
+      "lexical_entry_id": "w_people",
+      "ordinal": 8,
+      "phonetic_uk": "'pi:pl",
+      "phonetic_us": null,
+      "phonics_split": "peo·ple",
+      "senses": [
+        {
+          "gloss": "人, 人民, 民族, 平民",
+          "pos": "n."
+        },
+        {
+          "gloss": "使住满人, 居住于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “play with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“play with”。"
+        }
+      ],
+      "headword": "play with",
+      "lexical_entry_id": "w_play_with",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "和…一起玩耍,漫不经心地摆弄,玩弄",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The panda is so cute!",
+          "origin": "curated:g2u11-so",
+          "zh": "熊猫这么可爱！"
+        }
+      ],
+      "headword": "so",
+      "lexical_entry_id": "w_so",
+      "ordinal": 10,
+      "phonetic_uk": "səu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "这么、那么",
+          "pos": "adv."
+        },
+        {
+          "gloss": "所以",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my teacher.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的教师, 老师, 导师。"
+        },
+        {
+          "en": "I can see a teacher.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到教师, 老师, 导师。"
+        }
+      ],
+      "headword": "teacher",
+      "lexical_entry_id": "w_teacher",
+      "ordinal": 11,
+      "phonetic_uk": "'ti:tʃə",
+      "phonetic_us": null,
+      "phonics_split": "teach·er",
+      "senses": [
+        {
+          "gloss": "教师, 老师, 导师",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

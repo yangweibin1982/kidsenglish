@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U5 My family 情景图样张：屋前一家五口的全家福">
+  <!--
+    战机英语美术样张 · U5「My family」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed105, bf0.035, oct3, scale5) + ke-crayon(seed205, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed305, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 105 / crayon 205 / papergrain 305。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；人物＝头肩小圈 r=头r+18）。
+    代表词：grandfather / grandmother / father / mother（前景 me＝叙述者锚点，按 U2 惯例涂改圈名额给长辈词）。
+    热点坐标（内容域票接词包配置用）：grandfather=(195,420,49) grandmother=(320,423,48) father=(585,414,52) mother=(700,418,49)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="105" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="205" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="305"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 天空 + 草地 + 屋前小路 -->
+    <rect x="0" y="0" width="900" height="388" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="380" width="900" height="180" fill="#8FBE6E" opacity="0.28" filter="url(#ke-crayon)"/>
+    <path d="M-10,390 Q220,380 460,388 T910,384 L910,570 L-10,570 Z" fill="#8FBE6E" opacity="0.18" filter="url(#ke-crayon)"/>
+    <path d="M420,388 L480,388 L560,560 L340,560 Z" fill="#E8A95C" opacity="0.38" filter="url(#ke-crayon)"/>
+
+    <!-- 太阳与云 -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="105" cy="88" r="26" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="105" y1="54" x2="104" y2="45"/><line x1="105" y1="122" x2="106" y2="131"/>
+        <line x1="71" y1="88" x2="62" y2="89"/><line x1="139" y1="88" x2="148" y2="87"/>
+      </g>
+      <g fill="#FFF9EC" opacity="0.85">
+        <circle cx="760" cy="80" r="16"/><circle cx="783" cy="73" r="20"/><circle cx="806" cy="82" r="15"/>
+        <rect x="748" y="78" width="70" height="18" rx="9"/>
+      </g>
+    </g>
+
+    <!-- 房子（背景） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="330" y="175" width="240" height="213" rx="10" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3.5"/>
+      <path d="M310,180 L450,100 L590,180 Z" fill="#D96843" opacity="0.85" stroke="#7A5A3D" stroke-width="3.5" stroke-linejoin="round"/>
+      <rect x="520" y="122" width="26" height="40" rx="5" fill="#B9844A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="355" y="210" width="50" height="44" rx="8" fill="#A8D3E2" opacity="0.8" stroke="#7A5A3D" stroke-width="2.5"/>
+      <line x1="380" y1="210" x2="380" y2="254" stroke="#7A5A3D" stroke-width="2"/>
+      <rect x="495" y="210" width="50" height="44" rx="8" fill="#A8D3E2" opacity="0.8" stroke="#7A5A3D" stroke-width="2.5"/>
+      <line x1="520" y1="210" x2="520" y2="254" stroke="#7A5A3D" stroke-width="2"/>
+      <path d="M425,388 L425,325 Q450,305 475,325 L475,388 Z" fill="#7A5A3D" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="466" cy="355" r="3" fill="#F0C05A"/>
+    </g>
+
+    <!-- 地面轻细节两件：灌木＋小花（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="60" cy="505" r="24" fill="#8FBE6E" opacity="0.75"/>
+      <circle cx="85" cy="512" r="18" fill="#8FBE6E" opacity="0.7"/>
+      <circle cx="38" cy="512" r="16" fill="#8FBE6E" opacity="0.7"/>
+      <line x1="830" y1="540" x2="830" y2="516" stroke="#5C9968" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="830" cy="498" r="5" fill="#E8764F" opacity="0.85"/><circle cx="840" cy="505" r="5" fill="#E8764F" opacity="0.85"/>
+      <circle cx="836" cy="516" r="5" fill="#E8764F" opacity="0.85"/><circle cx="824" cy="516" r="5" fill="#E8764F" opacity="0.85"/>
+      <circle cx="820" cy="505" r="5" fill="#E8764F" opacity="0.85"/><circle cx="830" cy="507" r="4" fill="#F0C05A"/>
+    </g>
+
+    <!-- grandfather（爷爷：秃顶暖发＋圆框眼镜＋小胡子＋拐杖，站姿全落地） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="195" cy="549" rx="52" ry="8" fill="#7A5A3D" opacity="0.15"/>
+      <rect x="179" y="505" width="16" height="34" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="203" y="505" width="16" height="34" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="171" y="533" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="199" y="533" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="163" y="433" width="64" height="74" rx="24" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M167,445 Q157,472 162,498" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M167,445 Q157,472 162,498" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M223,445 Q233,472 228,498" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M223,445 Q233,472 228,498" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <!-- 拐杖（拄地） -->
+      <path d="M230,470 q4,-10 12,-8" stroke="#7A5A3D" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+      <line x1="231" y1="470" x2="224" y2="545" stroke="#7A5A3D" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="195" cy="405" r="31" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M164,398 q0,-18 14,-24 l-2,10 q-8,4 -8,16 Z" fill="#75654F" opacity="0.9" stroke="#7A5A3D" stroke-width="2"/>
+      <path d="M226,398 q0,-18 -14,-24 l2,10 q8,4 8,16 Z" fill="#75654F" opacity="0.9" stroke="#7A5A3D" stroke-width="2"/>
+      <path d="M185,374 q3,-7 8,-7 M200,373 q4,-6 9,-5" stroke="#75654F" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="184" cy="406" r="7" fill="#FFF9EC" opacity="0.55" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="208" cy="404" r="7" fill="#FFF9EC" opacity="0.55" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M191,404 Q196,402 201,403" stroke="#7A5A3D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <circle cx="185" cy="407" r="2.8" fill="#4A3A2A"/>
+      <circle cx="207" cy="405" r="2.8" fill="#4A3A2A"/>
+      <path d="M184,413 Q195,407 206,413" stroke="#75654F" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <path d="M186,421 Q195,427 204,420" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- grandmother（奶奶：发髻＋珊瑚连衣裙长裙遮腿） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="320" cy="549" rx="52" ry="8" fill="#7A5A3D" opacity="0.15"/>
+      <rect x="306" y="500" width="12" height="34" rx="6" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="322" y="500" width="12" height="34" rx="6" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="292" y="436" width="56" height="62" rx="22" fill="#E8764F" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M296,494 L344,494 L352,534 L288,534 Z" fill="#E8764F" opacity="0.85" stroke="#7A5A3D" stroke-width="3" stroke-linejoin="round"/>
+      <rect x="296" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="320" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M296,448 Q286,474 291,496" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M296,448 Q286,474 291,496" stroke="#E8764F" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M344,448 Q354,474 349,496" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M344,448 Q354,474 349,496" stroke="#E8764F" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="320" cy="372" r="11" fill="#75654F" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="320" cy="408" r="30" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M290,408 q2,-32 30,-32 q28,0 30,32 q-8,-15 -30,-15 q-22,0 -30,15 Z" fill="#75654F" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="311" cy="410" r="3" fill="#4A3A2A"/>
+      <circle cx="331" cy="408" r="3" fill="#4A3A2A"/>
+      <path d="M312,421 Q321,428 330,420" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M300,415 l5,4 M340,413 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+      <circle cx="289" cy="414" r="2.2" fill="#F0C05A"/>
+      <circle cx="351" cy="412" r="2.2" fill="#F0C05A"/>
+    </g>
+
+    <!-- me（前景小主角：挥手，不占热点圈名额） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="450" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="431" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="455" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="424" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="452" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="424" y="447" width="52" height="64" rx="20" fill="#F0C05A" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M428,458 Q418,484 423,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M428,458 Q418,484 423,508" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M472,458 Q492,452 496,426" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M472,458 Q492,452 496,426" stroke="#F0C05A" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="450" cy="423" r="28" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M424,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M450,394 q2,-9 8,-10" stroke="#4A3A2A" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="441" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="461" cy="423" r="3" fill="#4A3A2A"/>
+      <path d="M442,436 Q451,443 460,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M430,430 l5,4 M470,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- father（爸爸：高个站姿） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="585" cy="549" rx="52" ry="8" fill="#7A5A3D" opacity="0.15"/>
+      <rect x="567" y="499" width="16" height="38" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="591" y="499" width="16" height="38" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="559" y="533" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="587" y="533" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="551" y="429" width="68" height="78" rx="24" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M575,431 L585,445 L595,431" fill="none" stroke="#FFF9EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+      <path d="M561,441 Q551,468 556,494" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M561,441 Q551,468 556,494" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M609,441 Q619,468 614,494" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M609,441 Q619,468 614,494" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="585" cy="399" r="34" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M551,399 q3,-38 34,-38 q31,0 34,38 q-9,-17 -34,-17 q-25,0 -34,17 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="574" cy="401" r="3" fill="#4A3A2A"/>
+      <circle cx="596" cy="399" r="3" fill="#4A3A2A"/>
+      <path d="M577,414 Q585,421 593,412" stroke="#7A5A3D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M563,408 l6,4 M607,406 l-6,4" stroke="#E8764F" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- mother（妈妈：长侧发＋蛋黄连衣裙） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="700" cy="549" rx="52" ry="8" fill="#7A5A3D" opacity="0.15"/>
+      <rect x="686" y="501" width="14" height="36" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="706" y="501" width="14" height="36" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="678" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="702" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="672" y="431" width="56" height="74" rx="22" fill="#F0C05A" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M676,443 Q666,470 671,496" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M676,443 Q666,470 671,496" stroke="#F0C05A" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M724,443 Q734,470 729,496" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M724,443 Q734,470 729,496" stroke="#F0C05A" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <ellipse cx="672" cy="426" rx="8" ry="18" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="728" cy="424" rx="8" ry="18" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="700" cy="403" r="31" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M669,403 q2,-34 31,-34 q29,0 31,34 q-8,-16 -31,-16 q-23,0 -31,16 Z" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="691" cy="405" r="3" fill="#4A3A2A"/>
+      <circle cx="711" cy="403" r="3" fill="#4A3A2A"/>
+      <path d="M692,417 Q701,424 710,415" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M680,411 l5,4 M720,409 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（头肩小圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="195" cy="420" r="49"/>
+      <circle cx="320" cy="423" r="48"/>
+      <circle cx="585" cy="414" r="52"/>
+      <circle cx="700" cy="418" r="49"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 5 · My family</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="137" y="476" width="116" height="26" rx="13" fill="#7A5A3D"/><text x="195" y="494" fill="#FFF9EC">grandfather</text>
+    <rect x="262" y="478" width="116" height="26" rx="13" fill="#7A5A3D"/><text x="320" y="496" fill="#FFF9EC">grandmother</text>
+    <rect x="546" y="472" width="78" height="26" rx="13" fill="#7A5A3D"/><text x="585" y="490" fill="#FFF9EC">father</text>
+    <rect x="661" y="474" width="78" height="26" rx="13" fill="#7A5A3D"/><text x="700" y="492" fill="#FFF9EC">mother</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

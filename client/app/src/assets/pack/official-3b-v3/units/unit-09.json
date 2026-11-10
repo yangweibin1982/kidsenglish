@@ -1,0 +1,312 @@
+{
+  "title": "A day on the farm",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "She waves and says, “Bye!”",
+          "origin": "template:t-int-say",
+          "zh": "她挥着手说：“Bye！”"
+        }
+      ],
+      "headword": "bye",
+      "lexical_entry_id": "w_bye",
+      "ordinal": 1,
+      "phonetic_uk": "bai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "再会, 回头见",
+          "pos": "interj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奶牛。"
+        },
+        {
+          "en": "I can see a cow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奶牛。"
+        }
+      ],
+      "headword": "cow",
+      "lexical_entry_id": "w_cow",
+      "ordinal": 2,
+      "phonetic_uk": "kau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奶牛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my farm.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的农场, 农田。"
+        },
+        {
+          "en": "I can see a farm.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到农场, 农田。"
+        }
+      ],
+      "headword": "farm",
+      "lexical_entry_id": "w_farm",
+      "ordinal": 3,
+      "phonetic_uk": "fɑ:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "农场, 农田",
+          "pos": "n."
+        },
+        {
+          "gloss": "耕种",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The grass is green.",
+          "origin": "curated:g2u11-grass",
+          "zh": "草是绿色的。"
+        }
+      ],
+      "headword": "grass",
+      "lexical_entry_id": "w_grass",
+      "ordinal": 4,
+      "phonetic_uk": "græs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "草",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very great.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常大的, 非常的, 主要的, 重大的, 崇高的, 伟大。"
+        }
+      ],
+      "headword": "great",
+      "lexical_entry_id": "w_great",
+      "ordinal": 5,
+      "phonetic_uk": "greit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大的, 非常的, 主要的, 重大的, 崇高的, 伟大的",
+          "pos": "a."
+        },
+        {
+          "gloss": "顺利地, 得意地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my horse.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的马, 骑兵, 脚架。"
+        },
+        {
+          "en": "I can see a horse.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到马, 骑兵, 脚架。"
+        }
+      ],
+      "headword": "horse",
+      "lexical_entry_id": "w_horse",
+      "ordinal": 6,
+      "phonetic_uk": "hɔːs",
+      "phonetic_us": null,
+      "phonics_split": "hor·se",
+      "senses": [
+        {
+          "gloss": "马, 骑兵, 脚架",
+          "pos": "n."
+        },
+        {
+          "gloss": "骑马, 取笑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my litter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的垃圾, 杂乱, 轿, 担架。"
+        },
+        {
+          "en": "I can see a litter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到垃圾, 杂乱, 轿, 担架。"
+        }
+      ],
+      "headword": "litter",
+      "lexical_entry_id": "w_litter",
+      "ordinal": 7,
+      "phonetic_uk": "'litə",
+      "phonetic_us": null,
+      "phonics_split": "lit·ter",
+      "senses": [
+        {
+          "gloss": "垃圾, 杂乱, 轿, 担架",
+          "pos": "n."
+        },
+        {
+          "gloss": "乱丢, 铺草, 弄乱",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pig.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猪。"
+        },
+        {
+          "en": "I can see a pig.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猪。"
+        }
+      ],
+      "headword": "pig",
+      "lexical_entry_id": "w_pig",
+      "ordinal": 8,
+      "phonetic_uk": "pig",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猪",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sheep.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的羊, 胆小者。"
+        },
+        {
+          "en": "I can see a sheep.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到羊, 胆小者。"
+        }
+      ],
+      "headword": "sheep",
+      "lexical_entry_id": "w_sheep",
+      "ordinal": 9,
+      "phonetic_uk": "ʃi:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "羊, 胆小者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my stone.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的石头, 宝石, 果核, 纪念碑, 结石。"
+        },
+        {
+          "en": "I can see a stone.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到石头, 宝石, 果核, 纪念碑, 结石。"
+        }
+      ],
+      "headword": "stone",
+      "lexical_entry_id": "w_stone",
+      "ordinal": 10,
+      "phonetic_uk": "stəun",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "石头, 宝石, 果核, 纪念碑, 结石",
+          "pos": "n."
+        },
+        {
+          "gloss": "投扔石子, 铺石头",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can throw.",
+          "origin": "template:t-v-can",
+          "zh": "我会投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱。"
+        },
+        {
+          "en": "Let's throw together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱吧。"
+        }
+      ],
+      "headword": "throw",
+      "lexical_entry_id": "w_throw",
+      "ordinal": 11,
+      "phonetic_uk": "θrəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱",
+          "pos": "vt."
+        },
+        {
+          "gloss": "丢, 掷, 抛",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

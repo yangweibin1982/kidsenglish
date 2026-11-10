@@ -1,0 +1,197 @@
+{
+  "title": "What do you take to school?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I have one apple.",
+          "origin": "curated:u7-one",
+          "zh": "我有一个苹果。"
+        }
+      ],
+      "headword": "one",
+      "lexical_entry_id": "w_one",
+      "ordinal": 1,
+      "phonetic_uk": "wʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil case.",
+          "origin": "curated:g2u8-pencil-case",
+          "zh": "这是我的铅笔盒。"
+        }
+      ],
+      "headword": "pencil case",
+      "lexical_entry_id": "w_pencil_case",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "铅笔盒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have two pears.",
+          "origin": "curated:u7-two",
+          "zh": "我有两个梨。"
+        }
+      ],
+      "headword": "two",
+      "lexical_entry_id": "w_two",
+      "ordinal": 3,
+      "phonetic_uk": "tu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "二",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my eraser.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的擦子。"
+        },
+        {
+          "en": "I can see an eraser.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到擦子。"
+        }
+      ],
+      "headword": "eraser",
+      "lexical_entry_id": "w_eraser",
+      "ordinal": 4,
+      "phonetic_uk": "i'reisə",
+      "phonetic_us": null,
+      "phonics_split": "eras·er",
+      "senses": [
+        {
+          "gloss": "擦子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have three peaches.",
+          "origin": "curated:u7-three",
+          "zh": "我有三个桃子。"
+        }
+      ],
+      "headword": "three",
+      "lexical_entry_id": "w_three",
+      "ordinal": 5,
+      "phonetic_uk": "θri:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "三",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的铅笔。"
+        },
+        {
+          "en": "I can see a pencil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到铅笔。"
+        }
+      ],
+      "headword": "pencil",
+      "lexical_entry_id": "w_pencil",
+      "ordinal": 6,
+      "phonetic_uk": "'pensl",
+      "phonetic_us": null,
+      "phonics_split": "pen·cil",
+      "senses": [
+        {
+          "gloss": "铅笔",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see four chicks.",
+          "origin": "curated:u7-four",
+          "zh": "我看见四只小鸡。"
+        }
+      ],
+      "headword": "four",
+      "lexical_entry_id": "w_four",
+      "ordinal": 7,
+      "phonetic_uk": "fɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "四",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ruler.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的尺子。"
+        },
+        {
+          "en": "I can see a ruler.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到尺子。"
+        }
+      ],
+      "headword": "ruler",
+      "lexical_entry_id": "w_ruler",
+      "ordinal": 8,
+      "phonetic_uk": "'ru:lə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "尺子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

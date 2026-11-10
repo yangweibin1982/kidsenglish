@@ -1,0 +1,369 @@
+{
+  "title": "At home",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very angry.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常生气的, 愤怒。"
+        }
+      ],
+      "headword": "angry",
+      "lexical_entry_id": "w_angry",
+      "ordinal": 1,
+      "phonetic_uk": "'æŋgri",
+      "phonetic_us": null,
+      "phonics_split": "an·gry",
+      "senses": [
+        {
+          "gloss": "生气的, 愤怒的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “beside”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“beside”。"
+        }
+      ],
+      "headword": "beside",
+      "lexical_entry_id": "w_beside",
+      "ordinal": 2,
+      "phonetic_uk": "bi'said",
+      "phonetic_us": null,
+      "phonics_split": "be·side",
+      "senses": [
+        {
+          "gloss": "在旁边",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my box.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的盒子。"
+        },
+        {
+          "en": "I can see a box.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到盒子。"
+        }
+      ],
+      "headword": "box",
+      "lexical_entry_id": "w_box",
+      "ordinal": 3,
+      "phonetic_uk": "bɒks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "盒子、箱子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my floor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的地板, 楼层, 底部, 底价。"
+        },
+        {
+          "en": "I can see a floor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到地板, 楼层, 底部, 底价。"
+        }
+      ],
+      "headword": "floor",
+      "lexical_entry_id": "w_floor",
+      "ordinal": 4,
+      "phonetic_uk": "flɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "地板, 楼层, 底部, 底价",
+          "pos": "n."
+        },
+        {
+          "gloss": "铺地板, 打倒",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Give me the book, please.",
+          "origin": "curated:u2-give",
+          "zh": "请给我这本书。"
+        }
+      ],
+      "headword": "give",
+      "lexical_entry_id": "w_give",
+      "ordinal": 5,
+      "phonetic_uk": "giv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "给",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pencil is in the bag.",
+          "origin": "curated:g2u8-prep-in",
+          "zh": "铅笔在包里。"
+        }
+      ],
+      "headword": "in",
+      "lexical_entry_id": "w_in",
+      "ordinal": 6,
+      "phonetic_uk": "in",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…里",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kitchen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厨房, 全套炊具。"
+        },
+        {
+          "en": "I can see a kitchen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厨房, 全套炊具。"
+        }
+      ],
+      "headword": "kitchen",
+      "lexical_entry_id": "w_kitchen",
+      "ordinal": 7,
+      "phonetic_uk": "'kitʃin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厨房, 全套炊具",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lunch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的午餐。"
+        },
+        {
+          "en": "I can see a lunch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到午餐。"
+        }
+      ],
+      "headword": "lunch",
+      "lexical_entry_id": "w_lunch",
+      "ordinal": 8,
+      "phonetic_uk": "lʌntʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "午餐",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my need.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的需要, 必须, 缺乏。"
+        },
+        {
+          "en": "I can see a need.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到需要, 必须, 缺乏。"
+        }
+      ],
+      "headword": "need",
+      "lexical_entry_id": "w_need",
+      "ordinal": 9,
+      "phonetic_uk": "ni:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "需要, 必须, 缺乏",
+          "pos": "n."
+        },
+        {
+          "gloss": "需要, 必需",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pencil is on the book.",
+          "origin": "curated:u2-prep-on",
+          "zh": "铅笔在书上。"
+        }
+      ],
+      "headword": "on",
+      "lexical_entry_id": "w_on",
+      "ordinal": 10,
+      "phonetic_uk": "ɒn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…上面",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的盘子。"
+        },
+        {
+          "en": "I can see a plate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到盘子。"
+        }
+      ],
+      "headword": "plate",
+      "lexical_entry_id": "w_plate",
+      "ordinal": 11,
+      "phonetic_uk": "pleit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "盘子、碟子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my table.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层。"
+        },
+        {
+          "en": "I can see a table.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层。"
+        }
+      ],
+      "headword": "table",
+      "lexical_entry_id": "w_table",
+      "ordinal": 12,
+      "phonetic_uk": "'teibl",
+      "phonetic_us": null,
+      "phonics_split": "ta·ble",
+      "senses": [
+        {
+          "gloss": "桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层",
+          "pos": "n."
+        },
+        {
+          "gloss": "搁置, 嵌合, 制表, 把...列入议事日程",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “under”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“under”。"
+        }
+      ],
+      "headword": "under",
+      "lexical_entry_id": "w_under",
+      "ordinal": 13,
+      "phonetic_uk": "'ʌndə",
+      "phonetic_us": null,
+      "phonics_split": "un·der",
+      "senses": [
+        {
+          "gloss": "在...之下, 低于",
+          "pos": "prep."
+        },
+        {
+          "gloss": "下面的, 从属的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “where”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“where”。"
+        }
+      ],
+      "headword": "where",
+      "lexical_entry_id": "w_where",
+      "ordinal": 14,
+      "phonetic_uk": "hwɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在哪里",
+          "pos": "adv."
+        },
+        {
+          "gloss": "哪里",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

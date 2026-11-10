@@ -1,0 +1,116 @@
+{
+  "title": "In the playground",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We are in the playground.",
+          "origin": "curated:g2u7-playground",
+          "zh": "我们在游乐场里。"
+        }
+      ],
+      "headword": "playground",
+      "lexical_entry_id": "w_playground",
+      "ordinal": 1,
+      "phonetic_uk": "'pleigraund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "游乐场、操场",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The slide is long.",
+          "origin": "curated:g2u7-slide",
+          "zh": "滑梯很长。"
+        }
+      ],
+      "headword": "slide",
+      "lexical_entry_id": "w_slide",
+      "ordinal": 2,
+      "phonetic_uk": "slaid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "滑梯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The swing is green.",
+          "origin": "curated:g2u7-swing",
+          "zh": "秋千是绿色的。"
+        }
+      ],
+      "headword": "swing",
+      "lexical_entry_id": "w_swing",
+      "ordinal": 3,
+      "phonetic_uk": "swiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "秋千",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at the seesaw!",
+          "origin": "curated:g2u7-seesaw",
+          "zh": "看那个跷跷板！"
+        }
+      ],
+      "headword": "seesaw",
+      "lexical_entry_id": "w_seesaw",
+      "ordinal": 4,
+      "phonetic_uk": "'si:sɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跷跷板",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The nightingale can sing.",
+          "origin": "curated:g2u7-nightingale",
+          "zh": "夜莺会唱歌。"
+        }
+      ],
+      "headword": "nightingale",
+      "lexical_entry_id": "w_nightingale",
+      "ordinal": 5,
+      "phonetic_uk": "'naitingeil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "夜莺",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

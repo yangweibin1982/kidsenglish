@@ -1,0 +1,444 @@
+{
+  "title": "Water",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my clothes.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的衣服。"
+        },
+        {
+          "en": "I can see a clothes.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到衣服。"
+        }
+      ],
+      "headword": "clothes",
+      "lexical_entry_id": "w_clothes",
+      "ordinal": 1,
+      "phonetic_uk": "kləuðz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "衣服",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my drop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的滴, 微量, 落下, 空投。"
+        },
+        {
+          "en": "I can see a drop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到滴, 微量, 落下, 空投。"
+        }
+      ],
+      "headword": "drop",
+      "lexical_entry_id": "w_drop",
+      "ordinal": 2,
+      "phonetic_uk": "drɒp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "滴, 微量, 落下, 空投",
+          "pos": "n."
+        },
+        {
+          "gloss": "放下, 掉下, 下降",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my farmer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的农夫, 农场主。"
+        },
+        {
+          "en": "I can see a farmer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到农夫, 农场主。"
+        }
+      ],
+      "headword": "farmer",
+      "lexical_entry_id": "w_farmer",
+      "ordinal": 3,
+      "phonetic_uk": "'fɑ:mə",
+      "phonetic_us": null,
+      "phonics_split": "far·mer",
+      "senses": [
+        {
+          "gloss": "农夫, 农场主",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ground.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的土地, 战场, 场地, 地面, 范围。"
+        },
+        {
+          "en": "I can see a ground.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到土地, 战场, 场地, 地面, 范围。"
+        }
+      ],
+      "headword": "ground",
+      "lexical_entry_id": "w_ground",
+      "ordinal": 4,
+      "phonetic_uk": "graund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "土地, 战场, 场地, 地面, 范围",
+          "pos": "n."
+        },
+        {
+          "gloss": "土地的, 地面上的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Farmers grow crops in the fields.",
+          "origin": "curated:primary-5a-grow-crops",
+          "zh": "农民在田里种庄稼。"
+        }
+      ],
+      "headword": "grow crops",
+      "lexical_entry_id": "w_grow_crops",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种庄稼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my inside.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的内部, 内脏, 内幕。"
+        },
+        {
+          "en": "I can see an inside.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到内部, 内脏, 内幕。"
+        }
+      ],
+      "headword": "inside",
+      "lexical_entry_id": "w_inside",
+      "ordinal": 6,
+      "phonetic_uk": "'in'said",
+      "phonetic_us": null,
+      "phonics_split": "in·side",
+      "senses": [
+        {
+          "gloss": "内部, 内脏, 内幕",
+          "pos": "n."
+        },
+        {
+          "gloss": "内部的, 秘密的, 户内的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mountain.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的山, 山脉, 大堆。"
+        },
+        {
+          "en": "I can see a mountain.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到山, 山脉, 大堆。"
+        }
+      ],
+      "headword": "mountain",
+      "lexical_entry_id": "w_mountain",
+      "ordinal": 7,
+      "phonetic_uk": "'mauntin",
+      "phonetic_us": null,
+      "phonics_split": "moun·tain",
+      "senses": [
+        {
+          "gloss": "山, 山脉, 大堆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “over”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“over”。"
+        }
+      ],
+      "headword": "over",
+      "lexical_entry_id": "w_over",
+      "ordinal": 8,
+      "phonetic_uk": "'əuvə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "结束, 越过, 从头到尾",
+          "pos": "adv."
+        },
+        {
+          "gloss": "在...之上, 遍于...之上, 越过",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Firemen put out fires.",
+          "origin": "curated:primary-5a-put-out-fires",
+          "zh": "消防员灭火。"
+        }
+      ],
+      "headword": "put out fires",
+      "lexical_entry_id": "w_put_out_fires",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "灭火",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的光泽, 阳光。"
+        },
+        {
+          "en": "I can see a shine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到光泽, 阳光。"
+        }
+      ],
+      "headword": "shine",
+      "lexical_entry_id": "w_shine",
+      "ordinal": 10,
+      "phonetic_uk": "ʃain",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "光泽, 阳光",
+          "pos": "n."
+        },
+        {
+          "gloss": "使发光",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tap.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的轻打, 水龙头。"
+        },
+        {
+          "en": "I can see a tap.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到轻打, 水龙头。"
+        }
+      ],
+      "headword": "tap",
+      "lexical_entry_id": "w_tap",
+      "ordinal": 11,
+      "phonetic_uk": "'tæp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "轻打, 水龙头",
+          "pos": "n."
+        },
+        {
+          "gloss": "轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The tree is tall.",
+          "origin": "curated:g2u12-tree",
+          "zh": "树很高。"
+        }
+      ],
+      "headword": "tree",
+      "lexical_entry_id": "w_tree",
+      "ordinal": 12,
+      "phonetic_uk": "tri:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "树",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very up.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常向上的, 起床的, 涨。"
+        }
+      ],
+      "headword": "up",
+      "lexical_entry_id": "w_up",
+      "ordinal": 13,
+      "phonetic_uk": "ʌp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "向上的, 起床的, 涨的",
+          "pos": "a."
+        },
+        {
+          "gloss": "向上, 上涨",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my use.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的使用, 习惯, 使用价值, 用法, 使用权。"
+        },
+        {
+          "en": "I can see an use.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到使用, 习惯, 使用价值, 用法, 使用权。"
+        }
+      ],
+      "headword": "use",
+      "lexical_entry_id": "w_use",
+      "ordinal": 14,
+      "phonetic_uk": "ju:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使用, 习惯, 使用价值, 用法, 使用权",
+          "pos": "n."
+        },
+        {
+          "gloss": "使用, 利用, 运用, 耗费",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very useful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有用的, 有益。"
+        }
+      ],
+      "headword": "useful",
+      "lexical_entry_id": "w_useful",
+      "ordinal": 15,
+      "phonetic_uk": "'ju:sful",
+      "phonetic_us": null,
+      "phonics_split": "use·ful",
+      "senses": [
+        {
+          "gloss": "有用的, 有益的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my vegetable.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蔬菜, 植物, 无精打采之人。"
+        },
+        {
+          "en": "I can see a vegetable.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蔬菜, 植物, 无精打采之人。"
+        }
+      ],
+      "headword": "vegetable",
+      "lexical_entry_id": "w_vegetable",
+      "ordinal": 16,
+      "phonetic_uk": "'vedʒətəbl",
+      "phonetic_us": null,
+      "phonics_split": "veg·etable",
+      "senses": [
+        {
+          "gloss": "蔬菜, 植物, 无精打采之人",
+          "pos": "n."
+        },
+        {
+          "gloss": "蔬菜的, 植物的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

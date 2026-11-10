@@ -1,0 +1,485 @@
+{
+  "title": "Friends",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my answer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的答案, 回答, 回报, 答辩。"
+        },
+        {
+          "en": "I can see an answer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到答案, 回答, 回报, 答辩。"
+        }
+      ],
+      "headword": "answer",
+      "lexical_entry_id": "w_answer",
+      "ordinal": 1,
+      "phonetic_uk": "'ɑ:nsə",
+      "phonetic_us": null,
+      "phonics_split": "an·swer",
+      "senses": [
+        {
+          "gloss": "答案, 回答, 回报, 答辩",
+          "pos": "n."
+        },
+        {
+          "gloss": "回答, 反驳, 适应, 响应, 符合",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can ask.",
+          "origin": "template:t-v-can",
+          "zh": "我会问, 要求。"
+        },
+        {
+          "en": "Let's ask together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起问, 要求吧。"
+        }
+      ],
+      "headword": "ask",
+      "lexical_entry_id": "w_ask",
+      "ordinal": 2,
+      "phonetic_uk": "ɑ:sk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "问, 要求",
+          "pos": "vi."
+        },
+        {
+          "gloss": "问, 要求, 邀请, 需要",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bored.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常无聊的；烦人的；无趣。"
+        }
+      ],
+      "headword": "bored",
+      "lexical_entry_id": "w_bored",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "无聊的；烦人的；无趣的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very both.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常两者。"
+        }
+      ],
+      "headword": "both",
+      "lexical_entry_id": "w_both",
+      "ordinal": 4,
+      "phonetic_uk": "bəuθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "两者的",
+          "pos": "a."
+        },
+        {
+          "gloss": "两者都",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my carry.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的进位, 射程, 运载。"
+        },
+        {
+          "en": "I can see a carry.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到进位, 射程, 运载。"
+        }
+      ],
+      "headword": "carry",
+      "lexical_entry_id": "w_carry",
+      "ordinal": 5,
+      "phonetic_uk": "'kæri",
+      "phonetic_us": null,
+      "phonics_split": "car·ry",
+      "senses": [
+        {
+          "gloss": "进位, 射程, 运载",
+          "pos": "n."
+        },
+        {
+          "gloss": "携带, 运送, 支持, 传送, 包含",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my class.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的班级, 阶级, 种类, 课。"
+        },
+        {
+          "en": "I can see a class.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到班级, 阶级, 种类, 课。"
+        }
+      ],
+      "headword": "class",
+      "lexical_entry_id": "w_class",
+      "ordinal": 6,
+      "phonetic_uk": "klɑ:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "班级, 阶级, 种类, 课",
+          "pos": "n."
+        },
+        {
+          "gloss": "分类",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very clever.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常聪明的, 精明。"
+        }
+      ],
+      "headword": "clever",
+      "lexical_entry_id": "w_clever",
+      "ordinal": 7,
+      "phonetic_uk": "'klevə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "聪明的, 精明的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cross.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交。"
+        },
+        {
+          "en": "I can see a cross.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交。"
+        }
+      ],
+      "headword": "cross",
+      "lexical_entry_id": "w_cross",
+      "ordinal": 8,
+      "phonetic_uk": "krɒs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "十字架, 十字架形物件, 交叉, 十字标, 交叉路, 磨难, 杂交",
+          "pos": "n."
+        },
+        {
+          "gloss": "生气的, 交叉的, 相反的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very different.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不同。"
+        }
+      ],
+      "headword": "different",
+      "lexical_entry_id": "w_different",
+      "ordinal": 9,
+      "phonetic_uk": "'difərənt",
+      "phonetic_us": null,
+      "phonics_split": "dif·fer·ent",
+      "senses": [
+        {
+          "gloss": "不同的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “each other”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“each other”。"
+        }
+      ],
+      "headword": "each other",
+      "lexical_entry_id": "w_each_other",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "彼此",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very easy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软。"
+        }
+      ],
+      "headword": "easy",
+      "lexical_entry_id": "w_easy",
+      "ordinal": 11,
+      "phonetic_uk": "'i:zi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的",
+          "pos": "a."
+        },
+        {
+          "gloss": "容易地, 慢慢地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very heavy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常重的, 巨大的, 沉重的, 笨重的, 过度。"
+        }
+      ],
+      "headword": "heavy",
+      "lexical_entry_id": "w_heavy",
+      "ordinal": 12,
+      "phonetic_uk": "'hevi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "重的, 巨大的, 沉重的, 笨重的, 过度的",
+          "pos": "a."
+        },
+        {
+          "gloss": "沉重地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Grandma makes phone calls to her friends.",
+          "origin": "curated:primary-5a-phone-calls",
+          "zh": "奶奶给她的朋友们打电话。"
+        }
+      ],
+      "headword": "make phone calls",
+      "lexical_entry_id": "w_make_phone_calls",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "打电话",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very same.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常相同的, 同样。"
+        }
+      ],
+      "headword": "same",
+      "lexical_entry_id": "w_same",
+      "ordinal": 14,
+      "phonetic_uk": "seim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "相同的, 同样的",
+          "pos": "a."
+        },
+        {
+          "gloss": "相同的人(或事物)",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say.",
+          "origin": "template:t-v-can",
+          "zh": "我会说, 讲, 念, 说明, 指明。"
+        },
+        {
+          "en": "Let's say together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起说, 讲, 念, 说明, 指明吧。"
+        }
+      ],
+      "headword": "say",
+      "lexical_entry_id": "w_say",
+      "ordinal": 15,
+      "phonetic_uk": "sei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "说, 讲, 念, 说明, 指明",
+          "pos": "vt."
+        },
+        {
+          "gloss": "说, 讲",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “soon”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“soon”。"
+        }
+      ],
+      "headword": "soon",
+      "lexical_entry_id": "w_soon",
+      "ordinal": 16,
+      "phonetic_uk": "su:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不久, 早, 快, 宁可",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “then”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“then”。"
+        }
+      ],
+      "headword": "then",
+      "lexical_entry_id": "w_then",
+      "ordinal": 17,
+      "phonetic_uk": "ðen",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "然后, 当时",
+          "pos": "adv."
+        },
+        {
+          "gloss": "然后, 当时",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my word.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的话, 消息, 词, 诺言, 命令。"
+        },
+        {
+          "en": "I can see a word.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到话, 消息, 词, 诺言, 命令。"
+        }
+      ],
+      "headword": "word",
+      "lexical_entry_id": "w_word",
+      "ordinal": 18,
+      "phonetic_uk": "wə:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "话, 消息, 词, 诺言, 命令",
+          "pos": "n."
+        },
+        {
+          "gloss": "用言辞表达",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

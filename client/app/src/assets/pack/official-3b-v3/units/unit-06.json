@@ -1,0 +1,334 @@
+{
+  "title": "Food and drinks",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my biscuit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的饼干。"
+        },
+        {
+          "en": "I can see a biscuit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到饼干。"
+        }
+      ],
+      "headword": "biscuit",
+      "lexical_entry_id": "w_biscuit",
+      "ordinal": 1,
+      "phonetic_uk": "'biskit",
+      "phonetic_us": null,
+      "phonics_split": "bis·cuit",
+      "senses": [
+        {
+          "gloss": "饼干",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bread.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面包, 生计, 食物。"
+        },
+        {
+          "en": "I can see a bread.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面包, 生计, 食物。"
+        }
+      ],
+      "headword": "bread",
+      "lexical_entry_id": "w_bread",
+      "ordinal": 2,
+      "phonetic_uk": "bred",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "面包, 生计, 食物",
+          "pos": "n."
+        },
+        {
+          "gloss": "裹以面包屑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my breakfast.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的早餐。"
+        },
+        {
+          "en": "I can see a breakfast.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到早餐。"
+        }
+      ],
+      "headword": "breakfast",
+      "lexical_entry_id": "w_breakfast",
+      "ordinal": 3,
+      "phonetic_uk": "'brekfəst",
+      "phonetic_us": null,
+      "phonics_split": "break·fast",
+      "senses": [
+        {
+          "gloss": "早餐",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my child.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的孩子, 产物, 追随者。"
+        },
+        {
+          "en": "I can see a child.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到孩子, 产物, 追随者。"
+        }
+      ],
+      "headword": "child",
+      "lexical_entry_id": "w_child",
+      "ordinal": 4,
+      "phonetic_uk": "tʃaild",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "孩子, 产物, 追随者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my egg.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蛋, 卵。"
+        },
+        {
+          "en": "I can see an egg.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蛋, 卵。"
+        }
+      ],
+      "headword": "egg",
+      "lexical_entry_id": "w_egg",
+      "ordinal": 5,
+      "phonetic_uk": "eg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛋, 卵",
+          "pos": "n."
+        },
+        {
+          "gloss": "挑唆, 煽动, 调蛋黄",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a pie.",
+          "origin": "curated:u9-have",
+          "zh": "我有一个馅饼。"
+        }
+      ],
+      "headword": "have",
+      "lexical_entry_id": "w_have",
+      "ordinal": 6,
+      "phonetic_uk": "hæv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my juice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的汁, 活力, 体液。"
+        },
+        {
+          "en": "I can see a juice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到汁, 活力, 体液。"
+        }
+      ],
+      "headword": "juice",
+      "lexical_entry_id": "w_juice",
+      "ordinal": 7,
+      "phonetic_uk": "dʒu:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "汁, 活力, 体液",
+          "pos": "n."
+        },
+        {
+          "gloss": "挤出汁来, 加汁",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my milk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奶, 乳状物。"
+        },
+        {
+          "en": "I can see a milk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奶, 乳状物。"
+        }
+      ],
+      "headword": "milk",
+      "lexical_entry_id": "w_milk",
+      "ordinal": 8,
+      "phonetic_uk": "milk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奶, 乳状物",
+          "pos": "n."
+        },
+        {
+          "gloss": "挤乳, 榨取",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have some apples.",
+          "origin": "curated:p-pron-some",
+          "zh": "我有一些苹果。"
+        }
+      ],
+      "headword": "some",
+      "lexical_entry_id": "w_some",
+      "ordinal": 9,
+      "phonetic_uk": "sʌm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一些, 一部分, 若干",
+          "pos": "pron."
+        },
+        {
+          "gloss": "大约",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “too”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“too”。"
+        }
+      ],
+      "headword": "too",
+      "lexical_entry_id": "w_too",
+      "ordinal": 10,
+      "phonetic_uk": "tu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "也, 非常, 太",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my water.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的水, 雨水, 海水, 水位, 水面, 流水。"
+        },
+        {
+          "en": "I can see a water.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到水, 雨水, 海水, 水位, 水面, 流水。"
+        }
+      ],
+      "headword": "water",
+      "lexical_entry_id": "w_water",
+      "ordinal": 11,
+      "phonetic_uk": "'wɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "wa·ter",
+      "senses": [
+        {
+          "gloss": "水, 雨水, 海水, 水位, 水面, 流水",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...浇水, 供以水, 注入水, 使湿",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are good friends.",
+          "origin": "curated:p-pron-we",
+          "zh": "我们是好朋友。"
+        }
+      ],
+      "headword": "we",
+      "lexical_entry_id": "w_we",
+      "ordinal": 12,
+      "phonetic_uk": "wi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

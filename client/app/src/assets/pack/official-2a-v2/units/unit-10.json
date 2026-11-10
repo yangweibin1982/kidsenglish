@@ -1,0 +1,160 @@
+{
+  "title": "In the sky",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The sky is blue.",
+          "origin": "curated:g2u10-sky",
+          "zh": "天空是蓝色的。"
+        }
+      ],
+      "headword": "sky",
+      "lexical_entry_id": "w_sky",
+      "ordinal": 1,
+      "phonetic_uk": "skai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "天空",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The moon is bright.",
+          "origin": "curated:g2u10-moon",
+          "zh": "月亮很亮。"
+        }
+      ],
+      "headword": "moon",
+      "lexical_entry_id": "w_moon",
+      "ordinal": 2,
+      "phonetic_uk": "mu:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "月亮、月球",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bright.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常明亮。"
+        }
+      ],
+      "headword": "bright",
+      "lexical_entry_id": "w_bright",
+      "ordinal": 3,
+      "phonetic_uk": "brait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "明亮的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The sun is big.",
+          "origin": "curated:g2u10-sun",
+          "zh": "太阳很大。"
+        }
+      ],
+      "headword": "sun",
+      "lexical_entry_id": "w_sun",
+      "ordinal": 4,
+      "phonetic_uk": "sʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "太阳",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can see a star.",
+          "origin": "curated:g2u10-star",
+          "zh": "我看见一颗星星。"
+        }
+      ],
+      "headword": "star",
+      "lexical_entry_id": "w_star",
+      "ordinal": 5,
+      "phonetic_uk": "stɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "星星",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The snake is long.",
+          "origin": "curated:g2u10-snake",
+          "zh": "蛇很长。"
+        }
+      ],
+      "headword": "snake",
+      "lexical_entry_id": "w_snake",
+      "ordinal": 6,
+      "phonetic_uk": "sneik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛇",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The lion is the king.",
+          "origin": "curated:g2u10-king",
+          "zh": "狮子是国王。"
+        }
+      ],
+      "headword": "king",
+      "lexical_entry_id": "w_king",
+      "ordinal": 7,
+      "phonetic_uk": "kiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "国王",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

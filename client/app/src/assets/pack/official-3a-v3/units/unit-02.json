@@ -1,0 +1,197 @@
+{
+  "title": "How are you?",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “are”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“are”。"
+        }
+      ],
+      "headword": "are",
+      "lexical_entry_id": "w_are",
+      "ordinal": 1,
+      "phonetic_uk": "ɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "be的现在时复数或第二人称单数",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的罚款, 罚金, 晴天, 精细。"
+        },
+        {
+          "en": "I can see a fine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到罚款, 罚金, 晴天, 精细。"
+        }
+      ],
+      "headword": "fine",
+      "lexical_entry_id": "w_fine",
+      "ordinal": 2,
+      "phonetic_uk": "fain",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "罚款, 罚金, 晴天, 精细",
+          "pos": "n."
+        },
+        {
+          "gloss": "好的, 晴朗的, 健康的, 细小的, 精细的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Goodbye, Miss Li! See you tomorrow.",
+          "origin": "curated:u1-farewell",
+          "zh": "再见，李老师！明天见。"
+        }
+      ],
+      "headword": "goodbye",
+      "lexical_entry_id": "w_goodbye",
+      "ordinal": 3,
+      "phonetic_uk": "gud'bai",
+      "phonetic_us": null,
+      "phonics_split": "good·bye",
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "再见",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Hi! I'm Amy.",
+          "origin": "curated:u1-greet-casual",
+          "zh": "嗨！我是埃米。"
+        }
+      ],
+      "headword": "hi",
+      "lexical_entry_id": "w_hi",
+      "ordinal": 4,
+      "phonetic_uk": "hai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "👋",
+          "gloss": "嗨",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “Mr”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“Mr”。"
+        }
+      ],
+      "headword": "Mr",
+      "lexical_entry_id": "w_mr",
+      "ordinal": 5,
+      "phonetic_uk": "'mistə(r)",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "先生",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “Mrs”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“Mrs”。"
+        }
+      ],
+      "headword": "Mrs",
+      "lexical_entry_id": "w_mrs",
+      "ordinal": 6,
+      "phonetic_uk": "'misiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "太太",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Thank you!",
+          "origin": "curated:u2-thank",
+          "zh": "谢谢你！"
+        }
+      ],
+      "headword": "thank",
+      "lexical_entry_id": "w_thank",
+      "ordinal": 7,
+      "phonetic_uk": "θæŋk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "谢谢",
+          "pos": "vt."
+        },
+        {
+          "gloss": "感谢",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "How are you?",
+          "origin": "curated:u2-pron-you",
+          "zh": "你好吗？"
+        }
+      ],
+      "headword": "you",
+      "lexical_entry_id": "w_you",
+      "ordinal": 8,
+      "phonetic_uk": "ju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你、你们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

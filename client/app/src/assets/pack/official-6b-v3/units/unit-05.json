@@ -1,0 +1,404 @@
+{
+  "title": "Crafts",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my craft.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的技艺, 手艺, 诡计。"
+        },
+        {
+          "en": "I can see a craft.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到技艺, 手艺, 诡计。"
+        }
+      ],
+      "headword": "craft",
+      "lexical_entry_id": "w_craft",
+      "ordinal": 1,
+      "phonetic_uk": "kræft",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "技艺, 手艺, 诡计",
+          "pos": "n."
+        },
+        {
+          "gloss": "精心制作",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my crown.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的王冠, 王权, 顶点。"
+        },
+        {
+          "en": "I can see a crown.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到王冠, 王权, 顶点。"
+        }
+      ],
+      "headword": "crown",
+      "lexical_entry_id": "w_crown",
+      "ordinal": 2,
+      "phonetic_uk": "kraun",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "王冠, 王权, 顶点",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成王, 加冕, 居...之顶",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “scissors”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“scissors”。"
+        }
+      ],
+      "headword": "scissors",
+      "lexical_entry_id": "w_scissors",
+      "ordinal": 3,
+      "phonetic_uk": "'sizəz",
+      "phonetic_us": null,
+      "phonics_split": "scis·sors",
+      "senses": [
+        {
+          "gloss": "剪刀",
+          "pos": "pl."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tape.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的带子, 录音带, 磁带, 窄带, 卷尺。"
+        },
+        {
+          "en": "I can see a tape.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到带子, 录音带, 磁带, 窄带, 卷尺。"
+        }
+      ],
+      "headword": "tape",
+      "lexical_entry_id": "w_tape",
+      "ordinal": 4,
+      "phonetic_uk": "teip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "带子, 录音带, 磁带, 窄带, 卷尺",
+          "pos": "n."
+        },
+        {
+          "gloss": "以带子绑起, 测量, 录音",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my glue.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胶, 粘性物。"
+        },
+        {
+          "en": "I can see a glue.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胶, 粘性物。"
+        }
+      ],
+      "headword": "glue",
+      "lexical_entry_id": "w_glue",
+      "ordinal": 5,
+      "phonetic_uk": "glu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "胶, 粘性物",
+          "pos": "n."
+        },
+        {
+          "gloss": "粘合, 胶合",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my saw.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的锯子, 谚语。"
+        },
+        {
+          "en": "I can see a saw.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到锯子, 谚语。"
+        }
+      ],
+      "headword": "saw",
+      "lexical_entry_id": "w_saw",
+      "ordinal": 6,
+      "phonetic_uk": "sɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "锯子, 谚语",
+          "pos": "n."
+        },
+        {
+          "gloss": "锯, 锯开, 来回移动",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my craftsman.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工匠, 技工, 手艺人。"
+        },
+        {
+          "en": "I can see a craftsman.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工匠, 技工, 手艺人。"
+        }
+      ],
+      "headword": "craftsman",
+      "lexical_entry_id": "w_craftsman",
+      "ordinal": 7,
+      "phonetic_uk": "'kræftsmən",
+      "phonetic_us": null,
+      "phonics_split": "crafts·man",
+      "senses": [
+        {
+          "gloss": "工匠, 技工, 手艺人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tool.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工具, 机床, 傀儡。"
+        },
+        {
+          "en": "I can see a tool.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工具, 机床, 傀儡。"
+        }
+      ],
+      "headword": "tool",
+      "lexical_entry_id": "w_tool",
+      "ordinal": 8,
+      "phonetic_uk": "tu:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工具, 机床, 傀儡",
+          "pos": "n."
+        },
+        {
+          "gloss": "用工具加工",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “easily”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“easily”。"
+        }
+      ],
+      "headword": "easily",
+      "lexical_entry_id": "w_easily",
+      "ordinal": 9,
+      "phonetic_uk": "'i:zili",
+      "phonetic_us": null,
+      "phonics_split": "eas·i·ly",
+      "senses": [
+        {
+          "gloss": "容易地, 轻易地, 流利地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He can dress himself.",
+          "origin": "curated:p-pron-himself",
+          "zh": "他能自己穿衣服。"
+        }
+      ],
+      "headword": "himself",
+      "lexical_entry_id": "w_himself",
+      "ordinal": 10,
+      "phonetic_uk": "him'self",
+      "phonetic_us": null,
+      "phonics_split": "him·self",
+      "senses": [
+        {
+          "gloss": "他自己, 他亲自",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my still.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蒸馏室, 寂静, 剧照。"
+        },
+        {
+          "en": "I can see a still.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蒸馏室, 寂静, 剧照。"
+        }
+      ],
+      "headword": "still",
+      "lexical_entry_id": "w_still",
+      "ordinal": 11,
+      "phonetic_uk": "stil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蒸馏室, 寂静, 剧照",
+          "pos": "n."
+        },
+        {
+          "gloss": "蒸馏, (使)平静, (使)静止",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is a model house.",
+          "origin": "curated:g6b-u3-model-house",
+          "zh": "这是一个模型房子。"
+        }
+      ],
+      "headword": "model house",
+      "lexical_entry_id": "w_model_house",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "模型房子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a long time ago”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a long time ago”。"
+        }
+      ],
+      "headword": "a long time ago",
+      "lexical_entry_id": "w_a_long_time_ago",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "很久以前",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “at work”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at work”。"
+        }
+      ],
+      "headword": "at work",
+      "lexical_entry_id": "w_at_work",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在工作, 在运转",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “say to oneself”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“say to oneself”。"
+        }
+      ],
+      "headword": "say to oneself",
+      "lexical_entry_id": "w_say_to_oneself",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "心里想到",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

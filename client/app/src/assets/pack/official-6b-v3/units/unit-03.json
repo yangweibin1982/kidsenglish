@@ -1,0 +1,285 @@
+{
+  "title": "Our school in the future",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my carry.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的进位, 射程, 运载。"
+        },
+        {
+          "en": "I can see a carry.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到进位, 射程, 运载。"
+        }
+      ],
+      "headword": "carry",
+      "lexical_entry_id": "w_carry",
+      "ordinal": 1,
+      "phonetic_uk": "'kæri",
+      "phonetic_us": null,
+      "phonics_split": "car·ry",
+      "senses": [
+        {
+          "gloss": "进位, 射程, 运载",
+          "pos": "n."
+        },
+        {
+          "gloss": "携带, 运送, 支持, 传送, 包含",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I read books online.",
+          "origin": "curated:g6b-u2-online",
+          "zh": "我在网上读书。"
+        }
+      ],
+      "headword": "online",
+      "lexical_entry_id": "w_online",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "on·line",
+      "senses": [
+        {
+          "gloss": "在线的",
+          "pos": "adj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my head teacher.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的校长; 班主任。"
+        },
+        {
+          "en": "I can see a head teacher.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到校长; 班主任。"
+        }
+      ],
+      "headword": "head teacher",
+      "lexical_entry_id": "w_head_teacher",
+      "ordinal": 3,
+      "phonetic_uk": "hed ˈti:tʃə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "校长; 班主任",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “PS”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“PS”。"
+        }
+      ],
+      "headword": "PS",
+      "lexical_entry_id": "w_ps",
+      "ordinal": 4,
+      "phonetic_uk": "pi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "便士",
+          "pos": null
+        }
+      ],
+      "used_lemma": "p"
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mountain.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的山, 山脉, 大堆。"
+        },
+        {
+          "en": "I can see a mountain.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到山, 山脉, 大堆。"
+        }
+      ],
+      "headword": "mountain",
+      "lexical_entry_id": "w_mountain",
+      "ordinal": 5,
+      "phonetic_uk": "'mauntin",
+      "phonetic_us": null,
+      "phonics_split": "moun·tain",
+      "senses": [
+        {
+          "gloss": "山, 山脉, 大堆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very even.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好。"
+        }
+      ],
+      "headword": "even",
+      "lexical_entry_id": "w_even",
+      "ordinal": 6,
+      "phonetic_uk": "'i:vən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使平坦, 使相等",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my space.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅。"
+        },
+        {
+          "en": "I can see a space.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅。"
+        }
+      ],
+      "headword": "space",
+      "lexical_entry_id": "w_space",
+      "ordinal": 7,
+      "phonetic_uk": "speis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅",
+          "pos": "n."
+        },
+        {
+          "gloss": "隔开, 分隔",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dinosaur.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的恐龙。"
+        },
+        {
+          "en": "I can see a dinosaur.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到恐龙。"
+        }
+      ],
+      "headword": "dinosaur",
+      "lexical_entry_id": "w_dinosaur",
+      "ordinal": 8,
+      "phonetic_uk": "'dainəsɔː",
+      "phonetic_us": null,
+      "phonics_split": "di·nosaur",
+      "senses": [
+        {
+          "gloss": "恐龙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a piece of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a piece of”。"
+        }
+      ],
+      "headword": "a piece of",
+      "lexical_entry_id": "w_a_piece_of",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一块..., 一片...",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have a picnic”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have a picnic”。"
+        }
+      ],
+      "headword": "have a picnic",
+      "lexical_entry_id": "w_have_a_picnic",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吃野餐,去野餐",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “better and better”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“better and better”。"
+        }
+      ],
+      "headword": "better and better",
+      "lexical_entry_id": "w_better_and_better",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "越来越好",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "title": "Great inventions",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my invention.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的发明, 创作能力, 虚构的故事。"
+        },
+        {
+          "en": "I can see an invention.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到发明, 创作能力, 虚构的故事。"
+        }
+      ],
+      "headword": "invention",
+      "lexical_entry_id": "w_invention",
+      "ordinal": 1,
+      "phonetic_uk": "in'venʃən",
+      "phonetic_us": null,
+      "phonics_split": "in·ven·tion",
+      "senses": [
+        {
+          "gloss": "发明, 创作能力, 虚构的故事",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my watch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的观察, 手表, 看守, 守护, 监视, 值班人。"
+        },
+        {
+          "en": "I can see a watch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到观察, 手表, 看守, 守护, 监视, 值班人。"
+        }
+      ],
+      "headword": "watch",
+      "lexical_entry_id": "w_watch",
+      "ordinal": 2,
+      "phonetic_uk": "wɒtʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "观察, 手表, 看守, 守护, 监视, 值班人",
+          "pos": "n."
+        },
+        {
+          "gloss": "看, 注视, 照顾, 看守, 守护, 监视",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “anywhere”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“anywhere”。"
+        }
+      ],
+      "headword": "anywhere",
+      "lexical_entry_id": "w_anywhere",
+      "ordinal": 3,
+      "phonetic_uk": "'enihwɛə",
+      "phonetic_us": null,
+      "phonics_split": "any·where",
+      "senses": [
+        {
+          "gloss": "无论何处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my travel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的旅行, 游历, 行进。"
+        },
+        {
+          "en": "I can see a travel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到旅行, 游历, 行进。"
+        }
+      ],
+      "headword": "travel",
+      "lexical_entry_id": "w_travel",
+      "ordinal": 4,
+      "phonetic_uk": "'trævl",
+      "phonetic_us": null,
+      "phonics_split": "trav·el",
+      "senses": [
+        {
+          "gloss": "旅行, 游历, 行进",
+          "pos": "n."
+        },
+        {
+          "gloss": "旅行, 行进, 移动, 被传播",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can invent.",
+          "origin": "template:t-v-can",
+          "zh": "我会发明, 创作, 虚构。"
+        },
+        {
+          "en": "Let's invent together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起发明, 创作, 虚构吧。"
+        }
+      ],
+      "headword": "invent",
+      "lexical_entry_id": "w_invent",
+      "ordinal": 5,
+      "phonetic_uk": "in'vent",
+      "phonetic_us": null,
+      "phonics_split": "in·vent",
+      "senses": [
+        {
+          "gloss": "发明, 创作, 虚构",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "There is something in the box.",
+          "origin": "curated:p-pron-something",
+          "zh": "盒子里有东西。"
+        }
+      ],
+      "headword": "something",
+      "lexical_entry_id": "w_something",
+      "ordinal": 6,
+      "phonetic_uk": "'sʌmθiŋ",
+      "phonetic_us": null,
+      "phonics_split": "some·thing",
+      "senses": [
+        {
+          "gloss": "某事, 某物",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can do it myself.",
+          "origin": "curated:p-pron-myself",
+          "zh": "我自己能做这件事。"
+        }
+      ],
+      "headword": "myself",
+      "lexical_entry_id": "w_myself",
+      "ordinal": 7,
+      "phonetic_uk": "mai'self",
+      "phonetic_us": null,
+      "phonics_split": "my·self",
+      "senses": [
+        {
+          "gloss": "我自己, 我亲自, 我独自",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my camera.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的照相机, 摄影机, 密谈室, 暗箱。"
+        },
+        {
+          "en": "I can see a camera.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到照相机, 摄影机, 密谈室, 暗箱。"
+        }
+      ],
+      "headword": "camera",
+      "lexical_entry_id": "w_camera",
+      "ordinal": 8,
+      "phonetic_uk": "'kæmərə",
+      "phonetic_us": null,
+      "phonics_split": "cam·era",
+      "senses": [
+        {
+          "gloss": "照相机, 摄影机, 密谈室, 暗箱",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My home is far away from school.",
+          "origin": "curated:g5b-u10-far-away",
+          "zh": "我家离学校很远。"
+        }
+      ],
+      "headword": "far away from",
+      "lexical_entry_id": "w_far_away_from",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "远离",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

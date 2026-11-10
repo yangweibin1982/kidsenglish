@@ -1,0 +1,380 @@
+{
+  "title": "Healthy or unhealthy?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “a little”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a little”。"
+        }
+      ],
+      "headword": "a little",
+      "lexical_entry_id": "w_a_little",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一些, 一点点, 一点儿, 稍微, 些许",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chicken.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小鸡, 鸡肉。"
+        },
+        {
+          "en": "I can see a chicken.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小鸡, 鸡肉。"
+        }
+      ],
+      "headword": "chicken",
+      "lexical_entry_id": "w_chicken",
+      "ordinal": 2,
+      "phonetic_uk": "'tʃikin",
+      "phonetic_us": null,
+      "phonics_split": "chick·en",
+      "senses": [
+        {
+          "gloss": "小鸡, 鸡肉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chocolate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的巧克力。"
+        },
+        {
+          "en": "I can see a chocolate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到巧克力。"
+        }
+      ],
+      "headword": "chocolate",
+      "lexical_entry_id": "w_chocolate",
+      "ordinal": 3,
+      "phonetic_uk": "'tʃɒkəlit",
+      "phonetic_us": null,
+      "phonics_split": "choco·late",
+      "senses": [
+        {
+          "gloss": "巧克力",
+          "pos": "n."
+        },
+        {
+          "gloss": "巧克力制的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “cola”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“cola”。"
+        }
+      ],
+      "headword": "cola",
+      "lexical_entry_id": "w_cola",
+      "ordinal": 4,
+      "phonetic_uk": "'kəulə",
+      "phonetic_us": null,
+      "phonics_split": "co·la",
+      "senses": [
+        {
+          "gloss": "结肠, 冒号, 科朗",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fish and chips.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的炸鱼。"
+        },
+        {
+          "en": "I can see a fish and chips.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到炸鱼。"
+        }
+      ],
+      "headword": "fish and chips",
+      "lexical_entry_id": "w_fish_and_chips",
+      "ordinal": 5,
+      "phonetic_uk": "fiʃ ænd tʃips",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "炸鱼，加炸土豆片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fruit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的水果, 果类, 结果。"
+        },
+        {
+          "en": "I can see a fruit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到水果, 果类, 结果。"
+        }
+      ],
+      "headword": "fruit",
+      "lexical_entry_id": "w_fruit",
+      "ordinal": 6,
+      "phonetic_uk": "fru:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "水果, 果类, 结果",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hamburger.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的汉堡包。"
+        },
+        {
+          "en": "I can see a hamburger.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到汉堡包。"
+        }
+      ],
+      "headword": "hamburger",
+      "lexical_entry_id": "w_hamburger",
+      "ordinal": 7,
+      "phonetic_uk": "'hæmbə:gə",
+      "phonetic_us": null,
+      "phonics_split": "ham·burg·er",
+      "senses": [
+        {
+          "gloss": "汉堡包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very healthy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常健康的, 有益健康的, 卫生。"
+        }
+      ],
+      "headword": "healthy",
+      "lexical_entry_id": "w_healthy",
+      "ordinal": 8,
+      "phonetic_uk": "'helθi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "健康的, 有益健康的, 卫生的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pie.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的馅饼。"
+        },
+        {
+          "en": "I can see a pie.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到馅饼。"
+        }
+      ],
+      "headword": "pie",
+      "lexical_entry_id": "w_pie",
+      "ordinal": 9,
+      "phonetic_uk": "pai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "馅饼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pizza.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比萨饼。"
+        },
+        {
+          "en": "I can see a pizza.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比萨饼。"
+        }
+      ],
+      "headword": "pizza",
+      "lexical_entry_id": "w_pizza",
+      "ordinal": 10,
+      "phonetic_uk": "'pi:tsə",
+      "phonetic_us": null,
+      "phonics_split": "piz·za",
+      "senses": [
+        {
+          "gloss": "比萨饼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sandwich.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的三明治, 夹心面包, 夹层板。"
+        },
+        {
+          "en": "I can see a sandwich.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到三明治, 夹心面包, 夹层板。"
+        }
+      ],
+      "headword": "sandwich",
+      "lexical_entry_id": "w_sandwich",
+      "ordinal": 11,
+      "phonetic_uk": "'sændwitʃ",
+      "phonetic_us": null,
+      "phonics_split": "sand·wich",
+      "senses": [
+        {
+          "gloss": "三明治, 夹心面包, 夹层板",
+          "pos": "n."
+        },
+        {
+          "gloss": "插入, 夹入, 把...制成三明治",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very unhealthy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不健康。"
+        }
+      ],
+      "headword": "unhealthy",
+      "lexical_entry_id": "w_unhealthy",
+      "ordinal": 12,
+      "phonetic_uk": ".ʌn'helθi",
+      "phonetic_us": null,
+      "phonics_split": "un·healthy",
+      "senses": [
+        {
+          "gloss": "不健康的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my vegetable.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蔬菜, 植物, 无精打采之人。"
+        },
+        {
+          "en": "I can see a vegetable.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蔬菜, 植物, 无精打采之人。"
+        }
+      ],
+      "headword": "vegetable",
+      "lexical_entry_id": "w_vegetable",
+      "ordinal": 13,
+      "phonetic_uk": "'vedʒətəbl",
+      "phonetic_us": null,
+      "phonics_split": "veg·etable",
+      "senses": [
+        {
+          "gloss": "蔬菜, 植物, 无精打采之人",
+          "pos": "n."
+        },
+        {
+          "gloss": "蔬菜的, 植物的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my yesterday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的昨天。"
+        },
+        {
+          "en": "I can see a yesterday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到昨天。"
+        }
+      ],
+      "headword": "yesterday",
+      "lexical_entry_id": "w_yesterday",
+      "ordinal": 14,
+      "phonetic_uk": "'jestədi",
+      "phonetic_us": null,
+      "phonics_split": "yes·ter·day",
+      "senses": [
+        {
+          "gloss": "昨天",
+          "pos": "n."
+        },
+        {
+          "gloss": "昨天",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

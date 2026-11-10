@@ -1,0 +1,163 @@
+{
+  "title": "What is your family like?",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my grandma.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奶奶, 外婆。"
+        },
+        {
+          "en": "I can see a grandma.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奶奶, 外婆。"
+        }
+      ],
+      "headword": "grandma",
+      "lexical_entry_id": "w_grandma",
+      "ordinal": 1,
+      "phonetic_uk": "'grændmɑ:",
+      "phonetic_us": null,
+      "phonics_split": "grand·ma",
+      "senses": [
+        {
+          "gloss": "奶奶, 外婆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dad.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的爸爸。"
+        },
+        {
+          "en": "I can see a dad.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到爸爸。"
+        }
+      ],
+      "headword": "dad",
+      "lexical_entry_id": "w_dad",
+      "ordinal": 2,
+      "phonetic_uk": "dæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爸爸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “grandpa”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“grandpa”。"
+        }
+      ],
+      "headword": "grandpa",
+      "lexical_entry_id": "w_grandpa",
+      "ordinal": 3,
+      "phonetic_uk": "'^rænpɑ:, '^rændpɑ:",
+      "phonetic_us": null,
+      "phonics_split": "grand·pa",
+      "senses": [
+        {
+          "gloss": "爷爷, 老太爷, 外公",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mum.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的妈妈。"
+        },
+        {
+          "en": "I can see a mum.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到妈妈。"
+        }
+      ],
+      "headword": "mum",
+      "lexical_entry_id": "w_mum",
+      "ordinal": 4,
+      "phonetic_uk": "mʌm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "妈妈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brother.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的哥哥。"
+        },
+        {
+          "en": "I can see a brother.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到哥哥。"
+        }
+      ],
+      "headword": "brother",
+      "lexical_entry_id": "w_brother",
+      "ordinal": 5,
+      "phonetic_uk": "'brʌðə",
+      "phonetic_us": null,
+      "phonics_split": "broth·er",
+      "senses": [
+        {
+          "gloss": "哥哥、弟弟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sister.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的姐姐。"
+        },
+        {
+          "en": "I can see a sister.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到姐姐。"
+        }
+      ],
+      "headword": "sister",
+      "lexical_entry_id": "w_sister",
+      "ordinal": 6,
+      "phonetic_uk": "'sistə",
+      "phonetic_us": null,
+      "phonics_split": "sis·ter",
+      "senses": [
+        {
+          "gloss": "姐姐、妹妹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

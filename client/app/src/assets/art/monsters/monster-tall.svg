@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" role="img" aria-label="怪兽打样二号：高瘦独角怪（蜡笔红深档）">
+  <!--
+    战机英语美术样张 · 怪兽② tall 高瘦怪（案 C 蜡笔绘本）
+    圣经：docs/art-style-bible.md §7。滤镜锁参同怪兽①（wobble seed7 / crayon seed8），禁改。
+
+    → pixi Graphics 参数（票 11 换装依据）：
+      体   g.beginFill(0xd96843).drawRoundedRect(-30, -64, 60, 128, 30).endFill()
+      独角 g.lineStyle({width:3, color:0x7a5a3d, cap:'round'}).moveTo(0,-64).lineTo(0,-84)
+           角球 beginFill(0xf0c05a).drawCircle(0,-86,7)
+      眼白 beginFill(0xffffff).drawRoundedRect(-20,-38,16,20,8) / drawRoundedRect(4,-38,16,20,8)
+      瞳孔 beginFill(0x4a3a2a).drawCircle(-12,-28,4) / drawCircle(12,-30,4)
+      嘴   lineStyle({width:3,color:0x7a5a3d,cap:'round'}).moveTo(-10,0).quadraticCurveTo(0,8,10,0)
+      手臂 lineStyle({width:16, color:0xd96843, cap:'round'}).moveTo(±30,-16).quadraticCurveTo(±52,-6,±54,14)
+           （描边色补线 lineStyle({width:3,color:0x7a5a3d,cap:'round'}) 同路径）
+      腮红 lineStyle({width:2,color:0xe8764f,cap:'round'}) 短线×2
+      脚   beginFill(0xd96843).drawRoundedRect(-24,58,18,13,6) / drawRoundedRect(6,58,18,13,6)
+      全身统一描边：lineStyle({width:3, color:0x7a5a3d, cap:'round', joint:'round'})
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="7" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="8" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="200" height="260" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)" transform="translate(100,130)">
+    <!-- 独角 -->
+    <line x1="0" y1="-64" x2="0" y2="-84" stroke="#7A5A3D" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-86" r="7" fill="#F0C05A" stroke="#7A5A3D" stroke-width="3"/>
+    <!-- 高瘦身（圆角胶囊） -->
+    <rect x="-30" y="-64" width="60" height="128" rx="30" fill="#D96843" opacity="0.88" filter="url(#ke-crayon)" stroke="#7A5A3D" stroke-width="3.5"/>
+    <!-- 肚皮淡晕 -->
+    <ellipse cx="0" cy="34" rx="16" ry="10" fill="#FBE3D6" opacity="0.85"/>
+    <!-- 竖长眼（一高一低） -->
+    <rect x="-20" y="-38" width="16" height="20" rx="8" fill="#FFFFFF" stroke="#7A5A3D" stroke-width="2.5"/>
+    <rect x="4" y="-40" width="16" height="20" rx="8" fill="#FFFFFF" stroke="#7A5A3D" stroke-width="2.5"/>
+    <circle cx="-12" cy="-28" r="4" fill="#4A3A2A"/>
+    <circle cx="12" cy="-30" r="4" fill="#4A3A2A"/>
+    <!-- 手臂（蜡笔粗线一笔） -->
+    <path d="M-30,-16 Q-52,-6 -54,14" stroke="#D96843" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.88"/>
+    <path d="M-30,-16 Q-52,-6 -54,14" stroke="#7A5A3D" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.85"/>
+    <path d="M30,-16 Q52,-6 54,14" stroke="#D96843" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.88"/>
+    <path d="M30,-16 Q52,-6 54,14" stroke="#7A5A3D" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.85"/>
+    <!-- 嘴＋腮红斜线 -->
+    <path d="M-10,0 Q0,8 10,0" stroke="#7A5A3D" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M-26,-16 l-6,4 M32,-18 l-6,4" stroke="#E8764F" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <!-- 脚 -->
+    <rect x="-24" y="58" width="18" height="13" rx="6" fill="#D96843" stroke="#7A5A3D" stroke-width="3"/>
+    <rect x="6" y="58" width="18" height="13" rx="6" fill="#D96843" stroke="#7A5A3D" stroke-width="3"/>
+  </g>
+</svg>

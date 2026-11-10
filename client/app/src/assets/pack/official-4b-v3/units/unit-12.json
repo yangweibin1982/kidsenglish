@@ -1,0 +1,276 @@
+{
+  "title": "The ugly duckling",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“away”。"
+        }
+      ],
+      "headword": "away",
+      "lexical_entry_id": "w_away",
+      "ordinal": 1,
+      "phonetic_uk": "ə'wei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "离去",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my baby.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的婴孩。"
+        },
+        {
+          "en": "I can see a baby.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到婴孩。"
+        }
+      ],
+      "headword": "baby",
+      "lexical_entry_id": "w_baby",
+      "ordinal": 2,
+      "phonetic_uk": "'beibi",
+      "phonetic_us": null,
+      "phonics_split": "ba·by",
+      "senses": [
+        {
+          "gloss": "婴孩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very back.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常后面。"
+        }
+      ],
+      "headword": "back",
+      "lexical_entry_id": "w_back",
+      "ordinal": 3,
+      "phonetic_uk": "bæk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "后面的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使后退, 支持",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my duck.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鸭子。"
+        },
+        {
+          "en": "I can see a duck.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鸭子。"
+        }
+      ],
+      "headword": "duck",
+      "lexical_entry_id": "w_duck",
+      "ordinal": 4,
+      "phonetic_uk": "dʌk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鸭子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my duckling.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小鸭子。"
+        },
+        {
+          "en": "I can see a duckling.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小鸭子。"
+        }
+      ],
+      "headword": "duckling",
+      "lexical_entry_id": "w_duckling",
+      "ordinal": 5,
+      "phonetic_uk": "'dʌkliŋ",
+      "phonetic_us": null,
+      "phonics_split": "duck·ling",
+      "senses": [
+        {
+          "gloss": "小鸭子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “into”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“into”。"
+        }
+      ],
+      "headword": "into",
+      "lexical_entry_id": "w_into",
+      "ordinal": 6,
+      "phonetic_uk": "'intu:",
+      "phonetic_us": null,
+      "phonics_split": "in·to",
+      "senses": [
+        {
+          "gloss": "进入...之内, 朝..., 深入...之中, 成为...状况",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “later”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“later”。"
+        }
+      ],
+      "headword": "later",
+      "lexical_entry_id": "w_later",
+      "ordinal": 7,
+      "phonetic_uk": "'leitə",
+      "phonetic_us": null,
+      "phonics_split": "lat·er",
+      "senses": [
+        {
+          "gloss": "以后, 随后",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The duck says, “Quack!”",
+          "origin": "curated:u10-quack",
+          "zh": "鸭说：“嘎嘎！”"
+        }
+      ],
+      "headword": "quack",
+      "lexical_entry_id": "w_quack",
+      "ordinal": 8,
+      "phonetic_uk": "kwæk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "嘎嘎（鸭叫声）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my river.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的河, 江。"
+        },
+        {
+          "en": "I can see a river.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到河, 江。"
+        }
+      ],
+      "headword": "river",
+      "lexical_entry_id": "w_river",
+      "ordinal": 9,
+      "phonetic_uk": "'rivə",
+      "phonetic_us": null,
+      "phonics_split": "riv·er",
+      "senses": [
+        {
+          "gloss": "河, 江",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The swan is white.",
+          "origin": "curated:g2u11-swan",
+          "zh": "天鹅是白色的。"
+        }
+      ],
+      "headword": "swan",
+      "lexical_entry_id": "w_swan",
+      "ordinal": 10,
+      "phonetic_uk": "swɒn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "天鹅",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very ugly.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常丑陋的, 邪恶的, 险恶的, 不祥。"
+        }
+      ],
+      "headword": "ugly",
+      "lexical_entry_id": "w_ugly",
+      "ordinal": 11,
+      "phonetic_uk": "'ʌgli",
+      "phonetic_us": null,
+      "phonics_split": "ug·ly",
+      "senses": [
+        {
+          "gloss": "丑陋的, 邪恶的, 险恶的, 不祥的",
+          "pos": "a."
+        },
+        {
+          "gloss": "丑陋的人(或物)",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

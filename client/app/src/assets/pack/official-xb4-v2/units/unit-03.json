@@ -1,0 +1,1171 @@
+{
+  "title": "Sea Exploration",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my tale.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的故事, 谎言, 谣言, 陈述, 叙述。"
+        },
+        {
+          "en": "I can see a tale.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到故事, 谎言, 谣言, 陈述, 叙述。"
+        }
+      ],
+      "headword": "tale",
+      "lexical_entry_id": "w_tale",
+      "ordinal": 1,
+      "phonetic_uk": "teil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "故事, 谎言, 谣言, 陈述, 叙述",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my merchant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的商人, 店主。"
+        },
+        {
+          "en": "I can see a merchant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到商人, 店主。"
+        }
+      ],
+      "headword": "merchant",
+      "lexical_entry_id": "w_merchant",
+      "ordinal": 2,
+      "phonetic_uk": "'mə:tʃənt",
+      "phonetic_us": null,
+      "phonics_split": "mer·chant",
+      "senses": [
+        {
+          "gloss": "商人, 店主",
+          "pos": "n."
+        },
+        {
+          "gloss": "商业的, 商人的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “set sail”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“set sail”。"
+        }
+      ],
+      "headword": "set sail",
+      "lexical_entry_id": "w_set_sail",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "张帆, 开航",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can extend.",
+          "origin": "template:t-v-can",
+          "zh": "我会扩充, 延伸, 伸展, 扩大。"
+        },
+        {
+          "en": "Let's extend together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起扩充, 延伸, 伸展, 扩大吧。"
+        }
+      ],
+      "headword": "extend",
+      "lexical_entry_id": "w_extend",
+      "ordinal": 4,
+      "phonetic_uk": "ik'stend",
+      "phonetic_us": null,
+      "phonics_split": "ex·tend",
+      "senses": [
+        {
+          "gloss": "扩充, 延伸, 伸展, 扩大",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can negotiate.",
+          "origin": "template:t-v-can",
+          "zh": "我会商议, 谈判, 交涉。"
+        },
+        {
+          "en": "Let's negotiate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起商议, 谈判, 交涉吧。"
+        }
+      ],
+      "headword": "negotiate",
+      "lexical_entry_id": "w_negotiate",
+      "ordinal": 5,
+      "phonetic_uk": "ni'gəuʃieit",
+      "phonetic_us": null,
+      "phonics_split": "ne·go·ti·ate",
+      "senses": [
+        {
+          "gloss": "商议, 谈判, 交涉",
+          "pos": "vi."
+        },
+        {
+          "gloss": "谈妥, 转让, 处理",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fleet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的舰队, 港湾, 小河。"
+        },
+        {
+          "en": "I can see a fleet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到舰队, 港湾, 小河。"
+        }
+      ],
+      "headword": "fleet",
+      "lexical_entry_id": "w_fleet",
+      "ordinal": 6,
+      "phonetic_uk": "fli:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "舰队, 港湾, 小河",
+          "pos": "n."
+        },
+        {
+          "gloss": "快速的, 敏捷的, 浅的, 短暂的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can behold.",
+          "origin": "template:t-v-can",
+          "zh": "我会看到, 注视。"
+        },
+        {
+          "en": "Let's behold together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起看到, 注视吧。"
+        }
+      ],
+      "headword": "behold",
+      "lexical_entry_id": "w_behold",
+      "ordinal": 7,
+      "phonetic_uk": "bi'həuld",
+      "phonetic_us": null,
+      "phonics_split": "be·hold",
+      "senses": [
+        {
+          "gloss": "看到, 注视",
+          "pos": "vt."
+        },
+        {
+          "gloss": "看",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my league.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的同盟, 联盟, 盟约。"
+        },
+        {
+          "en": "I can see a league.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到同盟, 联盟, 盟约。"
+        }
+      ],
+      "headword": "league",
+      "lexical_entry_id": "w_league",
+      "ordinal": 8,
+      "phonetic_uk": "li:g",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "同盟, 联盟, 盟约",
+          "pos": "n."
+        },
+        {
+          "gloss": "组联盟, (使)加盟",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "As a cook, Grandma is in a league of her own.",
+          "origin": "curated:senior-league-own",
+          "zh": "论做饭，奶奶独领风骚。"
+        }
+      ],
+      "headword": "in a league of one's own",
+      "lexical_entry_id": "w_in_a_league_of_one_s_own",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "独领风骚",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my royal.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的王室, 皇族。"
+        },
+        {
+          "en": "I can see a royal.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到王室, 皇族。"
+        }
+      ],
+      "headword": "royal",
+      "lexical_entry_id": "w_royal",
+      "ordinal": 10,
+      "phonetic_uk": "'rɒiəl",
+      "phonetic_us": null,
+      "phonics_split": "roy·al",
+      "senses": [
+        {
+          "gloss": "王室, 皇族",
+          "pos": "n."
+        },
+        {
+          "gloss": "王室的, 皇家的, 盛大的, 庄严的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my spice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的香料, 药料, 香气, 调味品, 情趣, 少许。"
+        },
+        {
+          "en": "I can see a spice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到香料, 药料, 香气, 调味品, 情趣, 少许。"
+        }
+      ],
+      "headword": "spice",
+      "lexical_entry_id": "w_spice",
+      "ordinal": 11,
+      "phonetic_uk": "spais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "香料, 药料, 香气, 调味品, 情趣, 少许",
+          "pos": "n."
+        },
+        {
+          "gloss": "加香料, 使添趣味",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can withdraw.",
+          "origin": "template:t-v-can",
+          "zh": "我会撤回, 取回, 撤消, 使撤退, 拉开, 移开。"
+        },
+        {
+          "en": "Let's withdraw together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起撤回, 取回, 撤消, 使撤退, 拉开, 移开吧。"
+        }
+      ],
+      "headword": "withdraw",
+      "lexical_entry_id": "w_withdraw",
+      "ordinal": 12,
+      "phonetic_uk": "wið'drɔː",
+      "phonetic_us": null,
+      "phonics_split": "with·draw",
+      "senses": [
+        {
+          "gloss": "撤回, 取回, 撤消, 使撤退, 拉开, 移开",
+          "pos": "vt."
+        },
+        {
+          "gloss": "撤退, 离开",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “withdraw from”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“withdraw from”。"
+        }
+      ],
+      "headword": "withdraw from",
+      "lexical_entry_id": "w_withdraw_from",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "退出, 离开",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my channel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海峡, 航道, 频道。"
+        },
+        {
+          "en": "I can see a channel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海峡, 航道, 频道。"
+        }
+      ],
+      "headword": "channel",
+      "lexical_entry_id": "w_channel",
+      "ordinal": 14,
+      "phonetic_uk": "'tʃænəl",
+      "phonetic_us": null,
+      "phonics_split": "chan·nel",
+      "senses": [
+        {
+          "gloss": "海峡, 航道, 频道",
+          "pos": "n."
+        },
+        {
+          "gloss": "引导, 在...上挖沟, 形成河道",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very maritime.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常海的, 海上的, 海事的, 沿海的, 海员。"
+        }
+      ],
+      "headword": "maritime",
+      "lexical_entry_id": "w_maritime",
+      "ordinal": 15,
+      "phonetic_uk": "'mæritaim",
+      "phonetic_us": null,
+      "phonics_split": "mar·itime",
+      "senses": [
+        {
+          "gloss": "海的, 海上的, 海事的, 沿海的, 海员的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bond.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留。"
+        },
+        {
+          "en": "I can see a bond.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留。"
+        }
+      ],
+      "headword": "bond",
+      "lexical_entry_id": "w_bond",
+      "ordinal": 16,
+      "phonetic_uk": "bɒnd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "捆绑物, 结合, 债券, 契约, 粘合剂, 保证人, 键, 关栈保留",
+          "pos": "n."
+        },
+        {
+          "gloss": "存入关栈, 使黏合",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in hand”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in hand”。"
+        }
+      ],
+      "headword": "in hand",
+      "lexical_entry_id": "w_in_hand",
+      "ordinal": 17,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在手头, 在进行中, 掌握住",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my politics.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的政治, 政治学, 政见, 政治活动。"
+        },
+        {
+          "en": "I can see a politics.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到政治, 政治学, 政见, 政治活动。"
+        }
+      ],
+      "headword": "politics",
+      "lexical_entry_id": "w_politics",
+      "ordinal": 18,
+      "phonetic_uk": "'pɒlitiks",
+      "phonetic_us": null,
+      "phonics_split": "pol·i·tics",
+      "senses": [
+        {
+          "gloss": "政治, 政治学, 政见, 政治活动",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my profession.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的职业, 表白, 声明。"
+        },
+        {
+          "en": "I can see a profession.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到职业, 表白, 声明。"
+        }
+      ],
+      "headword": "profession",
+      "lexical_entry_id": "w_profession",
+      "ordinal": 19,
+      "phonetic_uk": "prə'feʃən",
+      "phonetic_us": null,
+      "phonics_split": "pro·fes·sion",
+      "senses": [
+        {
+          "gloss": "职业, 表白, 声明",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tournament.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比赛, 竞赛, 锦标赛, 联赛。"
+        },
+        {
+          "en": "I can see a tournament.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比赛, 竞赛, 锦标赛, 联赛。"
+        }
+      ],
+      "headword": "tournament",
+      "lexical_entry_id": "w_tournament",
+      "ordinal": 20,
+      "phonetic_uk": "'tə:nəmənt",
+      "phonetic_us": null,
+      "phonics_split": "tour·na·ment",
+      "senses": [
+        {
+          "gloss": "比赛, 竞赛, 锦标赛, 联赛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mixture.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的混合, 混淆, 混合物。"
+        },
+        {
+          "en": "I can see a mixture.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到混合, 混淆, 混合物。"
+        }
+      ],
+      "headword": "mixture",
+      "lexical_entry_id": "w_mixture",
+      "ordinal": 21,
+      "phonetic_uk": "'mikstʃə",
+      "phonetic_us": null,
+      "phonics_split": "mix·ture",
+      "senses": [
+        {
+          "gloss": "混合, 混淆, 混合物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my laptop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的笔记本电脑。"
+        },
+        {
+          "en": "I can see a laptop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到笔记本电脑。"
+        }
+      ],
+      "headword": "laptop",
+      "lexical_entry_id": "w_laptop",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "lap·top",
+      "senses": [
+        {
+          "gloss": "笔记本电脑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my coverage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的覆盖的范围, 保险总额, 新闻报导。"
+        },
+        {
+          "en": "I can see a coverage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到覆盖的范围, 保险总额, 新闻报导。"
+        }
+      ],
+      "headword": "coverage",
+      "lexical_entry_id": "w_coverage",
+      "ordinal": 23,
+      "phonetic_uk": "'kʌvəridʒ",
+      "phonetic_us": null,
+      "phonics_split": "cov·er·age",
+      "senses": [
+        {
+          "gloss": "覆盖的范围, 保险总额, 新闻报导",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “press conference”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“press conference”。"
+        }
+      ],
+      "headword": "press conference",
+      "lexical_entry_id": "w_press_conference",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "记者招待会",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can applaud.",
+          "origin": "template:t-v-can",
+          "zh": "我会拍手喝彩, 称赞, 赞同。"
+        },
+        {
+          "en": "Let's applaud together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起拍手喝彩, 称赞, 赞同吧。"
+        }
+      ],
+      "headword": "applaud",
+      "lexical_entry_id": "w_applaud",
+      "ordinal": 25,
+      "phonetic_uk": "ə'plɔːd",
+      "phonetic_us": null,
+      "phonics_split": "ap·plaud",
+      "senses": [
+        {
+          "gloss": "拍手喝彩, 称赞, 赞同",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tax.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的税, 税款, 重负, 会费。"
+        },
+        {
+          "en": "I can see a tax.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到税, 税款, 重负, 会费。"
+        }
+      ],
+      "headword": "tax",
+      "lexical_entry_id": "w_tax",
+      "ordinal": 26,
+      "phonetic_uk": "tæks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "税, 税款, 重负, 会费",
+          "pos": "n."
+        },
+        {
+          "gloss": "课以税, 使负重荷, 斥责",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very manned.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有人驾驶的, 有人操纵。"
+        }
+      ],
+      "headword": "manned",
+      "lexical_entry_id": "w_manned",
+      "ordinal": 27,
+      "phonetic_uk": "mænd",
+      "phonetic_us": null,
+      "phonics_split": "man·ned",
+      "senses": [
+        {
+          "gloss": "有人驾驶的, 有人操纵的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very submersible.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常能沉入水中的, 能潜水。"
+        }
+      ],
+      "headword": "submersible",
+      "lexical_entry_id": "w_submersible",
+      "ordinal": 28,
+      "phonetic_uk": "səb'mə:səbl",
+      "phonetic_us": null,
+      "phonics_split": "sub·mersible",
+      "senses": [
+        {
+          "gloss": "能沉入水中的, 能潜水的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very underwater.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常在水中。"
+        }
+      ],
+      "headword": "underwater",
+      "lexical_entry_id": "w_underwater",
+      "ordinal": 29,
+      "phonetic_uk": "'ʌndə'wɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "un·der·wa·ter",
+      "senses": [
+        {
+          "gloss": "在水中的",
+          "pos": "a."
+        },
+        {
+          "gloss": "在水下",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my coral.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的珊瑚, 珊瑚色。"
+        },
+        {
+          "en": "I can see a coral.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到珊瑚, 珊瑚色。"
+        }
+      ],
+      "headword": "coral",
+      "lexical_entry_id": "w_coral",
+      "ordinal": 30,
+      "phonetic_uk": "'kɒrəl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "珊瑚, 珊瑚色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my migration.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的移民, 移往, 移动。"
+        },
+        {
+          "en": "I can see a migration.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到移民, 移往, 移动。"
+        }
+      ],
+      "headword": "migration",
+      "lexical_entry_id": "w_migration",
+      "ordinal": 31,
+      "phonetic_uk": "mai'greiʃən",
+      "phonetic_us": null,
+      "phonics_split": "mi·gra·tion",
+      "senses": [
+        {
+          "gloss": "移民, 移往, 移动",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my directory.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的目录, 工商名录, 指南。"
+        },
+        {
+          "en": "I can see a directory.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到目录, 工商名录, 指南。"
+        }
+      ],
+      "headword": "directory",
+      "lexical_entry_id": "w_directory",
+      "ordinal": 32,
+      "phonetic_uk": "di'rektəri",
+      "phonetic_us": null,
+      "phonics_split": "di·rec·to·ry",
+      "senses": [
+        {
+          "gloss": "目录, 工商名录, 指南",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my meanwhile.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的其时, 其间。"
+        },
+        {
+          "en": "I can see a meanwhile.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到其时, 其间。"
+        }
+      ],
+      "headword": "meanwhile",
+      "lexical_entry_id": "w_meanwhile",
+      "ordinal": 33,
+      "phonetic_uk": "'mi:nhwail",
+      "phonetic_us": null,
+      "phonics_split": "mean·while",
+      "senses": [
+        {
+          "gloss": "其时, 其间",
+          "pos": "n."
+        },
+        {
+          "gloss": "同时, 于此时",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my exploit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的功绩, 勋绩。"
+        },
+        {
+          "en": "I can see an exploit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到功绩, 勋绩。"
+        }
+      ],
+      "headword": "exploit",
+      "lexical_entry_id": "w_exploit",
+      "ordinal": 34,
+      "phonetic_uk": "'eksplɒit",
+      "phonetic_us": null,
+      "phonics_split": "ex·ploit",
+      "senses": [
+        {
+          "gloss": "功绩, 勋绩",
+          "pos": "n."
+        },
+        {
+          "gloss": "开发, 利用, 开拓, 剥削",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my gallon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的加仑。"
+        },
+        {
+          "en": "I can see a gallon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到加仑。"
+        }
+      ],
+      "headword": "gallon",
+      "lexical_entry_id": "w_gallon",
+      "ordinal": 35,
+      "phonetic_uk": "'gælən",
+      "phonetic_us": null,
+      "phonics_split": "gal·lon",
+      "senses": [
+        {
+          "gloss": "加仑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my murder.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的谋杀。"
+        },
+        {
+          "en": "I can see a murder.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到谋杀。"
+        }
+      ],
+      "headword": "murder",
+      "lexical_entry_id": "w_murder",
+      "ordinal": 36,
+      "phonetic_uk": "'mə:də",
+      "phonetic_us": null,
+      "phonics_split": "mur·der",
+      "senses": [
+        {
+          "gloss": "谋杀",
+          "pos": "n."
+        },
+        {
+          "gloss": "谋杀, 损毁, 破坏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mercy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的仁慈, 宽恕, 慈悲, 怜悯, 幸运。"
+        },
+        {
+          "en": "I can see a mercy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到仁慈, 宽恕, 慈悲, 怜悯, 幸运。"
+        }
+      ],
+      "headword": "mercy",
+      "lexical_entry_id": "w_mercy",
+      "ordinal": 37,
+      "phonetic_uk": "'mə:si",
+      "phonetic_us": null,
+      "phonics_split": "mer·cy",
+      "senses": [
+        {
+          "gloss": "仁慈, 宽恕, 慈悲, 怜悯, 幸运",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my possession.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷。"
+        },
+        {
+          "en": "I can see a possession.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷。"
+        }
+      ],
+      "headword": "possession",
+      "lexical_entry_id": "w_possession",
+      "ordinal": 38,
+      "phonetic_uk": "pə'zeʃən",
+      "phonetic_us": null,
+      "phonics_split": "pos·ses·sion",
+      "senses": [
+        {
+          "gloss": "拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my opponent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的对手, 敌手, 反对者。"
+        },
+        {
+          "en": "I can see an opponent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到对手, 敌手, 反对者。"
+        }
+      ],
+      "headword": "opponent",
+      "lexical_entry_id": "w_opponent",
+      "ordinal": 39,
+      "phonetic_uk": "ə'pəunənt",
+      "phonetic_us": null,
+      "phonics_split": "op·po·nent",
+      "senses": [
+        {
+          "gloss": "对手, 敌手, 反对者",
+          "pos": "n."
+        },
+        {
+          "gloss": "敌对的, 反对的, 对面的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my log.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的记录, 圆木, 日志, 计程仪。"
+        },
+        {
+          "en": "I can see a log.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到记录, 圆木, 日志, 计程仪。"
+        }
+      ],
+      "headword": "log",
+      "lexical_entry_id": "w_log",
+      "ordinal": 40,
+      "phonetic_uk": "lɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "记录, 圆木, 日志, 计程仪",
+          "pos": "n."
+        },
+        {
+          "gloss": "伐木, 切, 航行",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my marine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的舰队, 水兵, 海景画。"
+        },
+        {
+          "en": "I can see a marine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到舰队, 水兵, 海景画。"
+        }
+      ],
+      "headword": "marine",
+      "lexical_entry_id": "w_marine",
+      "ordinal": 41,
+      "phonetic_uk": "mə'ri:n",
+      "phonetic_us": null,
+      "phonics_split": "ma·rine",
+      "senses": [
+        {
+          "gloss": "舰队, 水兵, 海景画",
+          "pos": "n."
+        },
+        {
+          "gloss": "海的, 海产的, 海底的, 船舶的, 海运的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my arrest.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的逮捕, 监禁。"
+        },
+        {
+          "en": "I can see an arrest.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到逮捕, 监禁。"
+        }
+      ],
+      "headword": "arrest",
+      "lexical_entry_id": "w_arrest",
+      "ordinal": 42,
+      "phonetic_uk": "ə'rest",
+      "phonetic_us": null,
+      "phonics_split": "ar·rest",
+      "senses": [
+        {
+          "gloss": "逮捕, 监禁",
+          "pos": "n."
+        },
+        {
+          "gloss": "拘捕, 抑制, 吸引, 阻止",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

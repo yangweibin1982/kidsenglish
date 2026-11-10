@@ -1,0 +1,2041 @@
+{
+  "title": "Unit 4 Natural Disasters",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my disaster.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的灾祸, 不幸, 彻底失败。"
+        },
+        {
+          "en": "I can see a disaster.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到灾祸, 不幸, 彻底失败。"
+        }
+      ],
+      "headword": "disaster",
+      "lexical_entry_id": "w_disaster",
+      "ordinal": 1,
+      "phonetic_uk": "di'zɑ:stə",
+      "phonetic_us": null,
+      "phonics_split": "dis·as·ter",
+      "senses": [
+        {
+          "gloss": "灾祸, 不幸, 彻底失败",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tornado.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的旋风, 龙卷风, 大雷雨。"
+        },
+        {
+          "en": "I can see a tornado.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到旋风, 龙卷风, 大雷雨。"
+        }
+      ],
+      "headword": "tornado",
+      "lexical_entry_id": "w_tornado",
+      "ordinal": 2,
+      "phonetic_uk": "tɔː'neidəu",
+      "phonetic_us": null,
+      "phonics_split": "tor·na·do",
+      "senses": [
+        {
+          "gloss": "旋风, 龙卷风, 大雷雨",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my drought.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的干旱, 缺乏。"
+        },
+        {
+          "en": "I can see a drought.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到干旱, 缺乏。"
+        }
+      ],
+      "headword": "drought",
+      "lexical_entry_id": "w_drought",
+      "ordinal": 3,
+      "phonetic_uk": "draut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "干旱, 缺乏",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my landslide.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的山崩。"
+        },
+        {
+          "en": "I can see a landslide.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到山崩。"
+        }
+      ],
+      "headword": "landslide",
+      "lexical_entry_id": "w_landslide",
+      "ordinal": 4,
+      "phonetic_uk": "'lændslaid",
+      "phonetic_us": null,
+      "phonics_split": "land·slide",
+      "senses": [
+        {
+          "gloss": "山崩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The slide is long.",
+          "origin": "curated:g2u7-slide",
+          "zh": "滑梯很长。"
+        }
+      ],
+      "headword": "slide",
+      "lexical_entry_id": "w_slide",
+      "ordinal": 5,
+      "phonetic_uk": "slaid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "滑梯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tsunami.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海啸。"
+        },
+        {
+          "en": "I can see a tsunami.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海啸。"
+        }
+      ],
+      "headword": "tsunami",
+      "lexical_entry_id": "w_tsunami",
+      "ordinal": 6,
+      "phonetic_uk": "tsu'nɑ:mi",
+      "phonetic_us": null,
+      "phonics_split": "tsuna·mi",
+      "senses": [
+        {
+          "gloss": "海啸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my flood.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的洪水, 大量之水, 涨潮。"
+        },
+        {
+          "en": "I can see a flood.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到洪水, 大量之水, 涨潮。"
+        }
+      ],
+      "headword": "flood",
+      "lexical_entry_id": "w_flood",
+      "ordinal": 7,
+      "phonetic_uk": "flʌd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洪水, 大量之水, 涨潮",
+          "pos": "n."
+        },
+        {
+          "gloss": "淹没, 使泛滥, 注满",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “volcanic eruption”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“volcanic eruption”。"
+        }
+      ],
+      "headword": "volcanic eruption",
+      "lexical_entry_id": "w_volcanic_eruption",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "火山爆发",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my magnitude.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)。"
+        },
+        {
+          "en": "I can see a magnitude.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)。"
+        }
+      ],
+      "headword": "magnitude",
+      "lexical_entry_id": "w_magnitude",
+      "ordinal": 9,
+      "phonetic_uk": "'mægnitju:d",
+      "phonetic_us": null,
+      "phonics_split": "mag·ni·tude",
+      "senses": [
+        {
+          "gloss": "巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rescue.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的援救, 解救, 营救。"
+        },
+        {
+          "en": "I can see a rescue.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到援救, 解救, 营救。"
+        }
+      ],
+      "headword": "rescue",
+      "lexical_entry_id": "w_rescue",
+      "ordinal": 10,
+      "phonetic_uk": "'reskju:",
+      "phonetic_us": null,
+      "phonics_split": "res·cue",
+      "senses": [
+        {
+          "gloss": "援救, 解救, 营救",
+          "pos": "n."
+        },
+        {
+          "gloss": "援救, 救出, 营救",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my damage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的损害, 伤害。"
+        },
+        {
+          "en": "I can see a damage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到损害, 伤害。"
+        }
+      ],
+      "headword": "damage",
+      "lexical_entry_id": "w_damage",
+      "ordinal": 11,
+      "phonetic_uk": "'dæmidʒ",
+      "phonetic_us": null,
+      "phonics_split": "dam·age",
+      "senses": [
+        {
+          "gloss": "损害, 伤害",
+          "pos": "n."
+        },
+        {
+          "gloss": "损害",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can destroy.",
+          "origin": "template:t-v-can",
+          "zh": "我会破坏, 毁坏, 消灭。"
+        },
+        {
+          "en": "Let's destroy together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起破坏, 毁坏, 消灭吧。"
+        }
+      ],
+      "headword": "destroy",
+      "lexical_entry_id": "w_destroy",
+      "ordinal": 12,
+      "phonetic_uk": "di'strɒi",
+      "phonetic_us": null,
+      "phonics_split": "de·stroy",
+      "senses": [
+        {
+          "gloss": "破坏, 毁坏, 消灭",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can evacuate.",
+          "origin": "template:t-v-can",
+          "zh": "我会疏散, 撤出, 排泄。"
+        },
+        {
+          "en": "Let's evacuate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起疏散, 撤出, 排泄吧。"
+        }
+      ],
+      "headword": "evacuate",
+      "lexical_entry_id": "w_evacuate",
+      "ordinal": 13,
+      "phonetic_uk": "i'vækjueit",
+      "phonetic_us": null,
+      "phonics_split": "evac·u·ate",
+      "senses": [
+        {
+          "gloss": "疏散, 撤出, 排泄",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my helicopter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的直升机。"
+        },
+        {
+          "en": "I can see a helicopter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到直升机。"
+        }
+      ],
+      "headword": "helicopter",
+      "lexical_entry_id": "w_helicopter",
+      "ordinal": 14,
+      "phonetic_uk": "'helikɒptə",
+      "phonetic_us": null,
+      "phonics_split": "he·li·copter",
+      "senses": [
+        {
+          "gloss": "直升机",
+          "pos": "n."
+        },
+        {
+          "gloss": "由直升机运送",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my death.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的死亡。"
+        },
+        {
+          "en": "I can see a death.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到死亡。"
+        }
+      ],
+      "headword": "death",
+      "lexical_entry_id": "w_death",
+      "ordinal": 15,
+      "phonetic_uk": "deθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "死亡",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can affect.",
+          "origin": "template:t-v-can",
+          "zh": "我会影响, 感动, 假装, 模仿, 爱好, 倾向于。"
+        },
+        {
+          "en": "Let's affect together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起影响, 感动, 假装, 模仿, 爱好, 倾向于吧。"
+        }
+      ],
+      "headword": "affect",
+      "lexical_entry_id": "w_affect",
+      "ordinal": 16,
+      "phonetic_uk": "ə'fekt",
+      "phonetic_us": null,
+      "phonics_split": "af·fect",
+      "senses": [
+        {
+          "gloss": "影响, 感动, 假装, 模仿, 爱好, 倾向于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "自觉感情",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shelter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的庇护所, 避难所, 庇护, 隐蔽处, 掩蔽。"
+        },
+        {
+          "en": "I can see a shelter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到庇护所, 避难所, 庇护, 隐蔽处, 掩蔽。"
+        }
+      ],
+      "headword": "shelter",
+      "lexical_entry_id": "w_shelter",
+      "ordinal": 17,
+      "phonetic_uk": "'ʃeltə",
+      "phonetic_us": null,
+      "phonics_split": "shel·ter",
+      "senses": [
+        {
+          "gloss": "庇护所, 避难所, 庇护, 隐蔽处, 掩蔽",
+          "pos": "n."
+        },
+        {
+          "gloss": "庇护, 保护, 隐匿",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my crack.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的裂缝, 爆裂声。"
+        },
+        {
+          "en": "I can see a crack.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到裂缝, 爆裂声。"
+        }
+      ],
+      "headword": "crack",
+      "lexical_entry_id": "w_crack",
+      "ordinal": 18,
+      "phonetic_uk": "kræk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "裂缝, 爆裂声",
+          "pos": "n."
+        },
+        {
+          "gloss": "(使)爆裂, (使)裂开, (使)发出爆裂声",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “as if”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“as if”。"
+        }
+      ],
+      "headword": "as if",
+      "lexical_entry_id": "w_as_if",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好像",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ruin.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的毁灭, 推翻, 废墟。"
+        },
+        {
+          "en": "I can see a ruin.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到毁灭, 推翻, 废墟。"
+        }
+      ],
+      "headword": "ruin",
+      "lexical_entry_id": "w_ruin",
+      "ordinal": 20,
+      "phonetic_uk": "ruin",
+      "phonetic_us": null,
+      "phonics_split": "ru·in",
+      "senses": [
+        {
+          "gloss": "毁灭, 推翻, 废墟",
+          "pos": "n."
+        },
+        {
+          "gloss": "毁灭, 衰败, 破坏, 破产, 堕落",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in ruins”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in ruins”。"
+        }
+      ],
+      "headword": "in ruins",
+      "lexical_entry_id": "w_in_ruins",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "成为一片废墟",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my percent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的百分比, 百分数, 部分。"
+        },
+        {
+          "en": "I can see a percent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到百分比, 百分数, 部分。"
+        }
+      ],
+      "headword": "percent",
+      "lexical_entry_id": "w_percent",
+      "ordinal": 22,
+      "phonetic_uk": "pə'sent",
+      "phonetic_us": null,
+      "phonics_split": "per·cent",
+      "senses": [
+        {
+          "gloss": "百分比, 百分数, 部分",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brick.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的砖块, 积木。"
+        },
+        {
+          "en": "I can see a brick.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到砖块, 积木。"
+        }
+      ],
+      "headword": "brick",
+      "lexical_entry_id": "w_brick",
+      "ordinal": 23,
+      "phonetic_uk": "brik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "砖块, 积木",
+          "pos": "n."
+        },
+        {
+          "gloss": "用砖做的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my metal.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的金属, 金属制品, 合金, 本质, 质料。"
+        },
+        {
+          "en": "I can see a metal.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到金属, 金属制品, 合金, 本质, 质料。"
+        }
+      ],
+      "headword": "metal",
+      "lexical_entry_id": "w_metal",
+      "ordinal": 24,
+      "phonetic_uk": "'metəl",
+      "phonetic_us": null,
+      "phonics_split": "met·al",
+      "senses": [
+        {
+          "gloss": "金属, 金属制品, 合金, 本质, 质料",
+          "pos": "n."
+        },
+        {
+          "gloss": "金属制的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shock.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗。"
+        },
+        {
+          "en": "I can see a shock.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗。"
+        }
+      ],
+      "headword": "shock",
+      "lexical_entry_id": "w_shock",
+      "ordinal": 25,
+      "phonetic_uk": "ʃɒk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗",
+          "pos": "n."
+        },
+        {
+          "gloss": "使震动, 使休克, 使受电击, 震惊得",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "After the accident, he was in shock.",
+          "origin": "curated:senior-in-shock",
+          "zh": "事故之后，他处于震惊之中。"
+        }
+      ],
+      "headword": "in shock",
+      "lexical_entry_id": "w_in_shock",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "震惊地",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my electricity.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电, 电流, 电学, 热情, 电力供应。"
+        },
+        {
+          "en": "I can see an electricity.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电, 电流, 电学, 热情, 电力供应。"
+        }
+      ],
+      "headword": "electricity",
+      "lexical_entry_id": "w_electricity",
+      "ordinal": 27,
+      "phonetic_uk": ".ilek'trisiti",
+      "phonetic_us": null,
+      "phonics_split": "elec·tric·i·ty",
+      "senses": [
+        {
+          "gloss": "电, 电流, 电学, 热情, 电力供应",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my trap.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圈套, 陷阱, 诡计, 存水弯。"
+        },
+        {
+          "en": "I can see a trap.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圈套, 陷阱, 诡计, 存水弯。"
+        }
+      ],
+      "headword": "trap",
+      "lexical_entry_id": "w_trap",
+      "ordinal": 28,
+      "phonetic_uk": "træp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "圈套, 陷阱, 诡计, 存水弯",
+          "pos": "n."
+        },
+        {
+          "gloss": "设圈套, 设陷阱",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can bury.",
+          "origin": "template:t-v-can",
+          "zh": "我会埋葬, 埋藏。"
+        },
+        {
+          "en": "Let's bury together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起埋葬, 埋藏吧。"
+        }
+      ],
+      "headword": "bury",
+      "lexical_entry_id": "w_bury",
+      "ordinal": 29,
+      "phonetic_uk": "'beri",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "埋葬, 埋藏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can breathe.",
+          "origin": "template:t-v-can",
+          "zh": "我会呼吸, 生存, 低语。"
+        },
+        {
+          "en": "Let's breathe together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起呼吸, 生存, 低语吧。"
+        }
+      ],
+      "headword": "breathe",
+      "lexical_entry_id": "w_breathe",
+      "ordinal": 30,
+      "phonetic_uk": "bri:ð",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "呼吸, 生存, 低语",
+          "pos": "vi."
+        },
+        {
+          "gloss": "呼吸, 使喘息, 发散, 低声说",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can revive.",
+          "origin": "template:t-v-can",
+          "zh": "我会使苏醒, 使复兴, 使振奋, 回想起, 重播。"
+        },
+        {
+          "en": "Let's revive together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使苏醒, 使复兴, 使振奋, 回想起, 重播吧。"
+        }
+      ],
+      "headword": "revive",
+      "lexical_entry_id": "w_revive",
+      "ordinal": 31,
+      "phonetic_uk": "ri'vaiv",
+      "phonetic_us": null,
+      "phonics_split": "re·vive",
+      "senses": [
+        {
+          "gloss": "使苏醒, 使复兴, 使振奋, 回想起, 重播",
+          "pos": "vt."
+        },
+        {
+          "gloss": "苏醒, 复活, 复兴, 恢复精神",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my revival.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的复兴, 复活, 恢复精神, 苏醒。"
+        },
+        {
+          "en": "I can see a revival.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到复兴, 复活, 恢复精神, 苏醒。"
+        }
+      ],
+      "headword": "revival",
+      "lexical_entry_id": "w_revival",
+      "ordinal": 32,
+      "phonetic_uk": "ri'vaivl",
+      "phonetic_us": null,
+      "phonics_split": "re·vival",
+      "senses": [
+        {
+          "gloss": "复兴, 复活, 恢复精神, 苏醒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my effort.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的努力, 成就。"
+        },
+        {
+          "en": "I can see an effort.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到努力, 成就。"
+        }
+      ],
+      "headword": "effort",
+      "lexical_entry_id": "w_effort",
+      "ordinal": 33,
+      "phonetic_uk": "'efət",
+      "phonetic_us": null,
+      "phonics_split": "ef·fort",
+      "senses": [
+        {
+          "gloss": "努力, 成就",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can unify.",
+          "origin": "template:t-v-can",
+          "zh": "我会统一, 使成一体。"
+        },
+        {
+          "en": "Let's unify together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起统一, 使成一体吧。"
+        }
+      ],
+      "headword": "unify",
+      "lexical_entry_id": "w_unify",
+      "ordinal": 34,
+      "phonetic_uk": "'ju:nifai",
+      "phonetic_us": null,
+      "phonics_split": "uni·fy",
+      "senses": [
+        {
+          "gloss": "统一, 使成一体",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wisdom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的智慧, 明智行为, 学识, 名言, 贤人。"
+        },
+        {
+          "en": "I can see a wisdom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到智慧, 明智行为, 学识, 名言, 贤人。"
+        }
+      ],
+      "headword": "wisdom",
+      "lexical_entry_id": "w_wisdom",
+      "ordinal": 35,
+      "phonetic_uk": "'wizdəm",
+      "phonetic_us": null,
+      "phonics_split": "wis·dom",
+      "senses": [
+        {
+          "gloss": "智慧, 明智行为, 学识, 名言, 贤人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my context.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的上下文, 背景, 来龙去脉。"
+        },
+        {
+          "en": "I can see a context.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到上下文, 背景, 来龙去脉。"
+        }
+      ],
+      "headword": "context",
+      "lexical_entry_id": "w_context",
+      "ordinal": 36,
+      "phonetic_uk": "'kɒntekst",
+      "phonetic_us": null,
+      "phonics_split": "con·text",
+      "senses": [
+        {
+          "gloss": "上下文, 背景, 来龙去脉",
+          "pos": "n."
+        },
+        {
+          "gloss": "上下文",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can suffer.",
+          "origin": "template:t-v-can",
+          "zh": "我会遭受, 经历, 忍受。"
+        },
+        {
+          "en": "Let's suffer together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起遭受, 经历, 忍受吧。"
+        }
+      ],
+      "headword": "suffer",
+      "lexical_entry_id": "w_suffer",
+      "ordinal": 37,
+      "phonetic_uk": "'sʌfə",
+      "phonetic_us": null,
+      "phonics_split": "suf·fer",
+      "senses": [
+        {
+          "gloss": "遭受, 经历, 忍受",
+          "pos": "vt."
+        },
+        {
+          "gloss": "受痛苦, 受损害",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my volcano.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的火山。"
+        },
+        {
+          "en": "I can see a volcano.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到火山。"
+        }
+      ],
+      "headword": "volcano",
+      "lexical_entry_id": "w_volcano",
+      "ordinal": 38,
+      "phonetic_uk": "vɒl'keinəu",
+      "phonetic_us": null,
+      "phonics_split": "vol·cano",
+      "senses": [
+        {
+          "gloss": "火山",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can erupt.",
+          "origin": "template:t-v-can",
+          "zh": "我会爆发。"
+        },
+        {
+          "en": "Let's erupt together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起爆发吧。"
+        }
+      ],
+      "headword": "erupt",
+      "lexical_entry_id": "w_erupt",
+      "ordinal": 39,
+      "phonetic_uk": "i'rʌpt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爆发",
+          "pos": "vi."
+        },
+        {
+          "gloss": "喷出",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my supply.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的补给, 供给, 供应品。"
+        },
+        {
+          "en": "I can see a supply.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到补给, 供给, 供应品。"
+        }
+      ],
+      "headword": "supply",
+      "lexical_entry_id": "w_supply",
+      "ordinal": 40,
+      "phonetic_uk": "sə'plai",
+      "phonetic_us": null,
+      "phonics_split": "sup·ply",
+      "senses": [
+        {
+          "gloss": "补给, 供给, 供应品",
+          "pos": "n."
+        },
+        {
+          "gloss": "补给, 供给, 提供, 补充",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my typhoon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的台风。"
+        },
+        {
+          "en": "I can see a typhoon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到台风。"
+        }
+      ],
+      "headword": "typhoon",
+      "lexical_entry_id": "w_typhoon",
+      "ordinal": 41,
+      "phonetic_uk": "tai'fu:n",
+      "phonetic_us": null,
+      "phonics_split": "ty·phoon",
+      "senses": [
+        {
+          "gloss": "台风",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We slept in the open air.",
+          "origin": "curated:senior-open-air",
+          "zh": "我们睡在户外。"
+        }
+      ],
+      "headword": "in the open air",
+      "lexical_entry_id": "w_in_the_open_air",
+      "ordinal": 42,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在户外",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hurricane.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的飓风, 暴风, 暴风雨。"
+        },
+        {
+          "en": "I can see a hurricane.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到飓风, 暴风, 暴风雨。"
+        }
+      ],
+      "headword": "hurricane",
+      "lexical_entry_id": "w_hurricane",
+      "ordinal": 43,
+      "phonetic_uk": "'hə:rikən",
+      "phonetic_us": null,
+      "phonics_split": "hur·ri·cane",
+      "senses": [
+        {
+          "gloss": "飓风, 暴风, 暴风雨",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can survive.",
+          "origin": "template:t-v-can",
+          "zh": "我会比...活得长, 生存, 生还, 幸免于。"
+        },
+        {
+          "en": "Let's survive together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起比...活得长, 生存, 生还, 幸免于吧。"
+        }
+      ],
+      "headword": "survive",
+      "lexical_entry_id": "w_survive",
+      "ordinal": 44,
+      "phonetic_uk": "sə'vaiv",
+      "phonetic_us": null,
+      "phonics_split": "sur·vive",
+      "senses": [
+        {
+          "gloss": "比...活得长, 生存, 生还, 幸免于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "活下来, 幸存",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my power.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率。"
+        },
+        {
+          "en": "I can see a power.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率。"
+        }
+      ],
+      "headword": "power",
+      "lexical_entry_id": "w_power",
+      "ordinal": 45,
+      "phonetic_uk": "'pauə",
+      "phonetic_us": null,
+      "phonics_split": "pow·er",
+      "senses": [
+        {
+          "gloss": "力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率",
+          "pos": "n."
+        },
+        {
+          "gloss": "使...有力量, 供以动力, 激励",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tap.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的轻打, 水龙头。"
+        },
+        {
+          "en": "I can see a tap.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到轻打, 水龙头。"
+        }
+      ],
+      "headword": "tap",
+      "lexical_entry_id": "w_tap",
+      "ordinal": 46,
+      "phonetic_uk": "'tæp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "轻打, 水龙头",
+          "pos": "n."
+        },
+        {
+          "gloss": "轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pipe.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器。"
+        },
+        {
+          "en": "I can see a pipe.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器。"
+        }
+      ],
+      "headword": "pipe",
+      "lexical_entry_id": "w_pipe",
+      "ordinal": 47,
+      "phonetic_uk": "paip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器",
+          "pos": "n."
+        },
+        {
+          "gloss": "以管输送, 吹哨子, 吹奏, 尖声唱",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my whistle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的口哨, 汽笛, 啸啸声, 口哨声。"
+        },
+        {
+          "en": "I can see a whistle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到口哨, 汽笛, 啸啸声, 口哨声。"
+        }
+      ],
+      "headword": "whistle",
+      "lexical_entry_id": "w_whistle",
+      "ordinal": 48,
+      "phonetic_uk": "'hwisl",
+      "phonetic_us": null,
+      "phonics_split": "whis·tle",
+      "senses": [
+        {
+          "gloss": "口哨, 汽笛, 啸啸声, 口哨声",
+          "pos": "n."
+        },
+        {
+          "gloss": "吹口哨, 鸣汽笛, 发嘘嘘声",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my emergency.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的紧急状况, 紧急事件, 紧急需要。"
+        },
+        {
+          "en": "I can see an emergency.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到紧急状况, 紧急事件, 紧急需要。"
+        }
+      ],
+      "headword": "emergency",
+      "lexical_entry_id": "w_emergency",
+      "ordinal": 49,
+      "phonetic_uk": "i'mə:dʒənsi",
+      "phonetic_us": null,
+      "phonics_split": "emer·gen·cy",
+      "senses": [
+        {
+          "gloss": "紧急状况, 紧急事件, 紧急需要",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my calm.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的平稳, 风平浪静。"
+        },
+        {
+          "en": "I can see a calm.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到平稳, 风平浪静。"
+        }
+      ],
+      "headword": "calm",
+      "lexical_entry_id": "w_calm",
+      "ordinal": 50,
+      "phonetic_uk": "kɑ:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "平稳, 风平浪静",
+          "pos": "n."
+        },
+        {
+          "gloss": "平静的, 冷静的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my aid.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的帮助, 外援, 助手。"
+        },
+        {
+          "en": "I can see an aid.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到帮助, 外援, 助手。"
+        }
+      ],
+      "headword": "aid",
+      "lexical_entry_id": "w_aid",
+      "ordinal": 51,
+      "phonetic_uk": "eid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "帮助, 外援, 助手",
+          "pos": "n."
+        },
+        {
+          "gloss": "援助, 帮助, 有助于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的装备, 工具箱, 成套工具。"
+        },
+        {
+          "en": "I can see a kit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到装备, 工具箱, 成套工具。"
+        }
+      ],
+      "headword": "kit",
+      "lexical_entry_id": "w_kit",
+      "ordinal": 52,
+      "phonetic_uk": "kit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "装备, 工具箱, 成套工具",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “first aid kit”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“first aid kit”。"
+        }
+      ],
+      "headword": "first aid kit",
+      "lexical_entry_id": "w_first_aid_kit",
+      "ordinal": 53,
+      "phonetic_uk": "fə:st eid kit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "急救包",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “on hand”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“on hand”。"
+        }
+      ],
+      "headword": "on hand",
+      "lexical_entry_id": "w_on_hand",
+      "ordinal": 54,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在手头, 即将发生, 待处理, 在场",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my crash.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的哗啦声, 猛撞, 崩溃, 粗布。"
+        },
+        {
+          "en": "I can see a crash.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到哗啦声, 猛撞, 崩溃, 粗布。"
+        }
+      ],
+      "headword": "crash",
+      "lexical_entry_id": "w_crash",
+      "ordinal": 55,
+      "phonetic_uk": "kræʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哗啦声, 猛撞, 崩溃, 粗布",
+          "pos": "n."
+        },
+        {
+          "gloss": "撞碎, 破碎, (使)...坠毁",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sweep.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的扫除, 打扫, 肃清, 视野, 范围, 全胜。"
+        },
+        {
+          "en": "I can see a sweep.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到扫除, 打扫, 肃清, 视野, 范围, 全胜。"
+        }
+      ],
+      "headword": "sweep",
+      "lexical_entry_id": "w_sweep",
+      "ordinal": 56,
+      "phonetic_uk": "swi:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "扫除, 打扫, 肃清, 视野, 范围, 全胜",
+          "pos": "n."
+        },
+        {
+          "gloss": "扫除, 掸去, 猛拉, 扫荡, 肃清, 冲走, 刮起, 环视, 掠过, 扫射",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “sweep away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“sweep away”。"
+        }
+      ],
+      "headword": "sweep away",
+      "lexical_entry_id": "w_sweep_away",
+      "ordinal": 57,
+      "phonetic_uk": "swi:p əˈwei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "扫除;  刮走;  冲走; 清除",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wave.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变。"
+        },
+        {
+          "en": "I can see a wave.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变。"
+        }
+      ],
+      "headword": "wave",
+      "lexical_entry_id": "w_wave",
+      "ordinal": 58,
+      "phonetic_uk": "weiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "波, 波浪, 波动, 起伏, 高潮, 潮涌, 挥手致意, (气压)突变",
+          "pos": "n."
+        },
+        {
+          "gloss": "波动, 飘动, 挥手示意, 起伏",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my strike.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的罢工, 打击, 殴打。"
+        },
+        {
+          "en": "I can see a strike.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到罢工, 打击, 殴打。"
+        }
+      ],
+      "headword": "strike",
+      "lexical_entry_id": "w_strike",
+      "ordinal": 59,
+      "phonetic_uk": "straik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "罢工, 打击, 殴打",
+          "pos": "n."
+        },
+        {
+          "gloss": "打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can deliver.",
+          "origin": "template:t-v-can",
+          "zh": "我会递送, 陈述, 释放, 发表, 引渡, 投递, 交付。"
+        },
+        {
+          "en": "Let's deliver together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起递送, 陈述, 释放, 发表, 引渡, 投递, 交付吧。"
+        }
+      ],
+      "headword": "deliver",
+      "lexical_entry_id": "w_deliver",
+      "ordinal": 60,
+      "phonetic_uk": "di'livə",
+      "phonetic_us": null,
+      "phonics_split": "de·liv·er",
+      "senses": [
+        {
+          "gloss": "递送, 陈述, 释放, 发表, 引渡, 投递, 交付",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my summary.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的摘要, 概要。"
+        },
+        {
+          "en": "I can see a summary.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到摘要, 概要。"
+        }
+      ],
+      "headword": "summary",
+      "lexical_entry_id": "w_summary",
+      "ordinal": 61,
+      "phonetic_uk": "'sʌməri",
+      "phonetic_us": null,
+      "phonics_split": "sum·ma·ry",
+      "senses": [
+        {
+          "gloss": "摘要, 概要",
+          "pos": "n."
+        },
+        {
+          "gloss": "摘要的, 简略的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my effect.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结果, 影响, 效果, 印象。"
+        },
+        {
+          "en": "I can see an effect.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结果, 影响, 效果, 印象。"
+        }
+      ],
+      "headword": "effect",
+      "lexical_entry_id": "w_effect",
+      "ordinal": 62,
+      "phonetic_uk": "i'fekt",
+      "phonetic_us": null,
+      "phonics_split": "ef·fect",
+      "senses": [
+        {
+          "gloss": "结果, 影响, 效果, 印象",
+          "pos": "n."
+        },
+        {
+          "gloss": "实行, 引起, 完成",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my length.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的长度, 长, 期间, 一段。"
+        },
+        {
+          "en": "I can see a length.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到长度, 长, 期间, 一段。"
+        }
+      ],
+      "headword": "length",
+      "lexical_entry_id": "w_length",
+      "ordinal": 63,
+      "phonetic_uk": "leŋθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "长度, 长, 期间, 一段",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Ecuador.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厄瓜多尔。"
+        },
+        {
+          "en": "I can see an Ecuador.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厄瓜多尔。"
+        }
+      ],
+      "headword": "Ecuador",
+      "lexical_entry_id": "w_ecuador",
+      "ordinal": 64,
+      "phonetic_uk": "'ekwədɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厄瓜多尔",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Memphis.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的孟菲斯。"
+        },
+        {
+          "en": "I can see a Memphis.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到孟菲斯。"
+        }
+      ],
+      "headword": "Memphis",
+      "lexical_entry_id": "w_memphis",
+      "ordinal": 65,
+      "phonetic_uk": "'memfis",
+      "phonetic_us": null,
+      "phonics_split": "mem·phis",
+      "senses": [
+        {
+          "gloss": "孟菲斯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Alberta.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的亚伯达（加拿大西部的一个省）。"
+        },
+        {
+          "en": "I can see an Alberta.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到亚伯达（加拿大西部的一个省）。"
+        }
+      ],
+      "headword": "Alberta",
+      "lexical_entry_id": "w_alberta",
+      "ordinal": 66,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "al·ber·ta",
+      "senses": [
+        {
+          "gloss": "亚伯达（加拿大西部的一个省）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Colombo.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的科伦坡。"
+        },
+        {
+          "en": "I can see a Colombo.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到科伦坡。"
+        }
+      ],
+      "headword": "Colombo",
+      "lexical_entry_id": "w_colombo",
+      "ordinal": 67,
+      "phonetic_uk": "kə'lʌmbəu",
+      "phonetic_us": null,
+      "phonics_split": "colom·bo",
+      "senses": [
+        {
+          "gloss": "科伦坡",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “Sri Lanka”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“Sri Lanka”。"
+        }
+      ],
+      "headword": "Sri Lanka",
+      "lexical_entry_id": "w_sri_lanka",
+      "ordinal": 68,
+      "phonetic_uk": "sri'læŋkə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "斯里兰卡",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Indonesia.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的印尼。"
+        },
+        {
+          "en": "I can see an Indonesia.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到印尼。"
+        }
+      ],
+      "headword": "Indonesia",
+      "lexical_entry_id": "w_indonesia",
+      "ordinal": 69,
+      "phonetic_uk": ".indəu'ni:ʒə",
+      "phonetic_us": null,
+      "phonics_split": "in·done·sia",
+      "senses": [
+        {
+          "gloss": "印尼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Thailand.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的泰国。"
+        },
+        {
+          "en": "I can see a Thailand.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到泰国。"
+        }
+      ],
+      "headword": "Thailand",
+      "lexical_entry_id": "w_thailand",
+      "ordinal": 70,
+      "phonetic_uk": "'tailənd",
+      "phonetic_us": null,
+      "phonics_split": "thai·land",
+      "senses": [
+        {
+          "gloss": "泰国",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Malaysia.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的马来西亚。"
+        },
+        {
+          "en": "I can see a Malaysia.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到马来西亚。"
+        }
+      ],
+      "headword": "Malaysia",
+      "lexical_entry_id": "w_malaysia",
+      "ordinal": 71,
+      "phonetic_uk": "mə'leiziə",
+      "phonetic_us": null,
+      "phonics_split": "malay·sia",
+      "senses": [
+        {
+          "gloss": "马来西亚",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The tsunami hit Sumatra Island hard.",
+          "origin": "curated:senior-sumatra",
+          "zh": "海啸重创了苏门答腊岛。"
+        }
+      ],
+      "headword": "Sumatra Island",
+      "lexical_entry_id": "w_sumatra_island",
+      "ordinal": 72,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "苏门答腊岛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Chandra Theeravit was a survivor of the tsunami.",
+          "origin": "curated:senior-chandra",
+          "zh": "钱德拉·特拉维是那场海啸的幸存者。"
+        }
+      ],
+      "headword": "Chandra Theeravit",
+      "lexical_entry_id": "w_chandra_theeravit",
+      "ordinal": 73,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "钱德拉·特拉维（人名）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

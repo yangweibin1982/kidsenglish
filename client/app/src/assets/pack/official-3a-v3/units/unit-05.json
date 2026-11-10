@@ -1,0 +1,180 @@
+{
+  "title": "My family",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very beautiful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常美丽。"
+        }
+      ],
+      "headword": "beautiful",
+      "lexical_entry_id": "w_beautiful",
+      "ordinal": 1,
+      "phonetic_uk": "'bju:tiful",
+      "phonetic_us": null,
+      "phonics_split": "beau·ti·ful",
+      "senses": [
+        {
+          "gloss": "美丽的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brother.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的哥哥。"
+        },
+        {
+          "en": "I can see a brother.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到哥哥。"
+        }
+      ],
+      "headword": "brother",
+      "lexical_entry_id": "w_brother",
+      "ordinal": 2,
+      "phonetic_uk": "'brʌðə",
+      "phonetic_us": null,
+      "phonics_split": "broth·er",
+      "senses": [
+        {
+          "gloss": "哥哥、弟弟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my father.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的父亲。"
+        },
+        {
+          "en": "I can see a father.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到父亲。"
+        }
+      ],
+      "headword": "father",
+      "lexical_entry_id": "w_father",
+      "ordinal": 3,
+      "phonetic_uk": "'fɑ:ðə",
+      "phonetic_us": null,
+      "phonics_split": "fa·ther",
+      "senses": [
+        {
+          "gloss": "父亲",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at me.",
+          "origin": "curated:u2-pron-me",
+          "zh": "看着我。"
+        }
+      ],
+      "headword": "me",
+      "lexical_entry_id": "w_me",
+      "ordinal": 4,
+      "phonetic_uk": "mi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mother.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的母亲。"
+        },
+        {
+          "en": "I can see a mother.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到母亲。"
+        }
+      ],
+      "headword": "mother",
+      "lexical_entry_id": "w_mother",
+      "ordinal": 5,
+      "phonetic_uk": "'mʌðə",
+      "phonetic_us": null,
+      "phonics_split": "moth·er",
+      "senses": [
+        {
+          "gloss": "母亲",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sister.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的姐姐。"
+        },
+        {
+          "en": "I can see a sister.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到姐姐。"
+        }
+      ],
+      "headword": "sister",
+      "lexical_entry_id": "w_sister",
+      "ordinal": 6,
+      "phonetic_uk": "'sistə",
+      "phonetic_us": null,
+      "phonics_split": "sis·ter",
+      "senses": [
+        {
+          "gloss": "姐姐、妹妹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Who is she?",
+          "origin": "curated:u5-who",
+          "zh": "她是谁？"
+        }
+      ],
+      "headword": "who",
+      "lexical_entry_id": "w_who",
+      "ordinal": 7,
+      "phonetic_uk": "hu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "谁",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

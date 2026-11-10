@@ -1,0 +1,742 @@
+{
+  "title": "Food and health",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my boil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的煮沸, 沸腾, 疖。"
+        },
+        {
+          "en": "I can see a boil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到煮沸, 沸腾, 疖。"
+        }
+      ],
+      "headword": "boil",
+      "lexical_entry_id": "w_boil",
+      "ordinal": 1,
+      "phonetic_uk": "bɒil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "煮沸, 沸腾, 疖",
+          "pos": "n."
+        },
+        {
+          "gloss": "煮沸, 激动",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my biscuit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的饼干。"
+        },
+        {
+          "en": "I can see a biscuit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到饼干。"
+        }
+      ],
+      "headword": "biscuit",
+      "lexical_entry_id": "w_biscuit",
+      "ordinal": 2,
+      "phonetic_uk": "'biskit",
+      "phonetic_us": null,
+      "phonics_split": "bis·cuit",
+      "senses": [
+        {
+          "gloss": "饼干",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my score.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量。"
+        },
+        {
+          "en": "I can see a score.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量。"
+        }
+      ],
+      "headword": "score",
+      "lexical_entry_id": "w_score",
+      "ordinal": 3,
+      "phonetic_uk": "skɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "得分, 抓痕, 二十个, 刻痕, 帐目, 乐谱, 起跑线, 终点线, 大量",
+          "pos": "n."
+        },
+        {
+          "gloss": "刻划, 划线, 获得, 评价, 把...记下",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tofu.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的豆腐。"
+        },
+        {
+          "en": "I can see a tofu.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到豆腐。"
+        }
+      ],
+      "headword": "tofu",
+      "lexical_entry_id": "w_tofu",
+      "ordinal": 4,
+      "phonetic_uk": "'təufu:",
+      "phonetic_us": null,
+      "phonics_split": "to·fu",
+      "senses": [
+        {
+          "gloss": "豆腐",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my stuff.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话。"
+        },
+        {
+          "en": "I can see a stuff.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话。"
+        }
+      ],
+      "headword": "stuff",
+      "lexical_entry_id": "w_stuff",
+      "ordinal": 5,
+      "phonetic_uk": "stʌf",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话",
+          "pos": "n."
+        },
+        {
+          "gloss": "装填",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my overweight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的超过重量, 过重, 优势。"
+        },
+        {
+          "en": "I can see an overweight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到超过重量, 过重, 优势。"
+        }
+      ],
+      "headword": "overweight",
+      "lexical_entry_id": "w_overweight",
+      "ordinal": 6,
+      "phonetic_uk": "'əuvə'weit",
+      "phonetic_us": null,
+      "phonics_split": "over·weight",
+      "senses": [
+        {
+          "gloss": "超过重量, 过重, 优势",
+          "pos": "n."
+        },
+        {
+          "gloss": "超过重量的, 超重的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very sugary.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常含糖的, 糖一般的, 甜。"
+        }
+      ],
+      "headword": "sugary",
+      "lexical_entry_id": "w_sugary",
+      "ordinal": 7,
+      "phonetic_uk": "'ʃugəri",
+      "phonetic_us": null,
+      "phonics_split": "sug·ary",
+      "senses": [
+        {
+          "gloss": "含糖的, 糖一般的, 甜的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my menu.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的菜单, (功能)选择单。"
+        },
+        {
+          "en": "I can see a menu.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到菜单, (功能)选择单。"
+        }
+      ],
+      "headword": "menu",
+      "lexical_entry_id": "w_menu",
+      "ordinal": 8,
+      "phonetic_uk": "'menju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "菜单, (功能)选择单",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cucumber.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黄瓜。"
+        },
+        {
+          "en": "I can see a cucumber.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黄瓜。"
+        }
+      ],
+      "headword": "cucumber",
+      "lexical_entry_id": "w_cucumber",
+      "ordinal": 9,
+      "phonetic_uk": "'kju:kəmbə",
+      "phonetic_us": null,
+      "phonics_split": "cu·cum·ber",
+      "senses": [
+        {
+          "gloss": "黄瓜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my carrot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胡萝卜。"
+        },
+        {
+          "en": "I can see a carrot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胡萝卜。"
+        }
+      ],
+      "headword": "carrot",
+      "lexical_entry_id": "w_carrot",
+      "ordinal": 10,
+      "phonetic_uk": "'kærət",
+      "phonetic_us": null,
+      "phonics_split": "car·rot",
+      "senses": [
+        {
+          "gloss": "胡萝卜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cabbage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的卷心菜。"
+        },
+        {
+          "en": "I can see a cabbage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到卷心菜。"
+        }
+      ],
+      "headword": "cabbage",
+      "lexical_entry_id": "w_cabbage",
+      "ordinal": 11,
+      "phonetic_uk": "'kæbidʒ",
+      "phonetic_us": null,
+      "phonics_split": "cab·bage",
+      "senses": [
+        {
+          "gloss": "卷心菜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my preference.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的偏爱, 优先, 喜爱物。"
+        },
+        {
+          "en": "I can see a preference.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到偏爱, 优先, 喜爱物。"
+        }
+      ],
+      "headword": "preference",
+      "lexical_entry_id": "w_preference",
+      "ordinal": 12,
+      "phonetic_uk": "'prefərəns",
+      "phonetic_us": null,
+      "phonics_split": "pref·er·ence",
+      "senses": [
+        {
+          "gloss": "偏爱, 优先, 喜爱物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my waiter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的侍者。"
+        },
+        {
+          "en": "I can see a waiter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到侍者。"
+        }
+      ],
+      "headword": "waiter",
+      "lexical_entry_id": "w_waiter",
+      "ordinal": 13,
+      "phonetic_uk": "'weitə",
+      "phonetic_us": null,
+      "phonics_split": "wait·er",
+      "senses": [
+        {
+          "gloss": "侍者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sweat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的汗, 汗水, 水珠, 焦急。"
+        },
+        {
+          "en": "I can see a sweat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到汗, 汗水, 水珠, 焦急。"
+        }
+      ],
+      "headword": "sweat",
+      "lexical_entry_id": "w_sweat",
+      "ordinal": 14,
+      "phonetic_uk": "swet",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "汗, 汗水, 水珠, 焦急",
+          "pos": "n."
+        },
+        {
+          "gloss": "出汗, 渗出, 冒出水气, 结水珠, 烦恼, 懊恼",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my soil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池。"
+        },
+        {
+          "en": "I can see a soil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池。"
+        }
+      ],
+      "headword": "soil",
+      "lexical_entry_id": "w_soil",
+      "ordinal": 15,
+      "phonetic_uk": "sɒil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "土壤, 土地, 国家, 国土, 温床, 污物, 粪便, 水池",
+          "pos": "n."
+        },
+        {
+          "gloss": "弄脏, 污辱",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can welcoming.",
+          "origin": "template:t-v-can",
+          "zh": "我会欢迎( welcome的现在分词 ); 迎接; 乐于接受; 希望有。"
+        },
+        {
+          "en": "Let's welcoming together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起欢迎( welcome的现在分词 ); 迎接; 乐于接受; 希望有吧。"
+        }
+      ],
+      "headword": "welcoming",
+      "lexical_entry_id": "w_welcoming",
+      "ordinal": 16,
+      "phonetic_uk": "ˈwelkəmɪŋ",
+      "phonetic_us": null,
+      "phonics_split": "wel·com·ing",
+      "senses": [
+        {
+          "gloss": "欢迎( welcome的现在分词 ); 迎接; 乐于接受; 希望有",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very gentle.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常温和的, 文雅。"
+        }
+      ],
+      "headword": "gentle",
+      "lexical_entry_id": "w_gentle",
+      "ordinal": 17,
+      "phonetic_uk": "'dʒentl",
+      "phonetic_us": null,
+      "phonics_split": "gen·tle",
+      "senses": [
+        {
+          "gloss": "温和的, 文雅的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my whisper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的耳语, 密谈, 谣传, 沙沙声。"
+        },
+        {
+          "en": "I can see a whisper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到耳语, 密谈, 谣传, 沙沙声。"
+        }
+      ],
+      "headword": "whisper",
+      "lexical_entry_id": "w_whisper",
+      "ordinal": 18,
+      "phonetic_uk": "'hwispə",
+      "phonetic_us": null,
+      "phonics_split": "whis·per",
+      "senses": [
+        {
+          "gloss": "耳语, 密谈, 谣传, 沙沙声",
+          "pos": "n."
+        },
+        {
+          "gloss": "耳语, 密谈, 沙沙地响",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can tend.",
+          "origin": "template:t-v-can",
+          "zh": "我会走向, 有某种的倾向, 易于, 照顾, 注意。"
+        },
+        {
+          "en": "Let's tend together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起走向, 有某种的倾向, 易于, 照顾, 注意吧。"
+        }
+      ],
+      "headword": "tend",
+      "lexical_entry_id": "w_tend",
+      "ordinal": 19,
+      "phonetic_uk": "tend",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "走向, 有某种的倾向, 易于, 照顾, 注意",
+          "pos": "vi."
+        },
+        {
+          "gloss": "照料, 护理",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fizzy drink.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的碳酸饮料。"
+        },
+        {
+          "en": "I can see a fizzy drink.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到碳酸饮料。"
+        }
+      ],
+      "headword": "fizzy drink",
+      "lexical_entry_id": "w_fizzy_drink",
+      "ordinal": 20,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "碳酸饮料",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fried food.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的油炸食品。"
+        },
+        {
+          "en": "I can see a fried food.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到油炸食品。"
+        }
+      ],
+      "headword": "fried food",
+      "lexical_entry_id": "w_fried_food",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "油炸食品",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my a balanced diet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的均衡饮食。"
+        },
+        {
+          "en": "I can see an a balanced diet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到均衡饮食。"
+        }
+      ],
+      "headword": "a balanced diet",
+      "lexical_entry_id": "w_a_balanced_diet",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "均衡饮食",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in general”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in general”。"
+        }
+      ],
+      "headword": "in general",
+      "lexical_entry_id": "w_in_general",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大多数",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dairy product.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的乳制品。"
+        },
+        {
+          "en": "I can see a dairy product.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到乳制品。"
+        }
+      ],
+      "headword": "dairy product",
+      "lexical_entry_id": "w_dairy_product",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乳制品",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get through”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get through”。"
+        }
+      ],
+      "headword": "get through",
+      "lexical_entry_id": "w_get_through",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做完, 通过, 度过",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “would rather”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“would rather”。"
+        }
+      ],
+      "headword": "would rather",
+      "lexical_entry_id": "w_would_rather",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "倒愿意…,宁愿…",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can remind somebody of.",
+          "origin": "template:t-v-can",
+          "zh": "我会使某人想起。"
+        },
+        {
+          "en": "Let's remind somebody of together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使某人想起吧。"
+        }
+      ],
+      "headword": "remind somebody of",
+      "lexical_entry_id": "w_remind_somebody_of",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使某人想起",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

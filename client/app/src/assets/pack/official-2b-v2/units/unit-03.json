@@ -1,0 +1,72 @@
+{
+  "title": "What do you do in school clubs?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We do paper-cutting in the club.",
+          "origin": "curated:g2bn-u3-paper-cutting",
+          "zh": "我们在社团里剪纸。"
+        }
+      ],
+      "headword": "do paper-cutting",
+      "lexical_entry_id": "w_do_paper_cutting",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "剪纸",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They can do the lion dance.",
+          "origin": "curated:g2bn-u3-lion-dance",
+          "zh": "他们会舞狮。"
+        }
+      ],
+      "headword": "do the lion dance",
+      "lexical_entry_id": "w_do_the_lion_dance",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "舞狮",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can kick a shuttlecock.",
+          "origin": "curated:g2bn-u3-shuttlecock",
+          "zh": "我会踢毽子。"
+        }
+      ],
+      "headword": "kick a shuttlecock",
+      "lexical_entry_id": "w_kick_a_shuttlecock",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "踢毽子",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

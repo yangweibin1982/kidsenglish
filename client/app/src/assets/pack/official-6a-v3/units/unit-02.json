@@ -1,0 +1,174 @@
+{
+  "title": "My summer holiday",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my countryside.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的乡下地方, 乡下居民。"
+        },
+        {
+          "en": "I can see a countryside.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到乡下地方, 乡下居民。"
+        }
+      ],
+      "headword": "countryside",
+      "lexical_entry_id": "w_countryside",
+      "ordinal": 1,
+      "phonetic_uk": "'kʌntrisaid",
+      "phonetic_us": null,
+      "phonics_split": "coun·try·side",
+      "senses": [
+        {
+          "gloss": "乡下地方, 乡下居民",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “during”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“during”。"
+        }
+      ],
+      "headword": "during",
+      "lexical_entry_id": "w_during",
+      "ordinal": 2,
+      "phonetic_uk": "'djuəriŋ",
+      "phonetic_us": null,
+      "phonics_split": "dur·ing",
+      "senses": [
+        {
+          "gloss": "在...的时候",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Everyone is here today.",
+          "origin": "curated:p-pron-everyone",
+          "zh": "今天大家都到了。"
+        }
+      ],
+      "headword": "everyone",
+      "lexical_entry_id": "w_everyone",
+      "ordinal": 3,
+      "phonetic_uk": "'evriwʌn",
+      "phonetic_us": null,
+      "phonics_split": "ev·ery·one",
+      "senses": [
+        {
+          "gloss": "每个人, 人人",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very famous.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常出名的, 极好。"
+        }
+      ],
+      "headword": "famous",
+      "lexical_entry_id": "w_famous",
+      "ordinal": 4,
+      "phonetic_uk": "'feiməs",
+      "phonetic_us": null,
+      "phonics_split": "fa·mous",
+      "senses": [
+        {
+          "gloss": "出名的, 极好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Pick an apple, please.",
+          "origin": "curated:g2u12-pick",
+          "zh": "请摘一个苹果。"
+        }
+      ],
+      "headword": "pick",
+      "lexical_entry_id": "w_pick",
+      "ordinal": 5,
+      "phonetic_uk": "pik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "摘、采",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can spend.",
+          "origin": "template:t-v-can",
+          "zh": "我会花费, 浪费, 度过, 消耗, 消磨。"
+        },
+        {
+          "en": "Let's spend together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起花费, 浪费, 度过, 消耗, 消磨吧。"
+        }
+      ],
+      "headword": "spend",
+      "lexical_entry_id": "w_spend",
+      "ordinal": 6,
+      "phonetic_uk": "spend",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "花费, 浪费, 度过, 消耗, 消磨",
+          "pos": "vt."
+        },
+        {
+          "gloss": "花费, 用尽",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I will visit Beijing in the summer holiday.",
+          "origin": "curated:primary-6a-summer-holiday",
+          "zh": "暑假我要去北京游玩。"
+        }
+      ],
+      "headword": "summer holiday",
+      "lexical_entry_id": "w_summer_holiday",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "暑假",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

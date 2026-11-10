@@ -1,0 +1,532 @@
+{
+  "title": "A friend in Australia",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my April.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的四月。"
+        },
+        {
+          "en": "I can see an April.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到四月。"
+        }
+      ],
+      "headword": "April",
+      "lexical_entry_id": "w_april",
+      "ordinal": 1,
+      "phonetic_uk": "'eiprəl",
+      "phonetic_us": null,
+      "phonics_split": "ap·ril",
+      "senses": [
+        {
+          "gloss": "四月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my August.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的八月。"
+        },
+        {
+          "en": "I can see an August.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到八月。"
+        }
+      ],
+      "headword": "August",
+      "lexical_entry_id": "w_august",
+      "ordinal": 2,
+      "phonetic_uk": "ɔː'gʌst. 'ɔːgəst",
+      "phonetic_us": null,
+      "phonics_split": "au·gust",
+      "senses": [
+        {
+          "gloss": "八月",
+          "pos": "n."
+        },
+        {
+          "gloss": "威严的, 令人敬畏的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my China.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的中国, 瓷器。"
+        },
+        {
+          "en": "I can see a China.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到中国, 瓷器。"
+        }
+      ],
+      "headword": "china",
+      "lexical_entry_id": "w_china",
+      "ordinal": 3,
+      "phonetic_uk": "'tʃainə",
+      "phonetic_us": null,
+      "phonics_split": "chi·na",
+      "senses": [
+        {
+          "gloss": "中国, 瓷器",
+          "pos": "n."
+        },
+        {
+          "gloss": "中国的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my December.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的十二月。"
+        },
+        {
+          "en": "I can see a December.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到十二月。"
+        }
+      ],
+      "headword": "December",
+      "lexical_entry_id": "w_december",
+      "ordinal": 4,
+      "phonetic_uk": "di'sembə",
+      "phonetic_us": null,
+      "phonics_split": "de·cem·ber",
+      "senses": [
+        {
+          "gloss": "十二月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my email.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电子信函。"
+        },
+        {
+          "en": "I can see an email.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电子信函。"
+        }
+      ],
+      "headword": "email",
+      "lexical_entry_id": "w_email",
+      "ordinal": 5,
+      "phonetic_uk": "'i:'meil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电子信函",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “every year”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“every year”。"
+        }
+      ],
+      "headword": "every year",
+      "lexical_entry_id": "w_every_year",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "每一年",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my February.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的二月。"
+        },
+        {
+          "en": "I can see a February.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到二月。"
+        }
+      ],
+      "headword": "February",
+      "lexical_entry_id": "w_february",
+      "ordinal": 7,
+      "phonetic_uk": "'februəri",
+      "phonetic_us": null,
+      "phonics_split": "feb·ru·ary",
+      "senses": [
+        {
+          "gloss": "二月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的帽子。"
+        },
+        {
+          "en": "I can see a hat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到帽子。"
+        }
+      ],
+      "headword": "hat",
+      "lexical_entry_id": "w_hat",
+      "ordinal": 8,
+      "phonetic_uk": "hæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "帽子",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...戴帽子",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my January.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的一月。"
+        },
+        {
+          "en": "I can see a January.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到一月。"
+        }
+      ],
+      "headword": "January",
+      "lexical_entry_id": "w_january",
+      "ordinal": 9,
+      "phonetic_uk": "'dʒænjuəri",
+      "phonetic_us": null,
+      "phonics_split": "jan·u·ary",
+      "senses": [
+        {
+          "gloss": "一月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my July.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的七月。"
+        },
+        {
+          "en": "I can see a July.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到七月。"
+        }
+      ],
+      "headword": "July",
+      "lexical_entry_id": "w_july",
+      "ordinal": 10,
+      "phonetic_uk": "dʒu:'lai",
+      "phonetic_us": null,
+      "phonics_split": "ju·ly",
+      "senses": [
+        {
+          "gloss": "七月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my June.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的六月。"
+        },
+        {
+          "en": "I can see a June.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到六月。"
+        }
+      ],
+      "headword": "June",
+      "lexical_entry_id": "w_june",
+      "ordinal": 11,
+      "phonetic_uk": "dʒu:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "六月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my March.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界。"
+        },
+        {
+          "en": "I can see a March.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界。"
+        }
+      ],
+      "headword": "march",
+      "lexical_entry_id": "w_march",
+      "ordinal": 12,
+      "phonetic_uk": "mɑ:tʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界",
+          "pos": "n."
+        },
+        {
+          "gloss": "进军, 前进, 交界",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "May I have a pie?",
+          "origin": "curated:u9-may",
+          "zh": "我可以要一个馅饼吗？"
+        }
+      ],
+      "headword": "May",
+      "lexical_entry_id": "w_may",
+      "ordinal": 13,
+      "phonetic_uk": "mei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "可以",
+          "pos": "aux."
+        },
+        {
+          "gloss": "五月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my November.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的十一月。"
+        },
+        {
+          "en": "I can see a November.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到十一月。"
+        }
+      ],
+      "headword": "November",
+      "lexical_entry_id": "w_november",
+      "ordinal": 14,
+      "phonetic_uk": "nəu'vembə",
+      "phonetic_us": null,
+      "phonics_split": "no·vem·ber",
+      "senses": [
+        {
+          "gloss": "十一月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my October.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的十月。"
+        },
+        {
+          "en": "I can see an October.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到十月。"
+        }
+      ],
+      "headword": "October",
+      "lexical_entry_id": "w_october",
+      "ordinal": 15,
+      "phonetic_uk": "ɒk'təubə",
+      "phonetic_us": null,
+      "phonics_split": "oc·to·ber",
+      "senses": [
+        {
+          "gloss": "十月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my September.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的九月。"
+        },
+        {
+          "en": "I can see a September.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到九月。"
+        }
+      ],
+      "headword": "September",
+      "lexical_entry_id": "w_september",
+      "ordinal": 16,
+      "phonetic_uk": "sep'tembə",
+      "phonetic_us": null,
+      "phonics_split": "sep·tem·ber",
+      "senses": [
+        {
+          "gloss": "九月",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my talk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言。"
+        },
+        {
+          "en": "I can see a talk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言。"
+        }
+      ],
+      "headword": "talk",
+      "lexical_entry_id": "w_talk",
+      "ordinal": 17,
+      "phonetic_uk": "tɔːk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言",
+          "pos": "n."
+        },
+        {
+          "gloss": "讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的穿着, 戴, 使用, 耗损, 服装, 耐久性。"
+        },
+        {
+          "en": "I can see a wear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到穿着, 戴, 使用, 耗损, 服装, 耐久性。"
+        }
+      ],
+      "headword": "wear",
+      "lexical_entry_id": "w_wear",
+      "ordinal": 18,
+      "phonetic_uk": "wɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "穿着, 戴, 使用, 耗损, 服装, 耐久性",
+          "pos": "n."
+        },
+        {
+          "gloss": "穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This pen is yours.",
+          "origin": "curated:p-pron-yours",
+          "zh": "这支钢笔是你的。"
+        }
+      ],
+      "headword": "yours",
+      "lexical_entry_id": "w_yours",
+      "ordinal": 19,
+      "phonetic_uk": "juəz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你的(东西), 你们的(东西)",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

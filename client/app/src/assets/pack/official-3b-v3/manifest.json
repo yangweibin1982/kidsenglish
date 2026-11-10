@@ -1,0 +1,74 @@
+{
+  "files": [
+    {
+      "bytes": 5305,
+      "path": "units/unit-01.json",
+      "sha256": "dc93dc2ebba2632223e4fb957df02c0b3b2e02c4d825e3b1c32bd10bd2add964"
+    },
+    {
+      "bytes": 5595,
+      "path": "units/unit-02.json",
+      "sha256": "00fe829112848a0df231c5d2d3c55c8d82c89e10735433e318f67e1da8b5ae9a"
+    },
+    {
+      "bytes": 6266,
+      "path": "units/unit-03.json",
+      "sha256": "aca04f2001328890b4f2315e65c7afb21a2dc995cc3ee9d483d562a2ae5752eb"
+    },
+    {
+      "bytes": 6543,
+      "path": "units/unit-04.json",
+      "sha256": "943196fc85344d46b49e0b0e3f5fd4528cfc87ee7e90da475f7d8a24081c5c00"
+    },
+    {
+      "bytes": 4834,
+      "path": "units/unit-05.json",
+      "sha256": "9e181926519c5e420eb1231fb7ac43ccadc59c6585f4e2ba63d5877087a559a6"
+    },
+    {
+      "bytes": 7718,
+      "path": "units/unit-06.json",
+      "sha256": "343ae31d046b4afd15f8b8ed1d596aafdec2b8e9057a223072750ae160924cbb"
+    },
+    {
+      "bytes": 6298,
+      "path": "units/unit-07.json",
+      "sha256": "0e8d9de6efd7d6175740b2c38977e5cd2faff4000e7e2892eebbc3c9b551e894"
+    },
+    {
+      "bytes": 5139,
+      "path": "units/unit-08.json",
+      "sha256": "beea9af92b7cad1294ce72344e3ef8bb1dd25d68cfd2971a698cdf37dc53df07"
+    },
+    {
+      "bytes": 7438,
+      "path": "units/unit-09.json",
+      "sha256": "6b04d3a82b297de88e4df5f34bc31180586f60222f4e60cbe83838bf22c7537f"
+    },
+    {
+      "bytes": 4648,
+      "path": "units/unit-10.json",
+      "sha256": "5847e760c99706fcf6e7736db8dfeeb9946fd324ba8d66472e6d0e3b13ec8530"
+    },
+    {
+      "bytes": 5230,
+      "path": "units/unit-11.json",
+      "sha256": "ca00d031ca0a51ac14b7e09d356ba1c27d7faa418f5979c17bc0c2f7d2b9f138"
+    },
+    {
+      "bytes": 5807,
+      "path": "units/unit-12.json",
+      "sha256": "b97c71ccadfb2d69691cbf309b286e749a6f9a021a6627733cba9062f57c24a8"
+    }
+  ],
+  "generated_at": "2026-11-08T14:40:10+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "3",
+    "pack_id": 63,
+    "source": "official",
+    "term": "下",
+    "textbook_series": "沪教牛津（深圳专版）",
+    "version": 3
+  }
+}

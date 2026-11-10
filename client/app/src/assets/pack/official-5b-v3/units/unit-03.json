@@ -1,0 +1,420 @@
+{
+  "title": "In the future",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my future.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的未来, 将来。"
+        },
+        {
+          "en": "I can see a future.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到未来, 将来。"
+        }
+      ],
+      "headword": "future",
+      "lexical_entry_id": "w_future",
+      "ordinal": 1,
+      "phonetic_uk": "'fju:tʃə",
+      "phonetic_us": null,
+      "phonics_split": "fu·ture",
+      "senses": [
+        {
+          "gloss": "未来, 将来",
+          "pos": "n."
+        },
+        {
+          "gloss": "将来的, 未来的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my stand.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席。"
+        },
+        {
+          "en": "I can see a stand.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席。"
+        }
+      ],
+      "headword": "stand",
+      "lexical_entry_id": "w_stand",
+      "ordinal": 2,
+      "phonetic_uk": "stænd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席",
+          "pos": "n."
+        },
+        {
+          "gloss": "站, 立, 坐落, 停滞, 位于, 坚持, 维持原状",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my machine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的机器, 机械装置, 机构, 自动售货机, 机械般工作的人。"
+        },
+        {
+          "en": "I can see a machine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到机器, 机械装置, 机构, 自动售货机, 机械般工作的人。"
+        }
+      ],
+      "headword": "machine",
+      "lexical_entry_id": "w_machine",
+      "ordinal": 3,
+      "phonetic_uk": "mə'ʃi:n",
+      "phonetic_us": null,
+      "phonics_split": "ma·chine",
+      "senses": [
+        {
+          "gloss": "机器, 机械装置, 机构, 自动售货机, 机械般工作的人",
+          "pos": "n."
+        },
+        {
+          "gloss": "以机器制造",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my will.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的意志, 决心, 意愿, 意向, 干劲, 遗嘱。"
+        },
+        {
+          "en": "I can see a will.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到意志, 决心, 意愿, 意向, 干劲, 遗嘱。"
+        }
+      ],
+      "headword": "will",
+      "lexical_entry_id": "w_will",
+      "ordinal": 4,
+      "phonetic_uk": "wil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "意志, 决心, 意愿, 意向, 干劲, 遗嘱",
+          "pos": "n."
+        },
+        {
+          "gloss": "用意志的力量驱使, 决意, 愿意, 立遗嘱",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my exercise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的行使, 执行, 运动, 练习, 作业。"
+        },
+        {
+          "en": "I can see an exercise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到行使, 执行, 运动, 练习, 作业。"
+        }
+      ],
+      "headword": "exercise",
+      "lexical_entry_id": "w_exercise",
+      "ordinal": 5,
+      "phonetic_uk": "'eksəsaiz",
+      "phonetic_us": null,
+      "phonics_split": "ex·er·cise",
+      "senses": [
+        {
+          "gloss": "行使, 执行, 运动, 练习, 作业",
+          "pos": "n."
+        },
+        {
+          "gloss": "运用, 练习, 运动",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very early.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常早的, 早熟。"
+        }
+      ],
+      "headword": "early",
+      "lexical_entry_id": "w_early",
+      "ordinal": 6,
+      "phonetic_uk": "'ə:li",
+      "phonetic_us": null,
+      "phonics_split": "ear·ly",
+      "senses": [
+        {
+          "gloss": "早的, 早熟的",
+          "pos": "a."
+        },
+        {
+          "gloss": "很早, 初",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “easily”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“easily”。"
+        }
+      ],
+      "headword": "easily",
+      "lexical_entry_id": "w_easily",
+      "ordinal": 7,
+      "phonetic_uk": "'i:zili",
+      "phonetic_us": null,
+      "phonics_split": "eas·i·ly",
+      "senses": [
+        {
+          "gloss": "容易地, 轻易地, 流利地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very hard.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实。"
+        }
+      ],
+      "headword": "hard",
+      "lexical_entry_id": "w_hard",
+      "ordinal": 8,
+      "phonetic_uk": "hɑ:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "坚硬的, 硬的, 难的, 艰苦的, 困难的, 坚固的, 猛烈的, 艰难的, 结实的, 确实的",
+          "pos": "a."
+        },
+        {
+          "gloss": "坚硬地, 努力地, 辛苦地, 接近地, 猛烈地, 牢固地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my more.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的更多。"
+        },
+        {
+          "en": "I can see a more.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到更多。"
+        }
+      ],
+      "headword": "more",
+      "lexical_entry_id": "w_more",
+      "ordinal": 9,
+      "phonetic_uk": "mɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "更多",
+          "pos": "n."
+        },
+        {
+          "gloss": "多的, 程度较大的, 更大的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in the future”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in the future”。"
+        }
+      ],
+      "headword": "in the future",
+      "lexical_entry_id": "w_in_the_future",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "未来, 将来, 往后",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in front of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in front of”。"
+        }
+      ],
+      "headword": "in front of",
+      "lexical_entry_id": "w_in_front_of",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在...前面",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take a photo”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take a photo”。"
+        }
+      ],
+      "headword": "take a photo",
+      "lexical_entry_id": "w_take_a_photo",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拍照",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandpa wears glasses.",
+          "origin": "curated:g5b-u2-wear-glasses",
+          "zh": "我爷爷戴眼镜。"
+        }
+      ],
+      "headword": "wear glasses",
+      "lexical_entry_id": "w_wear_glasses",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "戴眼镜",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We do exercise every day.",
+          "origin": "curated:g5b-u3-do-exercise",
+          "zh": "我们每天锻炼。"
+        }
+      ],
+      "headword": "do exercise",
+      "lexical_entry_id": "w_do_exercise",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "锻炼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am weak in maths.",
+          "origin": "curated:g5b-u3-weak-in",
+          "zh": "我数学比较弱。"
+        }
+      ],
+      "headword": "be weak in",
+      "lexical_entry_id": "w_be_weak_in",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在……方面弱",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I don't cry any more.",
+          "origin": "curated:g5b-u3-not-any-more",
+          "zh": "我不再哭了。"
+        }
+      ],
+      "headword": "not any more",
+      "lexical_entry_id": "w_not_any_more",
+      "ordinal": 16,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不再",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

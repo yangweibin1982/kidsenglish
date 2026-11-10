@@ -1,0 +1,191 @@
+{
+  "title": "Grandparents",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “always”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“always”。"
+        }
+      ],
+      "headword": "always",
+      "lexical_entry_id": "w_always",
+      "ordinal": 1,
+      "phonetic_uk": "'ɔːlweiz",
+      "phonetic_us": null,
+      "phonics_split": "al·ways",
+      "senses": [
+        {
+          "gloss": "总是, 始终",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go shopping”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go shopping”。"
+        }
+      ],
+      "headword": "go shopping",
+      "lexical_entry_id": "w_go_shopping",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "去买东西",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “never”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“never”。"
+        }
+      ],
+      "headword": "never",
+      "lexical_entry_id": "w_never",
+      "ordinal": 3,
+      "phonetic_uk": "'nevə",
+      "phonetic_us": null,
+      "phonics_split": "nev·er",
+      "senses": [
+        {
+          "gloss": "从不, 决不, 不曾",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “often”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“often”。"
+        }
+      ],
+      "headword": "often",
+      "lexical_entry_id": "w_often",
+      "ordinal": 4,
+      "phonetic_uk": "'ɔːfn",
+      "phonetic_us": null,
+      "phonics_split": "of·ten",
+      "senses": [
+        {
+          "gloss": "时常, 常常",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We play sport after school.",
+          "origin": "curated:primary-5a-play-sport",
+          "zh": "我们放学后做运动。"
+        }
+      ],
+      "headword": "play sport",
+      "lexical_entry_id": "w_play_sport",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做运动",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “sometimes”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“sometimes”。"
+        }
+      ],
+      "headword": "sometimes",
+      "lexical_entry_id": "w_sometimes",
+      "ordinal": 6,
+      "phonetic_uk": "'sʌmtaimz",
+      "phonetic_us": null,
+      "phonics_split": "some·times",
+      "senses": [
+        {
+          "gloss": "有时, 时常, 往往",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “usually”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“usually”。"
+        }
+      ],
+      "headword": "usually",
+      "lexical_entry_id": "w_usually",
+      "ordinal": 7,
+      "phonetic_uk": "'ju:ʒuəli",
+      "phonetic_us": null,
+      "phonics_split": "usu·al·ly",
+      "senses": [
+        {
+          "gloss": "通常, 大抵",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my visit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的拜访, 访问, 游览, 视察。"
+        },
+        {
+          "en": "I can see a visit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到拜访, 访问, 游览, 视察。"
+        }
+      ],
+      "headword": "visit",
+      "lexical_entry_id": "w_visit",
+      "ordinal": 8,
+      "phonetic_uk": "'vizit",
+      "phonetic_us": null,
+      "phonics_split": "vis·it",
+      "senses": [
+        {
+          "gloss": "拜访, 访问, 游览, 视察",
+          "pos": "n."
+        },
+        {
+          "gloss": "拜访, 访问, 参观, 视察, 降临",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

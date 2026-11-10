@@ -1,0 +1,156 @@
+{
+  "title": "My friends",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "My father is tall.",
+          "origin": "curated:u6-tall",
+          "zh": "我的爸爸很高。"
+        }
+      ],
+      "headword": "tall",
+      "lexical_entry_id": "w_tall",
+      "ordinal": 1,
+      "phonetic_uk": "tɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My pencil is short.",
+          "origin": "curated:u6-short",
+          "zh": "我的铅笔很短。"
+        }
+      ],
+      "headword": "short",
+      "lexical_entry_id": "w_short",
+      "ordinal": 2,
+      "phonetic_uk": "ʃɔːt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "短的",
+          "pos": "a."
+        },
+        {
+          "gloss": "矮的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pig is fat.",
+          "origin": "curated:u6-fat",
+          "zh": "这只猪很胖。"
+        }
+      ],
+      "headword": "fat",
+      "lexical_entry_id": "w_fat",
+      "ordinal": 3,
+      "phonetic_uk": "fæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "胖的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am thin.",
+          "origin": "curated:u6-thin",
+          "zh": "我很瘦。"
+        }
+      ],
+      "headword": "thin",
+      "lexical_entry_id": "w_thin",
+      "ordinal": 4,
+      "phonetic_uk": "θin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "瘦的",
+          "pos": "a."
+        },
+        {
+          "gloss": "薄的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my classmate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的同班同学。"
+        },
+        {
+          "en": "I can see a classmate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到同班同学。"
+        }
+      ],
+      "headword": "classmate",
+      "lexical_entry_id": "w_classmate",
+      "ordinal": 5,
+      "phonetic_uk": "'klɑ:smeit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "同班同学",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my friend.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的朋友。"
+        },
+        {
+          "en": "I can see a friend.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到朋友。"
+        }
+      ],
+      "headword": "friend",
+      "lexical_entry_id": "w_friend",
+      "ordinal": 6,
+      "phonetic_uk": "frend",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "朋友",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

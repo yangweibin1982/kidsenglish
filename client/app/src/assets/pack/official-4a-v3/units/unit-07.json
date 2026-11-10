@@ -1,0 +1,402 @@
+{
+  "title": "At school",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "What animal is it?",
+          "origin": "curated:g2u11-animal",
+          "zh": "它是什么动物？"
+        }
+      ],
+      "headword": "animal",
+      "lexical_entry_id": "w_animal",
+      "ordinal": 1,
+      "phonetic_uk": "'æniməl",
+      "phonetic_us": null,
+      "phonics_split": "an·i·mal",
+      "senses": [
+        {
+          "gloss": "动物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very busy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常忙碌的, 热闹的, 没空。"
+        }
+      ],
+      "headword": "busy",
+      "lexical_entry_id": "w_busy",
+      "ordinal": 2,
+      "phonetic_uk": "'bizi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "忙碌的, 热闹的, 没空的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使忙",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my classroom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的教室。"
+        },
+        {
+          "en": "I can see a classroom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到教室。"
+        }
+      ],
+      "headword": "classroom",
+      "lexical_entry_id": "w_classroom",
+      "ordinal": 3,
+      "phonetic_uk": "'klɑ:sru:m",
+      "phonetic_us": null,
+      "phonics_split": "class·room",
+      "senses": [
+        {
+          "gloss": "教室",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Monkeys can climb trees very fast.",
+          "origin": "curated:primary-4a-climb-trees",
+          "zh": "猴子爬树爬得很快。"
+        }
+      ],
+      "headword": "climb trees",
+      "lexical_entry_id": "w_climb_trees",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爬树",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my computer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电脑, 电子计算机。"
+        },
+        {
+          "en": "I can see a computer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电脑, 电子计算机。"
+        }
+      ],
+      "headword": "computer",
+      "lexical_entry_id": "w_computer",
+      "ordinal": 5,
+      "phonetic_uk": "kəm'pju:tə",
+      "phonetic_us": null,
+      "phonics_split": "com·put·er",
+      "senses": [
+        {
+          "gloss": "电脑, 电子计算机",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “first”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“first”。"
+        }
+      ],
+      "headword": "first",
+      "lexical_entry_id": "w_first",
+      "ordinal": 6,
+      "phonetic_uk": "fə:st",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "首先, 第一, 优先",
+          "pos": "adv."
+        },
+        {
+          "gloss": "第一的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the forest.",
+          "origin": "curated:g2u11-forest",
+          "zh": "我们在森林里。"
+        }
+      ],
+      "headword": "forest",
+      "lexical_entry_id": "w_forest",
+      "ordinal": 7,
+      "phonetic_uk": "'fɒrist",
+      "phonetic_us": null,
+      "phonics_split": "for·est",
+      "senses": [
+        {
+          "gloss": "森林",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my library.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的图书馆, 藏书, 库。"
+        },
+        {
+          "en": "I can see a library.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到图书馆, 藏书, 库。"
+        }
+      ],
+      "headword": "library",
+      "lexical_entry_id": "w_library",
+      "ordinal": 8,
+      "phonetic_uk": "'laibrəri",
+      "phonetic_us": null,
+      "phonics_split": "li·brary",
+      "senses": [
+        {
+          "gloss": "图书馆, 藏书, 库",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my many.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的多数, 多数人。"
+        },
+        {
+          "en": "I can see a many.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到多数, 多数人。"
+        }
+      ],
+      "headword": "many",
+      "lexical_entry_id": "w_many",
+      "ordinal": 9,
+      "phonetic_uk": "'meni",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多数, 多数人",
+          "pos": "n."
+        },
+        {
+          "gloss": "许多的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my office.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的办公室, 部, 公职, 职责。"
+        },
+        {
+          "en": "I can see an office.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到办公室, 部, 公职, 职责。"
+        }
+      ],
+      "headword": "office",
+      "lexical_entry_id": "w_office",
+      "ordinal": 10,
+      "phonetic_uk": "'ɒfis",
+      "phonetic_us": null,
+      "phonics_split": "of·fice",
+      "senses": [
+        {
+          "gloss": "办公室, 部, 公职, 职责",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the playground.",
+          "origin": "curated:g2u7-playground",
+          "zh": "我们在游乐场里。"
+        }
+      ],
+      "headword": "playground",
+      "lexical_entry_id": "w_playground",
+      "ordinal": 11,
+      "phonetic_uk": "'pleigraund",
+      "phonetic_us": null,
+      "phonics_split": "play·ground",
+      "senses": [
+        {
+          "gloss": "游乐场、操场",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pupil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的学生, 门生, 未成年人, 瞳孔。"
+        },
+        {
+          "en": "I can see a pupil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到学生, 门生, 未成年人, 瞳孔。"
+        }
+      ],
+      "headword": "pupil",
+      "lexical_entry_id": "w_pupil",
+      "ordinal": 12,
+      "phonetic_uk": "'pju:pl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "学生, 门生, 未成年人, 瞳孔",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my school.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的学校。"
+        },
+        {
+          "en": "I can see a school.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到学校。"
+        }
+      ],
+      "headword": "school",
+      "lexical_entry_id": "w_school",
+      "ordinal": 13,
+      "phonetic_uk": "sku:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "🏫",
+          "gloss": "学校",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my toilet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厕所, 梳妆。"
+        },
+        {
+          "en": "I can see a toilet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厕所, 梳妆。"
+        }
+      ],
+      "headword": "toilet",
+      "lexical_entry_id": "w_toilet",
+      "ordinal": 14,
+      "phonetic_uk": "'tɒilit",
+      "phonetic_us": null,
+      "phonics_split": "toi·let",
+      "senses": [
+        {
+          "gloss": "厕所, 梳妆",
+          "pos": "n."
+        },
+        {
+          "gloss": "梳妆, 打扮, 上厕所",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my try.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的尝试, 试验, 审理, 审判。"
+        },
+        {
+          "en": "I can see a try.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到尝试, 试验, 审理, 审判。"
+        }
+      ],
+      "headword": "try",
+      "lexical_entry_id": "w_try",
+      "ordinal": 15,
+      "phonetic_uk": "trai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "尝试, 试验, 审理, 审判",
+          "pos": "n."
+        },
+        {
+          "gloss": "试, 尝试, 试验, 考验, 审问, 提炼",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

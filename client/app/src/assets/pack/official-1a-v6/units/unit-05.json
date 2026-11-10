@@ -1,0 +1,184 @@
+{
+  "title": "What is your favourite animal?",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my dog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的狗, 坏蛋。"
+        },
+        {
+          "en": "I can see a dog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到狗, 坏蛋。"
+        }
+      ],
+      "headword": "dog",
+      "lexical_entry_id": "w_dog",
+      "ordinal": 1,
+      "phonetic_uk": "dɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狗, 坏蛋",
+          "pos": "n."
+        },
+        {
+          "gloss": "跟踪, 尾随",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猫, 恶妇。"
+        },
+        {
+          "en": "I can see a cat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猫, 恶妇。"
+        }
+      ],
+      "headword": "cat",
+      "lexical_entry_id": "w_cat",
+      "ordinal": 2,
+      "phonetic_uk": "kæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猫, 恶妇",
+          "pos": "n."
+        },
+        {
+          "gloss": "呕吐",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鱼, 鱼肉, 鱼类, 接合板。"
+        },
+        {
+          "en": "I can see a fish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鱼, 鱼肉, 鱼类, 接合板。"
+        }
+      ],
+      "headword": "fish",
+      "lexical_entry_id": "w_fish",
+      "ordinal": 3,
+      "phonetic_uk": "fiʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鱼, 鱼肉, 鱼类, 接合板",
+          "pos": "n."
+        },
+        {
+          "gloss": "钓, 钓鱼, 查出, 用接合板连接",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bird.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鸟, 羽毛球。"
+        },
+        {
+          "en": "I can see a bird.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鸟, 羽毛球。"
+        }
+      ],
+      "headword": "bird",
+      "lexical_entry_id": "w_bird",
+      "ordinal": 4,
+      "phonetic_uk": "bə:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鸟, 羽毛球",
+          "pos": "n."
+        },
+        {
+          "gloss": "打鸟",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hamster.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的仓鼠。"
+        },
+        {
+          "en": "I can see a hamster.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到仓鼠。"
+        }
+      ],
+      "headword": "hamster",
+      "lexical_entry_id": "w_hamster",
+      "ordinal": 5,
+      "phonetic_uk": "'hæmstə",
+      "phonetic_us": null,
+      "phonics_split": "ham·ster",
+      "senses": [
+        {
+          "gloss": "仓鼠",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tortoise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的龟, 行动迟缓的人。"
+        },
+        {
+          "en": "I can see a tortoise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到龟, 行动迟缓的人。"
+        }
+      ],
+      "headword": "tortoise",
+      "lexical_entry_id": "w_tortoise",
+      "ordinal": 6,
+      "phonetic_uk": "'tɔːtəs",
+      "phonetic_us": null,
+      "phonics_split": "tor·toise",
+      "senses": [
+        {
+          "gloss": "龟, 行动迟缓的人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

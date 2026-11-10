@@ -1,0 +1,246 @@
+{
+  "title": "Colours",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “and”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“and”。"
+        }
+      ],
+      "headword": "and",
+      "lexical_entry_id": "w_and",
+      "ordinal": 1,
+      "phonetic_uk": "ænd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "和, 与",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ball.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的球, 舞会, 球状物。"
+        },
+        {
+          "en": "I can see a ball.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到球, 舞会, 球状物。"
+        }
+      ],
+      "headword": "ball",
+      "lexical_entry_id": "w_ball",
+      "ordinal": 2,
+      "phonetic_uk": "bɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "球, 舞会, 球状物",
+          "pos": "n."
+        },
+        {
+          "gloss": "捏成球形",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my black.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黑色, 黑颜料。"
+        },
+        {
+          "en": "I can see a black.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黑色, 黑颜料。"
+        }
+      ],
+      "headword": "black",
+      "lexical_entry_id": "w_black",
+      "ordinal": 3,
+      "phonetic_uk": "blæk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "黑色, 黑颜料",
+          "pos": "n."
+        },
+        {
+          "gloss": "黑色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a blue pencil.",
+          "origin": "curated:u12-blue",
+          "zh": "我有一支蓝色的铅笔。"
+        }
+      ],
+      "headword": "blue",
+      "lexical_entry_id": "w_blue",
+      "ordinal": 4,
+      "phonetic_uk": "blu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蓝色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "蓝色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What colour is it?",
+          "origin": "curated:u12-colour",
+          "zh": "它是什么颜色？"
+        }
+      ],
+      "headword": "colour",
+      "lexical_entry_id": "w_colour",
+      "ordinal": 5,
+      "phonetic_uk": "'kʌlə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "颜色",
+          "pos": "n."
+        },
+        {
+          "gloss": "涂色",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The pear is green.",
+          "origin": "curated:u12-green",
+          "zh": "梨是绿色的。"
+        }
+      ],
+      "headword": "green",
+      "lexical_entry_id": "w_green",
+      "ordinal": 6,
+      "phonetic_uk": "gri:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "绿色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "绿色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see a red apple.",
+          "origin": "curated:u12-red",
+          "zh": "我看见一个红苹果。"
+        }
+      ],
+      "headword": "red",
+      "lexical_entry_id": "w_red",
+      "ordinal": 7,
+      "phonetic_uk": "red",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "红色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "红色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The moon is white.",
+          "origin": "curated:g2u11-white",
+          "zh": "月亮是白色的。"
+        }
+      ],
+      "headword": "white",
+      "lexical_entry_id": "w_white",
+      "ordinal": 8,
+      "phonetic_uk": "hwait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "白色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "白色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The chick is yellow.",
+          "origin": "curated:u12-yellow",
+          "zh": "小鸡是黄色的。"
+        }
+      ],
+      "headword": "yellow",
+      "lexical_entry_id": "w_yellow",
+      "ordinal": 9,
+      "phonetic_uk": "'jeləu",
+      "phonetic_us": null,
+      "phonics_split": "yel·low",
+      "senses": [
+        {
+          "gloss": "黄色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "黄色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "title": "Days of the week",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We go to the park at the weekend.",
+          "origin": "curated:primary-4b-weekend",
+          "zh": "我们周末去公园。"
+        }
+      ],
+      "headword": "at the weekend",
+      "lexical_entry_id": "w_at_the_weekend",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在周末",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my clock.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时钟, 计时器, (袜子上的)绣花边花。"
+        },
+        {
+          "en": "I can see a clock.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时钟, 计时器, (袜子上的)绣花边花。"
+        }
+      ],
+      "headword": "clock",
+      "lexical_entry_id": "w_clock",
+      "ordinal": 2,
+      "phonetic_uk": "klɒk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "时钟, 计时器, (袜子上的)绣花边花",
+          "pos": "n."
+        },
+        {
+          "gloss": "绣花样, 记时, 记录",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Friday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期五。"
+        },
+        {
+          "en": "I can see a Friday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期五。"
+        }
+      ],
+      "headword": "Friday",
+      "lexical_entry_id": "w_friday",
+      "ordinal": 3,
+      "phonetic_uk": "'fraidi",
+      "phonetic_us": null,
+      "phonics_split": "fri·day",
+      "senses": [
+        {
+          "gloss": "星期五",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my game.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味。"
+        },
+        {
+          "en": "I can see a game.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味。"
+        }
+      ],
+      "headword": "game",
+      "lexical_entry_id": "w_game",
+      "ordinal": 4,
+      "phonetic_uk": "geim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味",
+          "pos": "n."
+        },
+        {
+          "gloss": "赌博",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Hurry up! Don't be late for school.",
+          "origin": "curated:primary-4b-late-for",
+          "zh": "快点！上学不要迟到。"
+        }
+      ],
+      "headword": "be late for",
+      "lexical_entry_id": "w_be_late_for",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "迟到",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Monday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期一。"
+        },
+        {
+          "en": "I can see a Monday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期一。"
+        }
+      ],
+      "headword": "Monday",
+      "lexical_entry_id": "w_monday",
+      "ordinal": 6,
+      "phonetic_uk": "'mʌndi",
+      "phonetic_us": null,
+      "phonics_split": "mon·day",
+      "senses": [
+        {
+          "gloss": "星期一",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “play chess”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“play chess”。"
+        }
+      ],
+      "headword": "play chess",
+      "lexical_entry_id": "w_play_chess",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下棋",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Saturday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期六。"
+        },
+        {
+          "en": "I can see a Saturday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期六。"
+        }
+      ],
+      "headword": "Saturday",
+      "lexical_entry_id": "w_saturday",
+      "ordinal": 8,
+      "phonetic_uk": "'sætədi",
+      "phonetic_us": null,
+      "phonics_split": "sat·ur·day",
+      "senses": [
+        {
+          "gloss": "星期六",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is Sunday today.",
+          "origin": "curated:u2-sunday",
+          "zh": "今天是星期日。"
+        }
+      ],
+      "headword": "Sunday",
+      "lexical_entry_id": "w_sunday",
+      "ordinal": 9,
+      "phonetic_uk": "'sʌndi",
+      "phonetic_us": null,
+      "phonics_split": "sun·day",
+      "senses": [
+        {
+          "gloss": "星期日",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Thursday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期四。"
+        },
+        {
+          "en": "I can see a Thursday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期四。"
+        }
+      ],
+      "headword": "Thursday",
+      "lexical_entry_id": "w_thursday",
+      "ordinal": 10,
+      "phonetic_uk": "'θə:zdi",
+      "phonetic_us": null,
+      "phonics_split": "thurs·day",
+      "senses": [
+        {
+          "gloss": "星期四",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Tuesday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期二。"
+        },
+        {
+          "en": "I can see a Tuesday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期二。"
+        }
+      ],
+      "headword": "Tuesday",
+      "lexical_entry_id": "w_tuesday",
+      "ordinal": 11,
+      "phonetic_uk": "'tju:zdi",
+      "phonetic_us": null,
+      "phonics_split": "tues·day",
+      "senses": [
+        {
+          "gloss": "星期二",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Wednesday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期三。"
+        },
+        {
+          "en": "I can see a Wednesday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期三。"
+        }
+      ],
+      "headword": "Wednesday",
+      "lexical_entry_id": "w_wednesday",
+      "ordinal": 12,
+      "phonetic_uk": "'wenzdi",
+      "phonetic_us": null,
+      "phonics_split": "wednes·day",
+      "senses": [
+        {
+          "gloss": "星期三",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my week.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期, 周。"
+        },
+        {
+          "en": "I can see a week.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期, 周。"
+        }
+      ],
+      "headword": "week",
+      "lexical_entry_id": "w_week",
+      "ordinal": 13,
+      "phonetic_uk": "wi:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "星期, 周",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“with”。"
+        }
+      ],
+      "headword": "with",
+      "lexical_entry_id": "w_with",
+      "ordinal": 14,
+      "phonetic_uk": "wið",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "和...在一起, 以, 由于",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "title": "My friends",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The pig is fat.",
+          "origin": "curated:u6-fat",
+          "zh": "这只猪很胖。"
+        }
+      ],
+      "headword": "fat",
+      "lexical_entry_id": "w_fat",
+      "ordinal": 1,
+      "phonetic_uk": "fæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "胖的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my friend.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的朋友。"
+        },
+        {
+          "en": "I can see a friend.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到朋友。"
+        }
+      ],
+      "headword": "friend",
+      "lexical_entry_id": "w_friend",
+      "ordinal": 2,
+      "phonetic_uk": "frend",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "朋友",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He is my father.",
+          "origin": "curated:u5-pron-he",
+          "zh": "他是我的爸爸。"
+        }
+      ],
+      "headword": "he",
+      "lexical_entry_id": "w_he",
+      "ordinal": 3,
+      "phonetic_uk": "hi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is a pear.",
+          "origin": "curated:u3-be-is",
+          "zh": "它是一个梨。"
+        }
+      ],
+      "headword": "is",
+      "lexical_entry_id": "w_is",
+      "ordinal": 4,
+      "phonetic_uk": "iz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil.",
+          "origin": "curated:u3-pron-my",
+          "zh": "这是我的铅笔。"
+        }
+      ],
+      "headword": "my",
+      "lexical_entry_id": "w_my",
+      "ordinal": 5,
+      "phonetic_uk": "mai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "She is my friend.",
+          "origin": "curated:u5-pron-she",
+          "zh": "她是我的朋友。"
+        }
+      ],
+      "headword": "she",
+      "lexical_entry_id": "w_she",
+      "ordinal": 6,
+      "phonetic_uk": "ʃi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "她",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My pencil is short.",
+          "origin": "curated:u6-short",
+          "zh": "我的铅笔很短。"
+        }
+      ],
+      "headword": "short",
+      "lexical_entry_id": "w_short",
+      "ordinal": 7,
+      "phonetic_uk": "ʃɔːt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "短的",
+          "pos": "a."
+        },
+        {
+          "gloss": "矮的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My father is tall.",
+          "origin": "curated:u6-tall",
+          "zh": "我的爸爸很高。"
+        }
+      ],
+      "headword": "tall",
+      "lexical_entry_id": "w_tall",
+      "ordinal": 8,
+      "phonetic_uk": "tɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am thin.",
+          "origin": "curated:u6-thin",
+          "zh": "我很瘦。"
+        }
+      ],
+      "headword": "thin",
+      "lexical_entry_id": "w_thin",
+      "ordinal": 9,
+      "phonetic_uk": "θin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "瘦的",
+          "pos": "a."
+        },
+        {
+          "gloss": "薄的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my face.",
+          "origin": "curated:u3-pron-this",
+          "zh": "这是我的脸。"
+        }
+      ],
+      "headword": "this",
+      "lexical_entry_id": "w_this",
+      "ordinal": 10,
+      "phonetic_uk": "θis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "这、这个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

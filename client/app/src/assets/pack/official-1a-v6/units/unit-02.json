@@ -1,0 +1,107 @@
+{
+  "title": "How are you today?",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cold.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的感冒, 寒冷。"
+        },
+        {
+          "en": "I can see a cold.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到感冒, 寒冷。"
+        }
+      ],
+      "headword": "cold",
+      "lexical_entry_id": "w_cold",
+      "ordinal": 1,
+      "phonetic_uk": "kəuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "感冒, 寒冷",
+          "pos": "n."
+        },
+        {
+          "gloss": "寒冷的, 冷淡的, 冷静的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very hot.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫。"
+        }
+      ],
+      "headword": "hot",
+      "lexical_entry_id": "w_hot",
+      "ordinal": 2,
+      "phonetic_uk": "hɒt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的",
+          "pos": "a."
+        },
+        {
+          "gloss": "热, 紧迫地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very thirsty.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常口渴的, 渴望的, 干燥。"
+        }
+      ],
+      "headword": "thirsty",
+      "lexical_entry_id": "w_thirsty",
+      "ordinal": 3,
+      "phonetic_uk": "'θə:sti",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "口渴的, 渴望的, 干燥的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very hungry.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常饥饿的, 荒年的, 渴望的, 不毛。"
+        }
+      ],
+      "headword": "hungry",
+      "lexical_entry_id": "w_hungry",
+      "ordinal": 4,
+      "phonetic_uk": "'hʌŋgi",
+      "phonetic_us": null,
+      "phonics_split": "hun·gry",
+      "senses": [
+        {
+          "gloss": "饥饿的, 荒年的, 渴望的, 不毛的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

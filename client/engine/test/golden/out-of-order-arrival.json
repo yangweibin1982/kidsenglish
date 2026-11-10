@@ -1,0 +1,79 @@
+{
+  "name": "out-of-order-arrival-same-terminal-state",
+  "description": "【性质·乱序到达】事件按到达序给歪（HLC 最晚的 dev-b 作答排最前、最早的手动降池夹中间）：折叠先按 (hlc 物理, hlc 逻辑, device_id, event_id) 全序重排再重放，终态与按序投递完全一致——快对升 P1 → 家长手动降回 P0（当日重学）→ dev-b 再快对升 P1（近 2 次快对率 1.0 → hard 档）。终态 P1、到期 2026-10-27。",
+  "events": [
+    {
+      "event_id": "oo-203",
+      "child_id": "c1",
+      "device_id": "dev-b",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 3000, "counter": 0 },
+      "occurred_at": "2026-10-26T15:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-grape",
+        "question_type": "teach_trace",
+        "correct": true,
+        "reaction_ms": 5000,
+        "answered_on": "2026-10-26"
+      }
+    },
+    {
+      "event_id": "oo-201",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-26T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-grape",
+        "question_type": "teach_picture_audio",
+        "correct": true,
+        "reaction_ms": 2500,
+        "answered_on": "2026-10-26"
+      }
+    },
+    {
+      "event_id": "oo-202",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 2000, "counter": 0 },
+      "occurred_at": "2026-10-26T12:00:00Z",
+      "type": "pool_demoted",
+      "payload": {
+        "lexical_entry_id": "w-grape",
+        "to_pool": "P0",
+        "on": "2026-10-26",
+        "reason": "parent_manual_adjust"
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-grape",
+        "pool": "P1",
+        "fastStreak": 0,
+        "errorStreak": 0,
+        "dueDate": "2026-10-27",
+        "variationTier": "hard",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": [
+          { "correct": true, "fast": true, "answeredOn": "2026-10-26" },
+          { "correct": true, "fast": true, "answeredOn": "2026-10-26" }
+        ]
+      }
+    ],
+    "counters": { "answered": 2, "correct": 2, "stars": 0, "shards": 0 },
+    "dailySummaries": [
+      { "date": "2026-10-26", "answered": 2, "correct": 2, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 }
+    ],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

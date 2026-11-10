@@ -1,0 +1,354 @@
+{
+  "title": "Air",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my air.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的空气, 旋律, 态度。"
+        },
+        {
+          "en": "I can see an air.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到空气, 旋律, 态度。"
+        }
+      ],
+      "headword": "air",
+      "lexical_entry_id": "w_air",
+      "ordinal": 1,
+      "phonetic_uk": "ɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "空气, 旋律, 态度",
+          "pos": "n."
+        },
+        {
+          "gloss": "晾, 使通风, 夸耀",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very alive.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常活着的, 活泼的, 敏感的, 热闹。"
+        }
+      ],
+      "headword": "alive",
+      "lexical_entry_id": "w_alive",
+      "ordinal": 2,
+      "phonetic_uk": "ə'laiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "活着的, 活泼的, 敏感的, 热闹的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my balloon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的气球。"
+        },
+        {
+          "en": "I can see a balloon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到气球。"
+        }
+      ],
+      "headword": "balloon",
+      "lexical_entry_id": "w_balloon",
+      "ordinal": 3,
+      "phonetic_uk": "bə'lu:n",
+      "phonetic_us": null,
+      "phonics_split": "bal·loon",
+      "senses": [
+        {
+          "gloss": "气球",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成气球状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very clean.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常干净的, 清白的, 简洁。"
+        }
+      ],
+      "headword": "clean",
+      "lexical_entry_id": "w_clean",
+      "ordinal": 4,
+      "phonetic_uk": "kli:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "干净的, 清白的, 简洁的",
+          "pos": "a."
+        },
+        {
+          "gloss": "清洁地, 完全地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very dirty.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常肮脏的, 卑鄙。"
+        }
+      ],
+      "headword": "dirty",
+      "lexical_entry_id": "w_dirty",
+      "ordinal": 5,
+      "phonetic_uk": "'də:ti",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "肮脏的, 卑鄙的",
+          "pos": "a."
+        },
+        {
+          "gloss": "弄脏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “everywhere”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“everywhere”。"
+        }
+      ],
+      "headword": "everywhere",
+      "lexical_entry_id": "w_everywhere",
+      "ordinal": 6,
+      "phonetic_uk": "'evrihwɛə",
+      "phonetic_us": null,
+      "phonics_split": "ev·ery·where",
+      "senses": [
+        {
+          "gloss": "各处, 到处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my factory.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工厂, 产生地, 代理店。"
+        },
+        {
+          "en": "I can see a factory.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工厂, 产生地, 代理店。"
+        }
+      ],
+      "headword": "factory",
+      "lexical_entry_id": "w_factory",
+      "ordinal": 7,
+      "phonetic_uk": "'fæktəri",
+      "phonetic_us": null,
+      "phonics_split": "fac·to·ry",
+      "senses": [
+        {
+          "gloss": "工厂, 产生地, 代理店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very fresh.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失。"
+        }
+      ],
+      "headword": "fresh",
+      "lexical_entry_id": "w_fresh",
+      "ordinal": 8,
+      "phonetic_uk": "freʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的",
+          "pos": "a."
+        },
+        {
+          "gloss": "最新地, 刚刚",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hurt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的伤害, 创伤, 损害。"
+        },
+        {
+          "en": "I can see a hurt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到伤害, 创伤, 损害。"
+        }
+      ],
+      "headword": "hurt",
+      "lexical_entry_id": "w_hurt",
+      "ordinal": 9,
+      "phonetic_uk": "hə:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "伤害, 创伤, 损害",
+          "pos": "n."
+        },
+        {
+          "gloss": "伤害, (使)伤心, 危害, 刺痛",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Animals need food and water to keep alive.",
+          "origin": "curated:primary-6a-keep-alive",
+          "zh": "动物需要食物和水才能存活。"
+        }
+      ],
+      "headword": "keep alive",
+      "lexical_entry_id": "w_keep_alive",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "存活;维持生命",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备。"
+        },
+        {
+          "en": "I can see a plant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备。"
+        }
+      ],
+      "headword": "plant",
+      "lexical_entry_id": "w_plant",
+      "ordinal": 11,
+      "phonetic_uk": "plænt. plɑ:nt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备",
+          "pos": "n."
+        },
+        {
+          "gloss": "种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We plant trees in spring.",
+          "origin": "curated:primary-6a-plant-trees",
+          "zh": "我们在春天植树。"
+        }
+      ],
+      "headword": "plant trees",
+      "lexical_entry_id": "w_plant_trees",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "植树;种树",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my smoke.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的烟, 雾气, 烟熏剂, 抽烟, 烟色。"
+        },
+        {
+          "en": "I can see a smoke.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到烟, 雾气, 烟熏剂, 抽烟, 烟色。"
+        }
+      ],
+      "headword": "smoke",
+      "lexical_entry_id": "w_smoke",
+      "ordinal": 13,
+      "phonetic_uk": "sməuk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "烟, 雾气, 烟熏剂, 抽烟, 烟色",
+          "pos": "n."
+        },
+        {
+          "gloss": "吸烟, 冒烟, 弥漫",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

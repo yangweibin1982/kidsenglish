@@ -1,0 +1,281 @@
+{
+  "title": "At the fruit shop",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I have a book and an apple.",
+          "origin": "curated:primary-3a-a-an",
+          "zh": "我有一本书和一个苹果。"
+        }
+      ],
+      "headword": "a (an)",
+      "lexical_entry_id": "w_a_an",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一（个、件……）",
+          "pos": "art."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my apple.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的苹果。"
+        },
+        {
+          "en": "I can see an apple.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到苹果。"
+        }
+      ],
+      "headword": "apple",
+      "lexical_entry_id": "w_apple",
+      "ordinal": 2,
+      "phonetic_uk": "'æpl",
+      "phonetic_us": null,
+      "phonics_split": "ap·ple",
+      "senses": [
+        {
+          "gloss": "苹果",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my banana.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的香蕉。"
+        },
+        {
+          "en": "I can see a banana.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到香蕉。"
+        }
+      ],
+      "headword": "banana",
+      "lexical_entry_id": "w_banana",
+      "ordinal": 3,
+      "phonetic_uk": "bə'nɑ:nə",
+      "phonetic_us": null,
+      "phonics_split": "ba·nana",
+      "senses": [
+        {
+          "gloss": "香蕉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dad.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的爸爸。"
+        },
+        {
+          "en": "I can see a dad.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到爸爸。"
+        }
+      ],
+      "headword": "dad",
+      "lexical_entry_id": "w_dad",
+      "ordinal": 4,
+      "phonetic_uk": "dæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爸爸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very good.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常好。"
+        }
+      ],
+      "headword": "good",
+      "lexical_entry_id": "w_good",
+      "ordinal": 5,
+      "phonetic_uk": "gud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “here”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“here”。"
+        }
+      ],
+      "headword": "here",
+      "lexical_entry_id": "w_here",
+      "ordinal": 6,
+      "phonetic_uk": "hiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在这里, 此时, 这里",
+          "pos": "adv."
+        },
+        {
+          "gloss": "这里",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “how much”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“how much”。"
+        }
+      ],
+      "headword": "how much",
+      "lexical_entry_id": "w_how_much",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多少, 什么价钱, 到什么程度",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is a cat.",
+          "origin": "curated:p-pron-it",
+          "zh": "它是一只猫。"
+        }
+      ],
+      "headword": "it",
+      "lexical_entry_id": "w_it",
+      "ordinal": 8,
+      "phonetic_uk": "it",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "它",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my orange.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橙子。"
+        },
+        {
+          "en": "I can see an orange.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橙子。"
+        }
+      ],
+      "headword": "orange",
+      "lexical_entry_id": "w_orange",
+      "ordinal": 9,
+      "phonetic_uk": "'ɔːrindʒ",
+      "phonetic_us": null,
+      "phonics_split": "or·ange",
+      "senses": [
+        {
+          "gloss": "橙子",
+          "pos": "n."
+        },
+        {
+          "gloss": "橙色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的梨。"
+        },
+        {
+          "en": "I can see a pear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到梨。"
+        }
+      ],
+      "headword": "pear",
+      "lexical_entry_id": "w_pear",
+      "ordinal": 10,
+      "phonetic_uk": "pɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "梨",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They are my friends.",
+          "origin": "curated:p-pron-they",
+          "zh": "他们是我的朋友。"
+        }
+      ],
+      "headword": "they",
+      "lexical_entry_id": "w_they",
+      "ordinal": 11,
+      "phonetic_uk": "ðei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他们, 它们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

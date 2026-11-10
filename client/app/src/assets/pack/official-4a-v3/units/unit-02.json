@@ -1,0 +1,249 @@
+{
+  "title": "Can you swim?",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “but”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“but”。"
+        }
+      ],
+      "headword": "but",
+      "lexical_entry_id": "w_but",
+      "ordinal": 1,
+      "phonetic_uk": "bʌt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "除了",
+          "pos": "prep."
+        },
+        {
+          "gloss": "但是",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can draw.",
+          "origin": "curated:u4-draw",
+          "zh": "我会画画。"
+        }
+      ],
+      "headword": "draw",
+      "lexical_entry_id": "w_draw",
+      "ordinal": 2,
+      "phonetic_uk": "drɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "画画",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very fast.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常快速的, 紧。"
+        }
+      ],
+      "headword": "fast",
+      "lexical_entry_id": "w_fast",
+      "ordinal": 3,
+      "phonetic_uk": "fɑ:st",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "快速的, 紧的",
+          "pos": "a."
+        },
+        {
+          "gloss": "很快地, 紧紧地, 彻底地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Birds can fly.",
+          "origin": "curated:g2u4-fly",
+          "zh": "鸟会飞。"
+        }
+      ],
+      "headword": "fly",
+      "lexical_entry_id": "w_fly",
+      "ordinal": 4,
+      "phonetic_uk": "flai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "飞",
+          "pos": "vi."
+        },
+        {
+          "gloss": "苍蝇",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my jump.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的跳跃, 跳动, 暴涨, 惊跳。"
+        },
+        {
+          "en": "I can see a jump.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到跳跃, 跳动, 暴涨, 惊跳。"
+        }
+      ],
+      "headword": "jump",
+      "lexical_entry_id": "w_jump",
+      "ordinal": 5,
+      "phonetic_uk": "dʒʌmp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跳跃, 跳动, 暴涨, 惊跳",
+          "pos": "n."
+        },
+        {
+          "gloss": "跳跃, 跃过, 突升, 使跳跃",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can run.",
+          "origin": "template:t-v-can",
+          "zh": "我会跑。"
+        },
+        {
+          "en": "Let's run together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起跑吧。"
+        }
+      ],
+      "headword": "run",
+      "lexical_entry_id": "w_run",
+      "ordinal": 6,
+      "phonetic_uk": "rʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my welcome.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的欢迎, 欢迎词。"
+        },
+        {
+          "en": "I can see a welcome.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到欢迎, 欢迎词。"
+        }
+      ],
+      "headword": "welcome",
+      "lexical_entry_id": "w_welcome",
+      "ordinal": 7,
+      "phonetic_uk": "'welkəm",
+      "phonetic_us": null,
+      "phonics_split": "wel·come",
+      "senses": [
+        {
+          "gloss": "欢迎, 欢迎词",
+          "pos": "n."
+        },
+        {
+          "gloss": "受欢迎的, 可随意的, 可喜的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my woof.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的纬线, 织物, 基本成分, 低吠声, 低鸣声。"
+        },
+        {
+          "en": "I can see a woof.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到纬线, 织物, 基本成分, 低吠声, 低鸣声。"
+        }
+      ],
+      "headword": "woof",
+      "lexical_entry_id": "w_woof",
+      "ordinal": 8,
+      "phonetic_uk": "wu:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "纬线, 织物, 基本成分, 低吠声, 低鸣声",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can write.",
+          "origin": "template:t-v-can",
+          "zh": "我会写字。"
+        },
+        {
+          "en": "Let's write together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起写字吧。"
+        }
+      ],
+      "headword": "write",
+      "lexical_entry_id": "w_write",
+      "ordinal": 9,
+      "phonetic_uk": "rait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "写字",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

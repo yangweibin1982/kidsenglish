@@ -1,0 +1,254 @@
+{
+  "title": "My birthday",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can begin.",
+          "origin": "template:t-v-can",
+          "zh": "我会开始。"
+        },
+        {
+          "en": "Let's begin together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起开始吧。"
+        }
+      ],
+      "headword": "begin",
+      "lexical_entry_id": "w_begin",
+      "ordinal": 1,
+      "phonetic_uk": "bi'gin",
+      "phonetic_us": null,
+      "phonics_split": "be·gin",
+      "senses": [
+        {
+          "gloss": "开始",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can bring.",
+          "origin": "template:t-v-can",
+          "zh": "我会带来, 产生, 促使, 提出。"
+        },
+        {
+          "en": "Let's bring together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起带来, 产生, 促使, 提出吧。"
+        }
+      ],
+      "headword": "bring",
+      "lexical_entry_id": "w_bring",
+      "ordinal": 2,
+      "phonetic_uk": "briŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "带来, 产生, 促使, 提出",
+          "pos": "vt."
+        },
+        {
+          "gloss": "生产",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my favourite.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的喜欢的事物。"
+        },
+        {
+          "en": "I can see a favourite.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到喜欢的事物。"
+        }
+      ],
+      "headword": "favourite",
+      "lexical_entry_id": "w_favourite",
+      "ordinal": 3,
+      "phonetic_uk": "'feivərit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "喜欢的事物",
+          "pos": "n."
+        },
+        {
+          "gloss": "喜爱的, 宠爱的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的帽子。"
+        },
+        {
+          "en": "I can see a hat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到帽子。"
+        }
+      ],
+      "headword": "hat",
+      "lexical_entry_id": "w_hat",
+      "ordinal": 4,
+      "phonetic_uk": "hæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "帽子",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...戴帽子",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have fun”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have fun”。"
+        }
+      ],
+      "headword": "have fun",
+      "lexical_entry_id": "w_have_fun",
+      "ordinal": 5,
+      "phonetic_uk": "hæv fʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩得高兴，过得快活; 耍笑; 玩耍",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very interesting.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有趣。"
+        }
+      ],
+      "headword": "interesting",
+      "lexical_entry_id": "w_interesting",
+      "ordinal": 6,
+      "phonetic_uk": "'intristiŋ",
+      "phonetic_us": null,
+      "phonics_split": "in·ter·est·ing",
+      "senses": [
+        {
+          "gloss": "有趣的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my party.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的宴会, 党, 政党, 团体, 当事人, 聚会。"
+        },
+        {
+          "en": "I can see a party.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到宴会, 党, 政党, 团体, 当事人, 聚会。"
+        }
+      ],
+      "headword": "party",
+      "lexical_entry_id": "w_party",
+      "ordinal": 7,
+      "phonetic_uk": "'pɑ:ti",
+      "phonetic_us": null,
+      "phonics_split": "par·ty",
+      "senses": [
+        {
+          "gloss": "宴会, 党, 政党, 团体, 当事人, 聚会",
+          "pos": "n."
+        },
+        {
+          "gloss": "举办聚会",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my thing.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征。"
+        },
+        {
+          "en": "I can see a thing.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征。"
+        }
+      ],
+      "headword": "thing",
+      "lexical_entry_id": "w_thing",
+      "ordinal": 8,
+      "phonetic_uk": "θiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “when”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“when”。"
+        }
+      ],
+      "headword": "when",
+      "lexical_entry_id": "w_when",
+      "ordinal": 9,
+      "phonetic_uk": "hwen",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "当...的时候",
+          "pos": "conj."
+        },
+        {
+          "gloss": "何时, 什么时候",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "title": "Which season do you like?",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my spring.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉。"
+        },
+        {
+          "en": "I can see a spring.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉。"
+        }
+      ],
+      "headword": "spring",
+      "lexical_entry_id": "w_spring",
+      "ordinal": 1,
+      "phonetic_uk": "spriŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉",
+          "pos": "n."
+        },
+        {
+          "gloss": "春天的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very warm.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情。"
+        }
+      ],
+      "headword": "warm",
+      "lexical_entry_id": "w_warm",
+      "ordinal": 2,
+      "phonetic_uk": "wɔːm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使温暖, 弄热, 使兴奋, 使充满仇恨",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my summer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的夏季, 全盛时期。"
+        },
+        {
+          "en": "I can see a summer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到夏季, 全盛时期。"
+        }
+      ],
+      "headword": "summer",
+      "lexical_entry_id": "w_summer",
+      "ordinal": 3,
+      "phonetic_uk": "'sʌmə",
+      "phonetic_us": null,
+      "phonics_split": "sum·mer",
+      "senses": [
+        {
+          "gloss": "夏季, 全盛时期",
+          "pos": "n."
+        },
+        {
+          "gloss": "避暑, 过夏天",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very hot.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫。"
+        }
+      ],
+      "headword": "hot",
+      "lexical_entry_id": "w_hot",
+      "ordinal": 4,
+      "phonetic_uk": "hɒt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的",
+          "pos": "a."
+        },
+        {
+          "gloss": "热, 紧迫地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my autumn.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的秋天, 成熟期。"
+        },
+        {
+          "en": "I can see an autumn.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到秋天, 成熟期。"
+        }
+      ],
+      "headword": "autumn",
+      "lexical_entry_id": "w_autumn",
+      "ordinal": 5,
+      "phonetic_uk": "'ɔːtəm",
+      "phonetic_us": null,
+      "phonics_split": "au·tumn",
+      "senses": [
+        {
+          "gloss": "秋天, 成熟期",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cool.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的凉爽, 凉爽的空气。"
+        },
+        {
+          "en": "I can see a cool.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到凉爽, 凉爽的空气。"
+        }
+      ],
+      "headword": "cool",
+      "lexical_entry_id": "w_cool",
+      "ordinal": 6,
+      "phonetic_uk": "ku:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "凉爽, 凉爽的空气",
+          "pos": "n."
+        },
+        {
+          "gloss": "凉爽的, 冷淡的, 冷静的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my winter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的冬季, 萧条期, 衰退期。"
+        },
+        {
+          "en": "I can see a winter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到冬季, 萧条期, 衰退期。"
+        }
+      ],
+      "headword": "winter",
+      "lexical_entry_id": "w_winter",
+      "ordinal": 7,
+      "phonetic_uk": "'wintə",
+      "phonetic_us": null,
+      "phonics_split": "win·ter",
+      "senses": [
+        {
+          "gloss": "冬季, 萧条期, 衰退期",
+          "pos": "n."
+        },
+        {
+          "gloss": "冬天的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cold.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的感冒, 寒冷。"
+        },
+        {
+          "en": "I can see a cold.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到感冒, 寒冷。"
+        }
+      ],
+      "headword": "cold",
+      "lexical_entry_id": "w_cold",
+      "ordinal": 8,
+      "phonetic_uk": "kəuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "感冒, 寒冷",
+          "pos": "n."
+        },
+        {
+          "gloss": "寒冷的, 冷淡的, 冷静的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

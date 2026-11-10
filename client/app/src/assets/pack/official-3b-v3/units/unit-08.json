@@ -1,0 +1,223 @@
+{
+  "title": "Happy birthday!",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my birthday.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生日。"
+        },
+        {
+          "en": "I can see a birthday.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生日。"
+        }
+      ],
+      "headword": "birthday",
+      "lexical_entry_id": "w_birthday",
+      "ordinal": 1,
+      "phonetic_uk": "'bə:θdei",
+      "phonetic_us": null,
+      "phonics_split": "birth·day",
+      "senses": [
+        {
+          "gloss": "生日",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cake.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蛋糕。"
+        },
+        {
+          "en": "I can see a cake.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蛋糕。"
+        }
+      ],
+      "headword": "cake",
+      "lexical_entry_id": "w_cake",
+      "ordinal": 2,
+      "phonetic_uk": "keik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛋糕",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my card.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的卡片, 纸牌, 节目单, 明信片, 梳棉机。"
+        },
+        {
+          "en": "I can see a card.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到卡片, 纸牌, 节目单, 明信片, 梳棉机。"
+        }
+      ],
+      "headword": "card",
+      "lexical_entry_id": "w_card",
+      "ordinal": 3,
+      "phonetic_uk": "kɑ:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "卡片, 纸牌, 节目单, 明信片, 梳棉机",
+          "pos": "n."
+        },
+        {
+          "gloss": "备置卡片, 记于卡片上, 梳理",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的亲爱的人。"
+        },
+        {
+          "en": "I can see a dear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到亲爱的人。"
+        }
+      ],
+      "headword": "dear",
+      "lexical_entry_id": "w_dear",
+      "ordinal": 4,
+      "phonetic_uk": "'diə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "亲爱的人",
+          "pos": "n."
+        },
+        {
+          "gloss": "亲爱的, 昂贵的, 严重的, 急迫的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “for”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“for”。"
+        }
+      ],
+      "headword": "for",
+      "lexical_entry_id": "w_for",
+      "ordinal": 5,
+      "phonetic_uk": "fɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "为, 因为, 至于",
+          "pos": "prep."
+        },
+        {
+          "gloss": "因为",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “how old”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“how old”。"
+        }
+      ],
+      "headword": "how old",
+      "lexical_entry_id": "w_how_old",
+      "ordinal": 6,
+      "phonetic_uk": "hau əuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "几岁",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my noodle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面条, 笨蛋。"
+        },
+        {
+          "en": "I can see a noodle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面条, 笨蛋。"
+        }
+      ],
+      "headword": "noodle",
+      "lexical_entry_id": "w_noodle",
+      "ordinal": 7,
+      "phonetic_uk": "'nu:dl",
+      "phonetic_us": null,
+      "phonics_split": "noo·dle",
+      "senses": [
+        {
+          "gloss": "面条, 笨蛋",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“to”。"
+        }
+      ],
+      "headword": "to",
+      "lexical_entry_id": "w_to",
+      "ordinal": 8,
+      "phonetic_uk": "tu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "到, 向, 趋于",
+          "pos": "prep."
+        },
+        {
+          "gloss": "向前",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

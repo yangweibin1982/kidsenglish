@@ -1,0 +1,38 @@
+{
+  "name": "@kidsenglish/app",
+  "version": "0.1.0",
+  "description": "战机英语应用壳（Vue3 + Vite + Capacitor，四域路由骨架，平板优先）",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit -p tsconfig.app.json && vite build",
+    "build-only": "vite build",
+    "type-check": "vue-tsc --noEmit -p tsconfig.app.json",
+    "test": "vitest run",
+    "preview": "vite preview",
+    "cap:sync": "cap sync android",
+    "apk:debug": "cd android && gradlew assembleDebug"
+  },
+  "dependencies": {
+    "@capacitor-community/sqlite": "^7.0.3",
+    "@capacitor-community/text-to-speech": "^6.1.0",
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/core": "^7.4.4",
+    "@kidsenglish/engine": "0.1.0",
+    "pixi.js": "7.4.3",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.4",
+    "@types/node": "^24.0.0",
+    "@types/sql.js": "^1.4.11",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sql.js": "^1.15.1",
+    "typescript": "5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^5.0.5",
+    "vue-tsc": "^2.2.8"
+  }
+}

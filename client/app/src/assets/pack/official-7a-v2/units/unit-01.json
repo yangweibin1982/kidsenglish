@@ -1,0 +1,957 @@
+{
+  "title": null,
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my guitar.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的吉他。"
+        },
+        {
+          "en": "I can see a guitar.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到吉他。"
+        }
+      ],
+      "headword": "guitar",
+      "lexical_entry_id": "w_guitar",
+      "ordinal": 1,
+      "phonetic_uk": "gi'tɑ:",
+      "phonetic_us": null,
+      "phonics_split": "gui·tar",
+      "senses": [
+        {
+          "gloss": "吉他",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very honest.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常诚实的, 坦直的, 可靠。"
+        }
+      ],
+      "headword": "honest",
+      "lexical_entry_id": "w_honest",
+      "ordinal": 2,
+      "phonetic_uk": "'ɒnist",
+      "phonetic_us": null,
+      "phonics_split": "hon·est",
+      "senses": [
+        {
+          "gloss": "诚实的, 坦直的, 可靠的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my patient.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的病人, 承受者。"
+        },
+        {
+          "en": "I can see a patient.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到病人, 承受者。"
+        }
+      ],
+      "headword": "patient",
+      "lexical_entry_id": "w_patient",
+      "ordinal": 3,
+      "phonetic_uk": "'peiʃənt",
+      "phonetic_us": null,
+      "phonics_split": "pa·tient",
+      "senses": [
+        {
+          "gloss": "病人, 承受者",
+          "pos": "n."
+        },
+        {
+          "gloss": "忍耐的, 容忍的, 有耐性的, 坚忍的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can improve.",
+          "origin": "template:t-v-can",
+          "zh": "我会改良, 提高...的价值, 改善, 利用。"
+        },
+        {
+          "en": "Let's improve together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起改良, 提高...的价值, 改善, 利用吧。"
+        }
+      ],
+      "headword": "improve",
+      "lexical_entry_id": "w_improve",
+      "ordinal": 4,
+      "phonetic_uk": "im'pru:v",
+      "phonetic_us": null,
+      "phonics_split": "im·prove",
+      "senses": [
+        {
+          "gloss": "改良, 提高...的价值, 改善, 利用",
+          "pos": "vt."
+        },
+        {
+          "gloss": "变得更好, 增加",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very confident.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有信心的, 有把握。"
+        }
+      ],
+      "headword": "confident",
+      "lexical_entry_id": "w_confident",
+      "ordinal": 5,
+      "phonetic_uk": "'kɒnfidənt",
+      "phonetic_us": null,
+      "phonics_split": "con·fi·dent",
+      "senses": [
+        {
+          "gloss": "有信心的, 有把握的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my courage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的勇气, 胆量。"
+        },
+        {
+          "en": "I can see a courage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到勇气, 胆量。"
+        }
+      ],
+      "headword": "courage",
+      "lexical_entry_id": "w_courage",
+      "ordinal": 6,
+      "phonetic_uk": "'kʌridʒ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "勇气, 胆量",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my friendship.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的友谊, 友爱, 友善。"
+        },
+        {
+          "en": "I can see a friendship.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到友谊, 友爱, 友善。"
+        }
+      ],
+      "headword": "friendship",
+      "lexical_entry_id": "w_friendship",
+      "ordinal": 7,
+      "phonetic_uk": "'frendʃip",
+      "phonetic_us": null,
+      "phonics_split": "friend·ship",
+      "senses": [
+        {
+          "gloss": "友谊, 友爱, 友善",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my trust.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯。"
+        },
+        {
+          "en": "I can see a trust.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯。"
+        }
+      ],
+      "headword": "trust",
+      "lexical_entry_id": "w_trust",
+      "ordinal": 8,
+      "phonetic_uk": "trʌst",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "信任, 信赖, 相信, 受托, 职责, 信心, 托拉斯",
+          "pos": "n."
+        },
+        {
+          "gloss": "信托的, 托拉斯的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my survey.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的纵览, 视察, 测量, 俯瞰, 调查。"
+        },
+        {
+          "en": "I can see a survey.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到纵览, 视察, 测量, 俯瞰, 调查。"
+        }
+      ],
+      "headword": "survey",
+      "lexical_entry_id": "w_survey",
+      "ordinal": 9,
+      "phonetic_uk": "sə'vei",
+      "phonetic_us": null,
+      "phonics_split": "sur·vey",
+      "senses": [
+        {
+          "gloss": "纵览, 视察, 测量, 俯瞰, 调查",
+          "pos": "n."
+        },
+        {
+          "gloss": "审视, 视察, 俯瞰, 通盘考虑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very personal.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体。"
+        }
+      ],
+      "headword": "personal",
+      "lexical_entry_id": "w_personal",
+      "ordinal": 10,
+      "phonetic_uk": "'pə:snl",
+      "phonetic_us": null,
+      "phonics_split": "per·son·al",
+      "senses": [
+        {
+          "gloss": "私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my quality.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的品质, 特性, 才能, 质量。"
+        },
+        {
+          "en": "I can see a quality.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到品质, 特性, 才能, 质量。"
+        }
+      ],
+      "headword": "quality",
+      "lexical_entry_id": "w_quality",
+      "ordinal": 11,
+      "phonetic_uk": "'kwɒləti",
+      "phonetic_us": null,
+      "phonics_split": "qual·i·ty",
+      "senses": [
+        {
+          "gloss": "品质, 特性, 才能, 质量",
+          "pos": "n."
+        },
+        {
+          "gloss": "优质的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very caring.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有同情心的；表示或感到关怀或关心。"
+        }
+      ],
+      "headword": "caring",
+      "lexical_entry_id": "w_caring",
+      "ordinal": 12,
+      "phonetic_uk": "'kεəriŋ",
+      "phonetic_us": null,
+      "phonics_split": "car·ing",
+      "senses": [
+        {
+          "gloss": "有同情心的；表示或感到关怀或关心的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can describe.",
+          "origin": "template:t-v-can",
+          "zh": "我会描述, 描绘, 画。"
+        },
+        {
+          "en": "Let's describe together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起描述, 描绘, 画吧。"
+        }
+      ],
+      "headword": "describe",
+      "lexical_entry_id": "w_describe",
+      "ordinal": 13,
+      "phonetic_uk": "di'skraib",
+      "phonetic_us": null,
+      "phonics_split": "de·scribe",
+      "senses": [
+        {
+          "gloss": "描述, 描绘, 画",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my appearance.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的出现, 露面, 外观, 外表, 出版。"
+        },
+        {
+          "en": "I can see an appearance.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到出现, 露面, 外观, 外表, 出版。"
+        }
+      ],
+      "headword": "appearance",
+      "lexical_entry_id": "w_appearance",
+      "ordinal": 14,
+      "phonetic_uk": "ə'piərəns",
+      "phonetic_us": null,
+      "phonics_split": "ap·pear·ance",
+      "senses": [
+        {
+          "gloss": "出现, 露面, 外观, 外表, 出版",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my straight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的直线, 直。"
+        },
+        {
+          "en": "I can see a straight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到直线, 直。"
+        }
+      ],
+      "headword": "straight",
+      "lexical_entry_id": "w_straight",
+      "ordinal": 15,
+      "phonetic_uk": "streit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "直线, 直",
+          "pos": "n."
+        },
+        {
+          "gloss": "直的, 笔直的, 正直的, 直接的, 连续的, 整齐的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dark.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的黑暗, 夜, 黄昏, 模糊。"
+        },
+        {
+          "en": "I can see a dark.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到黑暗, 夜, 黄昏, 模糊。"
+        }
+      ],
+      "headword": "dark",
+      "lexical_entry_id": "w_dark",
+      "ordinal": 16,
+      "phonetic_uk": "dɑ:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "黑暗, 夜, 黄昏, 模糊",
+          "pos": "n."
+        },
+        {
+          "gloss": "黑暗的, 暗的, 深色的, 隐密的, 模糊的, 无知的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very same.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常相同的, 同样。"
+        }
+      ],
+      "headword": "same",
+      "lexical_entry_id": "w_same",
+      "ordinal": 17,
+      "phonetic_uk": "seim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "相同的, 同样的",
+          "pos": "a."
+        },
+        {
+          "gloss": "相同的人(或事物)",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my basic.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的基本原理, 要素, 基本规律。"
+        },
+        {
+          "en": "I can see a basic.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到基本原理, 要素, 基本规律。"
+        }
+      ],
+      "headword": "basic",
+      "lexical_entry_id": "w_basic",
+      "ordinal": 18,
+      "phonetic_uk": "'beisik",
+      "phonetic_us": null,
+      "phonics_split": "ba·sic",
+      "senses": [
+        {
+          "gloss": "基本原理, 要素, 基本规律",
+          "pos": "n."
+        },
+        {
+          "gloss": "基本的, 碱性的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my thought.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的想法, 思想, 思维, 关心, 挂念。"
+        },
+        {
+          "en": "I can see a thought.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到想法, 思想, 思维, 关心, 挂念。"
+        }
+      ],
+      "headword": "thought",
+      "lexical_entry_id": "w_thought",
+      "ordinal": 19,
+      "phonetic_uk": "θɔːt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "想法, 思想, 思维, 关心, 挂念",
+          "pos": "n."
+        },
+        {
+          "gloss": "think的过去式和过去分词",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very glad.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常高兴的, 喜欢的, 情愿。"
+        }
+      ],
+      "headword": "glad",
+      "lexical_entry_id": "w_glad",
+      "ordinal": 20,
+      "phonetic_uk": "glæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高兴的, 喜欢的, 情愿的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的上升, 增加, 上涨, 高地, 升高, 出现。"
+        },
+        {
+          "en": "I can see a rise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到上升, 增加, 上涨, 高地, 升高, 出现。"
+        }
+      ],
+      "headword": "rise",
+      "lexical_entry_id": "w_rise",
+      "ordinal": 21,
+      "phonetic_uk": "raiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上升, 增加, 上涨, 高地, 升高, 出现",
+          "pos": "n."
+        },
+        {
+          "gloss": "升起, 起身, 起立, 上升, 上涨, 增长, 高耸, 起义, 浮现",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my end.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的结束, 终点, 目标, 末端, 梢, 死亡, 残余。"
+        },
+        {
+          "en": "I can see an end.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到结束, 终点, 目标, 末端, 梢, 死亡, 残余。"
+        }
+      ],
+      "headword": "end",
+      "lexical_entry_id": "w_end",
+      "ordinal": 22,
+      "phonetic_uk": "end",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "结束, 终点, 目标, 末端, 梢, 死亡, 残余",
+          "pos": "n."
+        },
+        {
+          "gloss": "结束, 终结, 终止",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my heart.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿。"
+        },
+        {
+          "en": "I can see a heart.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿。"
+        }
+      ],
+      "headword": "heart",
+      "lexical_entry_id": "w_heart",
+      "ordinal": 23,
+      "phonetic_uk": "hɑ:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "心, 心脏, 中心, 内心, 感情, 精神, 心情, 宝贝儿",
+          "pos": "n."
+        },
+        {
+          "gloss": "鼓励",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be good at”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be good at”。"
+        }
+      ],
+      "headword": "be good at",
+      "lexical_entry_id": "w_be_good_at",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "擅长",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "You can turn to teachers for help.",
+          "origin": "curated:g7a-turn-to",
+          "zh": "你可以向老师求助。"
+        }
+      ],
+      "headword": "turn to somebody for help",
+      "lexical_entry_id": "w_turn_to_somebody_for_help",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "向某人求助",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “after school”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“after school”。"
+        }
+      ],
+      "headword": "after school",
+      "lexical_entry_id": "w_after_school",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "放学后",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He is willing to help others.",
+          "origin": "curated:g7a-willing",
+          "zh": "他愿意帮助别人。"
+        }
+      ],
+      "headword": "be willing to do something",
+      "lexical_entry_id": "w_be_willing_to_do_something",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "愿意做某事",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "She is of medium height.",
+          "origin": "curated:g7a-medium-height",
+          "zh": "她中等身高。"
+        }
+      ],
+      "headword": "medium height",
+      "lexical_entry_id": "w_medium_height",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "中等身高",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “modern dance”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“modern dance”。"
+        }
+      ],
+      "headword": "modern dance",
+      "lexical_entry_id": "w_modern_dance",
+      "ordinal": 29,
+      "phonetic_uk": "ˈmɔdən dɑ:ns",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "现代舞",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “watch over”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“watch over”。"
+        }
+      ],
+      "headword": "watch over",
+      "lexical_entry_id": "w_watch_over",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "监督, 保护, 照管",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The balloon rises into the sky.",
+          "origin": "curated:g7a-rise-into",
+          "zh": "气球升上天空。"
+        }
+      ],
+      "headword": "rise into",
+      "lexical_entry_id": "w_rise_into",
+      "ordinal": 31,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "升入",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “cry out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“cry out”。"
+        }
+      ],
+      "headword": "cry out",
+      "lexical_entry_id": "w_cry_out",
+      "ordinal": 32,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大声呼喊",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The baby cried himself to sleep.",
+          "origin": "curated:g7a-cry-sleep",
+          "zh": "宝宝哭着睡着了。"
+        }
+      ],
+      "headword": "cry oneself to sleep",
+      "lexical_entry_id": "w_cry_oneself_to_sleep",
+      "ordinal": 33,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哭着睡着",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “wake up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“wake up”。"
+        }
+      ],
+      "headword": "wake up",
+      "lexical_entry_id": "w_wake_up",
+      "ordinal": 34,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "醒来",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “come and go”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“come and go”。"
+        }
+      ],
+      "headword": "come and go",
+      "lexical_entry_id": "w_come_and_go",
+      "ordinal": 35,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "来来往往",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Nothing can take your place.",
+          "origin": "curated:g7a-take-place",
+          "zh": "没有什么能代替你。"
+        }
+      ],
+      "headword": "take somebody's place",
+      "lexical_entry_id": "w_take_somebody_s_place",
+      "ordinal": 36,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "代替某人",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “come along”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“come along”。"
+        }
+      ],
+      "headword": "come along",
+      "lexical_entry_id": "w_come_along",
+      "ordinal": 37,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "出现, 进步",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

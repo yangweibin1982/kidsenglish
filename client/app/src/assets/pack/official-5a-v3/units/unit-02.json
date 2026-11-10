@@ -1,0 +1,443 @@
+{
+  "title": "Going to school",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “after”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“after”。"
+        }
+      ],
+      "headword": "after",
+      "lexical_entry_id": "w_after",
+      "ordinal": 1,
+      "phonetic_uk": "'ɑ:ftə",
+      "phonetic_us": null,
+      "phonics_split": "af·ter",
+      "senses": [
+        {
+          "gloss": "在...之后, 由于",
+          "pos": "prep."
+        },
+        {
+          "gloss": "在...之后",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “bus stop”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“bus stop”。"
+        }
+      ],
+      "headword": "bus stop",
+      "lexical_entry_id": "w_bus_stop",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公共汽车站",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “by”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“by”。"
+        }
+      ],
+      "headword": "by",
+      "lexical_entry_id": "w_by",
+      "ordinal": 3,
+      "phonetic_uk": "bai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "被, 经, 由, 在...之旁",
+          "pos": "prep."
+        },
+        {
+          "gloss": "经过, 在近处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I go to school by bike.",
+          "origin": "curated:primary-5a-by-bike",
+          "zh": "我骑自行车上学。"
+        }
+      ],
+      "headword": "by bike",
+      "lexical_entry_id": "w_by_bike",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "骑自行车（出行）",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “by bus”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“by bus”。"
+        }
+      ],
+      "headword": "by bus",
+      "lexical_entry_id": "w_by_bus",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乘公共汽车",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “by car”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“by car”。"
+        }
+      ],
+      "headword": "by car",
+      "lexical_entry_id": "w_by_car",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乘汽车",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “far from”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“far from”。"
+        }
+      ],
+      "headword": "far from",
+      "lexical_entry_id": "w_far_from",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "远离, 远非",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get off”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get off”。"
+        }
+      ],
+      "headword": "get off",
+      "lexical_entry_id": "w_get_off",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下来, 脱下, 出发, 动身, 开始, 被容忍",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hour.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小时, 钟头, 时间, ...点钟, 课时。"
+        },
+        {
+          "en": "I can see a hour.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小时, 钟头, 时间, ...点钟, 课时。"
+        }
+      ],
+      "headword": "hour",
+      "lexical_entry_id": "w_hour",
+      "ordinal": 9,
+      "phonetic_uk": "auə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小时, 钟头, 时间, ...点钟, 课时",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my journey.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的旅程, 旅行, 行程。"
+        },
+        {
+          "en": "I can see a journey.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到旅程, 旅行, 行程。"
+        }
+      ],
+      "headword": "journey",
+      "lexical_entry_id": "w_journey",
+      "ordinal": 10,
+      "phonetic_uk": "'dʒə:ni",
+      "phonetic_us": null,
+      "phonics_split": "jour·ney",
+      "senses": [
+        {
+          "gloss": "旅程, 旅行, 行程",
+          "pos": "n."
+        },
+        {
+          "gloss": "旅行",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “Ms”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“Ms”。"
+        }
+      ],
+      "headword": "Ms",
+      "lexical_entry_id": "w_ms",
+      "ordinal": 11,
+      "phonetic_uk": "miz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "美国微软公司",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “on foot”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“on foot”。"
+        }
+      ],
+      "headword": "on foot",
+      "lexical_entry_id": "w_on_foot",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "步行, 在进行中",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my primary school.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小学, 初等学校; 参见：elementary school。"
+        },
+        {
+          "en": "I can see a primary school.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小学, 初等学校; 参见：elementary school。"
+        }
+      ],
+      "headword": "primary school",
+      "lexical_entry_id": "w_primary_school",
+      "ordinal": 13,
+      "phonetic_uk": "ˈpraiməri sku:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小学, 初等学校; 参见：elementary school",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my station.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的车站, 站, 局, 驻地, 位置, 身分, 地位。"
+        },
+        {
+          "en": "I can see a station.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到车站, 站, 局, 驻地, 位置, 身分, 地位。"
+        }
+      ],
+      "headword": "station",
+      "lexical_entry_id": "w_station",
+      "ordinal": 14,
+      "phonetic_uk": "'steiʃən",
+      "phonetic_us": null,
+      "phonics_split": "sta·tion",
+      "senses": [
+        {
+          "gloss": "车站, 站, 局, 驻地, 位置, 身分, 地位",
+          "pos": "n."
+        },
+        {
+          "gloss": "安置, 配置, 驻扎",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can take.",
+          "origin": "template:t-v-can",
+          "zh": "我会拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费。"
+        },
+        {
+          "en": "Let's take together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费吧。"
+        }
+      ],
+      "headword": "take",
+      "lexical_entry_id": "w_take",
+      "ordinal": 15,
+      "phonetic_uk": "teik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费",
+          "pos": "vt."
+        },
+        {
+          "gloss": "吃掉对方棋子, 抓住, 起作用, 依法获得财产",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my underground.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的地下, 地铁, 地道, 秘密活动。"
+        },
+        {
+          "en": "I can see an underground.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到地下, 地铁, 地道, 秘密活动。"
+        }
+      ],
+      "headword": "underground",
+      "lexical_entry_id": "w_underground",
+      "ordinal": 16,
+      "phonetic_uk": "'ʌndəgraund",
+      "phonetic_us": null,
+      "phonics_split": "un·der·ground",
+      "senses": [
+        {
+          "gloss": "地下, 地铁, 地道, 秘密活动",
+          "pos": "n."
+        },
+        {
+          "gloss": "地下的, 秘密的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my walk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的走, 散步, 步行, 行走的路程, 竞走, 散步场所。"
+        },
+        {
+          "en": "I can see a walk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到走, 散步, 步行, 行走的路程, 竞走, 散步场所。"
+        }
+      ],
+      "headword": "walk",
+      "lexical_entry_id": "w_walk",
+      "ordinal": 17,
+      "phonetic_uk": "wɔːk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "走, 散步, 步行, 行走的路程, 竞走, 散步场所",
+          "pos": "n."
+        },
+        {
+          "gloss": "走路, 步行, 处世",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

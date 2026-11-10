@@ -1,0 +1,348 @@
+{
+  "title": "My friends",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “a pair of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a pair of”。"
+        }
+      ],
+      "headword": "a pair of",
+      "lexical_entry_id": "w_a_pair_of",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一对..., 一付...",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brown.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的褐色。"
+        },
+        {
+          "en": "I can see a brown.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到褐色。"
+        }
+      ],
+      "headword": "brown",
+      "lexical_entry_id": "w_brown",
+      "ordinal": 2,
+      "phonetic_uk": "braun",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "褐色",
+          "pos": "n."
+        },
+        {
+          "gloss": "褐色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dress.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的服装, 覆盖物。"
+        },
+        {
+          "en": "I can see a dress.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到服装, 覆盖物。"
+        }
+      ],
+      "headword": "dress",
+      "lexical_entry_id": "w_dress",
+      "ordinal": 3,
+      "phonetic_uk": "dres",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "服装, 覆盖物",
+          "pos": "n."
+        },
+        {
+          "gloss": "穿着",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get out”。"
+        }
+      ],
+      "headword": "get out",
+      "lexical_entry_id": "w_get_out",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "出去, 离开, 逃脱, 摆脱, 泄露, 说出, 出版, 弄出来",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my help.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的帮忙, 帮助者, 补救办法, 有益的东西。"
+        },
+        {
+          "en": "I can see a help.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到帮忙, 帮助者, 补救办法, 有益的东西。"
+        }
+      ],
+      "headword": "help",
+      "lexical_entry_id": "w_help",
+      "ordinal": 5,
+      "phonetic_uk": "help",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "帮忙, 帮助者, 补救办法, 有益的东西",
+          "pos": "n."
+        },
+        {
+          "gloss": "帮助, 帮忙, 接济, 治疗, 款待",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ride.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的骑马, 乘坐, 乘车, 搭便车。"
+        },
+        {
+          "en": "I can see a ride.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到骑马, 乘坐, 乘车, 搭便车。"
+        }
+      ],
+      "headword": "ride",
+      "lexical_entry_id": "w_ride",
+      "ordinal": 6,
+      "phonetic_uk": "raid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "骑马, 乘坐, 乘车, 搭便车",
+          "pos": "n."
+        },
+        {
+          "gloss": "骑, 乘坐, 压迫, 控制",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sharp.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的半升音调, 利刃, 骗子。"
+        },
+        {
+          "en": "I can see a sharp.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到半升音调, 利刃, 骗子。"
+        }
+      ],
+      "headword": "sharp",
+      "lexical_entry_id": "w_sharp",
+      "ordinal": 7,
+      "phonetic_uk": "ʃɑ:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "半升音调, 利刃, 骗子",
+          "pos": "n."
+        },
+        {
+          "gloss": "锋利的, 明显的, 敏锐的, 急剧的, 尖刻的, 严厉的, 刺耳的, 精明的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shirt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的衬衫, 内衣, 汗衫。"
+        },
+        {
+          "en": "I can see a shirt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到衬衫, 内衣, 汗衫。"
+        }
+      ],
+      "headword": "shirt",
+      "lexical_entry_id": "w_shirt",
+      "ordinal": 8,
+      "phonetic_uk": "ʃə:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "衬衫, 内衣, 汗衫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shorts.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的短裤, (美)男人的短衬裤。"
+        },
+        {
+          "en": "I can see a shorts.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到短裤, (美)男人的短衬裤。"
+        }
+      ],
+      "headword": "shorts",
+      "lexical_entry_id": "w_shorts",
+      "ordinal": 9,
+      "phonetic_uk": "ʃɔ:ts",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "短裤, (美)男人的短衬裤",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my skirt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的裙子, 下摆, 边缘, 郊区。"
+        },
+        {
+          "en": "I can see a skirt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到裙子, 下摆, 边缘, 郊区。"
+        }
+      ],
+      "headword": "skirt",
+      "lexical_entry_id": "w_skirt",
+      "ordinal": 10,
+      "phonetic_uk": "skə:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "裙子, 下摆, 边缘, 郊区",
+          "pos": "n."
+        },
+        {
+          "gloss": "位于...边缘, 绕过, 回避",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tooth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的牙齿, 齿状物, 爱好。"
+        },
+        {
+          "en": "I can see a tooth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到牙齿, 齿状物, 爱好。"
+        }
+      ],
+      "headword": "tooth",
+      "lexical_entry_id": "w_tooth",
+      "ordinal": 11,
+      "phonetic_uk": "tu:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "牙齿, 齿状物, 爱好",
+          "pos": "n."
+        },
+        {
+          "gloss": "装以齿, 将...切成齿状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my T-shirt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圆领汗衫, T恤。"
+        },
+        {
+          "en": "I can see a T-shirt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圆领汗衫, T恤。"
+        }
+      ],
+      "headword": "T-shirt",
+      "lexical_entry_id": "w_t_shirt",
+      "ordinal": 12,
+      "phonetic_uk": "'ti:,ʃə:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "圆领汗衫, T恤",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

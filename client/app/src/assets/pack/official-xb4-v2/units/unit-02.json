@@ -1,0 +1,1741 @@
+{
+  "title": "Iconic Attractions",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "The Eiffel Tower is an iconic building.",
+          "origin": "curated:senior-iconic",
+          "zh": "埃菲尔铁塔是标志性的建筑。"
+        }
+      ],
+      "headword": "iconic",
+      "lexical_entry_id": "w_iconic",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "icon·ic",
+      "senses": [
+        {
+          "gloss": "标志性的",
+          "pos": "adj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my foundation.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的基础, 根据, 建立。"
+        },
+        {
+          "en": "I can see a foundation.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到基础, 根据, 建立。"
+        }
+      ],
+      "headword": "foundation",
+      "lexical_entry_id": "w_foundation",
+      "ordinal": 2,
+      "phonetic_uk": "faun'deiʃən",
+      "phonetic_us": null,
+      "phonics_split": "foun·da·tion",
+      "senses": [
+        {
+          "gloss": "基础, 根据, 建立",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very political.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常政治的, 政治上的, 政党的, 从事政治。"
+        }
+      ],
+      "headword": "political",
+      "lexical_entry_id": "w_political",
+      "ordinal": 3,
+      "phonetic_uk": "pə'litikl",
+      "phonetic_us": null,
+      "phonics_split": "po·lit·i·cal",
+      "senses": [
+        {
+          "gloss": "政治的, 政治上的, 政党的, 从事政治的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my didgeridoo.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的迪吉里杜管（澳洲土著人的乐器）。"
+        },
+        {
+          "en": "I can see a didgeridoo.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到迪吉里杜管（澳洲土著人的乐器）。"
+        }
+      ],
+      "headword": "didgeridoo",
+      "lexical_entry_id": "w_didgeridoo",
+      "ordinal": 4,
+      "phonetic_uk": "did'dʒeridu:",
+      "phonetic_us": null,
+      "phonics_split": "didgeri·doo",
+      "senses": [
+        {
+          "gloss": "迪吉里杜管（澳洲土著人的乐器）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very located.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常处于, 位于；坐落。"
+        }
+      ],
+      "headword": "located",
+      "lexical_entry_id": "w_located",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "lo·cat·ed",
+      "senses": [
+        {
+          "gloss": "处于, 位于；坐落的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my equator.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的赤道。"
+        },
+        {
+          "en": "I can see an equator.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到赤道。"
+        }
+      ],
+      "headword": "equator",
+      "lexical_entry_id": "w_equator",
+      "ordinal": 6,
+      "phonetic_uk": "i'kweitə",
+      "phonetic_us": null,
+      "phonics_split": "equa·tor",
+      "senses": [
+        {
+          "gloss": "赤道",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my koala.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的袋熊。"
+        },
+        {
+          "en": "I can see a koala.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到袋熊。"
+        }
+      ],
+      "headword": "koala",
+      "lexical_entry_id": "w_koala",
+      "ordinal": 7,
+      "phonetic_uk": "kə'ɑ:lə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "袋熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my barbecue.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的烤肉。"
+        },
+        {
+          "en": "I can see a barbecue.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到烤肉。"
+        }
+      ],
+      "headword": "barbecue",
+      "lexical_entry_id": "w_barbecue",
+      "ordinal": 8,
+      "phonetic_uk": "'bɑ:bikju:",
+      "phonetic_us": null,
+      "phonics_split": "bar·be·cue",
+      "senses": [
+        {
+          "gloss": "烤肉",
+          "pos": "n."
+        },
+        {
+          "gloss": "烤肉, 烧烤",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bakery.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面包店。"
+        },
+        {
+          "en": "I can see a bakery.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面包店。"
+        }
+      ],
+      "headword": "bakery",
+      "lexical_entry_id": "w_bakery",
+      "ordinal": 9,
+      "phonetic_uk": "'beikəri",
+      "phonetic_us": null,
+      "phonics_split": "bak·ery",
+      "senses": [
+        {
+          "gloss": "面包店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my joint.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的连接处, 接合, 关节。"
+        },
+        {
+          "en": "I can see a joint.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到连接处, 接合, 关节。"
+        }
+      ],
+      "headword": "joint",
+      "lexical_entry_id": "w_joint",
+      "ordinal": 10,
+      "phonetic_uk": "dʒɒint",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "连接处, 接合, 关节",
+          "pos": "n."
+        },
+        {
+          "gloss": "共同的, 联合的, 连接的, 合办的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my butcher.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的屠夫, 肉商, 小贩。"
+        },
+        {
+          "en": "I can see a butcher.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到屠夫, 肉商, 小贩。"
+        }
+      ],
+      "headword": "butcher",
+      "lexical_entry_id": "w_butcher",
+      "ordinal": 11,
+      "phonetic_uk": "'butʃə",
+      "phonetic_us": null,
+      "phonics_split": "butch·er",
+      "senses": [
+        {
+          "gloss": "屠夫, 肉商, 小贩",
+          "pos": "n."
+        },
+        {
+          "gloss": "屠宰, 屠杀",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my premier.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的总理, 首相。"
+        },
+        {
+          "en": "I can see a premier.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到总理, 首相。"
+        }
+      ],
+      "headword": "premier",
+      "lexical_entry_id": "w_premier",
+      "ordinal": 12,
+      "phonetic_uk": "'pri:mjə",
+      "phonetic_us": null,
+      "phonics_split": "pre·mier",
+      "senses": [
+        {
+          "gloss": "总理, 首相",
+          "pos": "n."
+        },
+        {
+          "gloss": "首位的, 最初的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my herb.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的药草, 香草。"
+        },
+        {
+          "en": "I can see a herb.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到药草, 香草。"
+        }
+      ],
+      "headword": "herb",
+      "lexical_entry_id": "w_herb",
+      "ordinal": 13,
+      "phonetic_uk": "hə:b",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "药草, 香草",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Try a dim sim at the food fair.",
+          "origin": "curated:senior-dim-sim",
+          "zh": "在美食节上尝个澳式点心吧。"
+        }
+      ],
+      "headword": "dim sim",
+      "lexical_entry_id": "w_dim_sim",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "澳式点心",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hollow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的洞, 窟窿, 山谷。"
+        },
+        {
+          "en": "I can see a hollow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到洞, 窟窿, 山谷。"
+        }
+      ],
+      "headword": "hollow",
+      "lexical_entry_id": "w_hollow",
+      "ordinal": 15,
+      "phonetic_uk": "'hɒləu",
+      "phonetic_us": null,
+      "phonics_split": "hol·low",
+      "senses": [
+        {
+          "gloss": "洞, 窟窿, 山谷",
+          "pos": "n."
+        },
+        {
+          "gloss": "空的, 虚伪的, 空腹的, 凹的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can vibrate.",
+          "origin": "template:t-v-can",
+          "zh": "我会振动, 颤动, 激动, 摇摆, 踌躇。"
+        },
+        {
+          "en": "Let's vibrate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起振动, 颤动, 激动, 摇摆, 踌躇吧。"
+        }
+      ],
+      "headword": "vibrate",
+      "lexical_entry_id": "w_vibrate",
+      "ordinal": 16,
+      "phonetic_uk": "'vaibreit",
+      "phonetic_us": null,
+      "phonics_split": "vi·brate",
+      "senses": [
+        {
+          "gloss": "振动, 颤动, 激动, 摇摆, 踌躇",
+          "pos": "vi."
+        },
+        {
+          "gloss": "使颤动, 使振动, 使摆动",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my horn.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的角, 角质, 喇叭, 号角。"
+        },
+        {
+          "en": "I can see a horn.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到角, 角质, 喇叭, 号角。"
+        }
+      ],
+      "headword": "horn",
+      "lexical_entry_id": "w_horn",
+      "ordinal": 17,
+      "phonetic_uk": "hɔːn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "角, 角质, 喇叭, 号角",
+          "pos": "n."
+        },
+        {
+          "gloss": "角制的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pitch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青。"
+        },
+        {
+          "en": "I can see a pitch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青。"
+        }
+      ],
+      "headword": "pitch",
+      "lexical_entry_id": "w_pitch",
+      "ordinal": 18,
+      "phonetic_uk": "pitʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青",
+          "pos": "n."
+        },
+        {
+          "gloss": "投, 掷, 向前倾跌, 扎营, 竭力推销, 为...定调, 定位于, 用沥青涂",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very straightforward.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常笔直的, 率直的, 明确的, 简单的, 直接。"
+        }
+      ],
+      "headword": "straightforward",
+      "lexical_entry_id": "w_straightforward",
+      "ordinal": 19,
+      "phonetic_uk": "streit'fɔːwəd",
+      "phonetic_us": null,
+      "phonics_split": "straight·for·ward",
+      "senses": [
+        {
+          "gloss": "笔直的, 率直的, 明确的, 简单的, 直接的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my slogan.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的呐喊声, 标语, 口号。"
+        },
+        {
+          "en": "I can see a slogan.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到呐喊声, 标语, 口号。"
+        }
+      ],
+      "headword": "slogan",
+      "lexical_entry_id": "w_slogan",
+      "ordinal": 20,
+      "phonetic_uk": "'sləugən",
+      "phonetic_us": null,
+      "phonics_split": "slo·gan",
+      "senses": [
+        {
+          "gloss": "呐喊声, 标语, 口号",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my minister.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的部长, 牧师, 公使。"
+        },
+        {
+          "en": "I can see a minister.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到部长, 牧师, 公使。"
+        }
+      ],
+      "headword": "minister",
+      "lexical_entry_id": "w_minister",
+      "ordinal": 21,
+      "phonetic_uk": "'ministə",
+      "phonetic_us": null,
+      "phonics_split": "min·is·ter",
+      "senses": [
+        {
+          "gloss": "部长, 牧师, 公使",
+          "pos": "n."
+        },
+        {
+          "gloss": "服侍, 救助, 主持宗教仪式",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “prime minister”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“prime minister”。"
+        }
+      ],
+      "headword": "prime minister",
+      "lexical_entry_id": "w_prime_minister",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "总理, 首相",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my frog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的青蛙。"
+        },
+        {
+          "en": "I can see a frog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到青蛙。"
+        }
+      ],
+      "headword": "frog",
+      "lexical_entry_id": "w_frog",
+      "ordinal": 23,
+      "phonetic_uk": "frɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "青蛙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my arrow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的箭, 箭状物, 箭头记号。"
+        },
+        {
+          "en": "I can see an arrow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到箭, 箭状物, 箭头记号。"
+        }
+      ],
+      "headword": "arrow",
+      "lexical_entry_id": "w_arrow",
+      "ordinal": 24,
+      "phonetic_uk": "'ærəu",
+      "phonetic_us": null,
+      "phonics_split": "ar·row",
+      "senses": [
+        {
+          "gloss": "箭, 箭状物, 箭头记号",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can entitle.",
+          "origin": "template:t-v-can",
+          "zh": "我会给...权利, 取名为, 给予名称, 叫做。"
+        },
+        {
+          "en": "Let's entitle together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起给...权利, 取名为, 给予名称, 叫做吧。"
+        }
+      ],
+      "headword": "entitle",
+      "lexical_entry_id": "w_entitle",
+      "ordinal": 25,
+      "phonetic_uk": "in'taitl",
+      "phonetic_us": null,
+      "phonics_split": "en·ti·tle",
+      "senses": [
+        {
+          "gloss": "给...权利, 取名为, 给予名称, 叫做",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my getaway.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的逃走, 起步。"
+        },
+        {
+          "en": "I can see a getaway.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到逃走, 起步。"
+        }
+      ],
+      "headword": "getaway",
+      "lexical_entry_id": "w_getaway",
+      "ordinal": 26,
+      "phonetic_uk": "'^etə,wei",
+      "phonetic_us": null,
+      "phonics_split": "get·away",
+      "senses": [
+        {
+          "gloss": "逃走, 起步",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dive.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的潜水, 跳水。"
+        },
+        {
+          "en": "I can see a dive.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到潜水, 跳水。"
+        }
+      ],
+      "headword": "dive",
+      "lexical_entry_id": "w_dive",
+      "ordinal": 27,
+      "phonetic_uk": "daiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "潜水, 跳水",
+          "pos": "n."
+        },
+        {
+          "gloss": "跳水, 俯冲, 猛冲",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kayaking.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的[体]皮艇运动。"
+        },
+        {
+          "en": "I can see a kayaking.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到[体]皮艇运动。"
+        }
+      ],
+      "headword": "kayaking",
+      "lexical_entry_id": "w_kayaking",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "kayak·ing",
+      "senses": [
+        {
+          "gloss": "[体]皮艇运动",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Hotel rooms cost more in peak season.",
+          "origin": "curated:senior-peak-season",
+          "zh": "旺季时酒店房间更贵。"
+        }
+      ],
+      "headword": "peak season",
+      "lexical_entry_id": "w_peak_season",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "旺季",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my freedom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的自由, 坦率, 特权。"
+        },
+        {
+          "en": "I can see a freedom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到自由, 坦率, 特权。"
+        }
+      ],
+      "headword": "freedom",
+      "lexical_entry_id": "w_freedom",
+      "ordinal": 30,
+      "phonetic_uk": "'fri:dəm",
+      "phonetic_us": null,
+      "phonics_split": "free·dom",
+      "senses": [
+        {
+          "gloss": "自由, 坦率, 特权",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my domain.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的领域, 领土, 产业, 范围。"
+        },
+        {
+          "en": "I can see a domain.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到领域, 领土, 产业, 范围。"
+        }
+      ],
+      "headword": "domain",
+      "lexical_entry_id": "w_domain",
+      "ordinal": 31,
+      "phonetic_uk": "dəu'mein",
+      "phonetic_us": null,
+      "phonics_split": "do·main",
+      "senses": [
+        {
+          "gloss": "领域, 领土, 产业, 范围",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sponsor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的保证人, 赞助者, 发起者, 倡议者, 教父。"
+        },
+        {
+          "en": "I can see a sponsor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到保证人, 赞助者, 发起者, 倡议者, 教父。"
+        }
+      ],
+      "headword": "sponsor",
+      "lexical_entry_id": "w_sponsor",
+      "ordinal": 32,
+      "phonetic_uk": "'spɒnsə",
+      "phonetic_us": null,
+      "phonics_split": "spon·sor",
+      "senses": [
+        {
+          "gloss": "保证人, 赞助者, 发起者, 倡议者, 教父",
+          "pos": "n."
+        },
+        {
+          "gloss": "发起, 赞助, 倡议",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my liberty.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的自由, 特权, 许可, 冒失。"
+        },
+        {
+          "en": "I can see a liberty.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到自由, 特权, 许可, 冒失。"
+        }
+      ],
+      "headword": "liberty",
+      "lexical_entry_id": "w_liberty",
+      "ordinal": 33,
+      "phonetic_uk": "'libəli",
+      "phonetic_us": null,
+      "phonics_split": "lib·er·ty",
+      "senses": [
+        {
+          "gloss": "自由, 特权, 许可, 冒失",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my golf.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的高尔夫球。"
+        },
+        {
+          "en": "I can see a golf.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到高尔夫球。"
+        }
+      ],
+      "headword": "golf",
+      "lexical_entry_id": "w_golf",
+      "ordinal": 34,
+      "phonetic_uk": "gɒlf",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高尔夫球",
+          "pos": "n."
+        },
+        {
+          "gloss": "打高尔夫球",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my strait.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海峡, 困境。"
+        },
+        {
+          "en": "I can see a strait.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海峡, 困境。"
+        }
+      ],
+      "headword": "strait",
+      "lexical_entry_id": "w_strait",
+      "ordinal": 35,
+      "phonetic_uk": "streit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "海峡, 困境",
+          "pos": "n."
+        },
+        {
+          "gloss": "困难的, 窘迫的, 狭窄的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sample.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的样品, 范例, 样本。"
+        },
+        {
+          "en": "I can see a sample.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到样品, 范例, 样本。"
+        }
+      ],
+      "headword": "sample",
+      "lexical_entry_id": "w_sample",
+      "ordinal": 36,
+      "phonetic_uk": "'sæmpl",
+      "phonetic_us": null,
+      "phonics_split": "sam·ple",
+      "senses": [
+        {
+          "gloss": "样品, 范例, 样本",
+          "pos": "n."
+        },
+        {
+          "gloss": "抽样, 尝试",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my monument.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的纪念碑, 纪念物, 石碑。"
+        },
+        {
+          "en": "I can see a monument.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到纪念碑, 纪念物, 石碑。"
+        }
+      ],
+      "headword": "monument",
+      "lexical_entry_id": "w_monument",
+      "ordinal": 37,
+      "phonetic_uk": "'mɒnjumənt",
+      "phonetic_us": null,
+      "phonics_split": "mon·u·ment",
+      "senses": [
+        {
+          "gloss": "纪念碑, 纪念物, 石碑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kiwi.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鹬鸵, 地勤人员, 新西兰人。"
+        },
+        {
+          "en": "I can see a kiwi.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鹬鸵, 地勤人员, 新西兰人。"
+        }
+      ],
+      "headword": "kiwi",
+      "lexical_entry_id": "w_kiwi",
+      "ordinal": 38,
+      "phonetic_uk": "'ki:wi:",
+      "phonetic_us": null,
+      "phonics_split": "ki·wi",
+      "senses": [
+        {
+          "gloss": "鹬鸵, 地勤人员, 新西兰人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my geyser.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的喷泉, 间歇泉。"
+        },
+        {
+          "en": "I can see a geyser.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到喷泉, 间歇泉。"
+        }
+      ],
+      "headword": "geyser",
+      "lexical_entry_id": "w_geyser",
+      "ordinal": 39,
+      "phonetic_uk": "'gaizə",
+      "phonetic_us": null,
+      "phonics_split": "gey·ser",
+      "senses": [
+        {
+          "gloss": "喷泉, 间歇泉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The sulphuric pools are bright yellow.",
+          "origin": "curated:senior-sulphuric-pool",
+          "zh": "硫黄池是明黄色的。"
+        }
+      ],
+      "headword": "sulphuric pool",
+      "lexical_entry_id": "w_sulphuric_pool",
+      "ordinal": 40,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "硫黄池",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Manuka honey is made in New Zealand.",
+          "origin": "curated:senior-manuka-honey",
+          "zh": "麦卢卡蜂蜜产自新西兰。"
+        }
+      ],
+      "headword": "manuka honey",
+      "lexical_entry_id": "w_manuka_honey",
+      "ordinal": 41,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "麦卢卡蜂蜜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “bungee jumping”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“bungee jumping”。"
+        }
+      ],
+      "headword": "bungee jumping",
+      "lexical_entry_id": "w_bungee_jumping",
+      "ordinal": 42,
+      "phonetic_uk": "ˈbʌŋdʒi: ˈdʒʌmpiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蹦极跳",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a flock of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a flock of”。"
+        }
+      ],
+      "headword": "a flock of",
+      "lexical_entry_id": "w_a_flock_of",
+      "ordinal": 43,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一群",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The geothermal park is full of hot pools.",
+          "origin": "curated:senior-geothermal-park",
+          "zh": "地热公园里到处是热水池。"
+        }
+      ],
+      "headword": "geothermal park",
+      "lexical_entry_id": "w_geothermal_park",
+      "ordinal": 44,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "地热公园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my distribution.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的分配。"
+        },
+        {
+          "en": "I can see a distribution.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到分配。"
+        }
+      ],
+      "headword": "distribution",
+      "lexical_entry_id": "w_distribution",
+      "ordinal": 45,
+      "phonetic_uk": ".distrə'bju:ʃən",
+      "phonetic_us": null,
+      "phonics_split": "dis·tri·bu·tion",
+      "senses": [
+        {
+          "gloss": "分配",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pouch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小袋, 小包, 眼袋, 邮袋, 育儿袋。"
+        },
+        {
+          "en": "I can see a pouch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小袋, 小包, 眼袋, 邮袋, 育儿袋。"
+        }
+      ],
+      "headword": "pouch",
+      "lexical_entry_id": "w_pouch",
+      "ordinal": 46,
+      "phonetic_uk": "pautʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小袋, 小包, 眼袋, 邮袋, 育儿袋",
+          "pos": "n."
+        },
+        {
+          "gloss": "装...入袋中, 使成袋状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very temporary.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常暂时的, 临时。"
+        }
+      ],
+      "headword": "temporary",
+      "lexical_entry_id": "w_temporary",
+      "ordinal": 47,
+      "phonetic_uk": "'tempərəri",
+      "phonetic_us": null,
+      "phonics_split": "tem·po·rary",
+      "senses": [
+        {
+          "gloss": "暂时的, 临时的",
+          "pos": "a."
+        },
+        {
+          "gloss": "临时工, 临时雇员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my phase.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时期, 局面, 方面, 位相, 相, 阶段。"
+        },
+        {
+          "en": "I can see a phase.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时期, 局面, 方面, 位相, 相, 阶段。"
+        }
+      ],
+      "headword": "phase",
+      "lexical_entry_id": "w_phase",
+      "ordinal": 48,
+      "phonetic_uk": "feiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "时期, 局面, 方面, 位相, 相, 阶段",
+          "pos": "n."
+        },
+        {
+          "gloss": "使调整相位, 使定相, 使一致, 逐步执行, 实行",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my trunk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的树干, 干线, 躯干, 主干, 象鼻, 箱子。"
+        },
+        {
+          "en": "I can see a trunk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到树干, 干线, 躯干, 主干, 象鼻, 箱子。"
+        }
+      ],
+      "headword": "trunk",
+      "lexical_entry_id": "w_trunk",
+      "ordinal": 49,
+      "phonetic_uk": "trʌŋk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "树干, 干线, 躯干, 主干, 象鼻, 箱子",
+          "pos": "n."
+        },
+        {
+          "gloss": "把...放入旅行箱内",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very licensed.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常得到许可。"
+        }
+      ],
+      "headword": "licensed",
+      "lexical_entry_id": "w_licensed",
+      "ordinal": 50,
+      "phonetic_uk": "'laisnst",
+      "phonetic_us": null,
+      "phonics_split": "li·censed",
+      "senses": [
+        {
+          "gloss": "得到许可的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my license.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的执照, 许可证, 特许。"
+        },
+        {
+          "en": "I can see a license.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到执照, 许可证, 特许。"
+        }
+      ],
+      "headword": "license",
+      "lexical_entry_id": "w_license",
+      "ordinal": 51,
+      "phonetic_uk": "'laisns",
+      "phonetic_us": null,
+      "phonics_split": "li·cense",
+      "senses": [
+        {
+          "gloss": "执照, 许可证, 特许",
+          "pos": "n."
+        },
+        {
+          "gloss": "许可, 特许",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my session.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的期间, 开庭期, 会议, 学期。"
+        },
+        {
+          "en": "I can see a session.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到期间, 开庭期, 会议, 学期。"
+        }
+      ],
+      "headword": "session",
+      "lexical_entry_id": "w_session",
+      "ordinal": 52,
+      "phonetic_uk": "'seʃən",
+      "phonetic_us": null,
+      "phonics_split": "ses·sion",
+      "senses": [
+        {
+          "gloss": "期间, 开庭期, 会议, 学期",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my frequency.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的频率, 频数。"
+        },
+        {
+          "en": "I can see a frequency.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到频率, 频数。"
+        }
+      ],
+      "headword": "frequency",
+      "lexical_entry_id": "w_frequency",
+      "ordinal": 53,
+      "phonetic_uk": "'fri:kwənsi",
+      "phonetic_us": null,
+      "phonics_split": "fre·quen·cy",
+      "senses": [
+        {
+          "gloss": "频率, 频数",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very violent.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常暴力的, 猛烈的, 激烈的, 极端的, 凶暴。"
+        }
+      ],
+      "headword": "violent",
+      "lexical_entry_id": "w_violent",
+      "ordinal": 54,
+      "phonetic_uk": "'vaiələnt",
+      "phonetic_us": null,
+      "phonics_split": "vi·o·lent",
+      "senses": [
+        {
+          "gloss": "暴力的, 猛烈的, 激烈的, 极端的, 凶暴的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my violence.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猛烈, 暴力, 暴虐, 暴行。"
+        },
+        {
+          "en": "I can see a violence.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猛烈, 暴力, 暴虐, 暴行。"
+        }
+      ],
+      "headword": "violence",
+      "lexical_entry_id": "w_violence",
+      "ordinal": 55,
+      "phonetic_uk": "'vaiələns",
+      "phonetic_us": null,
+      "phonics_split": "vi·o·lence",
+      "senses": [
+        {
+          "gloss": "猛烈, 暴力, 暴虐, 暴行",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nest.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的巢, 窝, 休息所, 隐匿处。"
+        },
+        {
+          "en": "I can see a nest.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到巢, 窝, 休息所, 隐匿处。"
+        }
+      ],
+      "headword": "nest",
+      "lexical_entry_id": "w_nest",
+      "ordinal": 56,
+      "phonetic_uk": "nest",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "巢, 窝, 休息所, 隐匿处",
+          "pos": "n."
+        },
+        {
+          "gloss": "筑巢, 找鸟巢",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mammal.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的哺乳动物。"
+        },
+        {
+          "en": "I can see a mammal.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到哺乳动物。"
+        }
+      ],
+      "headword": "mammal",
+      "lexical_entry_id": "w_mammal",
+      "ordinal": 57,
+      "phonetic_uk": "mæməl",
+      "phonetic_us": null,
+      "phonics_split": "mam·mal",
+      "senses": [
+        {
+          "gloss": "哺乳动物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my biology.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生物学。"
+        },
+        {
+          "en": "I can see a biology.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生物学。"
+        }
+      ],
+      "headword": "biology",
+      "lexical_entry_id": "w_biology",
+      "ordinal": 58,
+      "phonetic_uk": "bai'ɒlədʒi",
+      "phonetic_us": null,
+      "phonics_split": "bi·ol·o·gy",
+      "senses": [
+        {
+          "gloss": "生物学",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hatch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的孵化, 舱口。"
+        },
+        {
+          "en": "I can see a hatch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到孵化, 舱口。"
+        }
+      ],
+      "headword": "hatch",
+      "lexical_entry_id": "w_hatch",
+      "ordinal": 59,
+      "phonetic_uk": "hætʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "孵化, 舱口",
+          "pos": "n."
+        },
+        {
+          "gloss": "孵, 孵出, 策划",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my capacity.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的容量, 能力, 才能, 资格。"
+        },
+        {
+          "en": "I can see a capacity.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到容量, 能力, 才能, 资格。"
+        }
+      ],
+      "headword": "capacity",
+      "lexical_entry_id": "w_capacity",
+      "ordinal": 60,
+      "phonetic_uk": "kə'pæsiti",
+      "phonetic_us": null,
+      "phonics_split": "ca·pac·i·ty",
+      "senses": [
+        {
+          "gloss": "容量, 能力, 才能, 资格",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a handful of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a handful of”。"
+        }
+      ],
+      "headword": "a handful of",
+      "lexical_entry_id": "w_a_handful_of",
+      "ordinal": 61,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一小撮,少数",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fence.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的围墙, 栅栏, 买卖赃物的人, 剑术。"
+        },
+        {
+          "en": "I can see a fence.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到围墙, 栅栏, 买卖赃物的人, 剑术。"
+        }
+      ],
+      "headword": "fence",
+      "lexical_entry_id": "w_fence",
+      "ordinal": 62,
+      "phonetic_uk": "fens",
+      "phonetic_us": null,
+      "phonics_split": "fen·ce",
+      "senses": [
+        {
+          "gloss": "围墙, 栅栏, 买卖赃物的人, 剑术",
+          "pos": "n."
+        },
+        {
+          "gloss": "用篱笆围住, 练习剑术, 防护",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my prison.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的监狱, 监禁, 拘留所。"
+        },
+        {
+          "en": "I can see a prison.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到监狱, 监禁, 拘留所。"
+        }
+      ],
+      "headword": "prison",
+      "lexical_entry_id": "w_prison",
+      "ordinal": 63,
+      "phonetic_uk": "'prizn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "监狱, 监禁, 拘留所",
+          "pos": "n."
+        },
+        {
+          "gloss": "监禁",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very grand.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常庄重的, 壮观的, 显赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢。"
+        }
+      ],
+      "headword": "grand",
+      "lexical_entry_id": "w_grand",
+      "ordinal": 64,
+      "phonetic_uk": "grænd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "庄重的, 壮观的, 显赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

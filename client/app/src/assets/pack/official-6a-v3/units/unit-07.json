@@ -1,0 +1,390 @@
+{
+  "title": "Seeing a film",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very asleep.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常睡着的, 长眠的, 麻木。"
+        }
+      ],
+      "headword": "asleep",
+      "lexical_entry_id": "w_asleep",
+      "ordinal": 1,
+      "phonetic_uk": "ə'sli:p",
+      "phonetic_us": null,
+      "phonics_split": "as·leep",
+      "senses": [
+        {
+          "gloss": "睡着的, 长眠的, 麻木的",
+          "pos": "a."
+        },
+        {
+          "gloss": "熟睡地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very boring.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常烦人的, 无聊的, 无趣。"
+        }
+      ],
+      "headword": "boring",
+      "lexical_entry_id": "w_boring",
+      "ordinal": 2,
+      "phonetic_uk": "'bɔːriŋ",
+      "phonetic_us": null,
+      "phonics_split": "bor·ing",
+      "senses": [
+        {
+          "gloss": "烦人的, 无聊的, 无趣的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very brave.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常勇敢的, 美好的, 华丽。"
+        }
+      ],
+      "headword": "brave",
+      "lexical_entry_id": "w_brave",
+      "ordinal": 3,
+      "phonetic_uk": "breiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "勇敢的, 美好的, 华丽的",
+          "pos": "a."
+        },
+        {
+          "gloss": "勇敢者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very exciting.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常令人兴奋的, 刺激。"
+        }
+      ],
+      "headword": "exciting",
+      "lexical_entry_id": "w_exciting",
+      "ordinal": 4,
+      "phonetic_uk": "ik'saitiŋ",
+      "phonetic_us": null,
+      "phonics_split": "ex·cit·ing",
+      "senses": [
+        {
+          "gloss": "令人兴奋的, 刺激的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very fairest.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常最美的（fair最高级）。"
+        }
+      ],
+      "headword": "fairest",
+      "lexical_entry_id": "w_fairest",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "最美的（fair最高级）",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “fall asleep”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“fall asleep”。"
+        }
+      ],
+      "headword": "fall asleep",
+      "lexical_entry_id": "w_fall_asleep",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "入睡, 长眠, 懈怠, 静止不动",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kill.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的杀, 杀戮, 小河。"
+        },
+        {
+          "en": "I can see a kill.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到杀, 杀戮, 小河。"
+        }
+      ],
+      "headword": "kill",
+      "lexical_entry_id": "w_kill",
+      "ordinal": 7,
+      "phonetic_uk": "kil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "杀, 杀戮, 小河",
+          "pos": "n."
+        },
+        {
+          "gloss": "杀, 破坏, 消灭, 使终止, 抵消, 否决",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mirror.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的镜子, 写真, 典范。"
+        },
+        {
+          "en": "I can see a mirror.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到镜子, 写真, 典范。"
+        }
+      ],
+      "headword": "mirror",
+      "lexical_entry_id": "w_mirror",
+      "ordinal": 8,
+      "phonetic_uk": "'mirə",
+      "phonetic_us": null,
+      "phonics_split": "mir·ror",
+      "senses": [
+        {
+          "gloss": "镜子, 写真, 典范",
+          "pos": "n."
+        },
+        {
+          "gloss": "反映, 映出",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “next time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“next time”。"
+        }
+      ],
+      "headword": "next time",
+      "lexical_entry_id": "w_next_time",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下次, 下次",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “once upon a time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“once upon a time”。"
+        }
+      ],
+      "headword": "once upon a time",
+      "lexical_entry_id": "w_once_upon_a_time",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "从前",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my police.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的警察, 警察当局, 治安。"
+        },
+        {
+          "en": "I can see a police.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到警察, 警察当局, 治安。"
+        }
+      ],
+      "headword": "police",
+      "lexical_entry_id": "w_police",
+      "ordinal": 11,
+      "phonetic_uk": "pə'li:s",
+      "phonetic_us": null,
+      "phonics_split": "po·lice",
+      "senses": [
+        {
+          "gloss": "警察, 警察当局, 治安",
+          "pos": "n."
+        },
+        {
+          "gloss": "维持治安, 管辖",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my policeman.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的警察。"
+        },
+        {
+          "en": "I can see a policeman.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到警察。"
+        }
+      ],
+      "headword": "policeman",
+      "lexical_entry_id": "w_policeman",
+      "ordinal": 12,
+      "phonetic_uk": "pə'li:smən",
+      "phonetic_us": null,
+      "phonics_split": "po·lice·man",
+      "senses": [
+        {
+          "gloss": "警察",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my princess.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公主, 王妃, 女巨头。"
+        },
+        {
+          "en": "I can see a princess.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公主, 王妃, 女巨头。"
+        }
+      ],
+      "headword": "princess",
+      "lexical_entry_id": "w_princess",
+      "ordinal": 13,
+      "phonetic_uk": "'prinsis",
+      "phonetic_us": null,
+      "phonics_split": "prin·cess",
+      "senses": [
+        {
+          "gloss": "公主, 王妃, 女巨头",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my queen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的王后, 女王。"
+        },
+        {
+          "en": "I can see a queen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到王后, 女王。"
+        }
+      ],
+      "headword": "queen",
+      "lexical_entry_id": "w_queen",
+      "ordinal": 14,
+      "phonetic_uk": "'kwi:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "王后, 女王",
+          "pos": "n."
+        },
+        {
+          "gloss": "立为女王",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “shall”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“shall”。"
+        }
+      ],
+      "headword": "shall",
+      "lexical_entry_id": "w_shall",
+      "ordinal": 15,
+      "phonetic_uk": "ʃæl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "将",
+          "pos": "aux."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

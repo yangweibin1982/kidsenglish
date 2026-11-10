@@ -1,0 +1,136 @@
+{
+  "name": "plan-adjusted-projection-unknown-skip",
+  "description": "【扩展·S9 调整投影＋未知类型前向兼容】① daily_plan_adjusted 事件折叠为 planAdjustments（adaptation_log 投影源）：同日（2026-10-27）两设备各发一份，全序后到者（dev-b，hlc 1500）last-wins 生效；② 另一日（2026-10-31）的授予事件正常落档，信号快照原样携带；③ 未知类型 future_reward_granted 跳过＋计数（unknownEventTypes），不进任何状态面、不炸折叠——前向兼容的机器钉死。",
+  "events": [
+    {
+      "event_id": "pa-003",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 5000, "counter": 0 },
+      "occurred_at": "2026-10-31T07:00:00Z",
+      "type": "daily_plan_adjusted",
+      "payload": {
+        "date": "2026-10-31",
+        "from": 4,
+        "to": 5,
+        "reasons": ["three_day_streak"],
+        "signal_snapshot": {
+          "date": "2026-10-30",
+          "answered": 10,
+          "correct": 9,
+          "accuracy": 0.9,
+          "completedOnTime": true,
+          "overtime": false,
+          "timeInBand": true,
+          "digestIndex": 0.95
+        }
+      }
+    },
+    {
+      "event_id": "pa-001",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-27T07:00:00Z",
+      "type": "daily_plan_adjusted",
+      "payload": {
+        "date": "2026-10-27",
+        "from": 5,
+        "to": 4,
+        "reasons": ["accuracy_below_70"],
+        "signal_snapshot": {
+          "date": "2026-10-26",
+          "answered": 10,
+          "correct": 6,
+          "accuracy": 0.6,
+          "completedOnTime": false,
+          "overtime": false,
+          "timeInBand": true,
+          "digestIndex": 0.5
+        }
+      }
+    },
+    {
+      "event_id": "pa-004",
+      "child_id": "c1",
+      "device_id": "dev-b",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 6000, "counter": 0 },
+      "occurred_at": "2026-10-31T08:00:00Z",
+      "type": "future_reward_granted",
+      "payload": { "asset": "skin", "cost": 3 }
+    },
+    {
+      "event_id": "pa-002",
+      "child_id": "c1",
+      "device_id": "dev-b",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1500, "counter": 0 },
+      "occurred_at": "2026-10-27T07:01:00Z",
+      "type": "daily_plan_adjusted",
+      "payload": {
+        "date": "2026-10-27",
+        "from": 5,
+        "to": 3,
+        "reasons": ["accuracy_below_70", "overtime"],
+        "signal_snapshot": {
+          "date": "2026-10-26",
+          "answered": 10,
+          "correct": 5,
+          "accuracy": 0.5,
+          "completedOnTime": false,
+          "overtime": true,
+          "timeInBand": false,
+          "digestIndex": 0.25
+        }
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [],
+    "counters": { "answered": 0, "correct": 0, "stars": 0, "shards": 0 },
+    "dailySummaries": [],
+    "planAdjustments": [
+      {
+        "type": "daily_plan_adjusted",
+        "childId": "c1",
+        "date": "2026-10-27",
+        "from": 5,
+        "to": 3,
+        "reasons": ["accuracy_below_70", "overtime"],
+        "signalSnapshot": {
+          "date": "2026-10-26",
+          "answered": 10,
+          "correct": 5,
+          "accuracy": 0.5,
+          "completedOnTime": false,
+          "overtime": true,
+          "timeInBand": false,
+          "digestIndex": 0.25
+        }
+      },
+      {
+        "type": "daily_plan_adjusted",
+        "childId": "c1",
+        "date": "2026-10-31",
+        "from": 4,
+        "to": 5,
+        "reasons": ["three_day_streak"],
+        "signalSnapshot": {
+          "date": "2026-10-30",
+          "answered": 10,
+          "correct": 9,
+          "accuracy": 0.9,
+          "completedOnTime": true,
+          "overtime": false,
+          "timeInBand": true,
+          "digestIndex": 0.95
+        }
+      }
+    ],
+    "unknownEventTypes": { "future_reward_granted": 1 }
+  }
+}

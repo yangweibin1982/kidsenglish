@@ -1,0 +1,859 @@
+{
+  "title": "Caring for your health",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my conduct.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的行为, 举动, 指导。"
+        },
+        {
+          "en": "I can see a conduct.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到行为, 举动, 指导。"
+        }
+      ],
+      "headword": "conduct",
+      "lexical_entry_id": "w_conduct",
+      "ordinal": 1,
+      "phonetic_uk": "'kɔndʌkt, -dəkt",
+      "phonetic_us": null,
+      "phonics_split": "con·duct",
+      "senses": [
+        {
+          "gloss": "行为, 举动, 指导",
+          "pos": "n."
+        },
+        {
+          "gloss": "为人, 指挥, 管理, 实施",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lifestyle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生活方式。"
+        },
+        {
+          "en": "I can see a lifestyle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生活方式。"
+        }
+      ],
+      "headword": "lifestyle",
+      "lexical_entry_id": "w_lifestyle",
+      "ordinal": 2,
+      "phonetic_uk": "'laifstail",
+      "phonetic_us": null,
+      "phonics_split": "life·style",
+      "senses": [
+        {
+          "gloss": "生活方式",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my quarrel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的吵架, 反目, 怨言, 方头凿。"
+        },
+        {
+          "en": "I can see a quarrel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到吵架, 反目, 怨言, 方头凿。"
+        }
+      ],
+      "headword": "quarrel",
+      "lexical_entry_id": "w_quarrel",
+      "ordinal": 3,
+      "phonetic_uk": "'kwɒrəl",
+      "phonetic_us": null,
+      "phonics_split": "quar·rel",
+      "senses": [
+        {
+          "gloss": "吵架, 反目, 怨言, 方头凿",
+          "pos": "n."
+        },
+        {
+          "gloss": "吵架, 争论, 挑剔",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my focus.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的焦点, 焦距。"
+        },
+        {
+          "en": "I can see a focus.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到焦点, 焦距。"
+        }
+      ],
+      "headword": "focus",
+      "lexical_entry_id": "w_focus",
+      "ordinal": 4,
+      "phonetic_uk": "'fəukəs",
+      "phonetic_us": null,
+      "phonics_split": "fo·cus",
+      "senses": [
+        {
+          "gloss": "焦点, 焦距",
+          "pos": "n."
+        },
+        {
+          "gloss": "聚焦, 注视",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my peer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的同等的人, 匹敌, 贵族。"
+        },
+        {
+          "en": "I can see a peer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到同等的人, 匹敌, 贵族。"
+        }
+      ],
+      "headword": "peer",
+      "lexical_entry_id": "w_peer",
+      "ordinal": 5,
+      "phonetic_uk": "piə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "同等的人, 匹敌, 贵族",
+          "pos": "n."
+        },
+        {
+          "gloss": "凝视, 窥视, 费力地看, 隐现",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pressure.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的压, 榨, 按, 强制, 压力, 压迫, 压强。"
+        },
+        {
+          "en": "I can see a pressure.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到压, 榨, 按, 强制, 压力, 压迫, 压强。"
+        }
+      ],
+      "headword": "pressure",
+      "lexical_entry_id": "w_pressure",
+      "ordinal": 6,
+      "phonetic_uk": "'preʃə",
+      "phonetic_us": null,
+      "phonics_split": "pres·sure",
+      "senses": [
+        {
+          "gloss": "压, 榨, 按, 强制, 压力, 压迫, 压强",
+          "pos": "n."
+        },
+        {
+          "gloss": "迫使, 使增压, 密封",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “whether”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“whether”。"
+        }
+      ],
+      "headword": "whether",
+      "lexical_entry_id": "w_whether",
+      "ordinal": 7,
+      "phonetic_uk": "'hweðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是否, 不论",
+          "pos": "conj."
+        },
+        {
+          "gloss": "两个中的哪一个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my risk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的冒险, 危险, 保险额。"
+        },
+        {
+          "en": "I can see a risk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到冒险, 危险, 保险额。"
+        }
+      ],
+      "headword": "risk",
+      "lexical_entry_id": "w_risk",
+      "ordinal": 8,
+      "phonetic_uk": "risk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "冒险, 危险, 保险额",
+          "pos": "n."
+        },
+        {
+          "gloss": "冒...的危险, 冒险干",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my guard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的守卫者, 警戒, 护卫队, 防护装置。"
+        },
+        {
+          "en": "I can see a guard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到守卫者, 警戒, 护卫队, 防护装置。"
+        }
+      ],
+      "headword": "guard",
+      "lexical_entry_id": "w_guard",
+      "ordinal": 9,
+      "phonetic_uk": "gɑ:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "守卫者, 警戒, 护卫队, 防护装置",
+          "pos": "n."
+        },
+        {
+          "gloss": "保卫, 看守, 当心",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very positive.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常肯定的, 积极的, 有把握。"
+        }
+      ],
+      "headword": "positive",
+      "lexical_entry_id": "w_positive",
+      "ordinal": 10,
+      "phonetic_uk": "'pɒzitiv",
+      "phonetic_us": null,
+      "phonics_split": "pos·i·tive",
+      "senses": [
+        {
+          "gloss": "肯定的, 积极的, 有把握的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cancel.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的取消, 撤消, 盖销(邮票)。"
+        },
+        {
+          "en": "I can see a cancel.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到取消, 撤消, 盖销(邮票)。"
+        }
+      ],
+      "headword": "cancel",
+      "lexical_entry_id": "w_cancel",
+      "ordinal": 11,
+      "phonetic_uk": "'kænsəl",
+      "phonetic_us": null,
+      "phonics_split": "can·cel",
+      "senses": [
+        {
+          "gloss": "取消, 撤消, 盖销(邮票)",
+          "pos": "n."
+        },
+        {
+          "gloss": "取消, 删去, 抵销, 盖销",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bright.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常明亮。"
+        }
+      ],
+      "headword": "bright",
+      "lexical_entry_id": "w_bright",
+      "ordinal": 12,
+      "phonetic_uk": "brait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "明亮的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my force.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的力量, 武力, 势力, 影响力, 军队, 力, 效力。"
+        },
+        {
+          "en": "I can see a force.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到力量, 武力, 势力, 影响力, 军队, 力, 效力。"
+        }
+      ],
+      "headword": "force",
+      "lexical_entry_id": "w_force",
+      "ordinal": 13,
+      "phonetic_uk": "fɔːs",
+      "phonetic_us": null,
+      "phonics_split": "for·ce",
+      "senses": [
+        {
+          "gloss": "力量, 武力, 势力, 影响力, 军队, 力, 效力",
+          "pos": "n."
+        },
+        {
+          "gloss": "强迫, 强夺, 推动, 提高",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my concert.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的音乐会, 和声, 一致。"
+        },
+        {
+          "en": "I can see a concert.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到音乐会, 和声, 一致。"
+        }
+      ],
+      "headword": "concert",
+      "lexical_entry_id": "w_concert",
+      "ordinal": 14,
+      "phonetic_uk": "'kɒnsət",
+      "phonetic_us": null,
+      "phonics_split": "con·cert",
+      "senses": [
+        {
+          "gloss": "音乐会, 和声, 一致",
+          "pos": "n."
+        },
+        {
+          "gloss": "协力, 协调",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very private.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常私人的, 秘密的, 私立的, 隐蔽。"
+        }
+      ],
+      "headword": "private",
+      "lexical_entry_id": "w_private",
+      "ordinal": 15,
+      "phonetic_uk": "'praivit",
+      "phonetic_us": null,
+      "phonics_split": "pri·vate",
+      "senses": [
+        {
+          "gloss": "私人的, 秘密的, 私立的, 隐蔽的",
+          "pos": "a."
+        },
+        {
+          "gloss": "士兵, 隐士, 阴部",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very silent.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常沉默的, 安静的, 无声的, 静止。"
+        }
+      ],
+      "headword": "silent",
+      "lexical_entry_id": "w_silent",
+      "ordinal": 16,
+      "phonetic_uk": "'sailənt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "沉默的, 安静的, 无声的, 静止的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “musical instrument”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“musical instrument”。"
+        }
+      ],
+      "headword": "musical instrument",
+      "lexical_entry_id": "w_musical_instrument",
+      "ordinal": 17,
+      "phonetic_uk": "ˈmju:zikəl ˈinstrumənt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乐器",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my enemy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的敌人, 仇敌, 敌军。"
+        },
+        {
+          "en": "I can see an enemy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到敌人, 仇敌, 敌军。"
+        }
+      ],
+      "headword": "enemy",
+      "lexical_entry_id": "w_enemy",
+      "ordinal": 18,
+      "phonetic_uk": "'enimi",
+      "phonetic_us": null,
+      "phonics_split": "en·e·my",
+      "senses": [
+        {
+          "gloss": "敌人, 仇敌, 敌军",
+          "pos": "n."
+        },
+        {
+          "gloss": "敌人的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very regular.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军。"
+        }
+      ],
+      "headword": "regular",
+      "lexical_entry_id": "w_regular",
+      "ordinal": 19,
+      "phonetic_uk": "'regjulə",
+      "phonetic_us": null,
+      "phonics_split": "reg·u·lar",
+      "senses": [
+        {
+          "gloss": "规则的, 常例的, 有秩序的, 整齐的, 等边的, 定期的, 经常的, 合格的, 常备军的",
+          "pos": "a."
+        },
+        {
+          "gloss": "正规军, 正式队员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cheer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的愉快, 振奋, 欢呼。"
+        },
+        {
+          "en": "I can see a cheer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到愉快, 振奋, 欢呼。"
+        }
+      ],
+      "headword": "cheer",
+      "lexical_entry_id": "w_cheer",
+      "ordinal": 20,
+      "phonetic_uk": "tʃiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "愉快, 振奋, 欢呼",
+          "pos": "n."
+        },
+        {
+          "gloss": "欢呼, 喝彩, 快活起来",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my low.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的低点, 低价, 低, 牛叫声。"
+        },
+        {
+          "en": "I can see a low.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到低点, 低价, 低, 牛叫声。"
+        }
+      ],
+      "headword": "low",
+      "lexical_entry_id": "w_low",
+      "ordinal": 21,
+      "phonetic_uk": "ləu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "低点, 低价, 低, 牛叫声",
+          "pos": "n."
+        },
+        {
+          "gloss": "低的, 消沉的, 低等的, 浅的, 卑贱的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my eyesight.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的视力, 目力。"
+        },
+        {
+          "en": "I can see an eyesight.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到视力, 目力。"
+        }
+      ],
+      "headword": "eyesight",
+      "lexical_entry_id": "w_eyesight",
+      "ordinal": 22,
+      "phonetic_uk": "'aisait",
+      "phonetic_us": null,
+      "phonics_split": "eye·sight",
+      "senses": [
+        {
+          "gloss": "视力, 目力",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dentist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的牙科医生。"
+        },
+        {
+          "en": "I can see a dentist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到牙科医生。"
+        }
+      ],
+      "headword": "dentist",
+      "lexical_entry_id": "w_dentist",
+      "ordinal": 23,
+      "phonetic_uk": "'dentist",
+      "phonetic_us": null,
+      "phonics_split": "den·tist",
+      "senses": [
+        {
+          "gloss": "牙科医生",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my recovery.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的恢复, 复原, 痊愈, 重获。"
+        },
+        {
+          "en": "I can see a recovery.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到恢复, 复原, 痊愈, 重获。"
+        }
+      ],
+      "headword": "recovery",
+      "lexical_entry_id": "w_recovery",
+      "ordinal": 24,
+      "phonetic_uk": "ri'kʌvəri",
+      "phonetic_us": null,
+      "phonics_split": "re·cov·ery",
+      "senses": [
+        {
+          "gloss": "恢复, 复原, 痊愈, 重获",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “deal with”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“deal with”。"
+        }
+      ],
+      "headword": "deal with",
+      "lexical_entry_id": "w_deal_with",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "安排, 处理, 涉及, 做生意",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “guard against”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“guard against”。"
+        }
+      ],
+      "headword": "guard against",
+      "lexical_entry_id": "w_guard_against",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "预防,使提防",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The two sounds cancel out.",
+          "origin": "curated:g9b-cancel-out",
+          "zh": "两个声音抵消了。"
+        }
+      ],
+      "headword": "cancel out",
+      "lexical_entry_id": "w_cancel_out",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "抵消",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look on the bright side of life.",
+          "origin": "curated:g9b-bright-side",
+          "zh": "看到生活好的一面。"
+        }
+      ],
+      "headword": "look on the bright side",
+      "lexical_entry_id": "w_look_on_the_bright_side",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看到好的一面",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take up”。"
+        }
+      ],
+      "headword": "take up",
+      "lexical_entry_id": "w_take_up",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拿起, 开始从事, 继续, 接纳, 吸收, 占据, 拘捕, 承兑, 认购, 绷紧",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I'm busy with my homework.",
+          "origin": "curated:g9b-busy-with",
+          "zh": "我忙于作业。"
+        }
+      ],
+      "headword": "be busy with",
+      "lexical_entry_id": "w_be_busy_with",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "忙于",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “leave behind”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“leave behind”。"
+        }
+      ],
+      "headword": "leave behind",
+      "lexical_entry_id": "w_leave_behind",
+      "ordinal": 31,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不带, 留下, 遗留, 超过",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “cheer up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“cheer up”。"
+        }
+      ],
+      "headword": "cheer up",
+      "lexical_entry_id": "w_cheer_up",
+      "ordinal": 32,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "使振奋, 感到振奋",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

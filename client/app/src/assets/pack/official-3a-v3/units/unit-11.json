@@ -1,0 +1,236 @@
+{
+  "title": "Small animals",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cat.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猫, 恶妇。"
+        },
+        {
+          "en": "I can see a cat.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猫, 恶妇。"
+        }
+      ],
+      "headword": "cat",
+      "lexical_entry_id": "w_cat",
+      "ordinal": 1,
+      "phonetic_uk": "kæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猫, 恶妇",
+          "pos": "n."
+        },
+        {
+          "gloss": "呕吐",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的狗, 坏蛋。"
+        },
+        {
+          "en": "I can see a dog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到狗, 坏蛋。"
+        }
+      ],
+      "headword": "dog",
+      "lexical_entry_id": "w_dog",
+      "ordinal": 2,
+      "phonetic_uk": "dɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狗, 坏蛋",
+          "pos": "n."
+        },
+        {
+          "gloss": "跟踪, 尾随",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鱼, 鱼肉, 鱼类, 接合板。"
+        },
+        {
+          "en": "I can see a fish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鱼, 鱼肉, 鱼类, 接合板。"
+        }
+      ],
+      "headword": "fish",
+      "lexical_entry_id": "w_fish",
+      "ordinal": 3,
+      "phonetic_uk": "fiʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鱼, 鱼肉, 鱼类, 接合板",
+          "pos": "n."
+        },
+        {
+          "gloss": "钓, 钓鱼, 查出, 用接合板连接",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The cat eats its food.",
+          "origin": "curated:p-pron-its",
+          "zh": "猫吃它的食物。"
+        }
+      ],
+      "headword": "its",
+      "lexical_entry_id": "w_its",
+      "ordinal": 4,
+      "phonetic_uk": "its",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "它的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mouse.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的老鼠, 胆小羞怯的人, 鼠标。"
+        },
+        {
+          "en": "I can see a mouse.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到老鼠, 胆小羞怯的人, 鼠标。"
+        }
+      ],
+      "headword": "mouse",
+      "lexical_entry_id": "w_mouse",
+      "ordinal": 5,
+      "phonetic_uk": "maus",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老鼠, 胆小羞怯的人, 鼠标",
+          "pos": "n."
+        },
+        {
+          "gloss": "捕鼠, 窥探",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rabbit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的兔子。"
+        },
+        {
+          "en": "I can see a rabbit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到兔子。"
+        }
+      ],
+      "headword": "rabbit",
+      "lexical_entry_id": "w_rabbit",
+      "ordinal": 6,
+      "phonetic_uk": "'ræbit",
+      "phonetic_us": null,
+      "phonics_split": "rab·bit",
+      "senses": [
+        {
+          "gloss": "兔子",
+          "pos": "n."
+        },
+        {
+          "gloss": "猎兔",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tail.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的尾部, 后部, 辫子, 随员, 特务, 燕尾服, 踪迹, 限定继承(权)。"
+        },
+        {
+          "en": "I can see a tail.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到尾部, 后部, 辫子, 随员, 特务, 燕尾服, 踪迹, 限定继承(权)。"
+        }
+      ],
+      "headword": "tail",
+      "lexical_entry_id": "w_tail",
+      "ordinal": 7,
+      "phonetic_uk": "teil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "尾部, 后部, 辫子, 随员, 特务, 燕尾服, 踪迹, 限定继承(权)",
+          "pos": "n."
+        },
+        {
+          "gloss": "在后面的, 从后面而来的, 限定继承的, 尾部的, 后部的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What is this?",
+          "origin": "curated:u4-what",
+          "zh": "这是什么？"
+        }
+      ],
+      "headword": "what",
+      "lexical_entry_id": "w_what",
+      "ordinal": 8,
+      "phonetic_uk": "hwɒt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "什么",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "title": "Changes in our lives",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my life.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑。"
+        },
+        {
+          "en": "I can see a life.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑。"
+        }
+      ],
+      "headword": "life",
+      "lexical_entry_id": "w_life",
+      "ordinal": 1,
+      "phonetic_uk": "laif",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my writer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的作家, 撰稿者, 抄写员。"
+        },
+        {
+          "en": "I can see a writer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到作家, 撰稿者, 抄写员。"
+        }
+      ],
+      "headword": "writer",
+      "lexical_entry_id": "w_writer",
+      "ordinal": 2,
+      "phonetic_uk": "'raitə",
+      "phonetic_us": null,
+      "phonics_split": "writ·er",
+      "senses": [
+        {
+          "gloss": "作家, 撰稿者, 抄写员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my photographer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的摄影师, 摄影者。"
+        },
+        {
+          "en": "I can see a photographer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到摄影师, 摄影者。"
+        }
+      ],
+      "headword": "photographer",
+      "lexical_entry_id": "w_photographer",
+      "ordinal": 3,
+      "phonetic_uk": "fə'tɔ^rəfə",
+      "phonetic_us": null,
+      "phonics_split": "pho·tog·ra·pher",
+      "senses": [
+        {
+          "gloss": "摄影师, 摄影者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my film.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的软片, 薄膜, 胶卷, 电影。"
+        },
+        {
+          "en": "I can see a film.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到软片, 薄膜, 胶卷, 电影。"
+        }
+      ],
+      "headword": "film",
+      "lexical_entry_id": "w_film",
+      "ordinal": 4,
+      "phonetic_uk": "film",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "软片, 薄膜, 胶卷, 电影",
+          "pos": "n."
+        },
+        {
+          "gloss": "覆以薄膜, 拍摄",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very digital.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常数字显示的, 数字。"
+        }
+      ],
+      "headword": "digital",
+      "lexical_entry_id": "w_digital",
+      "ordinal": 5,
+      "phonetic_uk": "'didʒitəl",
+      "phonetic_us": null,
+      "phonics_split": "dig·i·tal",
+      "senses": [
+        {
+          "gloss": "数字显示的, 数字的",
+          "pos": "a."
+        },
+        {
+          "gloss": "数字仪表, 数字式电子表(或时钟)",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my street cleaner.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的清道夫。"
+        },
+        {
+          "en": "I can see a street cleaner.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到清道夫。"
+        }
+      ],
+      "headword": "street cleaner",
+      "lexical_entry_id": "w_street_cleaner",
+      "ordinal": 6,
+      "phonetic_uk": "stri:t ˈkli:nə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "清道夫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sweep.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的扫除, 打扫, 肃清, 视野, 范围, 全胜。"
+        },
+        {
+          "en": "I can see a sweep.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到扫除, 打扫, 肃清, 视野, 范围, 全胜。"
+        }
+      ],
+      "headword": "sweep",
+      "lexical_entry_id": "w_sweep",
+      "ordinal": 7,
+      "phonetic_uk": "swi:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "扫除, 打扫, 肃清, 视野, 范围, 全胜",
+          "pos": "n."
+        },
+        {
+          "gloss": "扫除, 掸去, 猛拉, 扫荡, 肃清, 冲走, 刮起, 环视, 掠过, 扫射",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my broom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的扫帚, 金雀花。"
+        },
+        {
+          "en": "I can see a broom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到扫帚, 金雀花。"
+        }
+      ],
+      "headword": "broom",
+      "lexical_entry_id": "w_broom",
+      "ordinal": 8,
+      "phonetic_uk": "bru:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "扫帚, 金雀花",
+          "pos": "n."
+        },
+        {
+          "gloss": "扫除",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my drive.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器。"
+        },
+        {
+          "en": "I can see a drive.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器。"
+        }
+      ],
+      "headword": "drive",
+      "lexical_entry_id": "w_drive",
+      "ordinal": 9,
+      "phonetic_uk": "draiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器",
+          "pos": "n."
+        },
+        {
+          "gloss": "开车, 驱使, 推动, 驾驶",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my street sweeper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的清道夫。"
+        },
+        {
+          "en": "I can see a street sweeper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到清道夫。"
+        }
+      ],
+      "headword": "street sweeper",
+      "lexical_entry_id": "w_street_sweeper",
+      "ordinal": 10,
+      "phonetic_uk": "stri:t ˈswi:pə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "清道夫，清路机; 扫路机",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wife.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的妻子, 太太, 夫人。"
+        },
+        {
+          "en": "I can see a wife.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到妻子, 太太, 夫人。"
+        }
+      ],
+      "headword": "wife",
+      "lexical_entry_id": "w_wife",
+      "ordinal": 11,
+      "phonetic_uk": "waif",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "妻子, 太太, 夫人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very poor.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙。"
+        }
+      ],
+      "headword": "poor",
+      "lexical_entry_id": "w_poor",
+      "ordinal": 12,
+      "phonetic_uk": "puə. pɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fairy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的仙女, 精灵。"
+        },
+        {
+          "en": "I can see a fairy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到仙女, 精灵。"
+        }
+      ],
+      "headword": "fairy",
+      "lexical_entry_id": "w_fairy",
+      "ordinal": 13,
+      "phonetic_uk": "'fɛəri",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "仙女, 精灵",
+          "pos": "n."
+        },
+        {
+          "gloss": "仙女的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的希望, 愿望, 祝愿, 命令, 请求。"
+        },
+        {
+          "en": "I can see a wish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到希望, 愿望, 祝愿, 命令, 请求。"
+        }
+      ],
+      "headword": "wish",
+      "lexical_entry_id": "w_wish",
+      "ordinal": 14,
+      "phonetic_uk": "wiʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "希望, 愿望, 祝愿, 命令, 请求",
+          "pos": "n."
+        },
+        {
+          "gloss": "愿, 想要, 希望, 祝愿",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “by hand”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“by hand”。"
+        }
+      ],
+      "headword": "by hand",
+      "lexical_entry_id": "w_by_hand",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "用手",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “right away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“right away”。"
+        }
+      ],
+      "headword": "right away",
+      "lexical_entry_id": "w_right_away",
+      "ordinal": 16,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "立刻",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in a short time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in a short time”。"
+        }
+      ],
+      "headword": "in a short time",
+      "lexical_entry_id": "w_in_a_short_time",
+      "ordinal": 17,
+      "phonetic_uk": "in ə ʃɔ:t taim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "<非正>过了一阵子",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

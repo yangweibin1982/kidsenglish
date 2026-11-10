@@ -1,0 +1,85 @@
+{
+  "title": "Who is your hero?",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very helpful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有帮助的, 有益的, 有用。"
+        }
+      ],
+      "headword": "helpful",
+      "lexical_entry_id": "w_helpful",
+      "ordinal": 1,
+      "phonetic_uk": "'helpful",
+      "phonetic_us": null,
+      "phonics_split": "help·ful",
+      "senses": [
+        {
+          "gloss": "有帮助的, 有益的, 有用的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kind.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的种类, 性质, 方式。"
+        },
+        {
+          "en": "I can see a kind.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到种类, 性质, 方式。"
+        }
+      ],
+      "headword": "kind",
+      "lexical_entry_id": "w_kind",
+      "ordinal": 2,
+      "phonetic_uk": "kaind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "种类, 性质, 方式",
+          "pos": "n."
+        },
+        {
+          "gloss": "亲切的, 仁慈的, 和蔼的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very warm.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情。"
+        }
+      ],
+      "headword": "warm",
+      "lexical_entry_id": "w_warm",
+      "ordinal": 3,
+      "phonetic_uk": "wɔːm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使温暖, 弄热, 使兴奋, 使充满仇恨",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

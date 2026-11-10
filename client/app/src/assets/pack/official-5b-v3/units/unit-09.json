@@ -1,0 +1,511 @@
+{
+  "title": "Seeing the doctor",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my ill.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的疾病, 坏事, 罪恶, 灾难。"
+        },
+        {
+          "en": "I can see an ill.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到疾病, 坏事, 罪恶, 灾难。"
+        }
+      ],
+      "headword": "ill",
+      "lexical_entry_id": "w_ill",
+      "ordinal": 1,
+      "phonetic_uk": "il",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "疾病, 坏事, 罪恶, 灾难",
+          "pos": "n."
+        },
+        {
+          "gloss": "生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very wrong.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常错误的, 不正当的, 失常。"
+        }
+      ],
+      "headword": "wrong",
+      "lexical_entry_id": "w_wrong",
+      "ordinal": 2,
+      "phonetic_uk": "rɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "错误的, 不正当的, 失常的",
+          "pos": "a."
+        },
+        {
+          "gloss": "错误地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my headache.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的头痛, 令人头痛之事。"
+        },
+        {
+          "en": "I can see a headache.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到头痛, 令人头痛之事。"
+        }
+      ],
+      "headword": "headache",
+      "lexical_entry_id": "w_headache",
+      "ordinal": 3,
+      "phonetic_uk": "'hedeik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头痛, 令人头痛之事",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fever.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的发烧, 发热, 热病。"
+        },
+        {
+          "en": "I can see a fever.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到发烧, 发热, 热病。"
+        }
+      ],
+      "headword": "fever",
+      "lexical_entry_id": "w_fever",
+      "ordinal": 4,
+      "phonetic_uk": "'fi:və",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发烧, 发热, 热病",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “should”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“should”。"
+        }
+      ],
+      "headword": "should",
+      "lexical_entry_id": "w_should",
+      "ordinal": 5,
+      "phonetic_uk": "ʃud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "应该, 将要",
+          "pos": "aux."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my medicine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的药, 医学, 内科。"
+        },
+        {
+          "en": "I can see a medicine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到药, 医学, 内科。"
+        }
+      ],
+      "headword": "medicine",
+      "lexical_entry_id": "w_medicine",
+      "ordinal": 6,
+      "phonetic_uk": "'medisin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "药, 医学, 内科",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...用药",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rest.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分。"
+        },
+        {
+          "en": "I can see a rest.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分。"
+        }
+      ],
+      "headword": "rest",
+      "lexical_entry_id": "w_rest",
+      "ordinal": 7,
+      "phonetic_uk": "rest",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分",
+          "pos": "n."
+        },
+        {
+          "gloss": "休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my toothache.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的牙痛。"
+        },
+        {
+          "en": "I can see a toothache.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到牙痛。"
+        }
+      ],
+      "headword": "toothache",
+      "lexical_entry_id": "w_toothache",
+      "ordinal": 8,
+      "phonetic_uk": "'tu:θeik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "牙痛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very toothless.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常无齿。"
+        }
+      ],
+      "headword": "toothless",
+      "lexical_entry_id": "w_toothless",
+      "ordinal": 9,
+      "phonetic_uk": "'tu:θlis",
+      "phonetic_us": null,
+      "phonics_split": "tooth·less",
+      "senses": [
+        {
+          "gloss": "无齿的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my present.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的现在, 礼品, 瞄准。"
+        },
+        {
+          "en": "I can see a present.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到现在, 礼品, 瞄准。"
+        }
+      ],
+      "headword": "present",
+      "lexical_entry_id": "w_present",
+      "ordinal": 10,
+      "phonetic_uk": "'preznt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "现在, 礼品, 瞄准",
+          "pos": "n."
+        },
+        {
+          "gloss": "现在的, 出席的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my world.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量。"
+        },
+        {
+          "en": "I can see a world.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量。"
+        }
+      ],
+      "headword": "world",
+      "lexical_entry_id": "w_world",
+      "ordinal": 11,
+      "phonetic_uk": "wə:ld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dentist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的牙科医生。"
+        },
+        {
+          "en": "I can see a dentist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到牙科医生。"
+        }
+      ],
+      "headword": "dentist",
+      "lexical_entry_id": "w_dentist",
+      "ordinal": 12,
+      "phonetic_uk": "'dentist",
+      "phonetic_us": null,
+      "phonics_split": "den·tist",
+      "senses": [
+        {
+          "gloss": "牙科医生",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a headache.",
+          "origin": "curated:g5b-u9-headache",
+          "zh": "我头疼。"
+        }
+      ],
+      "headword": "have a headache",
+      "lexical_entry_id": "w_have_a_headache",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头疼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He has a fever today.",
+          "origin": "curated:g5b-u9-fever",
+          "zh": "他今天发烧了。"
+        }
+      ],
+      "headword": "have a fever",
+      "lexical_entry_id": "w_have_a_fever",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发烧",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have a cold”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have a cold”。"
+        }
+      ],
+      "headword": "have a cold",
+      "lexical_entry_id": "w_have_a_cold",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "患感冒",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have a rest”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have a rest”。"
+        }
+      ],
+      "headword": "have a rest",
+      "lexical_entry_id": "w_have_a_rest",
+      "ordinal": 16,
+      "phonetic_uk": "hæv ə rest",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "休息一下; 歇",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get well”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get well”。"
+        }
+      ],
+      "headword": "get well",
+      "lexical_entry_id": "w_get_well",
+      "ordinal": 17,
+      "phonetic_uk": "ɡet wel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "康复",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have a toothache.",
+          "origin": "curated:g5b-u9-toothache",
+          "zh": "我牙疼。"
+        }
+      ],
+      "headword": "have a toothache",
+      "lexical_entry_id": "w_have_a_toothache",
+      "ordinal": 18,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "牙疼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They have a meeting at nine.",
+          "origin": "curated:g5b-u9-meeting",
+          "zh": "他们九点开会。"
+        }
+      ],
+      "headword": "have a meeting",
+      "lexical_entry_id": "w_have_a_meeting",
+      "ordinal": 19,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "开会",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The dentist pulled out my tooth.",
+          "origin": "curated:g5b-u9-pull-out",
+          "zh": "牙医拔了我的牙。"
+        }
+      ],
+      "headword": "pull out",
+      "lexical_entry_id": "w_pull_out",
+      "ordinal": 20,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拔出",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

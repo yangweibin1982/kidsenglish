@@ -1,0 +1,758 @@
+{
+  "title": "Pets and us",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very faithful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常忠实的, 详确的, 可靠。"
+        }
+      ],
+      "headword": "faithful",
+      "lexical_entry_id": "w_faithful",
+      "ordinal": 1,
+      "phonetic_uk": "'feiθful",
+      "phonetic_us": null,
+      "phonics_split": "faith·ful",
+      "senses": [
+        {
+          "gloss": "忠实的, 详确的, 可靠的",
+          "pos": "a."
+        },
+        {
+          "gloss": "信徒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hold.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的把握, 把持力, 柄, 控制, 掌握, 监禁。"
+        },
+        {
+          "en": "I can see a hold.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到把握, 把持力, 柄, 控制, 掌握, 监禁。"
+        }
+      ],
+      "headword": "hold",
+      "lexical_entry_id": "w_hold",
+      "ordinal": 2,
+      "phonetic_uk": "həuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "把握, 把持力, 柄, 控制, 掌握, 监禁",
+          "pos": "n."
+        },
+        {
+          "gloss": "保存, 握住, 拿住, 占据, 持有, 拥有",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very responsible.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有责任的, 负责的, 责任重大。"
+        }
+      ],
+      "headword": "responsible",
+      "lexical_entry_id": "w_responsible",
+      "ordinal": 3,
+      "phonetic_uk": "ri'spɒnsəbl",
+      "phonetic_us": null,
+      "phonics_split": "re·spon·si·ble",
+      "senses": [
+        {
+          "gloss": "有责任的, 负责的, 责任重大的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very awake.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常醒着。"
+        }
+      ],
+      "headword": "awake",
+      "lexical_entry_id": "w_awake",
+      "ordinal": 4,
+      "phonetic_uk": "ə'weik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "醒着的",
+          "pos": "a."
+        },
+        {
+          "gloss": "唤醒, 唤起, 使意识到",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very flat.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊。"
+        }
+      ],
+      "headword": "flat",
+      "lexical_entry_id": "w_flat",
+      "ordinal": 5,
+      "phonetic_uk": "flæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊的",
+          "pos": "a."
+        },
+        {
+          "gloss": "平直地, 断然地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my choice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的选择, 精选品, 选择权。"
+        },
+        {
+          "en": "I can see a choice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到选择, 精选品, 选择权。"
+        }
+      ],
+      "headword": "choice",
+      "lexical_entry_id": "w_choice",
+      "ordinal": 6,
+      "phonetic_uk": "tʃɒis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "选择, 精选品, 选择权",
+          "pos": "n."
+        },
+        {
+          "gloss": "精选的, 挑三拣四的, 上等的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can advise.",
+          "origin": "template:t-v-can",
+          "zh": "我会劝告, 给...出主意, 通知, 建议。"
+        },
+        {
+          "en": "Let's advise together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起劝告, 给...出主意, 通知, 建议吧。"
+        }
+      ],
+      "headword": "advise",
+      "lexical_entry_id": "w_advise",
+      "ordinal": 7,
+      "phonetic_uk": "əd'vaiz",
+      "phonetic_us": null,
+      "phonics_split": "ad·vise",
+      "senses": [
+        {
+          "gloss": "劝告, 给...出主意, 通知, 建议",
+          "pos": "vt."
+        },
+        {
+          "gloss": "提意见, 商量",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cause.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的原因, 目标。"
+        },
+        {
+          "en": "I can see a cause.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到原因, 目标。"
+        }
+      ],
+      "headword": "cause",
+      "lexical_entry_id": "w_cause",
+      "ordinal": 8,
+      "phonetic_uk": "kɔːz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "原因, 目标",
+          "pos": "n."
+        },
+        {
+          "gloss": "引起, 使产生, 使遭受",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can complain.",
+          "origin": "template:t-v-can",
+          "zh": "我会抱怨, 抗议, 控诉。"
+        },
+        {
+          "en": "Let's complain together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起抱怨, 抗议, 控诉吧。"
+        }
+      ],
+      "headword": "complain",
+      "lexical_entry_id": "w_complain",
+      "ordinal": 9,
+      "phonetic_uk": "kəm'plein",
+      "phonetic_us": null,
+      "phonics_split": "com·plain",
+      "senses": [
+        {
+          "gloss": "抱怨, 抗议, 控诉",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my litter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的垃圾, 杂乱, 轿, 担架。"
+        },
+        {
+          "en": "I can see a litter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到垃圾, 杂乱, 轿, 担架。"
+        }
+      ],
+      "headword": "litter",
+      "lexical_entry_id": "w_litter",
+      "ordinal": 10,
+      "phonetic_uk": "'litə",
+      "phonetic_us": null,
+      "phonics_split": "lit·ter",
+      "senses": [
+        {
+          "gloss": "垃圾, 杂乱, 轿, 担架",
+          "pos": "n."
+        },
+        {
+          "gloss": "乱丢, 铺草, 弄乱",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very unlikely.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不太可能。"
+        }
+      ],
+      "headword": "unlikely",
+      "lexical_entry_id": "w_unlikely",
+      "ordinal": 11,
+      "phonetic_uk": ".ʌn'laikli",
+      "phonetic_us": null,
+      "phonics_split": "un·like·ly",
+      "senses": [
+        {
+          "gloss": "不太可能的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can relieve.",
+          "origin": "template:t-v-can",
+          "zh": "我会减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著。"
+        },
+        {
+          "en": "Let's relieve together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著吧。"
+        }
+      ],
+      "headword": "relieve",
+      "lexical_entry_id": "w_relieve",
+      "ordinal": 12,
+      "phonetic_uk": "ri'li:v",
+      "phonetic_us": null,
+      "phonics_split": "re·lieve",
+      "senses": [
+        {
+          "gloss": "减轻, 救济, 解除, 使免除, 换...的班, 使得到调剂, 使不单调, 衬托, 使显著",
+          "pos": "vt."
+        },
+        {
+          "gloss": "救济, 当替补投手, 呈鲜明突出",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “indoors”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“indoors”。"
+        }
+      ],
+      "headword": "indoors",
+      "lexical_entry_id": "w_indoors",
+      "ordinal": 13,
+      "phonetic_uk": "'in'dɔːz",
+      "phonetic_us": null,
+      "phonics_split": "in·doors",
+      "senses": [
+        {
+          "gloss": "在户内",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very magical.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常魔术的, 有魔力的, 不可思议。"
+        }
+      ],
+      "headword": "magical",
+      "lexical_entry_id": "w_magical",
+      "ordinal": 14,
+      "phonetic_uk": "'mædʒikəl",
+      "phonetic_us": null,
+      "phonics_split": "mag·i·cal",
+      "senses": [
+        {
+          "gloss": "魔术的, 有魔力的, 不可思议的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wealth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的财富, 资源, 财产, 丰富, 富裕, 大量。"
+        },
+        {
+          "en": "I can see a wealth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到财富, 资源, 财产, 丰富, 富裕, 大量。"
+        }
+      ],
+      "headword": "wealth",
+      "lexical_entry_id": "w_wealth",
+      "ordinal": 15,
+      "phonetic_uk": "welθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "财富, 资源, 财产, 丰富, 富裕, 大量",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my queen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的王后, 女王。"
+        },
+        {
+          "en": "I can see a queen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到王后, 女王。"
+        }
+      ],
+      "headword": "queen",
+      "lexical_entry_id": "w_queen",
+      "ordinal": 16,
+      "phonetic_uk": "'kwi:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "王后, 女王",
+          "pos": "n."
+        },
+        {
+          "gloss": "立为女王",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my servant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的仆人, 有用物, 公务员, 雇员。"
+        },
+        {
+          "en": "I can see a servant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到仆人, 有用物, 公务员, 雇员。"
+        }
+      ],
+      "headword": "servant",
+      "lexical_entry_id": "w_servant",
+      "ordinal": 17,
+      "phonetic_uk": "'sə:vənt",
+      "phonetic_us": null,
+      "phonics_split": "ser·vant",
+      "senses": [
+        {
+          "gloss": "仆人, 有用物, 公务员, 雇员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pride.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的骄傲, 自尊心, 自豪, 精华, 勇气。"
+        },
+        {
+          "en": "I can see a pride.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到骄傲, 自尊心, 自豪, 精华, 勇气。"
+        }
+      ],
+      "headword": "pride",
+      "lexical_entry_id": "w_pride",
+      "ordinal": 18,
+      "phonetic_uk": "praid",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "骄傲, 自尊心, 自豪, 精华, 勇气",
+          "pos": "n."
+        },
+        {
+          "gloss": "以...自豪",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “among”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“among”。"
+        }
+      ],
+      "headword": "among",
+      "lexical_entry_id": "w_among",
+      "ordinal": 19,
+      "phonetic_uk": "ə'mʌŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在...之中",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my relationship.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的关系, 关联。"
+        },
+        {
+          "en": "I can see a relationship.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到关系, 关联。"
+        }
+      ],
+      "headword": "relationship",
+      "lexical_entry_id": "w_relationship",
+      "ordinal": 20,
+      "phonetic_uk": "ri'leiʃənʃip",
+      "phonetic_us": null,
+      "phonics_split": "re·la·tion·ship",
+      "senses": [
+        {
+          "gloss": "关系, 关联",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “grow up”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“grow up”。"
+        }
+      ],
+      "headword": "grow up",
+      "lexical_entry_id": "w_grow_up",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "成熟, 成年, 发展, 逐渐形成",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “care for”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“care for”。"
+        }
+      ],
+      "headword": "care for",
+      "lexical_entry_id": "w_care_for",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "喜欢, 照顾, 为...操心, 尊重",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in short”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in short”。"
+        }
+      ],
+      "headword": "in short",
+      "lexical_entry_id": "w_in_short",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "简而言之",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I had no choice but to wait.",
+          "origin": "curated:g8a-no-choice",
+          "zh": "我别无选择只能等。"
+        }
+      ],
+      "headword": "have no choice but to do",
+      "lexical_entry_id": "w_have_no_choice_but_to_do",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "别无选择只能",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can run free.",
+          "origin": "template:t-v-can",
+          "zh": "我会自由奔跑。"
+        },
+        {
+          "en": "Let's run free together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起自由奔跑吧。"
+        }
+      ],
+      "headword": "run free",
+      "lexical_entry_id": "w_run_free",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "自由奔跑",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “lie around”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“lie around”。"
+        }
+      ],
+      "headword": "lie around",
+      "lexical_entry_id": "w_lie_around",
+      "ordinal": 26,
+      "phonetic_uk": "lai əˈraund",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "到处散放, 闲着不干事",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “complain about”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“complain about”。"
+        }
+      ],
+      "headword": "complain about",
+      "lexical_entry_id": "w_complain_about",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "抱怨",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in addition”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in addition”。"
+        }
+      ],
+      "headword": "in addition",
+      "lexical_entry_id": "w_in_addition",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "另外",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can catch the eye of somebody.",
+          "origin": "template:t-v-can",
+          "zh": "我会吸引某人注意。"
+        },
+        {
+          "en": "Let's catch the eye of somebody together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起吸引某人注意吧。"
+        }
+      ],
+      "headword": "catch the eye of somebody",
+      "lexical_entry_id": "w_catch_the_eye_of_somebody",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吸引某人注意",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

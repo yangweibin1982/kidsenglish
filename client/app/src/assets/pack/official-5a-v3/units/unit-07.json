@@ -1,0 +1,327 @@
+{
+  "title": "At the beach",
+  "unit_no": 7,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my beach.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海滩。"
+        },
+        {
+          "en": "I can see a beach.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海滩。"
+        }
+      ],
+      "headword": "beach",
+      "lexical_entry_id": "w_beach",
+      "ordinal": 1,
+      "phonetic_uk": "bi:tʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "海滩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can collect.",
+          "origin": "template:t-v-can",
+          "zh": "我会收集, 聚集, 集中, 搜集。"
+        },
+        {
+          "en": "Let's collect together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起收集, 聚集, 集中, 搜集吧。"
+        }
+      ],
+      "headword": "collect",
+      "lexical_entry_id": "w_collect",
+      "ordinal": 2,
+      "phonetic_uk": "kə'lekt",
+      "phonetic_us": null,
+      "phonics_split": "col·lect",
+      "senses": [
+        {
+          "gloss": "收集, 聚集, 集中, 搜集",
+          "pos": "v."
+        },
+        {
+          "gloss": "由收到者付款的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can enjoy.",
+          "origin": "template:t-v-can",
+          "zh": "我会享受, 喜欢, 欣赏。"
+        },
+        {
+          "en": "Let's enjoy together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起享受, 喜欢, 欣赏吧。"
+        }
+      ],
+      "headword": "enjoy",
+      "lexical_entry_id": "w_enjoy",
+      "ordinal": 3,
+      "phonetic_uk": "in'dʒɒi",
+      "phonetic_us": null,
+      "phonics_split": "en·joy",
+      "senses": [
+        {
+          "gloss": "享受, 喜欢, 欣赏",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have a good time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have a good time”。"
+        }
+      ],
+      "headword": "have a good time",
+      "lexical_entry_id": "w_have_a_good_time",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "过得快乐",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can know.",
+          "origin": "template:t-v-can",
+          "zh": "我会知道, 了解, 认识, 确信。"
+        },
+        {
+          "en": "Let's know together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起知道, 了解, 认识, 确信吧。"
+        }
+      ],
+      "headword": "know",
+      "lexical_entry_id": "w_know",
+      "ordinal": 5,
+      "phonetic_uk": "nəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "知道, 了解, 认识, 确信",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my letter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的信, 字母, 证书, 字面意义, 铅字, 学问, 出租人。"
+        },
+        {
+          "en": "I can see a letter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到信, 字母, 证书, 字面意义, 铅字, 学问, 出租人。"
+        }
+      ],
+      "headword": "letter",
+      "lexical_entry_id": "w_letter",
+      "ordinal": 6,
+      "phonetic_uk": "'letə",
+      "phonetic_us": null,
+      "phonics_split": "let·ter",
+      "senses": [
+        {
+          "gloss": "信, 字母, 证书, 字面意义, 铅字, 学问, 出租人",
+          "pos": "n."
+        },
+        {
+          "gloss": "写字母于, 在...上刻字母, 用字母标明",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “on holiday”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“on holiday”。"
+        }
+      ],
+      "headword": "on holiday",
+      "lexical_entry_id": "w_on_holiday",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在度假",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Put the book in the bag.",
+          "origin": "curated:g2u8-put",
+          "zh": "把书放进包里。"
+        }
+      ],
+      "headword": "put",
+      "lexical_entry_id": "w_put",
+      "ordinal": 8,
+      "phonetic_uk": "put",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "放",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sea.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海, 海洋, 海浪, 大量。"
+        },
+        {
+          "en": "I can see a sea.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海, 海洋, 海浪, 大量。"
+        }
+      ],
+      "headword": "sea",
+      "lexical_entry_id": "w_sea",
+      "ordinal": 9,
+      "phonetic_uk": "si:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "海, 海洋, 海浪, 大量",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shell.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的贝壳, 壳, 外形, 炮弹。"
+        },
+        {
+          "en": "I can see a shell.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到贝壳, 壳, 外形, 炮弹。"
+        }
+      ],
+      "headword": "shell",
+      "lexical_entry_id": "w_shell",
+      "ordinal": 10,
+      "phonetic_uk": "ʃel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "贝壳, 壳, 外形, 炮弹",
+          "pos": "n."
+        },
+        {
+          "gloss": "去壳, 脱落, 炮轰",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sunshine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的阳光, 光明, 晴天。"
+        },
+        {
+          "en": "I can see a sunshine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到阳光, 光明, 晴天。"
+        }
+      ],
+      "headword": "sunshine",
+      "lexical_entry_id": "w_sunshine",
+      "ordinal": 11,
+      "phonetic_uk": "'sʌnʃain",
+      "phonetic_us": null,
+      "phonics_split": "sun·shine",
+      "senses": [
+        {
+          "gloss": "阳光, 光明, 晴天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my year.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的年, 年度, 年龄。"
+        },
+        {
+          "en": "I can see a year.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到年, 年度, 年龄。"
+        }
+      ],
+      "headword": "year",
+      "lexical_entry_id": "w_year",
+      "ordinal": 12,
+      "phonetic_uk": "jiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "年, 年度, 年龄",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

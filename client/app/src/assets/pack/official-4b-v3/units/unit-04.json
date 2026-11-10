@@ -1,0 +1,380 @@
+{
+  "title": "Subjects",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “a.m.”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a.m.”。"
+        }
+      ],
+      "headword": "a.m.",
+      "lexical_entry_id": "w_a_m",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上午, 午前",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Art.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的艺术, 人文科学, 技术, 巧妙, 诡计, 美术。"
+        },
+        {
+          "en": "I can see an Art.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到艺术, 人文科学, 技术, 巧妙, 诡计, 美术。"
+        }
+      ],
+      "headword": "Art",
+      "lexical_entry_id": "w_art",
+      "ordinal": 2,
+      "phonetic_uk": "ɑ:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "艺术, 人文科学, 技术, 巧妙, 诡计, 美术",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my break.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的休息, 中断, 破裂处, 绝交, 破晓, 突变。"
+        },
+        {
+          "en": "I can see a break.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到休息, 中断, 破裂处, 绝交, 破晓, 突变。"
+        }
+      ],
+      "headword": "break",
+      "lexical_entry_id": "w_break",
+      "ordinal": 3,
+      "phonetic_uk": "breik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "休息, 中断, 破裂处, 绝交, 破晓, 突变",
+          "pos": "n."
+        },
+        {
+          "gloss": "打破, 弄破, 弄坏, 破坏, 违反, 打断, 削弱, 放弃",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Chinese.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的中文, 中国话, 中国人。"
+        },
+        {
+          "en": "I can see a Chinese.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到中文, 中国话, 中国人。"
+        }
+      ],
+      "headword": "Chinese",
+      "lexical_entry_id": "w_chinese",
+      "ordinal": 4,
+      "phonetic_uk": "tʃai'ni:z",
+      "phonetic_us": null,
+      "phonics_split": "chi·nese",
+      "senses": [
+        {
+          "gloss": "中文, 中国话, 中国人",
+          "pos": "n."
+        },
+        {
+          "gloss": "中国的, 中国话的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my English.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的英语。"
+        },
+        {
+          "en": "I can see an English.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到英语。"
+        }
+      ],
+      "headword": "English",
+      "lexical_entry_id": "w_english",
+      "ordinal": 5,
+      "phonetic_uk": "'iŋgliʃ",
+      "phonetic_us": null,
+      "phonics_split": "eng·lish",
+      "senses": [
+        {
+          "gloss": "英语",
+          "pos": "n."
+        },
+        {
+          "gloss": "英文的, 英国人的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “from”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“from”。"
+        }
+      ],
+      "headword": "from",
+      "lexical_entry_id": "w_from",
+      "ordinal": 6,
+      "phonetic_uk": "frɒm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "从, 来自, 根据",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lesson.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的课, 课业, 教训。"
+        },
+        {
+          "en": "I can see a lesson.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到课, 课业, 教训。"
+        }
+      ],
+      "headword": "lesson",
+      "lexical_entry_id": "w_lesson",
+      "ordinal": 7,
+      "phonetic_uk": "'lesn",
+      "phonetic_us": null,
+      "phonics_split": "les·son",
+      "senses": [
+        {
+          "gloss": "课, 课业, 教训",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Maths.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的数学。"
+        },
+        {
+          "en": "I can see a Maths.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到数学。"
+        }
+      ],
+      "headword": "Maths",
+      "lexical_entry_id": "w_maths",
+      "ordinal": 8,
+      "phonetic_uk": "mæθs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "数学",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Music.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的音乐, 乐曲。"
+        },
+        {
+          "en": "I can see a Music.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到音乐, 乐曲。"
+        }
+      ],
+      "headword": "Music",
+      "lexical_entry_id": "w_music",
+      "ordinal": 9,
+      "phonetic_uk": "'mju:zik",
+      "phonetic_us": null,
+      "phonics_split": "mu·sic",
+      "senses": [
+        {
+          "gloss": "音乐, 乐曲",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We play football in PE.",
+          "origin": "curated:primary-4b-pe",
+          "zh": "我们在体育课上踢足球。"
+        }
+      ],
+      "headword": "PE",
+      "lexical_entry_id": "w_pe",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "体育（课）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “p.m.”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“p.m.”。"
+        }
+      ],
+      "headword": "p.m.",
+      "lexical_entry_id": "w_p_m",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下午, 午后",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Science.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的科学, 学科, 学问, 自然科学。"
+        },
+        {
+          "en": "I can see a Science.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到科学, 学科, 学问, 自然科学。"
+        }
+      ],
+      "headword": "Science",
+      "lexical_entry_id": "w_science",
+      "ordinal": 12,
+      "phonetic_uk": "'saiəns",
+      "phonetic_us": null,
+      "phonics_split": "sci·ence",
+      "senses": [
+        {
+          "gloss": "科学, 学科, 学问, 自然科学",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my subject.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由。"
+        },
+        {
+          "en": "I can see a subject.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由。"
+        }
+      ],
+      "headword": "subject",
+      "lexical_entry_id": "w_subject",
+      "ordinal": 13,
+      "phonetic_uk": "'sʌbdʒekt",
+      "phonetic_us": null,
+      "phonics_split": "sub·ject",
+      "senses": [
+        {
+          "gloss": "科目, 主题, 臣民, 主语, 题目, (事物的)经受者, 学科, 受治疗者, 原因, 理由",
+          "pos": "n."
+        },
+        {
+          "gloss": "服从的, 易患...的, 隶属的, 受支配的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my timetable.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的时间表。"
+        },
+        {
+          "en": "I can see a timetable.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到时间表。"
+        }
+      ],
+      "headword": "timetable",
+      "lexical_entry_id": "w_timetable",
+      "ordinal": 14,
+      "phonetic_uk": "'taimteibl",
+      "phonetic_us": null,
+      "phonics_split": "timetab·le",
+      "senses": [
+        {
+          "gloss": "时间表",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "title": "What can you do with your five senses?",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can feel.",
+          "origin": "template:t-v-can",
+          "zh": "我会感觉, 觉得, 触摸, 以为。"
+        },
+        {
+          "en": "Let's feel together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起感觉, 觉得, 触摸, 以为吧。"
+        }
+      ],
+      "headword": "feel",
+      "lexical_entry_id": "w_feel",
+      "ordinal": 1,
+      "phonetic_uk": "fi:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "感觉, 觉得, 触摸, 以为",
+          "pos": "vt."
+        },
+        {
+          "gloss": "有知觉, 摸索, 同情",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can see.",
+          "origin": "template:t-v-can",
+          "zh": "我会看见, 查看, 参观, 游览, 理解, 知道, 同意。"
+        },
+        {
+          "en": "Let's see together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起看见, 查看, 参观, 游览, 理解, 知道, 同意吧。"
+        }
+      ],
+      "headword": "see",
+      "lexical_entry_id": "w_see",
+      "ordinal": 2,
+      "phonetic_uk": "si:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看见, 查看, 参观, 游览, 理解, 知道, 同意",
+          "pos": "vt."
+        },
+        {
+          "gloss": "看, 观看, 注意, 知道, 考虑",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my smell.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的味道, 气味, 嗅觉, 嗅, 臭味, 气息。"
+        },
+        {
+          "en": "I can see a smell.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到味道, 气味, 嗅觉, 嗅, 臭味, 气息。"
+        }
+      ],
+      "headword": "smell",
+      "lexical_entry_id": "w_smell",
+      "ordinal": 3,
+      "phonetic_uk": "smel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "味道, 气味, 嗅觉, 嗅, 臭味, 气息",
+          "pos": "n."
+        },
+        {
+          "gloss": "闻, 探出, 察觉, 发出...的气味",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can hear.",
+          "origin": "template:t-v-can",
+          "zh": "我会听到, 倾听, 听说, 审理。"
+        },
+        {
+          "en": "Let's hear together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起听到, 倾听, 听说, 审理吧。"
+        }
+      ],
+      "headword": "hear",
+      "lexical_entry_id": "w_hear",
+      "ordinal": 4,
+      "phonetic_uk": "hiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "听到, 倾听, 听说, 审理",
+          "pos": "vt."
+        },
+        {
+          "gloss": "听见, 听",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my taste.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量。"
+        },
+        {
+          "en": "I can see a taste.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量。"
+        }
+      ],
+      "headword": "taste",
+      "lexical_entry_id": "w_taste",
+      "ordinal": 5,
+      "phonetic_uk": "teist",
+      "phonetic_us": null,
+      "phonics_split": "tas·te",
+      "senses": [
+        {
+          "gloss": "味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量",
+          "pos": "n."
+        },
+        {
+          "gloss": "尝, 察觉...的味道, 体会",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

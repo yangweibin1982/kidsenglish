@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+
+# Capacitor / Android 构建产物（android/ 工程本身入库，构建输出不入库）
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/app/src/main/assets/public/
+android/capacitor-cordova-android-plugins/

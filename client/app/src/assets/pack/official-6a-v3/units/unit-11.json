@@ -1,0 +1,196 @@
+{
+  "title": "Trees",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cool.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的凉爽, 凉爽的空气。"
+        },
+        {
+          "en": "I can see a cool.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到凉爽, 凉爽的空气。"
+        }
+      ],
+      "headword": "cool",
+      "lexical_entry_id": "w_cool",
+      "ordinal": 1,
+      "phonetic_uk": "ku:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "凉爽, 凉爽的空气",
+          "pos": "n."
+        },
+        {
+          "gloss": "凉爽的, 冷淡的, 冷静的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “cut down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“cut down”。"
+        }
+      ],
+      "headword": "cut down",
+      "lexical_entry_id": "w_cut_down",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "砍倒, 胜过, 削减, 删节",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “have to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“have to”。"
+        }
+      ],
+      "headword": "have to",
+      "lexical_entry_id": "w_have_to",
+      "ordinal": 3,
+      "phonetic_uk": "ˈhæv tə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不得不, 只好; 只得; 必须; 不得已",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “look for”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“look for”。"
+        }
+      ],
+      "headword": "look for",
+      "lexical_entry_id": "w_look_for",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "寻找, 期待",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my match.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的比赛, 火柴, 对手。"
+        },
+        {
+          "en": "I can see a match.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到比赛, 火柴, 对手。"
+        }
+      ],
+      "headword": "match",
+      "lexical_entry_id": "w_match",
+      "ordinal": 5,
+      "phonetic_uk": "mætʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "比赛, 火柴, 对手",
+          "pos": "n."
+        },
+        {
+          "gloss": "使相配, 使比赛, 与...竞争",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my miss.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的失误, 避免, 失败, 小姐。"
+        },
+        {
+          "en": "I can see a miss.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到失误, 避免, 失败, 小姐。"
+        }
+      ],
+      "headword": "Miss",
+      "lexical_entry_id": "w_miss",
+      "ordinal": 6,
+      "phonetic_uk": "mis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "失误, 避免, 失败, 小姐",
+          "pos": "n."
+        },
+        {
+          "gloss": "未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wood.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的木材, 木制品。"
+        },
+        {
+          "en": "I can see a wood.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到木材, 木制品。"
+        }
+      ],
+      "headword": "wood",
+      "lexical_entry_id": "w_wood",
+      "ordinal": 7,
+      "phonetic_uk": "wud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "木材, 木制品",
+          "pos": "n."
+        },
+        {
+          "gloss": "植林于, 给...添加木柴",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

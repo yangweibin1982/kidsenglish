@@ -1,0 +1,301 @@
+{
+  "title": "In my room",
+  "unit_no": 9,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my bed.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的床, 睡眠处, 河床, 底座, 路基, 一层。"
+        },
+        {
+          "en": "I can see a bed.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到床, 睡眠处, 河床, 底座, 路基, 一层。"
+        }
+      ],
+      "headword": "bed",
+      "lexical_entry_id": "w_bed",
+      "ordinal": 1,
+      "phonetic_uk": "bed",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "床, 睡眠处, 河床, 底座, 路基, 一层",
+          "pos": "n."
+        },
+        {
+          "gloss": "提供宿处, 栽种, 安装",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my book.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书。"
+        },
+        {
+          "en": "I can see a book.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书。"
+        }
+      ],
+      "headword": "book",
+      "lexical_entry_id": "w_book",
+      "ordinal": 2,
+      "phonetic_uk": "buk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "书",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chair.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的椅子。"
+        },
+        {
+          "en": "I can see a chair.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到椅子。"
+        }
+      ],
+      "headword": "chair",
+      "lexical_entry_id": "w_chair",
+      "ordinal": 3,
+      "phonetic_uk": "tʃɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "椅子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my desk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书桌。"
+        },
+        {
+          "en": "I can see a desk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书桌。"
+        }
+      ],
+      "headword": "desk",
+      "lexical_entry_id": "w_desk",
+      "ordinal": 4,
+      "phonetic_uk": "desk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "书桌",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mum.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的妈妈。"
+        },
+        {
+          "en": "I can see a mum.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到妈妈。"
+        }
+      ],
+      "headword": "mum",
+      "lexical_entry_id": "w_mum",
+      "ordinal": 5,
+      "phonetic_uk": "mʌm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "妈妈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钢笔, 笔, 笔调, 笔杆子, 作家, 围栏, 栅栏, 禽畜。"
+        },
+        {
+          "en": "I can see a pen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钢笔, 笔, 笔调, 笔杆子, 作家, 围栏, 栅栏, 禽畜。"
+        }
+      ],
+      "headword": "pen",
+      "lexical_entry_id": "w_pen",
+      "ordinal": 6,
+      "phonetic_uk": "pen",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "钢笔, 笔, 笔调, 笔杆子, 作家, 围栏, 栅栏, 禽畜",
+          "pos": "n."
+        },
+        {
+          "gloss": "写, 关入栏中, 囚禁",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的铅笔。"
+        },
+        {
+          "en": "I can see a pencil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到铅笔。"
+        }
+      ],
+      "headword": "pencil",
+      "lexical_entry_id": "w_pencil",
+      "ordinal": 7,
+      "phonetic_uk": "'pensl",
+      "phonetic_us": null,
+      "phonics_split": "pen·cil",
+      "senses": [
+        {
+          "gloss": "铅笔",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ruler.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的尺子。"
+        },
+        {
+          "en": "I can see a ruler.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到尺子。"
+        }
+      ],
+      "headword": "ruler",
+      "lexical_entry_id": "w_ruler",
+      "ordinal": 8,
+      "phonetic_uk": "'ru:lə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "尺子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my schoolbag.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的书包。"
+        },
+        {
+          "en": "I can see a schoolbag.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到书包。"
+        }
+      ],
+      "headword": "schoolbag",
+      "lexical_entry_id": "w_schoolbag",
+      "ordinal": 9,
+      "phonetic_uk": "'sku:lbæ^",
+      "phonetic_us": null,
+      "phonics_split": "school·bag",
+      "senses": [
+        {
+          "gloss": "书包",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "These are my books.",
+          "origin": "curated:p-pron-these",
+          "zh": "这些是我的书。"
+        }
+      ],
+      "headword": "these",
+      "lexical_entry_id": "w_these",
+      "ordinal": 10,
+      "phonetic_uk": "ði:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "这些",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What is your name?",
+          "origin": "curated:u3-pron-your",
+          "zh": "你叫什么名字？"
+        }
+      ],
+      "headword": "your",
+      "lexical_entry_id": "w_your",
+      "ordinal": 11,
+      "phonetic_uk": "juə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你的、你们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

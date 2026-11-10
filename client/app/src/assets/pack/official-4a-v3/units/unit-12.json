@@ -1,0 +1,262 @@
+{
+  "title": "Weather",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cloud.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的云, 阴暗, 烟雾, 疑团。"
+        },
+        {
+          "en": "I can see a cloud.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到云, 阴暗, 烟雾, 疑团。"
+        }
+      ],
+      "headword": "cloud",
+      "lexical_entry_id": "w_cloud",
+      "ordinal": 1,
+      "phonetic_uk": "klaud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "云, 阴暗, 烟雾, 疑团",
+          "pos": "n."
+        },
+        {
+          "gloss": "以云遮敝, 笼罩, 使黯然",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very cloudy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常多云的, 有愁容的, 云的, 浑浊。"
+        }
+      ],
+      "headword": "cloudy",
+      "lexical_entry_id": "w_cloudy",
+      "ordinal": 2,
+      "phonetic_uk": "'klaudi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多云的, 有愁容的, 云的, 浑浊的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rain.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的雨, 下雨, 雨天。"
+        },
+        {
+          "en": "I can see a rain.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到雨, 下雨, 雨天。"
+        }
+      ],
+      "headword": "rain",
+      "lexical_entry_id": "w_rain",
+      "ordinal": 3,
+      "phonetic_uk": "rein",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "雨, 下雨, 雨天",
+          "pos": "n."
+        },
+        {
+          "gloss": "下雨",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very rainy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常下雨的, 多雨。"
+        }
+      ],
+      "headword": "rainy",
+      "lexical_entry_id": "w_rainy",
+      "ordinal": 4,
+      "phonetic_uk": "'reini",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下雨的, 多雨的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The sun is big.",
+          "origin": "curated:g2u10-sun",
+          "zh": "太阳很大。"
+        }
+      ],
+      "headword": "sun",
+      "lexical_entry_id": "w_sun",
+      "ordinal": 5,
+      "phonetic_uk": "sʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "太阳",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is Sunday today.",
+          "origin": "curated:u2-sunday",
+          "zh": "今天是星期日。"
+        }
+      ],
+      "headword": "Sunday",
+      "lexical_entry_id": "w_sunday",
+      "ordinal": 6,
+      "phonetic_uk": "'sʌndi",
+      "phonetic_us": null,
+      "phonics_split": "sun·day",
+      "senses": [
+        {
+          "gloss": "星期日",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very sunny.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常阳光充足的, 乐观的, 快乐的, 像太阳。"
+        }
+      ],
+      "headword": "sunny",
+      "lexical_entry_id": "w_sunny",
+      "ordinal": 7,
+      "phonetic_uk": "'sʌni",
+      "phonetic_us": null,
+      "phonics_split": "sun·ny",
+      "senses": [
+        {
+          "gloss": "阳光充足的, 乐观的, 快乐的, 像太阳的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my weather.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的天气, 气象, 处境。"
+        },
+        {
+          "en": "I can see a weather.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到天气, 气象, 处境。"
+        }
+      ],
+      "headword": "weather",
+      "lexical_entry_id": "w_weather",
+      "ordinal": 8,
+      "phonetic_uk": "'weðə",
+      "phonetic_us": null,
+      "phonics_split": "weath·er",
+      "senses": [
+        {
+          "gloss": "天气, 气象, 处境",
+          "pos": "n."
+        },
+        {
+          "gloss": "迎风的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wind.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲。"
+        },
+        {
+          "en": "I can see a wind.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲。"
+        }
+      ],
+      "headword": "wind",
+      "lexical_entry_id": "w_wind",
+      "ordinal": 9,
+      "phonetic_uk": "wind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲",
+          "pos": "n."
+        },
+        {
+          "gloss": "使通风, 嗅出, 使喘气, 吹号角, 上发条, 缠绕, 包, 绞起, 吊起, 使弯曲, 使迂回",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very windy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常多风的, 风强的, 腹胀的, 吹牛。"
+        }
+      ],
+      "headword": "windy",
+      "lexical_entry_id": "w_windy",
+      "ordinal": 10,
+      "phonetic_uk": "'windi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多风的, 风强的, 腹胀的, 吹牛的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

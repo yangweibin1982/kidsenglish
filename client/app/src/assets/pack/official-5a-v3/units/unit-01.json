@@ -1,0 +1,383 @@
+{
+  "title": "My future",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can become.",
+          "origin": "template:t-v-can",
+          "zh": "我会变成, 变得。"
+        },
+        {
+          "en": "Let's become together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起变成, 变得吧。"
+        }
+      ],
+      "headword": "become",
+      "lexical_entry_id": "w_become",
+      "ordinal": 1,
+      "phonetic_uk": "bi'kʌm",
+      "phonetic_us": null,
+      "phonics_split": "be·come",
+      "senses": [
+        {
+          "gloss": "变成, 变得",
+          "pos": "vi."
+        },
+        {
+          "gloss": "适合",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cook.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厨子, 厨师。"
+        },
+        {
+          "en": "I can see a cook.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厨子, 厨师。"
+        }
+      ],
+      "headword": "cook",
+      "lexical_entry_id": "w_cook",
+      "ordinal": 2,
+      "phonetic_uk": "kuk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厨子, 厨师",
+          "pos": "n."
+        },
+        {
+          "gloss": "烹调, 煮饭, 加热",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fall.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天。"
+        },
+        {
+          "en": "I can see a fall.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天。"
+        }
+      ],
+      "headword": "fall",
+      "lexical_entry_id": "w_fall",
+      "ordinal": 3,
+      "phonetic_uk": "fɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天",
+          "pos": "n."
+        },
+        {
+          "gloss": "倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my future.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的未来, 将来。"
+        },
+        {
+          "en": "I can see a future.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到未来, 将来。"
+        }
+      ],
+      "headword": "future",
+      "lexical_entry_id": "w_future",
+      "ordinal": 4,
+      "phonetic_uk": "'fju:tʃə",
+      "phonetic_us": null,
+      "phonics_split": "fu·ture",
+      "senses": [
+        {
+          "gloss": "未来, 将来",
+          "pos": "n."
+        },
+        {
+          "gloss": "将来的, 未来的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be good at”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be good at”。"
+        }
+      ],
+      "headword": "be good at",
+      "lexical_entry_id": "w_be_good_at",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "擅长",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my job.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工作, 零活, 职业, 事情。"
+        },
+        {
+          "en": "I can see a job.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工作, 零活, 职业, 事情。"
+        }
+      ],
+      "headword": "job",
+      "lexical_entry_id": "w_job",
+      "ordinal": 6,
+      "phonetic_uk": "dʒɒb",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工作, 零活, 职业, 事情",
+          "pos": "n."
+        },
+        {
+          "gloss": "做零工, 打杂, 做股票经纪, 假公济私",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lifeguard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的卫兵, 禁卫军, 救生员。"
+        },
+        {
+          "en": "I can see a lifeguard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到卫兵, 禁卫军, 救生员。"
+        }
+      ],
+      "headword": "lifeguard",
+      "lexical_entry_id": "w_lifeguard",
+      "ordinal": 7,
+      "phonetic_uk": "'laifgɑ:d",
+      "phonetic_us": null,
+      "phonics_split": "life·guard",
+      "senses": [
+        {
+          "gloss": "卫兵, 禁卫军, 救生员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pilot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人。"
+        },
+        {
+          "en": "I can see a pilot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人。"
+        }
+      ],
+      "headword": "pilot",
+      "lexical_entry_id": "w_pilot",
+      "ordinal": 8,
+      "phonetic_uk": "'pailət",
+      "phonetic_us": null,
+      "phonics_split": "pi·lot",
+      "senses": [
+        {
+          "gloss": "飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人",
+          "pos": "n."
+        },
+        {
+          "gloss": "领航, 驾驶, 引导, 试用",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my save.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的救球。"
+        },
+        {
+          "en": "I can see a save.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到救球。"
+        }
+      ],
+      "headword": "save",
+      "lexical_entry_id": "w_save",
+      "ordinal": 9,
+      "phonetic_uk": "seiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "救球",
+          "pos": "n."
+        },
+        {
+          "gloss": "解救, 挽救, 储蓄, 保存, 节省, 保留",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my singer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的歌手。"
+        },
+        {
+          "en": "I can see a singer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到歌手。"
+        }
+      ],
+      "headword": "singer",
+      "lexical_entry_id": "w_singer",
+      "ordinal": 10,
+      "phonetic_uk": "'siŋə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "歌手",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “taxi driver”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“taxi driver”。"
+        }
+      ],
+      "headword": "taxi driver",
+      "lexical_entry_id": "w_taxi_driver",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "出租车司机；的士司机",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can teach.",
+          "origin": "template:t-v-can",
+          "zh": "我会教, 讲授, 教导, 教育。"
+        },
+        {
+          "en": "Let's teach together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起教, 讲授, 教导, 教育吧。"
+        }
+      ],
+      "headword": "teach",
+      "lexical_entry_id": "w_teach",
+      "ordinal": 12,
+      "phonetic_uk": "ti:tʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "教, 讲授, 教导, 教育",
+          "pos": "vt."
+        },
+        {
+          "gloss": "教书, 教学, 可以教",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my want.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的需要的东西, 缺乏, 贫困, 需要。"
+        },
+        {
+          "en": "I can see a want.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到需要的东西, 缺乏, 贫困, 需要。"
+        }
+      ],
+      "headword": "want",
+      "lexical_entry_id": "w_want",
+      "ordinal": 13,
+      "phonetic_uk": "wɒnt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "需要的东西, 缺乏, 贫困, 需要",
+          "pos": "n."
+        },
+        {
+          "gloss": "要, 希望, 应该, 缺少",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

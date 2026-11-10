@@ -1,0 +1,726 @@
+{
+  "title": "Look it up!",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my dinosaur.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的恐龙。"
+        },
+        {
+          "en": "I can see a dinosaur.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到恐龙。"
+        }
+      ],
+      "headword": "dinosaur",
+      "lexical_entry_id": "w_dinosaur",
+      "ordinal": 1,
+      "phonetic_uk": "'dainəsɔː",
+      "phonetic_us": null,
+      "phonics_split": "di·nosaur",
+      "senses": [
+        {
+          "gloss": "恐龙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very intelligent.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常聪明的, 智能的, 了解。"
+        }
+      ],
+      "headword": "intelligent",
+      "lexical_entry_id": "w_intelligent",
+      "ordinal": 2,
+      "phonetic_uk": "in'telidʒənt",
+      "phonetic_us": null,
+      "phonics_split": "in·tel·li·gent",
+      "senses": [
+        {
+          "gloss": "聪明的, 智能的, 了解的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very talented.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常天资高的, 有才能。"
+        }
+      ],
+      "headword": "talented",
+      "lexical_entry_id": "w_talented",
+      "ordinal": 3,
+      "phonetic_uk": "'tæləntid",
+      "phonetic_us": null,
+      "phonics_split": "tal·ent·ed",
+      "senses": [
+        {
+          "gloss": "天资高的, 有才能的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very artistic.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常艺术的, 艺术家的, 富有艺术性。"
+        }
+      ],
+      "headword": "artistic",
+      "lexical_entry_id": "w_artistic",
+      "ordinal": 4,
+      "phonetic_uk": "ɑ:'tistik",
+      "phonetic_us": null,
+      "phonics_split": "artis·tic",
+      "senses": [
+        {
+          "gloss": "艺术的, 艺术家的, 富有艺术性的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “perhaps”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“perhaps”。"
+        }
+      ],
+      "headword": "perhaps",
+      "lexical_entry_id": "w_perhaps",
+      "ordinal": 5,
+      "phonetic_uk": "pə'hæps",
+      "phonetic_us": null,
+      "phonics_split": "per·haps",
+      "senses": [
+        {
+          "gloss": "也许, 大概",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my notebook.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的笔记本, 手册, 期票簿。"
+        },
+        {
+          "en": "I can see a notebook.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到笔记本, 手册, 期票簿。"
+        }
+      ],
+      "headword": "notebook",
+      "lexical_entry_id": "w_notebook",
+      "ordinal": 6,
+      "phonetic_uk": "'nəutbuk",
+      "phonetic_us": null,
+      "phonics_split": "note·book",
+      "senses": [
+        {
+          "gloss": "笔记本, 手册, 期票簿",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my vehicle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的交通工具, 车辆, 传播媒介。"
+        },
+        {
+          "en": "I can see a vehicle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到交通工具, 车辆, 传播媒介。"
+        }
+      ],
+      "headword": "vehicle",
+      "lexical_entry_id": "w_vehicle",
+      "ordinal": 7,
+      "phonetic_uk": "'vi:ikl",
+      "phonetic_us": null,
+      "phonics_split": "ve·hi·cle",
+      "senses": [
+        {
+          "gloss": "交通工具, 车辆, 传播媒介",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very prehistoric.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常历史以前的, 史前。"
+        }
+      ],
+      "headword": "prehistoric",
+      "lexical_entry_id": "w_prehistoric",
+      "ordinal": 8,
+      "phonetic_uk": "'pri:his'tɔrik",
+      "phonetic_us": null,
+      "phonics_split": "pre·his·toric",
+      "senses": [
+        {
+          "gloss": "历史以前的, 史前的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “completely”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“completely”。"
+        }
+      ],
+      "headword": "completely",
+      "lexical_entry_id": "w_completely",
+      "ordinal": 9,
+      "phonetic_uk": "kəm'pli:tli",
+      "phonetic_us": null,
+      "phonics_split": "com·plete·ly",
+      "senses": [
+        {
+          "gloss": "完全地, 十分地, 圆满地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very original.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常最初的, 原始的, 有创意。"
+        }
+      ],
+      "headword": "original",
+      "lexical_entry_id": "w_original",
+      "ordinal": 10,
+      "phonetic_uk": "ə'ridʒənl",
+      "phonetic_us": null,
+      "phonics_split": "orig·i·nal",
+      "senses": [
+        {
+          "gloss": "最初的, 原始的, 有创意的",
+          "pos": "a."
+        },
+        {
+          "gloss": "原物, 原作",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my birth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的出生, 起源。"
+        },
+        {
+          "en": "I can see a birth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到出生, 起源。"
+        }
+      ],
+      "headword": "birth",
+      "lexical_entry_id": "w_birth",
+      "ordinal": 11,
+      "phonetic_uk": "bə:θ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "出生, 起源",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my suffering.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的苦难, 受苦。"
+        },
+        {
+          "en": "I can see a suffering.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到苦难, 受苦。"
+        }
+      ],
+      "headword": "suffering",
+      "lexical_entry_id": "w_suffering",
+      "ordinal": 12,
+      "phonetic_uk": "'sʌfəriŋ",
+      "phonetic_us": null,
+      "phonics_split": "suf·fer·ing",
+      "senses": [
+        {
+          "gloss": "苦难, 受苦",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my artist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的艺术家, 画家。"
+        },
+        {
+          "en": "I can see an artist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到艺术家, 画家。"
+        }
+      ],
+      "headword": "artist",
+      "lexical_entry_id": "w_artist",
+      "ordinal": 13,
+      "phonetic_uk": "'ɑ:tist",
+      "phonetic_us": null,
+      "phonics_split": "ar·tist",
+      "senses": [
+        {
+          "gloss": "艺术家, 画家",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my death.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的死亡。"
+        },
+        {
+          "en": "I can see a death.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到死亡。"
+        }
+      ],
+      "headword": "death",
+      "lexical_entry_id": "w_death",
+      "ordinal": 14,
+      "phonetic_uk": "deθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "死亡",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my whole.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的全部, 全体, 整体, 完全之体系。"
+        },
+        {
+          "en": "I can see a whole.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到全部, 全体, 整体, 完全之体系。"
+        }
+      ],
+      "headword": "whole",
+      "lexical_entry_id": "w_whole",
+      "ordinal": 15,
+      "phonetic_uk": "həul",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "全部, 全体, 整体, 完全之体系",
+          "pos": "n."
+        },
+        {
+          "gloss": "所有的, 完整的, 完全的, 纯粹的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my piece.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的块, 片, 篇, 碎片, 部分, 部件, 标准量。"
+        },
+        {
+          "en": "I can see a piece.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到块, 片, 篇, 碎片, 部分, 部件, 标准量。"
+        }
+      ],
+      "headword": "piece",
+      "lexical_entry_id": "w_piece",
+      "ordinal": 16,
+      "phonetic_uk": "pi:s",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "块, 片, 篇, 碎片, 部分, 部件, 标准量",
+          "pos": "n."
+        },
+        {
+          "gloss": "修补, 修理, 拼合, 接线头",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my editor.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的编者, 编辑, 主笔, 编辑器, 编辑装置。"
+        },
+        {
+          "en": "I can see an editor.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到编者, 编辑, 主笔, 编辑器, 编辑装置。"
+        }
+      ],
+      "headword": "editor",
+      "lexical_entry_id": "w_editor",
+      "ordinal": 17,
+      "phonetic_uk": "'editə",
+      "phonetic_us": null,
+      "phonics_split": "ed·i·tor",
+      "senses": [
+        {
+          "gloss": "编者, 编辑, 主笔, 编辑器, 编辑装置",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can organize.",
+          "origin": "template:t-v-can",
+          "zh": "我会组织, 有机化, 给予生机。"
+        },
+        {
+          "en": "Let's organize together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起组织, 有机化, 给予生机吧。"
+        }
+      ],
+      "headword": "organize",
+      "lexical_entry_id": "w_organize",
+      "ordinal": 18,
+      "phonetic_uk": "'ɔːgənaiz",
+      "phonetic_us": null,
+      "phonics_split": "or·ga·nize",
+      "senses": [
+        {
+          "gloss": "组织, 有机化, 给予生机",
+          "pos": "vt."
+        },
+        {
+          "gloss": "组织起来",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my order.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的次序, 规则, 命令。"
+        },
+        {
+          "en": "I can see an order.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到次序, 规则, 命令。"
+        }
+      ],
+      "headword": "order",
+      "lexical_entry_id": "w_order",
+      "ordinal": 19,
+      "phonetic_uk": "'ɔːdə",
+      "phonetic_us": null,
+      "phonics_split": "or·der",
+      "senses": [
+        {
+          "gloss": "次序, 规则, 命令",
+          "pos": "n."
+        },
+        {
+          "gloss": "命令, 定货",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my record.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的记录, 履历, 档案, 审判记录, 最高纪录, 唱片。"
+        },
+        {
+          "en": "I can see a record.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到记录, 履历, 档案, 审判记录, 最高纪录, 唱片。"
+        }
+      ],
+      "headword": "record",
+      "lexical_entry_id": "w_record",
+      "ordinal": 20,
+      "phonetic_uk": "ri'kɔːd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "记录, 履历, 档案, 审判记录, 最高纪录, 唱片",
+          "pos": "n."
+        },
+        {
+          "gloss": "记录, 记载, 标明, 将...录音",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “die out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“die out”。"
+        }
+      ],
+      "headword": "die out",
+      "lexical_entry_id": "w_die_out",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "熄灭, 平息, 消失",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “a type of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“a type of”。"
+        }
+      ],
+      "headword": "a type of",
+      "lexical_entry_id": "w_a_type_of",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一种,一类",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be related to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be related to”。"
+        }
+      ],
+      "headword": "be related to",
+      "lexical_entry_id": "w_be_related_to",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "与...有关, 和...有联系, 和...有亲戚关系",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my general education.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的通识教育。"
+        },
+        {
+          "en": "I can see a general education.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到通识教育。"
+        }
+      ],
+      "headword": "general education",
+      "lexical_entry_id": "w_general_education",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "通识教育",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "These traditions go back a long way.",
+          "origin": "curated:g8a-long-way",
+          "zh": "这些传统由来已久。"
+        }
+      ],
+      "headword": "go back a long way",
+      "lexical_entry_id": "w_go_back_a_long_way",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "由来已久",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be similar to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be similar to”。"
+        }
+      ],
+      "headword": "be similar to",
+      "lexical_entry_id": "w_be_similar_to",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "与...相似",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my alphabetical order.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的字母顺序。"
+        },
+        {
+          "en": "I can see an alphabetical order.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到字母顺序。"
+        }
+      ],
+      "headword": "alphabetical order",
+      "lexical_entry_id": "w_alphabetical_order",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "字母顺序",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can play an important role.",
+          "origin": "template:t-v-can",
+          "zh": "我会起重要作用。"
+        },
+        {
+          "en": "Let's play an important role together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起起重要作用吧。"
+        }
+      ],
+      "headword": "play an important role",
+      "lexical_entry_id": "w_play_an_important_role",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "起重要作用",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

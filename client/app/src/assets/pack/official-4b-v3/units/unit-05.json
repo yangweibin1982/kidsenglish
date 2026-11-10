@@ -1,0 +1,347 @@
+{
+  "title": "Sport",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “about”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“about”。"
+        }
+      ],
+      "headword": "about",
+      "lexical_entry_id": "w_about",
+      "ordinal": 1,
+      "phonetic_uk": "ə'baut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在...周围, 大约, 有关, 关于",
+          "pos": "prep."
+        },
+        {
+          "gloss": "大约, 四处, 在附近, 周围",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my basketball.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的篮球。"
+        },
+        {
+          "en": "I can see a basketball.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到篮球。"
+        }
+      ],
+      "headword": "basketball",
+      "lexical_entry_id": "w_basketball",
+      "ordinal": 2,
+      "phonetic_uk": "'bɑ:skitbɔːl",
+      "phonetic_us": null,
+      "phonics_split": "bas·ket·ball",
+      "senses": [
+        {
+          "gloss": "篮球",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my club.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的俱乐部, 木棍, 球棒。"
+        },
+        {
+          "en": "I can see a club.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到俱乐部, 木棍, 球棒。"
+        }
+      ],
+      "headword": "club",
+      "lexical_entry_id": "w_club",
+      "ordinal": 3,
+      "phonetic_uk": "klʌb",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "俱乐部, 木棍, 球棒",
+          "pos": "n."
+        },
+        {
+          "gloss": "用棍棒打, 缴纳",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my football.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的足球, 橄榄球。"
+        },
+        {
+          "en": "I can see a football.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到足球, 橄榄球。"
+        }
+      ],
+      "headword": "football",
+      "lexical_entry_id": "w_football",
+      "ordinal": 4,
+      "phonetic_uk": "'futbɔːl",
+      "phonetic_us": null,
+      "phonics_split": "foot·ball",
+      "senses": [
+        {
+          "gloss": "足球, 橄榄球",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can join.",
+          "origin": "template:t-v-can",
+          "zh": "我会参加, 结合, 加入。"
+        },
+        {
+          "en": "Let's join together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起参加, 结合, 加入吧。"
+        }
+      ],
+      "headword": "join",
+      "lexical_entry_id": "w_join",
+      "ordinal": 5,
+      "phonetic_uk": "dʒɒin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "参加, 结合, 加入",
+          "pos": "vi."
+        },
+        {
+          "gloss": "连接, 结合, 参加, 加入",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Yao Ming can play basketball very well.",
+          "origin": "curated:primary-4b-basketball",
+          "zh": "姚明篮球打得很好。"
+        }
+      ],
+      "headword": "play basketball",
+      "lexical_entry_id": "w_play_basketball",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "打篮球",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We play football after school.",
+          "origin": "curated:g1bn-u3-football",
+          "zh": "放学后我们踢足球。"
+        }
+      ],
+      "headword": "play football",
+      "lexical_entry_id": "w_play_football",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "踢足球",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They play volleyball on the beach.",
+          "origin": "curated:primary-4b-volleyball",
+          "zh": "他们在海滩上打排球。"
+        }
+      ],
+      "headword": "play volleyball",
+      "lexical_entry_id": "w_play_volleyball",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "打排球",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sport.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的运动, 游戏, 娱乐, 消遣, 玩笑。"
+        },
+        {
+          "en": "I can see a sport.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到运动, 游戏, 娱乐, 消遣, 玩笑。"
+        }
+      ],
+      "headword": "sport",
+      "lexical_entry_id": "w_sport",
+      "ordinal": 9,
+      "phonetic_uk": "spɔːt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "运动, 游戏, 娱乐, 消遣, 玩笑",
+          "pos": "n."
+        },
+        {
+          "gloss": "运动的, 户外穿戴的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “table tennis”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“table tennis”。"
+        }
+      ],
+      "headword": "table tennis",
+      "lexical_entry_id": "w_table_tennis",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "乒乓球",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can tell.",
+          "origin": "template:t-v-can",
+          "zh": "我会告诉, 说, 吩咐, 断定, 知道。"
+        },
+        {
+          "en": "Let's tell together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起告诉, 说, 吩咐, 断定, 知道吧。"
+        }
+      ],
+      "headword": "tell",
+      "lexical_entry_id": "w_tell",
+      "ordinal": 11,
+      "phonetic_uk": "tel",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "告诉, 说, 吩咐, 断定, 知道",
+          "pos": "vt."
+        },
+        {
+          "gloss": "讲述, 泄密, 告发, 表明",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Come with us.",
+          "origin": "curated:p-pron-us",
+          "zh": "跟我们一起来吧。"
+        }
+      ],
+      "headword": "us",
+      "lexical_entry_id": "w_us",
+      "ordinal": 12,
+      "phonetic_uk": "ʌs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我们",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my volleyball.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的排球。"
+        },
+        {
+          "en": "I can see a volleyball.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到排球。"
+        }
+      ],
+      "headword": "volleyball",
+      "lexical_entry_id": "w_volleyball",
+      "ordinal": 13,
+      "phonetic_uk": "'vɒlibɔːl",
+      "phonetic_us": null,
+      "phonics_split": "vol·ley·ball",
+      "senses": [
+        {
+          "gloss": "排球",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

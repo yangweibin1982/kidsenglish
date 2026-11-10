@@ -1,0 +1,168 @@
+{
+  "title": "How do animals grow?",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my tadpole.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蝌蚪。"
+        },
+        {
+          "en": "I can see a tadpole.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蝌蚪。"
+        }
+      ],
+      "headword": "tadpole",
+      "lexical_entry_id": "w_tadpole",
+      "ordinal": 1,
+      "phonetic_uk": "'tædpəul",
+      "phonetic_us": null,
+      "phonics_split": "tad·pole",
+      "senses": [
+        {
+          "gloss": "蝌蚪",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my frog.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的青蛙。"
+        },
+        {
+          "en": "I can see a frog.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到青蛙。"
+        }
+      ],
+      "headword": "frog",
+      "lexical_entry_id": "w_frog",
+      "ordinal": 2,
+      "phonetic_uk": "frɒg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "青蛙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my butterfly.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蝴蝶。"
+        },
+        {
+          "en": "I can see a butterfly.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蝴蝶。"
+        }
+      ],
+      "headword": "butterfly",
+      "lexical_entry_id": "w_butterfly",
+      "ordinal": 3,
+      "phonetic_uk": "'bʌtəflai",
+      "phonetic_us": null,
+      "phonics_split": "but·ter·fly",
+      "senses": [
+        {
+          "gloss": "蝴蝶",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my goldfish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的金鱼。"
+        },
+        {
+          "en": "I can see a goldfish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到金鱼。"
+        }
+      ],
+      "headword": "goldfish",
+      "lexical_entry_id": "w_goldfish",
+      "ordinal": 4,
+      "phonetic_uk": "'gəuldfiʃ",
+      "phonetic_us": null,
+      "phonics_split": "gold·fish",
+      "senses": [
+        {
+          "gloss": "金鱼",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my duck.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鸭子。"
+        },
+        {
+          "en": "I can see a duck.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鸭子。"
+        }
+      ],
+      "headword": "duck",
+      "lexical_entry_id": "w_duck",
+      "ordinal": 5,
+      "phonetic_uk": "dʌk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鸭子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tortoise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的龟, 行动迟缓的人。"
+        },
+        {
+          "en": "I can see a tortoise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到龟, 行动迟缓的人。"
+        }
+      ],
+      "headword": "tortoise",
+      "lexical_entry_id": "w_tortoise",
+      "ordinal": 6,
+      "phonetic_uk": "'tɔːtəs",
+      "phonetic_us": null,
+      "phonics_split": "tor·toise",
+      "senses": [
+        {
+          "gloss": "龟, 行动迟缓的人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@kidsenglish/engine",
+  "version": "0.1.0",
+  "description": "七池间隔重复调度引擎核心（纯函数 TypeScript，零运行时依赖、零 I/O、不感知任何 UI 框架）",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "spaced-repetition",
+    "scheduler",
+    "pure-functions"
+  ],
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "5.8.3",
+    "vitest": "^5.0.5"
+  }
+}

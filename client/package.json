@@ -1,0 +1,17 @@
+{
+  "name": "kidsenglish-client",
+  "version": "0.1.0",
+  "description": "战机英语客户端 monorepo 根（npm workspaces：engine 调度引擎 + app 应用壳）",
+  "private": true,
+  "workspaces": [
+    "engine",
+    "app"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace @kidsenglish/engine && npm run build --workspace @kidsenglish/app",
+    "test": "npm run test --workspace @kidsenglish/engine",
+    "cap:sync": "npm run build && npm run cap:sync --workspace @kidsenglish/app",
+    "apk:debug": "npm run cap:sync && npm run apk:debug --workspace @kidsenglish/app"
+  },
+  "license": "UNLICENSED"
+}

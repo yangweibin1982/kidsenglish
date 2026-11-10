@@ -1,0 +1,372 @@
+{
+  "title": "Reading is fun",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my storybook.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的故事书, 小说。"
+        },
+        {
+          "en": "I can see a storybook.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到故事书, 小说。"
+        }
+      ],
+      "headword": "storybook",
+      "lexical_entry_id": "w_storybook",
+      "ordinal": 1,
+      "phonetic_uk": "'stɔːribuk",
+      "phonetic_us": null,
+      "phonics_split": "sto·ry·book",
+      "senses": [
+        {
+          "gloss": "故事书, 小说",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can buy.",
+          "origin": "template:t-v-can",
+          "zh": "我会买, 获得。"
+        },
+        {
+          "en": "Let's buy together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起买, 获得吧。"
+        }
+      ],
+      "headword": "buy",
+      "lexical_entry_id": "w_buy",
+      "ordinal": 2,
+      "phonetic_uk": "bai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "买, 获得",
+          "pos": "vt."
+        },
+        {
+          "gloss": "买",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my story.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的故事, 小说, 传奇, 描述, 阅历, 经历, 层。"
+        },
+        {
+          "en": "I can see a story.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到故事, 小说, 传奇, 描述, 阅历, 经历, 层。"
+        }
+      ],
+      "headword": "story",
+      "lexical_entry_id": "w_story",
+      "ordinal": 3,
+      "phonetic_uk": "'stɔːri",
+      "phonetic_us": null,
+      "phonics_split": "sto·ry",
+      "senses": [
+        {
+          "gloss": "故事, 小说, 传奇, 描述, 阅历, 经历, 层",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dictionary.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的字典, 词典。"
+        },
+        {
+          "en": "I can see a dictionary.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到字典, 词典。"
+        }
+      ],
+      "headword": "dictionary",
+      "lexical_entry_id": "w_dictionary",
+      "ordinal": 4,
+      "phonetic_uk": "'dikʃənəri",
+      "phonetic_us": null,
+      "phonics_split": "dic·tio·nary",
+      "senses": [
+        {
+          "gloss": "字典, 词典",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my magazine.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的杂志, 仓库, 弹盒, 胶卷盒。"
+        },
+        {
+          "en": "I can see a magazine.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到杂志, 仓库, 弹盒, 胶卷盒。"
+        }
+      ],
+      "headword": "magazine",
+      "lexical_entry_id": "w_magazine",
+      "ordinal": 5,
+      "phonetic_uk": ".mægə'zi:n",
+      "phonetic_us": null,
+      "phonics_split": "mag·a·zine",
+      "senses": [
+        {
+          "gloss": "杂志, 仓库, 弹盒, 胶卷盒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my newspaper.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的报纸。"
+        },
+        {
+          "en": "I can see a newspaper.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到报纸。"
+        }
+      ],
+      "headword": "newspaper",
+      "lexical_entry_id": "w_newspaper",
+      "ordinal": 6,
+      "phonetic_uk": "'nju:z.peipə",
+      "phonetic_us": null,
+      "phonics_split": "news·pa·per",
+      "senses": [
+        {
+          "gloss": "报纸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my week.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的星期, 周。"
+        },
+        {
+          "en": "I can see a week.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到星期, 周。"
+        }
+      ],
+      "headword": "week",
+      "lexical_entry_id": "w_week",
+      "ordinal": 7,
+      "phonetic_uk": "wi:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "星期, 周",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my student.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的学生, 研究者, 学者。"
+        },
+        {
+          "en": "I can see a student.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到学生, 研究者, 学者。"
+        }
+      ],
+      "headword": "student",
+      "lexical_entry_id": "w_student",
+      "ordinal": 8,
+      "phonetic_uk": "'stju:dnt",
+      "phonetic_us": null,
+      "phonics_split": "stu·dent",
+      "senses": [
+        {
+          "gloss": "学生, 研究者, 学者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my poster.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的海报, 招贴, 驿马。"
+        },
+        {
+          "en": "I can see a poster.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到海报, 招贴, 驿马。"
+        }
+      ],
+      "headword": "poster",
+      "lexical_entry_id": "w_poster",
+      "ordinal": 9,
+      "phonetic_uk": "'pəustə",
+      "phonetic_us": null,
+      "phonics_split": "pos·ter",
+      "senses": [
+        {
+          "gloss": "海报, 招贴, 驿马",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very best.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常最好。"
+        }
+      ],
+      "headword": "best",
+      "lexical_entry_id": "w_best",
+      "ordinal": 10,
+      "phonetic_uk": "best",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "最好的",
+          "pos": "a."
+        },
+        {
+          "gloss": "最好地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my writer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的作家, 撰稿者, 抄写员。"
+        },
+        {
+          "en": "I can see a writer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到作家, 撰稿者, 抄写员。"
+        }
+      ],
+      "headword": "writer",
+      "lexical_entry_id": "w_writer",
+      "ordinal": 11,
+      "phonetic_uk": "'raitə",
+      "phonetic_us": null,
+      "phonics_split": "writ·er",
+      "senses": [
+        {
+          "gloss": "作家, 撰稿者, 抄写员",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “over there”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“over there”。"
+        }
+      ],
+      "headword": "over there",
+      "lexical_entry_id": "w_over_there",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在那边",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Let's do a survey about hobbies.",
+          "origin": "curated:g5b-u4-survey",
+          "zh": "我们做个爱好调查吧。"
+        }
+      ],
+      "headword": "do a survey",
+      "lexical_entry_id": "w_do_a_survey",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做调查",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We act out the story.",
+          "origin": "curated:g5b-u4-act-out",
+          "zh": "我们表演这个故事。"
+        }
+      ],
+      "headword": "act out",
+      "lexical_entry_id": "w_act_out",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "表演",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "title": "The five peas",
+  "unit_no": 12,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my pea.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的豌豆, 似豌豆的东西。"
+        },
+        {
+          "en": "I can see a pea.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到豌豆, 似豌豆的东西。"
+        }
+      ],
+      "headword": "pea",
+      "lexical_entry_id": "w_pea",
+      "ordinal": 1,
+      "phonetic_uk": "pi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "豌豆, 似豌豆的东西",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pod.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的豆荚, (豆荚状的)保护性外壳, 扁豆形矿体。"
+        },
+        {
+          "en": "I can see a pod.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到豆荚, (豆荚状的)保护性外壳, 扁豆形矿体。"
+        }
+      ],
+      "headword": "pod",
+      "lexical_entry_id": "w_pod",
+      "ordinal": 2,
+      "phonetic_uk": "pɒd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "豆荚, (豆荚状的)保护性外壳, 扁豆形矿体",
+          "pos": "n."
+        },
+        {
+          "gloss": "从豆荚中剥出",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “forever”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“forever”。"
+        }
+      ],
+      "headword": "forever",
+      "lexical_entry_id": "w_forever",
+      "ordinal": 3,
+      "phonetic_uk": "fə'revə",
+      "phonetic_us": null,
+      "phonics_split": "for·ev·er",
+      "senses": [
+        {
+          "gloss": "永远",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bigger.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常更大的（big的比较级）。"
+        }
+      ],
+      "headword": "bigger",
+      "lexical_entry_id": "w_bigger",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "big·ger",
+      "senses": [
+        {
+          "gloss": "更大的（big的比较级）",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very excited.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常兴奋的, 已励磁的, 已激发的, 激昂的, 激动。"
+        }
+      ],
+      "headword": "excited",
+      "lexical_entry_id": "w_excited",
+      "ordinal": 5,
+      "phonetic_uk": "ik'saitid",
+      "phonetic_us": null,
+      "phonics_split": "ex·cit·ed",
+      "senses": [
+        {
+          "gloss": "兴奋的, 已励磁的, 已激发的, 激昂的, 激动的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bullet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的子弹。"
+        },
+        {
+          "en": "I can see a bullet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到子弹。"
+        }
+      ],
+      "headword": "bullet",
+      "lexical_entry_id": "w_bullet",
+      "ordinal": 6,
+      "phonetic_uk": "'bulit",
+      "phonetic_us": null,
+      "phonics_split": "bul·let",
+      "senses": [
+        {
+          "gloss": "子弹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very lazy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常懒惰的, 怠惰的, 缓慢。"
+        }
+      ],
+      "headword": "lazy",
+      "lexical_entry_id": "w_lazy",
+      "ordinal": 7,
+      "phonetic_uk": "'leizi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "懒惰的, 怠惰的, 缓慢的",
+          "pos": "a."
+        },
+        {
+          "gloss": "懒散",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my roof.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的屋顶, 室顶。"
+        },
+        {
+          "en": "I can see a roof.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到屋顶, 室顶。"
+        }
+      ],
+      "headword": "roof",
+      "lexical_entry_id": "w_roof",
+      "ordinal": 8,
+      "phonetic_uk": "ru:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "屋顶, 室顶",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...盖屋顶, 遮蔽",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my yard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的码, 庭院, 工场。"
+        },
+        {
+          "en": "I can see a yard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到码, 庭院, 工场。"
+        }
+      ],
+      "headword": "yard",
+      "lexical_entry_id": "w_yard",
+      "ordinal": 9,
+      "phonetic_uk": "jɑ:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "码, 庭院, 工场",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的打击, 打, 冲撞, 讽刺。"
+        },
+        {
+          "en": "I can see a hit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到打击, 打, 冲撞, 讽刺。"
+        }
+      ],
+      "headword": "hit",
+      "lexical_entry_id": "w_hit",
+      "ordinal": 10,
+      "phonetic_uk": "hit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "打击, 打, 冲撞, 讽刺",
+          "pos": "n."
+        },
+        {
+          "gloss": "打, 打击, 碰撞, 打中, 袭击, 偶然碰上",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “see the world”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“see the world”。"
+        }
+      ],
+      "headword": "see the world",
+      "lexical_entry_id": "w_see_the_world",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "见过世面,见多识广,通晓人情世故",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “one by one”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“one by one”。"
+        }
+      ],
+      "headword": "one by one",
+      "lexical_entry_id": "w_one_by_one",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一个接一个",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “look out of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“look out of”。"
+        }
+      ],
+      "headword": "look out of",
+      "lexical_entry_id": "w_look_out_of",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "从…向外看",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

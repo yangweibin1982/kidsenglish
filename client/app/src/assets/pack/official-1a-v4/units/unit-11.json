@@ -1,0 +1,114 @@
+{
+  "title": "In the zoo",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my monkey.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猴子。"
+        },
+        {
+          "en": "I can see a monkey.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猴子。"
+        }
+      ],
+      "headword": "monkey",
+      "lexical_entry_id": "w_monkey",
+      "ordinal": 1,
+      "phonetic_uk": "'mʌŋki",
+      "phonetic_us": null,
+      "phonics_split": "mon·key",
+      "senses": [
+        {
+          "gloss": "猴子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的熊。"
+        },
+        {
+          "en": "I can see a bear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到熊。"
+        }
+      ],
+      "headword": "bear",
+      "lexical_entry_id": "w_bear",
+      "ordinal": 2,
+      "phonetic_uk": "bɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my panda.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的熊猫。"
+        },
+        {
+          "en": "I can see a panda.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到熊猫。"
+        }
+      ],
+      "headword": "panda",
+      "lexical_entry_id": "w_panda",
+      "ordinal": 3,
+      "phonetic_uk": "'pændə",
+      "phonetic_us": null,
+      "phonics_split": "pan·da",
+      "senses": [
+        {
+          "gloss": "熊猫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tiger.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的老虎。"
+        },
+        {
+          "en": "I can see a tiger.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到老虎。"
+        }
+      ],
+      "headword": "tiger",
+      "lexical_entry_id": "w_tiger",
+      "ordinal": 4,
+      "phonetic_uk": "'taigə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老虎",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

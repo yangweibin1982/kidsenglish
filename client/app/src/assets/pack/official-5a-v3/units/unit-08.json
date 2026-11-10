@@ -1,0 +1,377 @@
+{
+  "title": "An outing",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very another.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常另外的, 再一的, 不同。"
+        }
+      ],
+      "headword": "another",
+      "lexical_entry_id": "w_another",
+      "ordinal": 1,
+      "phonetic_uk": "ə'nʌðə",
+      "phonetic_us": null,
+      "phonics_split": "an·oth·er",
+      "senses": [
+        {
+          "gloss": "另外的, 再一的, 不同的",
+          "pos": "a."
+        },
+        {
+          "gloss": "又一个, 另一个, 类似的另一个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “at the top of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at the top of”。"
+        }
+      ],
+      "headword": "at the top of",
+      "lexical_entry_id": "w_at_the_top_of",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在…顶部",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my diamond.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钻石, 菱形。"
+        },
+        {
+          "en": "I can see a diamond.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钻石, 菱形。"
+        }
+      ],
+      "headword": "diamond",
+      "lexical_entry_id": "w_diamond",
+      "ordinal": 3,
+      "phonetic_uk": "'daiəmənd",
+      "phonetic_us": null,
+      "phonics_split": "di·a·mond",
+      "senses": [
+        {
+          "gloss": "钻石, 菱形",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can find.",
+          "origin": "template:t-v-can",
+          "zh": "我会发现, 感到, 找到, 认为, 得到。"
+        },
+        {
+          "en": "Let's find together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起发现, 感到, 找到, 认为, 得到吧。"
+        }
+      ],
+      "headword": "find",
+      "lexical_entry_id": "w_find",
+      "ordinal": 4,
+      "phonetic_uk": "faind",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发现, 感到, 找到, 认为, 得到",
+          "pos": "vt."
+        },
+        {
+          "gloss": "裁决",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very funny.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常好笑的, 有趣的, 滑稽。"
+        }
+      ],
+      "headword": "funny",
+      "lexical_entry_id": "w_funny",
+      "ordinal": 5,
+      "phonetic_uk": "'fʌni",
+      "phonetic_us": null,
+      "phonics_split": "fun·ny",
+      "senses": [
+        {
+          "gloss": "好笑的, 有趣的, 滑稽的",
+          "pos": "a."
+        },
+        {
+          "gloss": "滑稽人物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “get through”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“get through”。"
+        }
+      ],
+      "headword": "get through",
+      "lexical_entry_id": "w_get_through",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做完, 通过, 度过",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hill.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小山, 丘陵, 小土堆。"
+        },
+        {
+          "en": "I can see a hill.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小山, 丘陵, 小土堆。"
+        }
+      ],
+      "headword": "hill",
+      "lexical_entry_id": "w_hill",
+      "ordinal": 7,
+      "phonetic_uk": "hil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小山, 丘陵, 小土堆",
+          "pos": "n."
+        },
+        {
+          "gloss": "作成土堆, 堆成小丘",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my hole.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的孔, 洞, 穴, 漏洞。"
+        },
+        {
+          "en": "I can see a hole.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到孔, 洞, 穴, 漏洞。"
+        }
+      ],
+      "headword": "hole",
+      "lexical_entry_id": "w_hole",
+      "ordinal": 8,
+      "phonetic_uk": "həul",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "孔, 洞, 穴, 漏洞",
+          "pos": "n."
+        },
+        {
+          "gloss": "挖洞, 掘坑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my key.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁。"
+        },
+        {
+          "en": "I can see a key.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁。"
+        }
+      ],
+      "headword": "key",
+      "lexical_entry_id": "w_key",
+      "ordinal": 9,
+      "phonetic_uk": "ki:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "钥匙, 键, 解答, 关键, 要害, 基调, 线索, 答案, 暗礁",
+          "pos": "n."
+        },
+        {
+          "gloss": "调音, 锁上, 提供线索",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lake.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的湖, 池, 色淀。"
+        },
+        {
+          "en": "I can see a lake.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到湖, 池, 色淀。"
+        }
+      ],
+      "headword": "lake",
+      "lexical_entry_id": "w_lake",
+      "ordinal": 10,
+      "phonetic_uk": "leik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "湖, 池, 色淀",
+          "pos": "n."
+        },
+        {
+          "gloss": "(使)血球溶解",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my map.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的地图, 天体图, 映像。"
+        },
+        {
+          "en": "I can see a map.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到地图, 天体图, 映像。"
+        }
+      ],
+      "headword": "map",
+      "lexical_entry_id": "w_map",
+      "ordinal": 11,
+      "phonetic_uk": "mæp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "地图, 天体图, 映像",
+          "pos": "n."
+        },
+        {
+          "gloss": "映射, 绘制...地图, 计划",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my outing.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的郊游, 远足。"
+        },
+        {
+          "en": "I can see an outing.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到郊游, 远足。"
+        }
+      ],
+      "headword": "outing",
+      "lexical_entry_id": "w_outing",
+      "ordinal": 12,
+      "phonetic_uk": "'autiŋ",
+      "phonetic_us": null,
+      "phonics_split": "out·ing",
+      "senses": [
+        {
+          "gloss": "郊游, 远足",
+          "pos": "n."
+        },
+        {
+          "gloss": "远足适用的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can think.",
+          "origin": "template:t-v-can",
+          "zh": "我会想, 考虑, 想起, 想像, 打算, 认为。"
+        },
+        {
+          "en": "Let's think together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起想, 考虑, 想起, 想像, 打算, 认为吧。"
+        }
+      ],
+      "headword": "think",
+      "lexical_entry_id": "w_think",
+      "ordinal": 13,
+      "phonetic_uk": "θiŋk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "想, 考虑, 想起, 想像, 打算, 认为",
+          "pos": "vt."
+        },
+        {
+          "gloss": "思考, 料想",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

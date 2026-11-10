@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">战机英语</string>
+    <string name="title_activity_main">战机英语</string>
+    <string name="package_name">com.kidsenglish.app</string>
+    <string name="custom_url_scheme">com.kidsenglish.app</string>
+</resources>

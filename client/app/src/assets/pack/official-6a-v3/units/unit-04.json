@@ -1,0 +1,197 @@
+{
+  "title": "Our neighbours",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my daughter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的女儿。"
+        },
+        {
+          "en": "I can see a daughter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到女儿。"
+        }
+      ],
+      "headword": "daughter",
+      "lexical_entry_id": "w_daughter",
+      "ordinal": 1,
+      "phonetic_uk": "'dɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "daugh·ter",
+      "senses": [
+        {
+          "gloss": "女儿",
+          "pos": "n."
+        },
+        {
+          "gloss": "女儿的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can dig.",
+          "origin": "template:t-v-can",
+          "zh": "我会挖, 翻土, 发掘。"
+        },
+        {
+          "en": "Let's dig together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起挖, 翻土, 发掘吧。"
+        }
+      ],
+      "headword": "dig",
+      "lexical_entry_id": "w_dig",
+      "ordinal": 2,
+      "phonetic_uk": "dig",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "挖, 翻土, 发掘",
+          "pos": "vt."
+        },
+        {
+          "gloss": "挖掘",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “make noise”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“make noise”。"
+        }
+      ],
+      "headword": "make noise",
+      "lexical_entry_id": "w_make_noise",
+      "ordinal": 3,
+      "phonetic_uk": "meik nɔiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "噪",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my neighbour.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人。"
+        },
+        {
+          "en": "I can see a neighbour.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人。"
+        }
+      ],
+      "headword": "neighbour",
+      "lexical_entry_id": "w_neighbour",
+      "ordinal": 4,
+      "phonetic_uk": "'neibə",
+      "phonetic_us": null,
+      "phonics_split": "neigh·bour",
+      "senses": [
+        {
+          "gloss": "邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人",
+          "pos": "n."
+        },
+        {
+          "gloss": "邻接的, 邻近的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very noisy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常嘈杂的, 喧闹。"
+        }
+      ],
+      "headword": "noisy",
+      "lexical_entry_id": "w_noisy",
+      "ordinal": 5,
+      "phonetic_uk": "'nɒizi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "嘈杂的, 喧闹的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my owl.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猫头鹰。"
+        },
+        {
+          "en": "I can see an owl.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猫头鹰。"
+        }
+      ],
+      "headword": "owl",
+      "lexical_entry_id": "w_owl",
+      "ordinal": 6,
+      "phonetic_uk": "aul",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猫头鹰",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my son.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的儿子, 女婿, 子孙。"
+        },
+        {
+          "en": "I can see a son.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到儿子, 女婿, 子孙。"
+        }
+      ],
+      "headword": "son",
+      "lexical_entry_id": "w_son",
+      "ordinal": 7,
+      "phonetic_uk": "sʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "儿子, 女婿, 子孙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

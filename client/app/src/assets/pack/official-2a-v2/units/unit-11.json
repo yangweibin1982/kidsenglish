@@ -1,0 +1,300 @@
+{
+  "title": "In the forest",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "We are in the forest.",
+          "origin": "curated:g2u11-forest",
+          "zh": "我们在森林里。"
+        }
+      ],
+      "headword": "forest",
+      "lexical_entry_id": "w_forest",
+      "ordinal": 1,
+      "phonetic_uk": "'fɒrist",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "森林",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The fox is orange.",
+          "origin": "curated:g2u11-fox",
+          "zh": "狐狸是橙色的。"
+        }
+      ],
+      "headword": "fox",
+      "lexical_entry_id": "w_fox",
+      "ordinal": 2,
+      "phonetic_uk": "fɒks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狐狸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The lion eats meat.",
+          "origin": "curated:g2u11-meat",
+          "zh": "狮子吃肉。"
+        }
+      ],
+      "headword": "meat",
+      "lexical_entry_id": "w_meat",
+      "ordinal": 3,
+      "phonetic_uk": "mi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "肉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The hippo is big.",
+          "origin": "curated:g2u11-hippo",
+          "zh": "河马很大。"
+        }
+      ],
+      "headword": "hippo",
+      "lexical_entry_id": "w_hippo",
+      "ordinal": 4,
+      "phonetic_uk": "'hipəu",
+      "phonetic_us": null,
+      "phonics_split": "hip·po",
+      "senses": [
+        {
+          "gloss": "河马",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The grass is green.",
+          "origin": "curated:g2u11-grass",
+          "zh": "草是绿色的。"
+        }
+      ],
+      "headword": "grass",
+      "lexical_entry_id": "w_grass",
+      "ordinal": 5,
+      "phonetic_uk": "græs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "草",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Wild animals live in the forest.",
+          "origin": "curated:g2u11-wild",
+          "zh": "野生动物住在森林里。"
+        }
+      ],
+      "headword": "wild",
+      "lexical_entry_id": "w_wild",
+      "ordinal": 6,
+      "phonetic_uk": "waild",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "野生的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What animal is it?",
+          "origin": "curated:g2u11-animal",
+          "zh": "它是什么动物？"
+        }
+      ],
+      "headword": "animal",
+      "lexical_entry_id": "w_animal",
+      "ordinal": 7,
+      "phonetic_uk": "'æniməl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "动物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very cute.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常可爱。"
+        }
+      ],
+      "headword": "cute",
+      "lexical_entry_id": "w_cute",
+      "ordinal": 8,
+      "phonetic_uk": "kju:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "可爱的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Wow! A big elephant!",
+          "origin": "curated:g2u11-wow",
+          "zh": "哇！一头大象！"
+        }
+      ],
+      "headword": "wow",
+      "lexical_entry_id": "w_wow",
+      "ordinal": 9,
+      "phonetic_uk": "wau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哇",
+          "pos": "int."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The panda is so cute!",
+          "origin": "curated:g2u11-so",
+          "zh": "熊猫这么可爱！"
+        }
+      ],
+      "headword": "so",
+      "lexical_entry_id": "w_so",
+      "ordinal": 10,
+      "phonetic_uk": "səu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "这么、那么",
+          "pos": "adv."
+        },
+        {
+          "gloss": "所以",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The dove can fly.",
+          "origin": "curated:g2u11-dove",
+          "zh": "鸽子会飞。"
+        }
+      ],
+      "headword": "dove",
+      "lexical_entry_id": "w_dove",
+      "ordinal": 11,
+      "phonetic_uk": "dʌv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鸽子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The swan is white.",
+          "origin": "curated:g2u11-swan",
+          "zh": "天鹅是白色的。"
+        }
+      ],
+      "headword": "swan",
+      "lexical_entry_id": "w_swan",
+      "ordinal": 12,
+      "phonetic_uk": "swɒn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "天鹅",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The moon is white.",
+          "origin": "curated:g2u11-white",
+          "zh": "月亮是白色的。"
+        }
+      ],
+      "headword": "white",
+      "lexical_entry_id": "w_white",
+      "ordinal": 13,
+      "phonetic_uk": "hwait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "白色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "白色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "title": "What do you like about farms?",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my cow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奶牛。"
+        },
+        {
+          "en": "I can see a cow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奶牛。"
+        }
+      ],
+      "headword": "cow",
+      "lexical_entry_id": "w_cow",
+      "ordinal": 1,
+      "phonetic_uk": "kau",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奶牛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sheep.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的羊, 胆小者。"
+        },
+        {
+          "en": "I can see a sheep.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到羊, 胆小者。"
+        }
+      ],
+      "headword": "sheep",
+      "lexical_entry_id": "w_sheep",
+      "ordinal": 2,
+      "phonetic_uk": "ʃi:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "羊, 胆小者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my duck.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鸭子。"
+        },
+        {
+          "en": "I can see a duck.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鸭子。"
+        }
+      ],
+      "headword": "duck",
+      "lexical_entry_id": "w_duck",
+      "ordinal": 3,
+      "phonetic_uk": "dʌk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鸭子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chick.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小鸡。"
+        },
+        {
+          "en": "I can see a chick.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小鸡。"
+        }
+      ],
+      "headword": "chick",
+      "lexical_entry_id": "w_chick",
+      "ordinal": 4,
+      "phonetic_uk": "tʃik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小鸡",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chicken.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小鸡, 鸡肉。"
+        },
+        {
+          "en": "I can see a chicken.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小鸡, 鸡肉。"
+        }
+      ],
+      "headword": "chicken",
+      "lexical_entry_id": "w_chicken",
+      "ordinal": 5,
+      "phonetic_uk": "'tʃikin",
+      "phonetic_us": null,
+      "phonics_split": "chick·en",
+      "senses": [
+        {
+          "gloss": "小鸡, 鸡肉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pig.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的猪。"
+        },
+        {
+          "en": "I can see a pig.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到猪。"
+        }
+      ],
+      "headword": "pig",
+      "lexical_entry_id": "w_pig",
+      "ordinal": 6,
+      "phonetic_uk": "pig",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "猪",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

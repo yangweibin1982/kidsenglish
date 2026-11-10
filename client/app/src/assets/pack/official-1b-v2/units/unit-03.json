@@ -1,0 +1,130 @@
+{
+  "title": "How do we play?",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can ride a bike.",
+          "origin": "curated:g1bn-u3-ride-bike",
+          "zh": "我会骑自行车。"
+        }
+      ],
+      "headword": "ride a bike",
+      "lexical_entry_id": "w_ride_a_bike",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "骑自行车",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look! I can ride a scooter.",
+          "origin": "curated:g1bn-u3-ride-scooter",
+          "zh": "看！我会骑滑板车。"
+        }
+      ],
+      "headword": "ride a scooter",
+      "lexical_entry_id": "w_ride_a_scooter",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "骑滑板车",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rollerblade.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的直排轮滑; 滚轴溜冰; 滑旱冰。"
+        },
+        {
+          "en": "I can see a rollerblade.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到直排轮滑; 滚轴溜冰; 滑旱冰。"
+        }
+      ],
+      "headword": "rollerblade",
+      "lexical_entry_id": "w_rollerblade",
+      "ordinal": 3,
+      "phonetic_uk": "'rəʊləbleɪd",
+      "phonetic_us": null,
+      "phonics_split": "rol·lerblade",
+      "senses": [
+        {
+          "gloss": "直排轮滑; 滚轴溜冰; 滑旱冰",
+          "pos": "n."
+        },
+        {
+          "gloss": "滑旱冰",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We play football after school.",
+          "origin": "curated:g1bn-u3-football",
+          "zh": "放学后我们踢足球。"
+        }
+      ],
+      "headword": "play football",
+      "lexical_entry_id": "w_play_football",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "踢足球",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my skateboard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的溜冰板。"
+        },
+        {
+          "en": "I can see a skateboard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到溜冰板。"
+        }
+      ],
+      "headword": "skateboard",
+      "lexical_entry_id": "w_skateboard",
+      "ordinal": 5,
+      "phonetic_uk": "'skeitbɔ:d",
+      "phonetic_us": null,
+      "phonics_split": "skate·board",
+      "senses": [
+        {
+          "gloss": "溜冰板",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "title": "My face",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my face.",
+          "origin": "curated:u3-pron-this",
+          "zh": "这是我的脸。"
+        }
+      ],
+      "headword": "this",
+      "lexical_entry_id": "w_this",
+      "ordinal": 1,
+      "phonetic_uk": "θis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "这、这个",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is a pear.",
+          "origin": "curated:u3-be-is",
+          "zh": "它是一个梨。"
+        }
+      ],
+      "headword": "is",
+      "lexical_entry_id": "w_is",
+      "ordinal": 2,
+      "phonetic_uk": "iz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "是",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pencil.",
+          "origin": "curated:u3-pron-my",
+          "zh": "这是我的铅笔。"
+        }
+      ],
+      "headword": "my",
+      "lexical_entry_id": "w_my",
+      "ordinal": 3,
+      "phonetic_uk": "mai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "我的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my face.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的脸。"
+        },
+        {
+          "en": "I can see a face.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到脸。"
+        }
+      ],
+      "headword": "face",
+      "lexical_entry_id": "w_face",
+      "ordinal": 4,
+      "phonetic_uk": "feis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "脸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mouth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的嘴。"
+        },
+        {
+          "en": "I can see a mouth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到嘴。"
+        }
+      ],
+      "headword": "mouth",
+      "lexical_entry_id": "w_mouth",
+      "ordinal": 5,
+      "phonetic_uk": "mauθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "嘴",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nose.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鼻子。"
+        },
+        {
+          "en": "I can see a nose.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鼻子。"
+        }
+      ],
+      "headword": "nose",
+      "lexical_entry_id": "w_nose",
+      "ordinal": 6,
+      "phonetic_uk": "nəuz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鼻子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my eye.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的眼睛。"
+        },
+        {
+          "en": "I can see an eye.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到眼睛。"
+        }
+      ],
+      "headword": "eye",
+      "lexical_entry_id": "w_eye",
+      "ordinal": 7,
+      "phonetic_uk": "ai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "眼睛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的耳朵。"
+        },
+        {
+          "en": "I can see an ear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到耳朵。"
+        }
+      ],
+      "headword": "ear",
+      "lexical_entry_id": "w_ear",
+      "ordinal": 8,
+      "phonetic_uk": "iə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "耳朵",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Touch your nose.",
+          "origin": "curated:u3-touch",
+          "zh": "摸摸你的鼻子。"
+        }
+      ],
+      "headword": "touch",
+      "lexical_entry_id": "w_touch",
+      "ordinal": 9,
+      "phonetic_uk": "tʌtʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "摸",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What is your name?",
+          "origin": "curated:u3-pron-your",
+          "zh": "你叫什么名字？"
+        }
+      ],
+      "headword": "your",
+      "lexical_entry_id": "w_your",
+      "ordinal": 10,
+      "phonetic_uk": "juə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "你的、你们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my picture.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的图画。"
+        },
+        {
+          "en": "I can see a picture.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到图画。"
+        }
+      ],
+      "headword": "picture",
+      "lexical_entry_id": "w_picture",
+      "ordinal": 11,
+      "phonetic_uk": "'piktʃə",
+      "phonetic_us": null,
+      "phonics_split": "pic·ture",
+      "senses": [
+        {
+          "gloss": "图画",
+          "pos": "n."
+        },
+        {
+          "gloss": "照片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look! A panda!",
+          "origin": "curated:u3-look",
+          "zh": "看！一只熊猫！"
+        }
+      ],
+      "headword": "look",
+      "lexical_entry_id": "w_look",
+      "ordinal": 12,
+      "phonetic_uk": "luk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "No, it is not a pear.",
+          "origin": "curated:u3-no",
+          "zh": "不，这不是一个梨。"
+        }
+      ],
+      "headword": "no",
+      "lexical_entry_id": "w_no",
+      "ordinal": 13,
+      "phonetic_uk": "nəu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不",
+          "pos": "adv."
+        },
+        {
+          "gloss": "没有",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "That is not my book.",
+          "origin": "curated:u3-not",
+          "zh": "那不是我的书。"
+        }
+      ],
+      "headword": "not",
+      "lexical_entry_id": "w_not",
+      "ordinal": 14,
+      "phonetic_uk": "nɒt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

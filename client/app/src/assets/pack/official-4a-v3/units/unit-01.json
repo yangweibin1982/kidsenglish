@@ -1,0 +1,233 @@
+{
+  "title": "Meeting new people",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "Good afternoon, boys and girls.",
+          "origin": "curated:u1-greet-afternoon",
+          "zh": "下午好，同学们。"
+        }
+      ],
+      "headword": "afternoon",
+      "lexical_entry_id": "w_afternoon",
+      "ordinal": 1,
+      "phonetic_uk": "'ɑ:ftə'nu:n",
+      "phonetic_us": null,
+      "phonics_split": "af·ter·noon",
+      "senses": [
+        {
+          "emoji": "🌞",
+          "gloss": "下午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my classmate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的同班同学。"
+        },
+        {
+          "en": "I can see a classmate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到同班同学。"
+        }
+      ],
+      "headword": "classmate",
+      "lexical_entry_id": "w_classmate",
+      "ordinal": 2,
+      "phonetic_uk": "'klɑ:smeit",
+      "phonetic_us": null,
+      "phonics_split": "class·mate",
+      "senses": [
+        {
+          "gloss": "同班同学",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is her book.",
+          "origin": "curated:p-pron-her",
+          "zh": "这是她的书。"
+        }
+      ],
+      "headword": "her",
+      "lexical_entry_id": "w_her",
+      "ordinal": 3,
+      "phonetic_uk": "hə:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "她的, 她",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "That is his schoolbag.",
+          "origin": "curated:p-pron-his",
+          "zh": "那是他的书包。"
+        }
+      ],
+      "headword": "his",
+      "lexical_entry_id": "w_his",
+      "ordinal": 4,
+      "phonetic_uk": "hiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my meet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的会, 集会。"
+        },
+        {
+          "en": "I can see a meet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到会, 集会。"
+        }
+      ],
+      "headword": "meet",
+      "lexical_entry_id": "w_meet",
+      "ordinal": 5,
+      "phonetic_uk": "mi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "会, 集会",
+          "pos": "n."
+        },
+        {
+          "gloss": "适宜的, 合适的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good morning, Miss Li!",
+          "origin": "curated:u1-greet-morning",
+          "zh": "早上好，李老师！"
+        }
+      ],
+      "headword": "morning",
+      "lexical_entry_id": "w_morning",
+      "ordinal": 6,
+      "phonetic_uk": "'mɔːniŋ",
+      "phonetic_us": null,
+      "phonics_split": "morn·ing",
+      "senses": [
+        {
+          "emoji": "🌅",
+          "gloss": "早晨",
+          "pos": "n."
+        },
+        {
+          "gloss": "上午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My name is Danny.",
+          "origin": "curated:g2u2-name",
+          "zh": "我的名字叫丹尼。"
+        }
+      ],
+      "headword": "name",
+      "lexical_entry_id": "w_name",
+      "ordinal": 7,
+      "phonetic_uk": "neim",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "名字",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very new.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常新的, 陌生的, 最近的, 不熟悉。"
+        }
+      ],
+      "headword": "new",
+      "lexical_entry_id": "w_new",
+      "ordinal": 8,
+      "phonetic_uk": "nju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "新的, 陌生的, 最近的, 不熟悉的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can sit.",
+          "origin": "template:t-v-can",
+          "zh": "我会坐, 就座, 坐落。"
+        },
+        {
+          "en": "Let's sit together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起坐, 就座, 坐落吧。"
+        }
+      ],
+      "headword": "sit",
+      "lexical_entry_id": "w_sit",
+      "ordinal": 9,
+      "phonetic_uk": "sit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "坐, 就座, 坐落",
+          "pos": "vi."
+        },
+        {
+          "gloss": "使就座, 骑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

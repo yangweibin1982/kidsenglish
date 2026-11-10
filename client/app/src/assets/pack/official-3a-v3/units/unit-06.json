@@ -1,0 +1,251 @@
+{
+  "title": "Me",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "My school is big.",
+          "origin": "curated:u12-big",
+          "zh": "我的学校很大。"
+        }
+      ],
+      "headword": "big",
+      "lexical_entry_id": "w_big",
+      "ordinal": 1,
+      "phonetic_uk": "big",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "大的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的耳朵。"
+        },
+        {
+          "en": "I can see an ear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到耳朵。"
+        }
+      ],
+      "headword": "ear",
+      "lexical_entry_id": "w_ear",
+      "ordinal": 2,
+      "phonetic_uk": "iə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "耳朵",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my eye.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的眼睛。"
+        },
+        {
+          "en": "I can see an eye.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到眼睛。"
+        }
+      ],
+      "headword": "eye",
+      "lexical_entry_id": "w_eye",
+      "ordinal": 3,
+      "phonetic_uk": "ai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "眼睛",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my face.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的脸。"
+        },
+        {
+          "en": "I can see a face.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到脸。"
+        }
+      ],
+      "headword": "face",
+      "lexical_entry_id": "w_face",
+      "ordinal": 4,
+      "phonetic_uk": "feis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "脸",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My hair is short.",
+          "origin": "curated:g2u6-hair",
+          "zh": "我的头发很短。"
+        }
+      ],
+      "headword": "hair",
+      "lexical_entry_id": "w_hair",
+      "ordinal": 5,
+      "phonetic_uk": "hɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "头发",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very long.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常长。"
+        }
+      ],
+      "headword": "long",
+      "lexical_entry_id": "w_long",
+      "ordinal": 6,
+      "phonetic_uk": "lɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "长的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look! A panda!",
+          "origin": "curated:u3-look",
+          "zh": "看！一只熊猫！"
+        }
+      ],
+      "headword": "look",
+      "lexical_entry_id": "w_look",
+      "ordinal": 7,
+      "phonetic_uk": "luk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mouth.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的嘴。"
+        },
+        {
+          "en": "I can see a mouth.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到嘴。"
+        }
+      ],
+      "headword": "mouth",
+      "lexical_entry_id": "w_mouth",
+      "ordinal": 8,
+      "phonetic_uk": "mauθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "嘴",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nose.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鼻子。"
+        },
+        {
+          "en": "I can see a nose.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鼻子。"
+        }
+      ],
+      "headword": "nose",
+      "lexical_entry_id": "w_nose",
+      "ordinal": 9,
+      "phonetic_uk": "nəuz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鼻子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My rubber is small.",
+          "origin": "curated:u12-small",
+          "zh": "我的橡皮很小。"
+        }
+      ],
+      "headword": "small",
+      "lexical_entry_id": "w_small",
+      "ordinal": 10,
+      "phonetic_uk": "smɔːl",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

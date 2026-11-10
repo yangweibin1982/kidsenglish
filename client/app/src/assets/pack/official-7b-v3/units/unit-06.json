@@ -1,0 +1,874 @@
+{
+  "title": null,
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my battery.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电池, 殴打。"
+        },
+        {
+          "en": "I can see a battery.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电池, 殴打。"
+        }
+      ],
+      "headword": "battery",
+      "lexical_entry_id": "w_battery",
+      "ordinal": 1,
+      "phonetic_uk": "'bætəri",
+      "phonetic_us": null,
+      "phonics_split": "bat·tery",
+      "senses": [
+        {
+          "gloss": "电池, 殴打",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my electricity.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电, 电流, 电学, 热情, 电力供应。"
+        },
+        {
+          "en": "I can see an electricity.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电, 电流, 电学, 热情, 电力供应。"
+        }
+      ],
+      "headword": "electricity",
+      "lexical_entry_id": "w_electricity",
+      "ordinal": 2,
+      "phonetic_uk": ".ilek'trisiti",
+      "phonetic_us": null,
+      "phonics_split": "elec·tric·i·ty",
+      "senses": [
+        {
+          "gloss": "电, 电流, 电学, 热情, 电力供应",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Switch off the lights before you leave.",
+          "origin": "curated:p-phr-switch-off",
+          "zh": "离开前把灯关掉。"
+        }
+      ],
+      "headword": "switch-off",
+      "lexical_entry_id": "w_switch_off",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "关机；断开",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my task.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的工作, 任务, 作业, 困难的工作。"
+        },
+        {
+          "en": "I can see a task.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到工作, 任务, 作业, 困难的工作。"
+        }
+      ],
+      "headword": "task",
+      "lexical_entry_id": "w_task",
+      "ordinal": 4,
+      "phonetic_uk": "tɑ:sk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "工作, 任务, 作业, 困难的工作",
+          "pos": "n."
+        },
+        {
+          "gloss": "派给...工作, 使辛劳",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my while.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的一会儿, (一段)时间。"
+        },
+        {
+          "en": "I can see a while.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到一会儿, (一段)时间。"
+        }
+      ],
+      "headword": "while",
+      "lexical_entry_id": "w_while",
+      "ordinal": 5,
+      "phonetic_uk": "hwail",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一会儿, (一段)时间",
+          "pos": "n."
+        },
+        {
+          "gloss": "当...的时候, 虽然",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tablet.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的平板, 门牌, 笔记簿, 碑, 匾, 药片。"
+        },
+        {
+          "en": "I can see a tablet.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到平板, 门牌, 笔记簿, 碑, 匾, 药片。"
+        }
+      ],
+      "headword": "tablet",
+      "lexical_entry_id": "w_tablet",
+      "ordinal": 6,
+      "phonetic_uk": "'tæblit",
+      "phonetic_us": null,
+      "phonics_split": "tab·let",
+      "senses": [
+        {
+          "gloss": "平板, 门牌, 笔记簿, 碑, 匾, 药片",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fridge.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电冰箱。"
+        },
+        {
+          "en": "I can see a fridge.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电冰箱。"
+        }
+      ],
+      "headword": "fridge",
+      "lexical_entry_id": "w_fridge",
+      "ordinal": 7,
+      "phonetic_uk": "fridʒ",
+      "phonetic_us": null,
+      "phonics_split": "frid·ge",
+      "senses": [
+        {
+          "gloss": "电冰箱",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my yogurt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的酸乳酪。"
+        },
+        {
+          "en": "I can see a yogurt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到酸乳酪。"
+        }
+      ],
+      "headword": "yogurt",
+      "lexical_entry_id": "w_yogurt",
+      "ordinal": 8,
+      "phonetic_uk": "'jɔ^ət",
+      "phonetic_us": null,
+      "phonics_split": "yo·gurt",
+      "senses": [
+        {
+          "gloss": "酸乳酪",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my apartment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的房间, 公寓。"
+        },
+        {
+          "en": "I can see an apartment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到房间, 公寓。"
+        }
+      ],
+      "headword": "apartment",
+      "lexical_entry_id": "w_apartment",
+      "ordinal": 9,
+      "phonetic_uk": "ə'pɑ:tmənt",
+      "phonetic_us": null,
+      "phonics_split": "apart·ment",
+      "senses": [
+        {
+          "gloss": "房间, 公寓",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my household.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的一家人, 家庭, 家族, 王室。"
+        },
+        {
+          "en": "I can see a household.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到一家人, 家庭, 家族, 王室。"
+        }
+      ],
+      "headword": "household",
+      "lexical_entry_id": "w_household",
+      "ordinal": 10,
+      "phonetic_uk": "'haushəuld",
+      "phonetic_us": null,
+      "phonics_split": "house·hold",
+      "senses": [
+        {
+          "gloss": "一家人, 家庭, 家族, 王室",
+          "pos": "n."
+        },
+        {
+          "gloss": "家庭的, 家常的, 王室的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “against”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“against”。"
+        }
+      ],
+      "headword": "against",
+      "lexical_entry_id": "w_against",
+      "ordinal": 11,
+      "phonetic_uk": "ə'geinst",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "反对, 对着, 倚靠",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my speed.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的速率, 速度, 迅速。"
+        },
+        {
+          "en": "I can see a speed.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到速率, 速度, 迅速。"
+        }
+      ],
+      "headword": "speed",
+      "lexical_entry_id": "w_speed",
+      "ordinal": 12,
+      "phonetic_uk": "spi:d",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "速率, 速度, 迅速",
+          "pos": "n."
+        },
+        {
+          "gloss": "加速, 超速, 快进",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my safety.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的安全, 保险, 平安, 保安设备。"
+        },
+        {
+          "en": "I can see a safety.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到安全, 保险, 平安, 保安设备。"
+        }
+      ],
+      "headword": "safety",
+      "lexical_entry_id": "w_safety",
+      "ordinal": 13,
+      "phonetic_uk": "'seifti",
+      "phonetic_us": null,
+      "phonics_split": "safe·ty",
+      "senses": [
+        {
+          "gloss": "安全, 保险, 平安, 保安设备",
+          "pos": "n."
+        },
+        {
+          "gloss": "保护, 防护",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my instruction.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的指令, 教导, 命令。"
+        },
+        {
+          "en": "I can see an instruction.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到指令, 教导, 命令。"
+        }
+      ],
+      "headword": "instruction",
+      "lexical_entry_id": "w_instruction",
+      "ordinal": 14,
+      "phonetic_uk": "in'strʌkʃən",
+      "phonetic_us": null,
+      "phonics_split": "in·struc·tion",
+      "senses": [
+        {
+          "gloss": "指令, 教导, 命令",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can connect.",
+          "origin": "template:t-v-can",
+          "zh": "我会连接, 联合, 联系。"
+        },
+        {
+          "en": "Let's connect together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起连接, 联合, 联系吧。"
+        }
+      ],
+      "headword": "connect",
+      "lexical_entry_id": "w_connect",
+      "ordinal": 15,
+      "phonetic_uk": "kə'nekt",
+      "phonetic_us": null,
+      "phonics_split": "con·nect",
+      "senses": [
+        {
+          "gloss": "连接, 联合, 联系",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my device.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的装置, 设计, 策略, 发明物, 设备。"
+        },
+        {
+          "en": "I can see a device.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到装置, 设计, 策略, 发明物, 设备。"
+        }
+      ],
+      "headword": "device",
+      "lexical_entry_id": "w_device",
+      "ordinal": 16,
+      "phonetic_uk": "di'vais",
+      "phonetic_us": null,
+      "phonics_split": "de·vice",
+      "senses": [
+        {
+          "gloss": "装置, 设计, 策略, 发明物, 设备",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rule.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线。"
+        },
+        {
+          "en": "I can see a rule.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线。"
+        }
+      ],
+      "headword": "rule",
+      "lexical_entry_id": "w_rule",
+      "ordinal": 17,
+      "phonetic_uk": "ru:l",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线",
+          "pos": "n."
+        },
+        {
+          "gloss": "规定, 统治, 管理, 控制, 支配, 裁决",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my climate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的气候, 社会趋势, 气候区。"
+        },
+        {
+          "en": "I can see a climate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到气候, 社会趋势, 气候区。"
+        }
+      ],
+      "headword": "climate",
+      "lexical_entry_id": "w_climate",
+      "ordinal": 18,
+      "phonetic_uk": "'klaimit",
+      "phonetic_us": null,
+      "phonics_split": "cli·mate",
+      "senses": [
+        {
+          "gloss": "气候, 社会趋势, 气候区",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my amount.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的总数, 总额。"
+        },
+        {
+          "en": "I can see an amount.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到总数, 总额。"
+        }
+      ],
+      "headword": "amount",
+      "lexical_entry_id": "w_amount",
+      "ordinal": 19,
+      "phonetic_uk": "ə'maunt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "总数, 总额",
+          "pos": "n."
+        },
+        {
+          "gloss": "总计, 等同",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my power.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率。"
+        },
+        {
+          "en": "I can see a power.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率。"
+        }
+      ],
+      "headword": "power",
+      "lexical_entry_id": "w_power",
+      "ordinal": 20,
+      "phonetic_uk": "'pauə",
+      "phonetic_us": null,
+      "phonics_split": "pow·er",
+      "senses": [
+        {
+          "gloss": "力, 体力, 力量, 势力, 动力, 权力, 强国, 乘方, 强度, 幂, 功率",
+          "pos": "n."
+        },
+        {
+          "gloss": "使...有力量, 供以动力, 激励",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “television set”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“television set”。"
+        }
+      ],
+      "headword": "television set",
+      "lexical_entry_id": "w_television_set",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电视机",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my landmark.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的陆标, 划时代的事, 地界标。"
+        },
+        {
+          "en": "I can see a landmark.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到陆标, 划时代的事, 地界标。"
+        }
+      ],
+      "headword": "landmark",
+      "lexical_entry_id": "w_landmark",
+      "ordinal": 22,
+      "phonetic_uk": "'lændmɑ:k",
+      "phonetic_us": null,
+      "phonics_split": "land·mark",
+      "senses": [
+        {
+          "gloss": "陆标, 划时代的事, 地界标",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We have a lot in common.",
+          "origin": "curated:g7b-in-common",
+          "zh": "我们有很多共同点。"
+        }
+      ],
+      "headword": "have something in common",
+      "lexical_entry_id": "w_have_something_in_common",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有共同之处",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my light bulb.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的灯泡。"
+        },
+        {
+          "en": "I can see a light bulb.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到灯泡。"
+        }
+      ],
+      "headword": "light bulb",
+      "lexical_entry_id": "w_light_bulb",
+      "ordinal": 24,
+      "phonetic_uk": "lait bʌlb",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "灯泡",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my air conditioner.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的空调。"
+        },
+        {
+          "en": "I can see an air conditioner.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到空调。"
+        }
+      ],
+      "headword": "air conditioner",
+      "lexical_entry_id": "w_air_conditioner",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "空调",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my video game.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电子游戏。"
+        },
+        {
+          "en": "I can see a video game.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电子游戏。"
+        }
+      ],
+      "headword": "video game",
+      "lexical_entry_id": "w_video_game",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电子游戏",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “run out of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“run out of”。"
+        }
+      ],
+      "headword": "run out of",
+      "lexical_entry_id": "w_run_out_of",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "用完",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go bad”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go bad”。"
+        }
+      ],
+      "headword": "go bad",
+      "lexical_entry_id": "w_go_bad",
+      "ordinal": 28,
+      "phonetic_uk": "ɡəu bæd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "变质; 坏",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “electric car”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“electric car”。"
+        }
+      ],
+      "headword": "electric car",
+      "lexical_entry_id": "w_electric_car",
+      "ordinal": 29,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电车",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “electrical appliance”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“electrical appliance”。"
+        }
+      ],
+      "headword": "electrical appliance",
+      "lexical_entry_id": "w_electrical_appliance",
+      "ordinal": 30,
+      "phonetic_uk": "iˈlektrikəl əˈplaiəns",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电气设备，电气用品",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “care about”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“care about”。"
+        }
+      ],
+      "headword": "care about",
+      "lexical_entry_id": "w_care_about",
+      "ordinal": 31,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "担心",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “climate change”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“climate change”。"
+        }
+      ],
+      "headword": "climate change",
+      "lexical_entry_id": "w_climate_change",
+      "ordinal": 32,
+      "phonetic_uk": "ˈklaimit tʃeindʒ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "气候变化",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “join in”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“join in”。"
+        }
+      ],
+      "headword": "join in",
+      "lexical_entry_id": "w_join_in",
+      "ordinal": 33,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "参加, 加入",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

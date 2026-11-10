@@ -1,0 +1,377 @@
+{
+  "title": "Look and see",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “again”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“again”。"
+        }
+      ],
+      "headword": "again",
+      "lexical_entry_id": "w_again",
+      "ordinal": 1,
+      "phonetic_uk": "ə'gein",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "再一次, 又, 到原处",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “at night”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at night”。"
+        }
+      ],
+      "headword": "at night",
+      "lexical_entry_id": "w_at_night",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在晚上",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “at noon”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at noon”。"
+        }
+      ],
+      "headword": "at noon",
+      "lexical_entry_id": "w_at_noon",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在中午",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good evening, Dad.",
+          "origin": "curated:g2u1-greet-evening",
+          "zh": "晚上好，爸爸。"
+        }
+      ],
+      "headword": "evening",
+      "lexical_entry_id": "w_evening",
+      "ordinal": 4,
+      "phonetic_uk": "'i:vniŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "傍晚、晚上",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go down”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go down”。"
+        }
+      ],
+      "headword": "go down",
+      "lexical_entry_id": "w_go_down",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下去, 下沉, 坠落, 被接受, 咽下, 平静下来, 下降, 传下去",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my high.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的高度, 高处。"
+        },
+        {
+          "en": "I can see a high.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到高度, 高处。"
+        }
+      ],
+      "headword": "high",
+      "lexical_entry_id": "w_high",
+      "ordinal": 6,
+      "phonetic_uk": "hai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "高度, 高处",
+          "pos": "n."
+        },
+        {
+          "gloss": "高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I know him.",
+          "origin": "curated:p-pron-him",
+          "zh": "我认识他。"
+        }
+      ],
+      "headword": "him",
+      "lexical_entry_id": "w_him",
+      "ordinal": 7,
+      "phonetic_uk": "him",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The moon is bright.",
+          "origin": "curated:g2u10-moon",
+          "zh": "月亮很亮。"
+        }
+      ],
+      "headword": "moon",
+      "lexical_entry_id": "w_moon",
+      "ordinal": 8,
+      "phonetic_uk": "mu:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "月亮、月球",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good night, Mum!",
+          "origin": "curated:g2u1-greet-night",
+          "zh": "晚安，妈妈！"
+        }
+      ],
+      "headword": "night",
+      "lexical_entry_id": "w_night",
+      "ordinal": 9,
+      "phonetic_uk": "nait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "夜晚",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my noon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的正午, 中午, 全盛期。"
+        },
+        {
+          "en": "I can see a noon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到正午, 中午, 全盛期。"
+        }
+      ],
+      "headword": "noon",
+      "lexical_entry_id": "w_noon",
+      "ordinal": 10,
+      "phonetic_uk": "nu:n",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "正午, 中午, 全盛期",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rise.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的上升, 增加, 上涨, 高地, 升高, 出现。"
+        },
+        {
+          "en": "I can see a rise.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到上升, 增加, 上涨, 高地, 升高, 出现。"
+        }
+      ],
+      "headword": "rise",
+      "lexical_entry_id": "w_rise",
+      "ordinal": 11,
+      "phonetic_uk": "raiz",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "上升, 增加, 上涨, 高地, 升高, 出现",
+          "pos": "n."
+        },
+        {
+          "gloss": "升起, 起身, 起立, 上升, 上涨, 增长, 高耸, 起义, 浮现",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shadow.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护。"
+        },
+        {
+          "en": "I can see a shadow.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护。"
+        }
+      ],
+      "headword": "shadow",
+      "lexical_entry_id": "w_shadow",
+      "ordinal": 12,
+      "phonetic_uk": "'ʃædəu",
+      "phonetic_us": null,
+      "phonics_split": "shad·ow",
+      "senses": [
+        {
+          "gloss": "阴影, 荫, 影子, 影像, 阴暗, 幽灵, 少许, 隐蔽处, 庇护",
+          "pos": "n."
+        },
+        {
+          "gloss": "遮蔽, 使朦胧, 预示, 尾随",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The sky is blue.",
+          "origin": "curated:g2u10-sky",
+          "zh": "天空是蓝色的。"
+        }
+      ],
+      "headword": "sky",
+      "lexical_entry_id": "w_sky",
+      "ordinal": 13,
+      "phonetic_uk": "skai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "天空",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my stop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓。"
+        },
+        {
+          "en": "I can see a stop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓。"
+        }
+      ],
+      "headword": "stop",
+      "lexical_entry_id": "w_stop",
+      "ordinal": 14,
+      "phonetic_uk": "stɒp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓",
+          "pos": "n."
+        },
+        {
+          "gloss": "停止, 被塞住",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take a walk”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take a walk”。"
+        }
+      ],
+      "headword": "take a walk",
+      "lexical_entry_id": "w_take_a_walk",
+      "ordinal": 15,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "散步",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

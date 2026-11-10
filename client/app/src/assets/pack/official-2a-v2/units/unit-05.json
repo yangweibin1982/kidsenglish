@@ -1,0 +1,201 @@
+{
+  "title": "That's my family",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my family.",
+          "origin": "curated:g2u5-family",
+          "zh": "这是我的家人。"
+        }
+      ],
+      "headword": "family",
+      "lexical_entry_id": "w_family",
+      "ordinal": 1,
+      "phonetic_uk": "'fæməli",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "家庭、家人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brother.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的哥哥。"
+        },
+        {
+          "en": "I can see a brother.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到哥哥。"
+        }
+      ],
+      "headword": "brother",
+      "lexical_entry_id": "w_brother",
+      "ordinal": 2,
+      "phonetic_uk": "'brʌðə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "哥哥、弟弟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sister.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的姐姐。"
+        },
+        {
+          "en": "I can see a sister.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到姐姐。"
+        }
+      ],
+      "headword": "sister",
+      "lexical_entry_id": "w_sister",
+      "ordinal": 3,
+      "phonetic_uk": "'sistə",
+      "phonetic_us": null,
+      "phonics_split": "sis·ter",
+      "senses": [
+        {
+          "gloss": "姐姐、妹妹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my friend.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的朋友。"
+        },
+        {
+          "en": "I can see a friend.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到朋友。"
+        }
+      ],
+      "headword": "friend",
+      "lexical_entry_id": "w_friend",
+      "ordinal": 4,
+      "phonetic_uk": "frend",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "朋友",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "She is young.",
+          "origin": "curated:g2u5-young",
+          "zh": "她很年轻。"
+        }
+      ],
+      "headword": "young",
+      "lexical_entry_id": "w_young",
+      "ordinal": 5,
+      "phonetic_uk": "jʌŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "年轻的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandfather is old.",
+          "origin": "curated:g2u5-old",
+          "zh": "我的爷爷年纪大。"
+        }
+      ],
+      "headword": "old",
+      "lexical_entry_id": "w_old",
+      "ordinal": 6,
+      "phonetic_uk": "əuld",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老的",
+          "pos": "a."
+        },
+        {
+          "gloss": "旧的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The insect is small.",
+          "origin": "curated:g2u5-insect",
+          "zh": "昆虫很小。"
+        }
+      ],
+      "headword": "insect",
+      "lexical_entry_id": "w_insect",
+      "ordinal": 7,
+      "phonetic_uk": "'insekt",
+      "phonetic_us": null,
+      "phonics_split": "in·sect",
+      "senses": [
+        {
+          "gloss": "昆虫",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look at the jellyfish!",
+          "origin": "curated:g2u5-jellyfish",
+          "zh": "看那只水母！"
+        }
+      ],
+      "headword": "jellyfish",
+      "lexical_entry_id": "w_jellyfish",
+      "ordinal": 8,
+      "phonetic_uk": "'dʒelifiʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "水母",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

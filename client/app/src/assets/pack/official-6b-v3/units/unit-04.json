@@ -1,0 +1,329 @@
+{
+  "title": "Art",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my oil.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的油, 石油, 油画颜料。"
+        },
+        {
+          "en": "I can see an oil.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到油, 石油, 油画颜料。"
+        }
+      ],
+      "headword": "oil",
+      "lexical_entry_id": "w_oil",
+      "ordinal": 1,
+      "phonetic_uk": "ɒil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "油, 石油, 油画颜料",
+          "pos": "n."
+        },
+        {
+          "gloss": "涂油于, 使融化成油状, 加油于",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “oil painting”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“oil painting”。"
+        }
+      ],
+      "headword": "oil painting",
+      "lexical_entry_id": "w_oil_painting",
+      "ordinal": 2,
+      "phonetic_uk": "ɔil ˈpeintiŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "油画",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very powerful.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常有力的, 有权力的, 强大。"
+        }
+      ],
+      "headword": "powerful",
+      "lexical_entry_id": "w_powerful",
+      "ordinal": 3,
+      "phonetic_uk": "'pauəful",
+      "phonetic_us": null,
+      "phonics_split": "pow·er·ful",
+      "senses": [
+        {
+          "gloss": "有力的, 有权力的, 强大的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ink.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的墨水, 墨汁。"
+        },
+        {
+          "en": "I can see an ink.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到墨水, 墨汁。"
+        }
+      ],
+      "headword": "ink",
+      "lexical_entry_id": "w_ink",
+      "ordinal": 4,
+      "phonetic_uk": "iŋk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "墨水, 墨汁",
+          "pos": "n."
+        },
+        {
+          "gloss": "涂墨水于, 签署, 加墨水",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Chinese ink painting is beautiful.",
+          "origin": "curated:g6b-u4-ink-painting",
+          "zh": "中国水墨画很美。"
+        }
+      ],
+      "headword": "Chinese ink painting",
+      "lexical_entry_id": "w_chinese_ink_painting",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "中国水墨画",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my brush.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的刷子, 毛笔, 争吵。"
+        },
+        {
+          "en": "I can see a brush.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到刷子, 毛笔, 争吵。"
+        }
+      ],
+      "headword": "brush",
+      "lexical_entry_id": "w_brush",
+      "ordinal": 6,
+      "phonetic_uk": "brʌʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "刷子, 毛笔, 争吵",
+          "pos": "n."
+        },
+        {
+          "gloss": "刷",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my paints.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的绘画颜料。"
+        },
+        {
+          "en": "I can see a paints.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到绘画颜料。"
+        }
+      ],
+      "headword": "paints",
+      "lexical_entry_id": "w_paints",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "绘画颜料",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my artist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的艺术家, 画家。"
+        },
+        {
+          "en": "I can see an artist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到艺术家, 画家。"
+        }
+      ],
+      "headword": "artist",
+      "lexical_entry_id": "w_artist",
+      "ordinal": 8,
+      "phonetic_uk": "'ɑ:tist",
+      "phonetic_us": null,
+      "phonics_split": "ar·tist",
+      "senses": [
+        {
+          "gloss": "艺术家, 画家",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very unhappy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不快乐的, 不幸的, 不适当。"
+        }
+      ],
+      "headword": "unhappy",
+      "lexical_entry_id": "w_unhappy",
+      "ordinal": 9,
+      "phonetic_uk": ".ʌn'hæpi",
+      "phonetic_us": null,
+      "phonics_split": "un·hap·py",
+      "senses": [
+        {
+          "gloss": "不快乐的, 不幸的, 不适当的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “carefully”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“carefully”。"
+        }
+      ],
+      "headword": "carefully",
+      "lexical_entry_id": "w_carefully",
+      "ordinal": 10,
+      "phonetic_uk": "'kɛəfuli",
+      "phonetic_us": null,
+      "phonics_split": "care·ful·ly",
+      "senses": [
+        {
+          "gloss": "小心地, 谨慎地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “on the left”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“on the left”。"
+        }
+      ],
+      "headword": "on the left",
+      "lexical_entry_id": "w_on_the_left",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在左边",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The bank is on the right.",
+          "origin": "curated:g6b-u8-on-right",
+          "zh": "银行在右边。"
+        }
+      ],
+      "headword": "on the right",
+      "lexical_entry_id": "w_on_the_right",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "在右边",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “all the time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“all the time”。"
+        }
+      ],
+      "headword": "all the time",
+      "lexical_entry_id": "w_all_the_time",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "始终",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

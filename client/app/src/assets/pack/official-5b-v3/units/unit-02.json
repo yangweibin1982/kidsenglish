@@ -1,0 +1,376 @@
+{
+  "title": "Our new home",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “why”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“why”。"
+        }
+      ],
+      "headword": "why",
+      "lexical_entry_id": "w_why",
+      "ordinal": 1,
+      "phonetic_uk": "hwai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "为什么",
+          "pos": "adv."
+        },
+        {
+          "gloss": "原因, 理由",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “because”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“because”。"
+        }
+      ],
+      "headword": "because",
+      "lexical_entry_id": "w_because",
+      "ordinal": 2,
+      "phonetic_uk": "bi'kɔːz",
+      "phonetic_us": null,
+      "phonics_split": "be·cause",
+      "senses": [
+        {
+          "gloss": "因为",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my study.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的学习, 研究, 学科, 论文, 求学, 书房, 试作。"
+        },
+        {
+          "en": "I can see a study.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到学习, 研究, 学科, 论文, 求学, 书房, 试作。"
+        }
+      ],
+      "headword": "study",
+      "lexical_entry_id": "w_study",
+      "ordinal": 3,
+      "phonetic_uk": "'stʌdi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "学习, 研究, 学科, 论文, 求学, 书房, 试作",
+          "pos": "n."
+        },
+        {
+          "gloss": "学习, 读书, 研究, 考虑, 计划",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “dining room”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“dining room”。"
+        }
+      ],
+      "headword": "dining room",
+      "lexical_entry_id": "w_dining_room",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "饭厅",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “wild goose”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“wild goose”。"
+        }
+      ],
+      "headword": "wild goose",
+      "lexical_entry_id": "w_wild_goose",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "雁",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my change.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的变化, 找回的零钱, 找头, 更换。"
+        },
+        {
+          "en": "I can see a change.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到变化, 找回的零钱, 找头, 更换。"
+        }
+      ],
+      "headword": "change",
+      "lexical_entry_id": "w_change",
+      "ordinal": 6,
+      "phonetic_uk": "tʃeindʒ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "变化, 找回的零钱, 找头, 更换",
+          "pos": "n."
+        },
+        {
+          "gloss": "改变, 更换, 兑换",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my place.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位。"
+        },
+        {
+          "en": "I can see a place.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位。"
+        }
+      ],
+      "headword": "place",
+      "lexical_entry_id": "w_place",
+      "ordinal": 7,
+      "phonetic_uk": "pleis",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位",
+          "pos": "n."
+        },
+        {
+          "gloss": "放置, 寄予, 认出, 评定, 任命",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “twice”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“twice”。"
+        }
+      ],
+      "headword": "twice",
+      "lexical_entry_id": "w_twice",
+      "ordinal": 8,
+      "phonetic_uk": "twais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "两次, 两倍",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very every.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常每一, 所有。"
+        }
+      ],
+      "headword": "every",
+      "lexical_entry_id": "w_every",
+      "ordinal": 9,
+      "phonetic_uk": "'evri",
+      "phonetic_us": null,
+      "phonics_split": "ev·ery",
+      "senses": [
+        {
+          "gloss": "每一, 所有的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my north.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的北方, 北。"
+        },
+        {
+          "en": "I can see a north.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到北方, 北。"
+        }
+      ],
+      "headword": "north",
+      "lexical_entry_id": "w_north",
+      "ordinal": 10,
+      "phonetic_uk": "nɔːθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "北方, 北",
+          "pos": "n."
+        },
+        {
+          "gloss": "北的, 北方的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my south.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的南方, 南。"
+        },
+        {
+          "en": "I can see a south.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到南方, 南。"
+        }
+      ],
+      "headword": "south",
+      "lexical_entry_id": "w_south",
+      "ordinal": 11,
+      "phonetic_uk": "sauθ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "南方, 南",
+          "pos": "n."
+        },
+        {
+          "gloss": "南的, 向南的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my enough.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的充足, 够, 很多。"
+        },
+        {
+          "en": "I can see an enough.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到充足, 够, 很多。"
+        }
+      ],
+      "headword": "enough",
+      "lexical_entry_id": "w_enough",
+      "ordinal": 12,
+      "phonetic_uk": "i'nʌf",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "充足, 够, 很多",
+          "pos": "n."
+        },
+        {
+          "gloss": "充足的, 足够",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “then”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“then”。"
+        }
+      ],
+      "headword": "then",
+      "lexical_entry_id": "w_then",
+      "ordinal": 13,
+      "phonetic_uk": "ðen",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "然后, 当时",
+          "pos": "adv."
+        },
+        {
+          "gloss": "然后, 当时",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “all day”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“all day”。"
+        }
+      ],
+      "headword": "all day",
+      "lexical_entry_id": "w_all_day",
+      "ordinal": 14,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "整天",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

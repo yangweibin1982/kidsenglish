@@ -1,0 +1,139 @@
+{
+  "title": "Why should we be honest?",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my farm.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的农场, 农田。"
+        },
+        {
+          "en": "I can see a farm.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到农场, 农田。"
+        }
+      ],
+      "headword": "farm",
+      "lexical_entry_id": "w_farm",
+      "ordinal": 1,
+      "phonetic_uk": "fɑ:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "农场, 农田",
+          "pos": "n."
+        },
+        {
+          "gloss": "耕种",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my farmer.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的农夫, 农场主。"
+        },
+        {
+          "en": "I can see a farmer.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到农夫, 农场主。"
+        }
+      ],
+      "headword": "farmer",
+      "lexical_entry_id": "w_farmer",
+      "ordinal": 2,
+      "phonetic_uk": "'fɑ:mə",
+      "phonetic_us": null,
+      "phonics_split": "far·mer",
+      "senses": [
+        {
+          "gloss": "农夫, 农场主",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I sleep at night.",
+          "origin": "curated:g2u8-sleep",
+          "zh": "我在夜里睡觉。"
+        }
+      ],
+      "headword": "sleep",
+      "lexical_entry_id": "w_sleep",
+      "ordinal": 3,
+      "phonetic_uk": "sli:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "睡觉",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The boy is Danny.",
+          "origin": "curated:g2u2-boy",
+          "zh": "这个男孩是丹尼。"
+        }
+      ],
+      "headword": "boy",
+      "lexical_entry_id": "w_boy",
+      "ordinal": 4,
+      "phonetic_uk": "bɒi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "男孩",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my wolf.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的狼, 残忍贪婪之人, 极度穷困。"
+        },
+        {
+          "en": "I can see a wolf.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到狼, 残忍贪婪之人, 极度穷困。"
+        }
+      ],
+      "headword": "wolf",
+      "lexical_entry_id": "w_wolf",
+      "ordinal": 5,
+      "phonetic_uk": "wulf",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "狼, 残忍贪婪之人, 极度穷困",
+          "pos": "n."
+        },
+        {
+          "gloss": "狼吞虎咽, 大吃",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

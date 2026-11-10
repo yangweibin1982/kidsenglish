@@ -1,0 +1,366 @@
+{
+  "title": "At the shop",
+  "unit_no": 8,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my carrot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胡萝卜。"
+        },
+        {
+          "en": "I can see a carrot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胡萝卜。"
+        }
+      ],
+      "headword": "carrot",
+      "lexical_entry_id": "w_carrot",
+      "ordinal": 1,
+      "phonetic_uk": "'kærət",
+      "phonetic_us": null,
+      "phonics_split": "car·rot",
+      "senses": [
+        {
+          "gloss": "胡萝卜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fish.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的鱼, 鱼肉, 鱼类, 接合板。"
+        },
+        {
+          "en": "I can see a fish.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到鱼, 鱼肉, 鱼类, 接合板。"
+        }
+      ],
+      "headword": "fish",
+      "lexical_entry_id": "w_fish",
+      "ordinal": 2,
+      "phonetic_uk": "fiʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "鱼, 鱼肉, 鱼类, 接合板",
+          "pos": "n."
+        },
+        {
+          "gloss": "钓, 钓鱼, 查出, 用接合板连接",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my glasses.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的眼镜；双筒望远镜；玻璃（glass的复数形式）。"
+        },
+        {
+          "en": "I can see a glasses.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到眼镜；双筒望远镜；玻璃（glass的复数形式）。"
+        }
+      ],
+      "headword": "glasses",
+      "lexical_entry_id": "w_glasses",
+      "ordinal": 3,
+      "phonetic_uk": "'glɑ:siz",
+      "phonetic_us": null,
+      "phonics_split": "glass·es",
+      "senses": [
+        {
+          "gloss": "眼镜；双筒望远镜；玻璃（glass的复数形式）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my magic.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的魔术, 魔法。"
+        },
+        {
+          "en": "I can see a magic.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到魔术, 魔法。"
+        }
+      ],
+      "headword": "magic",
+      "lexical_entry_id": "w_magic",
+      "ordinal": 4,
+      "phonetic_uk": "'mædʒik",
+      "phonetic_us": null,
+      "phonics_split": "mag·ic",
+      "senses": [
+        {
+          "gloss": "魔术, 魔法",
+          "pos": "n."
+        },
+        {
+          "gloss": "魔术的, 有魔力的, 不可思议的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The lion eats meat.",
+          "origin": "curated:g2u11-meat",
+          "zh": "狮子吃肉。"
+        }
+      ],
+      "headword": "meat",
+      "lexical_entry_id": "w_meat",
+      "ordinal": 5,
+      "phonetic_uk": "mi:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "肉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my potato.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的马铃薯。"
+        },
+        {
+          "en": "I can see a potato.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到马铃薯。"
+        }
+      ],
+      "headword": "potato",
+      "lexical_entry_id": "w_potato",
+      "ordinal": 6,
+      "phonetic_uk": "pə'teitəu",
+      "phonetic_us": null,
+      "phonics_split": "pota·to",
+      "senses": [
+        {
+          "gloss": "马铃薯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的米, 米饭, 稻。"
+        },
+        {
+          "en": "I can see a rice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到米, 米饭, 稻。"
+        }
+      ],
+      "headword": "rice",
+      "lexical_entry_id": "w_rice",
+      "ordinal": 7,
+      "phonetic_uk": "rais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "米, 米饭, 稻",
+          "pos": "n."
+        },
+        {
+          "gloss": "将...压成米粒状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的商店, 工厂, 车间。"
+        },
+        {
+          "en": "I can see a shop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到商店, 工厂, 车间。"
+        }
+      ],
+      "headword": "shop",
+      "lexical_entry_id": "w_shop",
+      "ordinal": 8,
+      "phonetic_uk": "ʃɒp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "商店, 工厂, 车间",
+          "pos": "n."
+        },
+        {
+          "gloss": "购物, 到处寻找",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my soup.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的汤, 马力。"
+        },
+        {
+          "en": "I can see a soup.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到汤, 马力。"
+        }
+      ],
+      "headword": "soup",
+      "lexical_entry_id": "w_soup",
+      "ordinal": 9,
+      "phonetic_uk": "su:p",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "汤, 马力",
+          "pos": "n."
+        },
+        {
+          "gloss": "加速, 增加马力",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “thirty”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“thirty”。"
+        }
+      ],
+      "headword": "thirty",
+      "lexical_entry_id": "w_thirty",
+      "ordinal": 10,
+      "phonetic_uk": "'θə:ti",
+      "phonetic_us": null,
+      "phonics_split": "thir·ty",
+      "senses": [
+        {
+          "gloss": "三十, 三十个",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “together”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“together”。"
+        }
+      ],
+      "headword": "together",
+      "lexical_entry_id": "w_together",
+      "ordinal": 11,
+      "phonetic_uk": "tə'geðə",
+      "phonetic_us": null,
+      "phonics_split": "to·geth·er",
+      "senses": [
+        {
+          "gloss": "一起, 共同, 彼此",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tomato.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的番茄, 西红柿。"
+        },
+        {
+          "en": "I can see a tomato.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到番茄, 西红柿。"
+        }
+      ],
+      "headword": "tomato",
+      "lexical_entry_id": "w_tomato",
+      "ordinal": 12,
+      "phonetic_uk": "tə'mɑ:təu",
+      "phonetic_us": null,
+      "phonics_split": "toma·to",
+      "senses": [
+        {
+          "gloss": "番茄, 西红柿",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my want.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的需要的东西, 缺乏, 贫困, 需要。"
+        },
+        {
+          "en": "I can see a want.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到需要的东西, 缺乏, 贫困, 需要。"
+        }
+      ],
+      "headword": "want",
+      "lexical_entry_id": "w_want",
+      "ordinal": 13,
+      "phonetic_uk": "wɒnt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "需要的东西, 缺乏, 贫困, 需要",
+          "pos": "n."
+        },
+        {
+          "gloss": "要, 希望, 应该, 缺少",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U6 My friends 情景图样张：高矮对比的小伙伴和拉手的好朋友">
+  <!--
+    战机英语美术样张 · U6「My friends」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed106, bf0.035, oct3, scale5) + ke-crayon(seed206, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed306, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 106 / crayon 206 / papergrain 306。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；人物＝头肩小圈；
+    好朋友双人＝同心双头肩大椭圆，语义「两人共一词」——量产标注在此备案）。
+    代表词：tall / short / friend。
+    热点坐标（内容域票接词包配置用）：tall=(275,414,46) short=(395,452,44) friend=(657,425,ellipse rx118 ry62)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="106" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="206" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="306"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 天空 + 草地（操场） -->
+    <rect x="0" y="0" width="900" height="385" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="378" width="900" height="182" fill="#8FBE6E" opacity="0.28" filter="url(#ke-crayon)"/>
+    <path d="M-10,388 Q220,378 460,386 T910,382 L910,570 L-10,570 Z" fill="#8FBE6E" opacity="0.18" filter="url(#ke-crayon)"/>
+
+    <!-- 云两朵 -->
+    <g filter="url(#ke-crayon)" fill="#FFF9EC" opacity="0.85">
+      <circle cx="430" cy="76" r="15"/><circle cx="452" cy="70" r="19"/><circle cx="474" cy="78" r="14"/>
+      <rect x="418" y="74" width="68" height="17" rx="8.5"/>
+      <circle cx="680" cy="60" r="13"/><circle cx="700" cy="55" r="16"/><circle cx="719" cy="62" r="12"/>
+      <rect x="670" y="59" width="60" height="15" rx="7.5"/>
+    </g>
+
+    <!-- 树两棵（场景装饰） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="100" cy="492" rx="40" ry="7" fill="#7A5A3D" opacity="0.12"/>
+      <rect x="89" y="395" width="22" height="92" rx="9" fill="#7A5A3D" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="100" cy="330" r="42" fill="#8FBE6E" opacity="0.8" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="66" cy="362" r="28" fill="#8FBE6E" opacity="0.72"/>
+      <circle cx="134" cy="362" r="28" fill="#8FBE6E" opacity="0.72"/>
+      <ellipse cx="865" cy="494" rx="36" ry="6" fill="#7A5A3D" opacity="0.12"/>
+      <rect x="855" y="400" width="20" height="88" rx="8" fill="#7A5A3D" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="865" cy="340" r="38" fill="#8FBE6E" opacity="0.8" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="834" cy="370" r="25" fill="#8FBE6E" opacity="0.72"/>
+      <circle cx="896" cy="370" r="25" fill="#8FBE6E" opacity="0.72"/>
+    </g>
+
+    <!-- tall boy（高个：腿与躯干加长版站姿） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="275" cy="549" rx="56" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="258" y="489" width="14" height="44" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="282" y="489" width="14" height="44" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="251" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="279" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="249" y="425" width="52" height="68" rx="20" fill="#5B9BB5" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M253,436 Q243,462 248,486" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M253,436 Q243,462 248,486" stroke="#5B9BB5" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M297,436 Q317,430 321,404" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M297,436 Q317,430 321,404" stroke="#5B9BB5" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="275" cy="399" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M249,399 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M259,368 l3,-8 M269,369 l3,-7" stroke="#4A3A2A" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="266" cy="401" r="3" fill="#4A3A2A"/>
+      <circle cx="286" cy="399" r="3" fill="#4A3A2A"/>
+      <path d="M267,412 Q276,419 285,411" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M255,406 l5,4 M295,404 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- short boy（小个：腿与躯干压缩版站姿） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="395" cy="549" rx="50" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="381" y="511" width="14" height="22" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="403" y="511" width="14" height="22" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="373" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="401" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="371" y="459" width="48" height="60" rx="18" fill="#E8764F" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M375,470 Q365,492 370,510" stroke="#7A5A3D" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M375,470 Q365,492 370,510" stroke="#E8764F" stroke-width="9" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M415,470 Q425,492 420,510" stroke="#7A5A3D" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M415,470 Q425,492 420,510" stroke="#E8764F" stroke-width="9" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="395" cy="437" r="26" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M371,437 q2,-28 24,-28 q22,0 24,28 q-6,-11 -24,-11 q-18,0 -24,11 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M395,410 q2,-9 8,-10" stroke="#4A3A2A" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="386" cy="439" r="3" fill="#4A3A2A"/>
+      <circle cx="404" cy="437" r="3" fill="#4A3A2A"/>
+      <path d="M387,450 Q395,456 403,449" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M375,444 l5,4 M415,442 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 好朋友两人组（拉手＋友谊小心心；代表词 friend） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="600" cy="549" rx="56" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <ellipse cx="715" cy="549" rx="56" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <!-- girl A -->
+      <rect x="581" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="605" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="574" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="602" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="574" y="447" width="52" height="64" rx="20" fill="#F0C05A" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M578,458 Q568,484 573,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M578,458 Q568,484 573,508" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M622,458 Q644,466 654,480" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M622,458 Q644,466 654,480" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <ellipse cx="564" cy="424" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="636" cy="422" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="566" cy="412" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="634" cy="410" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="600" cy="423" r="28" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M576,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="591" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="611" cy="423" r="3" fill="#4A3A2A"/>
+      <path d="M592,436 Q601,443 610,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M580,430 l5,4 M620,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+      <!-- girl B -->
+      <rect x="696" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="720" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="689" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="717" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="689" y="447" width="52" height="64" rx="20" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M693,458 Q671,466 661,480" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M693,458 Q671,466 661,480" stroke="#8FBE6E" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M737,458 Q747,484 742,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M737,458 Q747,484 742,508" stroke="#8FBE6E" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <ellipse cx="679" cy="424" rx="10" ry="12" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="751" cy="422" rx="10" ry="12" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="681" cy="412" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="749" cy="410" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="715" cy="423" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M691,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="706" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="726" cy="423" r="3" fill="#4A3A2A"/>
+      <path d="M707,436 Q716,443 725,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M695,430 l5,4 M735,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+      <!-- 相牵小手上的友谊心 -->
+      <path d="M657,470 c-3,-8 -14,-6 -14,2 c0,7 14,13 14,13 c0,0 14,-6 14,-13 c0,-8 -11,-10 -14,-2 Z" fill="#E8764F" opacity="0.85" stroke="#7A5A3D" stroke-width="2"/>
+    </g>
+
+    <!-- 地面轻细节两件：皮球＋草叶（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="490" cy="528" r="15" fill="#D96843" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M478,522 Q490,514 502,522" stroke="#7A5A3D" stroke-width="2" fill="none" opacity="0.6"/>
+      <path d="M330,545 q8,-10 16,0 M836,548 q8,-9 16,0" stroke="#5C9968" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（头肩小圈＋双人同心椭圆；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="275" cy="414" r="46"/>
+      <circle cx="395" cy="452" r="44"/>
+      <ellipse cx="657" cy="425" rx="118" ry="62"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 6 · My friends</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="245" y="468" width="60" height="26" rx="13" fill="#7A5A3D"/><text x="275" y="486" fill="#FFF9EC">tall</text>
+    <rect x="365" y="502" width="60" height="26" rx="13" fill="#7A5A3D"/><text x="395" y="520" fill="#FFF9EC">short</text>
+    <rect x="620" y="496" width="74" height="26" rx="13" fill="#7A5A3D"/><text x="657" y="514" fill="#FFF9EC">friend</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

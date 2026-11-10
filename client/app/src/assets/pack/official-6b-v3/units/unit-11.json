@@ -1,0 +1,130 @@
+{
+  "title": "Western festivals",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my Western.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的西方人, 西部片, 西部小说。"
+        },
+        {
+          "en": "I can see a Western.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到西方人, 西部片, 西部小说。"
+        }
+      ],
+      "headword": "Western",
+      "lexical_entry_id": "w_western",
+      "ordinal": 1,
+      "phonetic_uk": "'westən",
+      "phonetic_us": null,
+      "phonics_split": "west·ern",
+      "senses": [
+        {
+          "gloss": "西方人, 西部片, 西部小说",
+          "pos": "n."
+        },
+        {
+          "gloss": "向西方的, 来自西方的, 西方的, 西洋的, 西部的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my turkey.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的火鸡, 无用的家伙, 土耳其。"
+        },
+        {
+          "en": "I can see a turkey.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到火鸡, 无用的家伙, 土耳其。"
+        }
+      ],
+      "headword": "turkey",
+      "lexical_entry_id": "w_turkey",
+      "ordinal": 2,
+      "phonetic_uk": "'tə:ki",
+      "phonetic_us": null,
+      "phonics_split": "tur·key",
+      "senses": [
+        {
+          "gloss": "火鸡, 无用的家伙, 土耳其",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very bright.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常明亮。"
+        }
+      ],
+      "headword": "bright",
+      "lexical_entry_id": "w_bright",
+      "ordinal": 3,
+      "phonetic_uk": "brait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "明亮的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “laugh at”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“laugh at”。"
+        }
+      ],
+      "headword": "laugh at",
+      "lexical_entry_id": "w_laugh_at",
+      "ordinal": 4,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "嘲笑, 漠视, 因...发笑",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We make a jack-o'-lantern.",
+          "origin": "curated:g6b-u11-jack-o-lantern",
+          "zh": "我们做一个南瓜灯。"
+        }
+      ],
+      "headword": "jack-o'-lantern",
+      "lexical_entry_id": "w_jack_o_lantern",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "南瓜灯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

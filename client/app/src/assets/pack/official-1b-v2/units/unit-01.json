@@ -1,0 +1,233 @@
+{
+  "title": "What food do you like?",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my noodles.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面条, 挂面（noodle的复数形式）。"
+        },
+        {
+          "en": "I can see a noodles.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面条, 挂面（noodle的复数形式）。"
+        }
+      ],
+      "headword": "noodles",
+      "lexical_entry_id": "w_noodles",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "noo·dles",
+      "senses": [
+        {
+          "gloss": "面条, 挂面（noodle的复数形式）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I eat baozi for breakfast.",
+          "origin": "curated:g1bn-u1-baozi",
+          "zh": "我早餐吃包子。"
+        }
+      ],
+      "headword": "baozi",
+      "lexical_entry_id": "w_baozi",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "包子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my rice.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的米, 米饭, 稻。"
+        },
+        {
+          "en": "I can see a rice.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到米, 米饭, 稻。"
+        }
+      ],
+      "headword": "rice",
+      "lexical_entry_id": "w_rice",
+      "ordinal": 3,
+      "phonetic_uk": "rais",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "米, 米饭, 稻",
+          "pos": "n."
+        },
+        {
+          "gloss": "将...压成米粒状",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my carrot.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胡萝卜。"
+        },
+        {
+          "en": "I can see a carrot.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胡萝卜。"
+        }
+      ],
+      "headword": "carrot",
+      "lexical_entry_id": "w_carrot",
+      "ordinal": 4,
+      "phonetic_uk": "'kærət",
+      "phonetic_us": null,
+      "phonics_split": "car·rot",
+      "senses": [
+        {
+          "gloss": "胡萝卜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tomato.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的番茄, 西红柿。"
+        },
+        {
+          "en": "I can see a tomato.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到番茄, 西红柿。"
+        }
+      ],
+      "headword": "tomato",
+      "lexical_entry_id": "w_tomato",
+      "ordinal": 5,
+      "phonetic_uk": "tə'mɑ:təu",
+      "phonetic_us": null,
+      "phonics_split": "toma·to",
+      "senses": [
+        {
+          "gloss": "番茄, 西红柿",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bread.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面包, 生计, 食物。"
+        },
+        {
+          "en": "I can see a bread.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面包, 生计, 食物。"
+        }
+      ],
+      "headword": "bread",
+      "lexical_entry_id": "w_bread",
+      "ordinal": 6,
+      "phonetic_uk": "bred",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "面包, 生计, 食物",
+          "pos": "n."
+        },
+        {
+          "gloss": "裹以面包屑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my egg.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的蛋, 卵。"
+        },
+        {
+          "en": "I can see an egg.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到蛋, 卵。"
+        }
+      ],
+      "headword": "egg",
+      "lexical_entry_id": "w_egg",
+      "ordinal": 7,
+      "phonetic_uk": "eg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蛋, 卵",
+          "pos": "n."
+        },
+        {
+          "gloss": "挑唆, 煽动, 调蛋黄",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my milk.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的奶, 乳状物。"
+        },
+        {
+          "en": "I can see a milk.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到奶, 乳状物。"
+        }
+      ],
+      "headword": "milk",
+      "lexical_entry_id": "w_milk",
+      "ordinal": 8,
+      "phonetic_uk": "milk",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奶, 乳状物",
+          "pos": "n."
+        },
+        {
+          "gloss": "挤乳, 榨取",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

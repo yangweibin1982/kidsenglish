@@ -1,0 +1,264 @@
+{
+  "title": "Sounds",
+  "unit_no": 3,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my bike.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的自行车, 脚踏车。"
+        },
+        {
+          "en": "I can see a bike.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到自行车, 脚踏车。"
+        }
+      ],
+      "headword": "bike",
+      "lexical_entry_id": "w_bike",
+      "ordinal": 1,
+      "phonetic_uk": "baik",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "自行车, 脚踏车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bus.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公共汽车。"
+        },
+        {
+          "en": "I can see a bus.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公共汽车。"
+        }
+      ],
+      "headword": "bus",
+      "lexical_entry_id": "w_bus",
+      "ordinal": 2,
+      "phonetic_uk": "bʌs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公共汽车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Can you sing?",
+          "origin": "curated:u4-can",
+          "zh": "你会唱歌吗？"
+        }
+      ],
+      "headword": "can",
+      "lexical_entry_id": "w_can",
+      "ordinal": 3,
+      "phonetic_uk": "kæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "会、能",
+          "pos": "aux."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my car.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的小汽车。"
+        },
+        {
+          "en": "I can see a car.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到小汽车。"
+        }
+      ],
+      "headword": "car",
+      "lexical_entry_id": "w_car",
+      "ordinal": 4,
+      "phonetic_uk": "kɑ:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "小汽车",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can hear.",
+          "origin": "template:t-v-can",
+          "zh": "我会听到, 倾听, 听说, 审理。"
+        },
+        {
+          "en": "Let's hear together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起听到, 倾听, 听说, 审理吧。"
+        }
+      ],
+      "headword": "hear",
+      "lexical_entry_id": "w_hear",
+      "ordinal": 5,
+      "phonetic_uk": "hiə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "听到, 倾听, 听说, 审理",
+          "pos": "vt."
+        },
+        {
+          "gloss": "听见, 听",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can listen.",
+          "origin": "template:t-v-can",
+          "zh": "我会听, 倾听, 听从。"
+        },
+        {
+          "en": "Let's listen together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起听, 倾听, 听从吧。"
+        }
+      ],
+      "headword": "listen",
+      "lexical_entry_id": "w_listen",
+      "ordinal": 6,
+      "phonetic_uk": "'lisn",
+      "phonetic_us": null,
+      "phonics_split": "lis·ten",
+      "senses": [
+        {
+          "gloss": "听, 倾听, 听从",
+          "pos": "vi."
+        },
+        {
+          "gloss": "听, 倾听",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my plane.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的平面, 扁平物, 机翼, 飞机, 水准, 地位。"
+        },
+        {
+          "en": "I can see a plane.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到平面, 扁平物, 机翼, 飞机, 水准, 地位。"
+        }
+      ],
+      "headword": "plane",
+      "lexical_entry_id": "w_plane",
+      "ordinal": 7,
+      "phonetic_uk": "plein",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "平面, 扁平物, 机翼, 飞机, 水准, 地位",
+          "pos": "n."
+        },
+        {
+          "gloss": "平的, 平面的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my ship.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的船, 舰。"
+        },
+        {
+          "en": "I can see a ship.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到船, 舰。"
+        }
+      ],
+      "headword": "ship",
+      "lexical_entry_id": "w_ship",
+      "ordinal": 8,
+      "phonetic_uk": "ʃip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "船, 舰",
+          "pos": "n."
+        },
+        {
+          "gloss": "以船运送, 装船, 运送",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my train.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的火车, 列车, 行列, 长队, 一连串的后果, 顺序。"
+        },
+        {
+          "en": "I can see a train.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到火车, 列车, 行列, 长队, 一连串的后果, 顺序。"
+        }
+      ],
+      "headword": "train",
+      "lexical_entry_id": "w_train",
+      "ordinal": 9,
+      "phonetic_uk": "trein",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "火车, 列车, 行列, 长队, 一连串的后果, 顺序",
+          "pos": "n."
+        },
+        {
+          "gloss": "训练, 教育, 对准",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

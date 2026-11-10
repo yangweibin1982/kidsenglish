@@ -1,0 +1,1166 @@
+{
+  "title": null,
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my spacesuit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的太空衣。"
+        },
+        {
+          "en": "I can see a spacesuit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到太空衣。"
+        }
+      ],
+      "headword": "spacesuit",
+      "lexical_entry_id": "w_spacesuit",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "space·suit",
+      "senses": [
+        {
+          "gloss": "太空衣",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can collect.",
+          "origin": "template:t-v-can",
+          "zh": "我会收集, 聚集, 集中, 搜集。"
+        },
+        {
+          "en": "Let's collect together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起收集, 聚集, 集中, 搜集吧。"
+        }
+      ],
+      "headword": "collect",
+      "lexical_entry_id": "w_collect",
+      "ordinal": 2,
+      "phonetic_uk": "kə'lekt",
+      "phonetic_us": null,
+      "phonics_split": "col·lect",
+      "senses": [
+        {
+          "gloss": "收集, 聚集, 集中, 搜集",
+          "pos": "v."
+        },
+        {
+          "gloss": "由收到者付款的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my leave.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的许可, 告别, 请假, 休假。"
+        },
+        {
+          "en": "I can see a leave.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到许可, 告别, 请假, 休假。"
+        }
+      ],
+      "headword": "leave",
+      "lexical_entry_id": "w_leave",
+      "ordinal": 3,
+      "phonetic_uk": "li:v",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "许可, 告别, 请假, 休假",
+          "pos": "n."
+        },
+        {
+          "gloss": "离开, 剩下, 遗忘, 委托, 丢弃",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kilometre.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的公里, 千米。"
+        },
+        {
+          "en": "I can see a kilometre.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到公里, 千米。"
+        }
+      ],
+      "headword": "kilometre",
+      "lexical_entry_id": "w_kilometre",
+      "ordinal": 4,
+      "phonetic_uk": "'kiləjmi:tə(r)",
+      "phonetic_us": null,
+      "phonics_split": "kilo·me·tre",
+      "senses": [
+        {
+          "gloss": "公里, 千米",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very weak.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分。"
+        }
+      ],
+      "headword": "weak",
+      "lexical_entry_id": "w_weak",
+      "ordinal": 5,
+      "phonetic_uk": "wi:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "不牢固的, 弱的, 虚弱的, 软弱的, 无力的, 无权力的, (论据等)不充分的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my tie.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负。"
+        },
+        {
+          "en": "I can see a tie.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负。"
+        }
+      ],
+      "headword": "tie",
+      "lexical_entry_id": "w_tie",
+      "ordinal": 6,
+      "phonetic_uk": "tai",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "带子, 线, 鞋带, 领带, 领结, 关系, 束缚, 平局, 不分胜负",
+          "pos": "n."
+        },
+        {
+          "gloss": "系, 打结, 扎, 约束, 与...成平局",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my low.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的低点, 低价, 低, 牛叫声。"
+        },
+        {
+          "en": "I can see a low.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到低点, 低价, 低, 牛叫声。"
+        }
+      ],
+      "headword": "low",
+      "lexical_entry_id": "w_low",
+      "ordinal": 7,
+      "phonetic_uk": "ləu",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "低点, 低价, 低, 牛叫声",
+          "pos": "n."
+        },
+        {
+          "gloss": "低的, 消沉的, 低等的, 浅的, 卑贱的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can weigh.",
+          "origin": "template:t-v-can",
+          "zh": "我会称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚。"
+        },
+        {
+          "en": "Let's weigh together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚吧。"
+        }
+      ],
+      "headword": "weigh",
+      "lexical_entry_id": "w_weigh",
+      "ordinal": 8,
+      "phonetic_uk": "wei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚",
+          "pos": "vt."
+        },
+        {
+          "gloss": "称分量, 有意义, 重压, 起锚",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can breathe.",
+          "origin": "template:t-v-can",
+          "zh": "我会呼吸, 生存, 低语。"
+        },
+        {
+          "en": "Let's breathe together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起呼吸, 生存, 低语吧。"
+        }
+      ],
+      "headword": "breathe",
+      "lexical_entry_id": "w_breathe",
+      "ordinal": 9,
+      "phonetic_uk": "bri:ð",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "呼吸, 生存, 低语",
+          "pos": "vi."
+        },
+        {
+          "gloss": "呼吸, 使喘息, 发散, 低声说",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my facility.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的容易, 灵巧, 设备。"
+        },
+        {
+          "en": "I can see a facility.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到容易, 灵巧, 设备。"
+        }
+      ],
+      "headword": "facility",
+      "lexical_entry_id": "w_facility",
+      "ordinal": 10,
+      "phonetic_uk": "fə'siliti",
+      "phonetic_us": null,
+      "phonics_split": "fa·cil·i·ty",
+      "senses": [
+        {
+          "gloss": "容易, 灵巧, 设备",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my adventure.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的冒险, 冒险经历。"
+        },
+        {
+          "en": "I can see an adventure.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到冒险, 冒险经历。"
+        }
+      ],
+      "headword": "adventure",
+      "lexical_entry_id": "w_adventure",
+      "ordinal": 11,
+      "phonetic_uk": "əd'ventʃə",
+      "phonetic_us": null,
+      "phonics_split": "ad·ven·ture",
+      "senses": [
+        {
+          "gloss": "冒险, 冒险经历",
+          "pos": "n."
+        },
+        {
+          "gloss": "冒险",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pass.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的经过, 要隘, 途径, 通行, 护照, 及格。"
+        },
+        {
+          "en": "I can see a pass.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到经过, 要隘, 途径, 通行, 护照, 及格。"
+        }
+      ],
+      "headword": "pass",
+      "lexical_entry_id": "w_pass",
+      "ordinal": 12,
+      "phonetic_uk": "pæs",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "经过, 要隘, 途径, 通行, 护照, 及格",
+          "pos": "n."
+        },
+        {
+          "gloss": "经过, 越过, 通过, 批准, 度过, 传递, 忽略",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my experiment.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的实验, 试验, 实验仪器。"
+        },
+        {
+          "en": "I can see an experiment.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到实验, 试验, 实验仪器。"
+        }
+      ],
+      "headword": "experiment",
+      "lexical_entry_id": "w_experiment",
+      "ordinal": 13,
+      "phonetic_uk": "ik'sperimənt",
+      "phonetic_us": null,
+      "phonics_split": "ex·per·i·ment",
+      "senses": [
+        {
+          "gloss": "实验, 试验, 实验仪器",
+          "pos": "n."
+        },
+        {
+          "gloss": "实验, 尝试",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can prepare.",
+          "origin": "template:t-v-can",
+          "zh": "我会准备, 筹备, 使在思想上有准备, 制造, 调制。"
+        },
+        {
+          "en": "Let's prepare together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起准备, 筹备, 使在思想上有准备, 制造, 调制吧。"
+        }
+      ],
+      "headword": "prepare",
+      "lexical_entry_id": "w_prepare",
+      "ordinal": 14,
+      "phonetic_uk": "pri'pɛə",
+      "phonetic_us": null,
+      "phonics_split": "pre·pare",
+      "senses": [
+        {
+          "gloss": "准备, 筹备, 使在思想上有准备, 制造, 调制",
+          "pos": "vt."
+        },
+        {
+          "gloss": "预备",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dream.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的梦, 空想, 愿望。"
+        },
+        {
+          "en": "I can see a dream.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到梦, 空想, 愿望。"
+        }
+      ],
+      "headword": "dream",
+      "lexical_entry_id": "w_dream",
+      "ordinal": 15,
+      "phonetic_uk": "dri:m",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "梦, 空想, 愿望",
+          "pos": "n."
+        },
+        {
+          "gloss": "做梦, 想象, 梦想",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my chance.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的机会, 意外, 可能性。"
+        },
+        {
+          "en": "I can see a chance.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到机会, 意外, 可能性。"
+        }
+      ],
+      "headword": "chance",
+      "lexical_entry_id": "w_chance",
+      "ordinal": 16,
+      "phonetic_uk": "tʃæns. tʃɑ:ns",
+      "phonetic_us": null,
+      "phonics_split": "chan·ce",
+      "senses": [
+        {
+          "gloss": "机会, 意外, 可能性",
+          "pos": "n."
+        },
+        {
+          "gloss": "偶然发生",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can send.",
+          "origin": "template:t-v-can",
+          "zh": "我会发送, 使进入, 寄, 派遣, 发射, 使陷于。"
+        },
+        {
+          "en": "Let's send together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起发送, 使进入, 寄, 派遣, 发射, 使陷于吧。"
+        }
+      ],
+      "headword": "send",
+      "lexical_entry_id": "w_send",
+      "ordinal": 17,
+      "phonetic_uk": "send",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "发送, 使进入, 寄, 派遣, 发射, 使陷于",
+          "pos": "vt."
+        },
+        {
+          "gloss": "寄信, 派人, 播送",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my introduction.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的介绍, 传入, 采用, 初步。"
+        },
+        {
+          "en": "I can see an introduction.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到介绍, 传入, 采用, 初步。"
+        }
+      ],
+      "headword": "introduction",
+      "lexical_entry_id": "w_introduction",
+      "ordinal": 18,
+      "phonetic_uk": ".intrə'dʌkʃən",
+      "phonetic_us": null,
+      "phonics_split": "in·tro·duc·tion",
+      "senses": [
+        {
+          "gloss": "介绍, 传入, 采用, 初步",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my view.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象。"
+        },
+        {
+          "en": "I can see a view.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象。"
+        }
+      ],
+      "headword": "view",
+      "lexical_entry_id": "w_view",
+      "ordinal": 19,
+      "phonetic_uk": "vju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象",
+          "pos": "n."
+        },
+        {
+          "gloss": "看, 考虑, 视察, 查看, 估量",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “someday”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“someday”。"
+        }
+      ],
+      "headword": "someday",
+      "lexical_entry_id": "w_someday",
+      "ordinal": 20,
+      "phonetic_uk": "'sʌmdei",
+      "phonetic_us": null,
+      "phonics_split": "some·day",
+      "senses": [
+        {
+          "gloss": "有一天",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my experience.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的经历, 经验, 体验。"
+        },
+        {
+          "en": "I can see an experience.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到经历, 经验, 体验。"
+        }
+      ],
+      "headword": "experience",
+      "lexical_entry_id": "w_experience",
+      "ordinal": 21,
+      "phonetic_uk": "ik'spiəriəns",
+      "phonetic_us": null,
+      "phonics_split": "ex·pe·ri·ence",
+      "senses": [
+        {
+          "gloss": "经历, 经验, 体验",
+          "pos": "n."
+        },
+        {
+          "gloss": "经历, 经验, 体验",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lander.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的出铁槽；着陆器；把钩工人。"
+        },
+        {
+          "en": "I can see a lander.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到出铁槽；着陆器；把钩工人。"
+        }
+      ],
+      "headword": "lander",
+      "lexical_entry_id": "w_lander",
+      "ordinal": 22,
+      "phonetic_uk": "'lændə",
+      "phonetic_us": null,
+      "phonics_split": "lan·der",
+      "senses": [
+        {
+          "gloss": "出铁槽；着陆器；把钩工人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my island.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的岛, 岛屿, 孤立地区, 安全岛。"
+        },
+        {
+          "en": "I can see an island.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到岛, 岛屿, 孤立地区, 安全岛。"
+        }
+      ],
+      "headword": "island",
+      "lexical_entry_id": "w_island",
+      "ordinal": 23,
+      "phonetic_uk": "'ailənd",
+      "phonetic_us": null,
+      "phonics_split": "is·land",
+      "senses": [
+        {
+          "gloss": "岛, 岛屿, 孤立地区, 安全岛",
+          "pos": "n."
+        },
+        {
+          "gloss": "使成岛状, 孤立",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very ancient.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常古代的, 古老的, 年老的, 旧。"
+        }
+      ],
+      "headword": "ancient",
+      "lexical_entry_id": "w_ancient",
+      "ordinal": 24,
+      "phonetic_uk": "'einʃənt",
+      "phonetic_us": null,
+      "phonics_split": "an·cient",
+      "senses": [
+        {
+          "gloss": "古代的, 古老的, 年老的, 旧的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my poem.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的诗, 诗般美的事物。"
+        },
+        {
+          "en": "I can see a poem.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到诗, 诗般美的事物。"
+        }
+      ],
+      "headword": "poem",
+      "lexical_entry_id": "w_poem",
+      "ordinal": 25,
+      "phonetic_uk": "'pəuim",
+      "phonetic_us": null,
+      "phonics_split": "po·em",
+      "senses": [
+        {
+          "gloss": "诗, 诗般美的事物",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my express.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的快车, 快递, 专使。"
+        },
+        {
+          "en": "I can see an express.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到快车, 快递, 专使。"
+        }
+      ],
+      "headword": "express",
+      "lexical_entry_id": "w_express",
+      "ordinal": 26,
+      "phonetic_uk": "ik'spres",
+      "phonetic_us": null,
+      "phonics_split": "ex·press",
+      "senses": [
+        {
+          "gloss": "快车, 快递, 专使",
+          "pos": "n."
+        },
+        {
+          "gloss": "明确的, 丝毫不差的, 专门的, 快的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my determination.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的决心, 果断。"
+        },
+        {
+          "en": "I can see a determination.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到决心, 果断。"
+        }
+      ],
+      "headword": "determination",
+      "lexical_entry_id": "w_determination",
+      "ordinal": 27,
+      "phonetic_uk": "di.tə:mi'neiʃən",
+      "phonetic_us": null,
+      "phonics_split": "de·ter·mi·na·tion",
+      "senses": [
+        {
+          "gloss": "决心, 果断",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my universe.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的宇宙, 星系, (思想等)范围。"
+        },
+        {
+          "en": "I can see an universe.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到宇宙, 星系, (思想等)范围。"
+        }
+      ],
+      "headword": "universe",
+      "lexical_entry_id": "w_universe",
+      "ordinal": 28,
+      "phonetic_uk": "'ju:nivə:s",
+      "phonetic_us": null,
+      "phonics_split": "uni·verse",
+      "senses": [
+        {
+          "gloss": "宇宙, 星系, (思想等)范围",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “already”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“already”。"
+        }
+      ],
+      "headword": "already",
+      "lexical_entry_id": "w_already",
+      "ordinal": 29,
+      "phonetic_uk": "ɔːl'redi",
+      "phonetic_us": null,
+      "phonics_split": "al·ready",
+      "senses": [
+        {
+          "gloss": "已经, 早已",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my century.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的世纪, 百年。"
+        },
+        {
+          "en": "I can see a century.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到世纪, 百年。"
+        }
+      ],
+      "headword": "century",
+      "lexical_entry_id": "w_century",
+      "ordinal": 30,
+      "phonetic_uk": "'sentʃuri",
+      "phonetic_us": null,
+      "phonics_split": "cen·tu·ry",
+      "senses": [
+        {
+          "gloss": "世纪, 百年",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my neighbour.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人。"
+        },
+        {
+          "en": "I can see a neighbour.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人。"
+        }
+      ],
+      "headword": "neighbour",
+      "lexical_entry_id": "w_neighbour",
+      "ordinal": 31,
+      "phonetic_uk": "'neibə",
+      "phonetic_us": null,
+      "phonics_split": "neigh·bour",
+      "senses": [
+        {
+          "gloss": "邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人",
+          "pos": "n."
+        },
+        {
+          "gloss": "邻接的, 邻近的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my circle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的圆周, 社交圈, 循环, 范围。"
+        },
+        {
+          "en": "I can see a circle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到圆周, 社交圈, 循环, 范围。"
+        }
+      ],
+      "headword": "circle",
+      "lexical_entry_id": "w_circle",
+      "ordinal": 32,
+      "phonetic_uk": "'sə:kl",
+      "phonetic_us": null,
+      "phonics_split": "cir·cle",
+      "senses": [
+        {
+          "gloss": "圆周, 社交圈, 循环, 范围",
+          "pos": "n."
+        },
+        {
+          "gloss": "围着, 环绕",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my surface.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的面, 表面, 水面, 外表, 平面。"
+        },
+        {
+          "en": "I can see a surface.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到面, 表面, 水面, 外表, 平面。"
+        }
+      ],
+      "headword": "surface",
+      "lexical_entry_id": "w_surface",
+      "ordinal": 33,
+      "phonetic_uk": "'sə:fis",
+      "phonetic_us": null,
+      "phonics_split": "sur·face",
+      "senses": [
+        {
+          "gloss": "面, 表面, 水面, 外表, 平面",
+          "pos": "n."
+        },
+        {
+          "gloss": "表面的, 外观的, 肤浅的, 水面上的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my release.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的释放, 发泄, 豁免, 发行, 释放证书。"
+        },
+        {
+          "en": "I can see a release.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到释放, 发泄, 豁免, 发行, 释放证书。"
+        }
+      ],
+      "headword": "release",
+      "lexical_entry_id": "w_release",
+      "ordinal": 34,
+      "phonetic_uk": "ri'li:s",
+      "phonetic_us": null,
+      "phonics_split": "re·lease",
+      "senses": [
+        {
+          "gloss": "释放, 发泄, 豁免, 发行, 释放证书",
+          "pos": "n."
+        },
+        {
+          "gloss": "释放, 解除, 放松, 豁免, 免除, 发布, 放弃, 让与",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kilogram.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的千克, 公斤。"
+        },
+        {
+          "en": "I can see a kilogram.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到千克, 公斤。"
+        }
+      ],
+      "headword": "kilogram",
+      "lexical_entry_id": "w_kilogram",
+      "ordinal": 35,
+      "phonetic_uk": "'kiləgræm",
+      "phonetic_us": null,
+      "phonics_split": "kilo·gram",
+      "senses": [
+        {
+          "gloss": "千克, 公斤",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my programme.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的节目, 节目单, 程序, 纲要, 大纲, 计划。"
+        },
+        {
+          "en": "I can see a programme.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到节目, 节目单, 程序, 纲要, 大纲, 计划。"
+        }
+      ],
+      "headword": "programme",
+      "lexical_entry_id": "w_programme",
+      "ordinal": 36,
+      "phonetic_uk": "'prəugræm",
+      "phonetic_us": null,
+      "phonics_split": "pro·gramme",
+      "senses": [
+        {
+          "gloss": "节目, 节目单, 程序, 纲要, 大纲, 计划",
+          "pos": "n."
+        },
+        {
+          "gloss": "规划, 拟...计划",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my space station.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的空间站。"
+        },
+        {
+          "en": "I can see a space station.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到空间站。"
+        }
+      ],
+      "headword": "space station",
+      "lexical_entry_id": "w_space_station",
+      "ordinal": 37,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "空间站",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We do exercise every day.",
+          "origin": "curated:g5b-u3-do-exercise",
+          "zh": "我们每天锻炼。"
+        }
+      ],
+      "headword": "do exercise",
+      "lexical_entry_id": "w_do_exercise",
+      "ordinal": 38,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "锻炼",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can take photos.",
+          "origin": "template:t-v-can",
+          "zh": "我会拍照。"
+        },
+        {
+          "en": "Let's take photos together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起拍照吧。"
+        }
+      ],
+      "headword": "take photos",
+      "lexical_entry_id": "w_take_photos",
+      "ordinal": 39,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拍照",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The satellite gets into orbit.",
+          "origin": "curated:g7a-orbit",
+          "zh": "卫星进入轨道。"
+        }
+      ],
+      "headword": "get into orbit",
+      "lexical_entry_id": "w_get_into_orbit",
+      "ordinal": 40,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "进入轨道",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “thousands of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“thousands of”。"
+        }
+      ],
+      "headword": "thousands of",
+      "lexical_entry_id": "w_thousands_of",
+      "ordinal": 41,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "成千上万,数千,许许多多",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

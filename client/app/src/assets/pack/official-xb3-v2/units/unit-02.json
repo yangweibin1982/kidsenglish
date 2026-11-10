@@ -1,0 +1,1505 @@
+{
+  "title": "Healthy Lifestyle",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my tobacco.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的烟草, 香烟。"
+        },
+        {
+          "en": "I can see a tobacco.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到烟草, 香烟。"
+        }
+      ],
+      "headword": "tobacco",
+      "lexical_entry_id": "w_tobacco",
+      "ordinal": 1,
+      "phonetic_uk": "tə'bækəu",
+      "phonetic_us": null,
+      "phonics_split": "to·bac·co",
+      "senses": [
+        {
+          "gloss": "烟草, 香烟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my alcohol.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的酒精, 酒。"
+        },
+        {
+          "en": "I can see an alcohol.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到酒精, 酒。"
+        }
+      ],
+      "headword": "alcohol",
+      "lexical_entry_id": "w_alcohol",
+      "ordinal": 2,
+      "phonetic_uk": "'ælkəhɒl",
+      "phonetic_us": null,
+      "phonics_split": "al·co·hol",
+      "senses": [
+        {
+          "gloss": "酒精, 酒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my abuse.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的滥用, 虐待, 恶习, 辱骂。"
+        },
+        {
+          "en": "I can see an abuse.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到滥用, 虐待, 恶习, 辱骂。"
+        }
+      ],
+      "headword": "abuse",
+      "lexical_entry_id": "w_abuse",
+      "ordinal": 3,
+      "phonetic_uk": "ə'bju:s.ə'bju:z",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "滥用, 虐待, 恶习, 辱骂",
+          "pos": "n."
+        },
+        {
+          "gloss": "滥用, 辱骂, 虐待",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very physical.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常身体的, 物质的, 自然的, 物理学的, 好色。"
+        }
+      ],
+      "headword": "physical",
+      "lexical_entry_id": "w_physical",
+      "ordinal": 4,
+      "phonetic_uk": "'fizikl",
+      "phonetic_us": null,
+      "phonics_split": "phys·i·cal",
+      "senses": [
+        {
+          "gloss": "身体的, 物质的, 自然的, 物理学的, 好色的",
+          "pos": "a."
+        },
+        {
+          "gloss": "体格检查",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can dominate.",
+          "origin": "template:t-v-can",
+          "zh": "我会支配, 占优势。"
+        },
+        {
+          "en": "Let's dominate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起支配, 占优势吧。"
+        }
+      ],
+      "headword": "dominate",
+      "lexical_entry_id": "w_dominate",
+      "ordinal": 5,
+      "phonetic_uk": "'dɒmineit",
+      "phonetic_us": null,
+      "phonics_split": "dom·i·nate",
+      "senses": [
+        {
+          "gloss": "支配, 占优势",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “repeatedly”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“repeatedly”。"
+        }
+      ],
+      "headword": "repeatedly",
+      "lexical_entry_id": "w_repeatedly",
+      "ordinal": 6,
+      "phonetic_uk": "ri'pi:tidli",
+      "phonetic_us": null,
+      "phonics_split": "re·peat·ed·ly",
+      "senses": [
+        {
+          "gloss": "重复地, 再三地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my psychology.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的心理学, 心理状态。"
+        },
+        {
+          "en": "I can see a psychology.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到心理学, 心理状态。"
+        }
+      ],
+      "headword": "psychology",
+      "lexical_entry_id": "w_psychology",
+      "ordinal": 7,
+      "phonetic_uk": "sai'kɒlədʒi",
+      "phonetic_us": null,
+      "phonics_split": "psy·chol·o·gy",
+      "senses": [
+        {
+          "gloss": "心理学, 心理状态",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cue.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的提示, 线索。"
+        },
+        {
+          "en": "I can see a cue.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到提示, 线索。"
+        }
+      ],
+      "headword": "cue",
+      "lexical_entry_id": "w_cue",
+      "ordinal": 8,
+      "phonetic_uk": "kju:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "提示, 线索",
+          "pos": "n."
+        },
+        {
+          "gloss": "给...暗示(或提示)",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “in response to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“in response to”。"
+        }
+      ],
+      "headword": "in response to",
+      "lexical_entry_id": "w_in_response_to",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "回答..., 响应..., 对...有反应",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my reward.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的报酬, 酬谢, 赏金。"
+        },
+        {
+          "en": "I can see a reward.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到报酬, 酬谢, 赏金。"
+        }
+      ],
+      "headword": "reward",
+      "lexical_entry_id": "w_reward",
+      "ordinal": 10,
+      "phonetic_uk": "ri'wɔːd",
+      "phonetic_us": null,
+      "phonics_split": "re·ward",
+      "senses": [
+        {
+          "gloss": "报酬, 酬谢, 赏金",
+          "pos": "n."
+        },
+        {
+          "gloss": "奖赏, 酬谢, 给...应有报应",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can rely.",
+          "origin": "template:t-v-can",
+          "zh": "我会信赖, 依赖, 信任。"
+        },
+        {
+          "en": "Let's rely together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起信赖, 依赖, 信任吧。"
+        }
+      ],
+      "headword": "rely",
+      "lexical_entry_id": "w_rely",
+      "ordinal": 11,
+      "phonetic_uk": "ri'lai",
+      "phonetic_us": null,
+      "phonics_split": "re·ly",
+      "senses": [
+        {
+          "gloss": "信赖, 依赖, 信任",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “rely on”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“rely on”。"
+        }
+      ],
+      "headword": "rely on",
+      "lexical_entry_id": "w_rely_on",
+      "ordinal": 12,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "依赖, 依靠",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can facilitate.",
+          "origin": "template:t-v-can",
+          "zh": "我会使容易, 促进, 帮助。"
+        },
+        {
+          "en": "Let's facilitate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使容易, 促进, 帮助吧。"
+        }
+      ],
+      "headword": "facilitate",
+      "lexical_entry_id": "w_facilitate",
+      "ordinal": 13,
+      "phonetic_uk": "fə'siliteit",
+      "phonetic_us": null,
+      "phonics_split": "fa·cil·i·tate",
+      "senses": [
+        {
+          "gloss": "使容易, 促进, 帮助",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can examine.",
+          "origin": "template:t-v-can",
+          "zh": "我会检查, 调查, 考试。"
+        },
+        {
+          "en": "Let's examine together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起检查, 调查, 考试吧。"
+        }
+      ],
+      "headword": "examine",
+      "lexical_entry_id": "w_examine",
+      "ordinal": 14,
+      "phonetic_uk": "ig'zæmin",
+      "phonetic_us": null,
+      "phonics_split": "ex·am·ine",
+      "senses": [
+        {
+          "gloss": "检查, 调查, 考试",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my negative.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的否定, 否定语, 负数, 底片。"
+        },
+        {
+          "en": "I can see a negative.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到否定, 否定语, 负数, 底片。"
+        }
+      ],
+      "headword": "negative",
+      "lexical_entry_id": "w_negative",
+      "ordinal": 15,
+      "phonetic_uk": "'negətiv",
+      "phonetic_us": null,
+      "phonics_split": "neg·a·tive",
+      "senses": [
+        {
+          "gloss": "否定, 否定语, 负数, 底片",
+          "pos": "n."
+        },
+        {
+          "gloss": "否定的, 消极的, 负的, 阴性的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my escalator.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电动扶梯, 自动扶梯。"
+        },
+        {
+          "en": "I can see an escalator.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电动扶梯, 自动扶梯。"
+        }
+      ],
+      "headword": "escalator",
+      "lexical_entry_id": "w_escalator",
+      "ordinal": 16,
+      "phonetic_uk": "'eskəleitə",
+      "phonetic_us": null,
+      "phonics_split": "es·ca·la·tor",
+      "senses": [
+        {
+          "gloss": "电动扶梯, 自动扶梯",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “straight away”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“straight away”。"
+        }
+      ],
+      "headword": "straight away",
+      "lexical_entry_id": "w_straight_away",
+      "ordinal": 17,
+      "phonetic_uk": "streit əˈwei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "立即; 马上",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very pessimistic.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常悲观的, 厌世的, 悲观主义。"
+        }
+      ],
+      "headword": "pessimistic",
+      "lexical_entry_id": "w_pessimistic",
+      "ordinal": 18,
+      "phonetic_uk": ".pesi'mistik",
+      "phonetic_us": null,
+      "phonics_split": "pes·simistic",
+      "senses": [
+        {
+          "gloss": "悲观的, 厌世的, 悲观主义的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my discipline.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的训练, 纪律。"
+        },
+        {
+          "en": "I can see a discipline.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到训练, 纪律。"
+        }
+      ],
+      "headword": "discipline",
+      "lexical_entry_id": "w_discipline",
+      "ordinal": 19,
+      "phonetic_uk": "'disiplin",
+      "phonetic_us": null,
+      "phonics_split": "dis·ci·pline",
+      "senses": [
+        {
+          "gloss": "训练, 纪律",
+          "pos": "n."
+        },
+        {
+          "gloss": "训练, 惩罚",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pill.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的药丸, 弹丸, 屈辱, 胡说。"
+        },
+        {
+          "en": "I can see a pill.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到药丸, 弹丸, 屈辱, 胡说。"
+        }
+      ],
+      "headword": "pill",
+      "lexical_entry_id": "w_pill",
+      "ordinal": 20,
+      "phonetic_uk": "pil",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "药丸, 弹丸, 屈辱, 胡说",
+          "pos": "n."
+        },
+        {
+          "gloss": "做成药丸, 形成丸状, 服药丸, 挫败, 抢劫",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can delete.",
+          "origin": "template:t-v-can",
+          "zh": "我会删除。"
+        },
+        {
+          "en": "Let's delete together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起删除吧。"
+        }
+      ],
+      "headword": "delete",
+      "lexical_entry_id": "w_delete",
+      "ordinal": 21,
+      "phonetic_uk": "di'li:t",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "删除",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “decide on”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“decide on”。"
+        }
+      ],
+      "headword": "decide on",
+      "lexical_entry_id": "w_decide_on",
+      "ordinal": 22,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "决定,选定,确定…",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “make up one's mind”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“make up one's mind”。"
+        }
+      ],
+      "headword": "make up one's mind",
+      "lexical_entry_id": "w_make_up_one_s_mind",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下决心, 接受, 承认",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can compose.",
+          "origin": "template:t-v-can",
+          "zh": "我会组成, 写作, 作曲, 使平静。"
+        },
+        {
+          "en": "Let's compose together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起组成, 写作, 作曲, 使平静吧。"
+        }
+      ],
+      "headword": "compose",
+      "lexical_entry_id": "w_compose",
+      "ordinal": 24,
+      "phonetic_uk": "kəm'pəuz",
+      "phonetic_us": null,
+      "phonics_split": "com·pose",
+      "senses": [
+        {
+          "gloss": "组成, 写作, 作曲, 使平静",
+          "pos": "vt."
+        },
+        {
+          "gloss": "创作, 排字",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “be composed of”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“be composed of”。"
+        }
+      ],
+      "headword": "be composed of",
+      "lexical_entry_id": "w_be_composed_of",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "由...组成",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my surgeon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的外科医生, 军医, 船医。"
+        },
+        {
+          "en": "I can see a surgeon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到外科医生, 军医, 船医。"
+        }
+      ],
+      "headword": "surgeon",
+      "lexical_entry_id": "w_surgeon",
+      "ordinal": 26,
+      "phonetic_uk": "'sə:dʒən",
+      "phonetic_us": null,
+      "phonics_split": "sur·geon",
+      "senses": [
+        {
+          "gloss": "外科医生, 军医, 船医",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my surgery.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的外科, 手术, 手术室, 换球术。"
+        },
+        {
+          "en": "I can see a surgery.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到外科, 手术, 手术室, 换球术。"
+        }
+      ],
+      "headword": "surgery",
+      "lexical_entry_id": "w_surgery",
+      "ordinal": 27,
+      "phonetic_uk": "'sə:dʒəri",
+      "phonetic_us": null,
+      "phonics_split": "sur·gery",
+      "senses": [
+        {
+          "gloss": "外科, 手术, 手术室, 换球术",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my liberation.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的释放, 解放。"
+        },
+        {
+          "en": "I can see a liberation.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到释放, 解放。"
+        }
+      ],
+      "headword": "liberation",
+      "lexical_entry_id": "w_liberation",
+      "ordinal": 28,
+      "phonetic_uk": ".libə'reiʃən",
+      "phonetic_us": null,
+      "phonics_split": "lib·er·a·tion",
+      "senses": [
+        {
+          "gloss": "释放, 解放",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my shave.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的修面, 刮胡子, 幸免, 剃刀。"
+        },
+        {
+          "en": "I can see a shave.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到修面, 刮胡子, 幸免, 剃刀。"
+        }
+      ],
+      "headword": "shave",
+      "lexical_entry_id": "w_shave",
+      "ordinal": 29,
+      "phonetic_uk": "ʃeiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "修面, 刮胡子, 幸免, 剃刀",
+          "pos": "n."
+        },
+        {
+          "gloss": "修面, 剃, 修剪, 掠过",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “shave off”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“shave off”。"
+        }
+      ],
+      "headword": "shave off",
+      "lexical_entry_id": "w_shave_off",
+      "ordinal": 30,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "剃掉,挂去,削掉",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my beard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的胡须。"
+        },
+        {
+          "en": "I can see a beard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到胡须。"
+        }
+      ],
+      "headword": "beard",
+      "lexical_entry_id": "w_beard",
+      "ordinal": 31,
+      "phonetic_uk": "biəd",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "胡须",
+          "pos": "n."
+        },
+        {
+          "gloss": "抓住胡须, 公开反对",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can disturb.",
+          "origin": "template:t-v-can",
+          "zh": "我会扰乱, 妨碍, 使不安。"
+        },
+        {
+          "en": "Let's disturb together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起扰乱, 妨碍, 使不安吧。"
+        }
+      ],
+      "headword": "disturb",
+      "lexical_entry_id": "w_disturb",
+      "ordinal": 32,
+      "phonetic_uk": "dis'tə:b",
+      "phonetic_us": null,
+      "phonics_split": "dis·turb",
+      "senses": [
+        {
+          "gloss": "扰乱, 妨碍, 使不安",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cigarette.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的香烟, 纸烟。"
+        },
+        {
+          "en": "I can see a cigarette.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到香烟, 纸烟。"
+        }
+      ],
+      "headword": "cigarette",
+      "lexical_entry_id": "w_cigarette",
+      "ordinal": 33,
+      "phonetic_uk": ".sigə'ret",
+      "phonetic_us": null,
+      "phonics_split": "cig·a·rette",
+      "senses": [
+        {
+          "gloss": "香烟, 纸烟",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my specialist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的专门医师, 专家。"
+        },
+        {
+          "en": "I can see a specialist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到专门医师, 专家。"
+        }
+      ],
+      "headword": "specialist",
+      "lexical_entry_id": "w_specialist",
+      "ordinal": 34,
+      "phonetic_uk": "'speiʃəlist",
+      "phonetic_us": null,
+      "phonics_split": "spe·cial·ist",
+      "senses": [
+        {
+          "gloss": "专门医师, 专家",
+          "pos": "n."
+        },
+        {
+          "gloss": "专业的, 专家的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my consultant.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的顾问, 征询意见者。"
+        },
+        {
+          "en": "I can see a consultant.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到顾问, 征询意见者。"
+        }
+      ],
+      "headword": "consultant",
+      "lexical_entry_id": "w_consultant",
+      "ordinal": 35,
+      "phonetic_uk": "kən'sʌltənt",
+      "phonetic_us": null,
+      "phonics_split": "con·sul·tant",
+      "senses": [
+        {
+          "gloss": "顾问, 征询意见者",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my drug.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的药, 麻药, 麻醉药。"
+        },
+        {
+          "en": "I can see a drug.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到药, 麻药, 麻醉药。"
+        }
+      ],
+      "headword": "drug",
+      "lexical_entry_id": "w_drug",
+      "ordinal": 36,
+      "phonetic_uk": "drʌg",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "药, 麻药, 麻醉药",
+          "pos": "n."
+        },
+        {
+          "gloss": "吸毒",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my skip.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的跳跃, 跳读。"
+        },
+        {
+          "en": "I can see a skip.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到跳跃, 跳读。"
+        }
+      ],
+      "headword": "skip",
+      "lexical_entry_id": "w_skip",
+      "ordinal": 37,
+      "phonetic_uk": "skip",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "跳跃, 跳读",
+          "pos": "n."
+        },
+        {
+          "gloss": "跳越, 跳读, 跳绳, 遗漏, 跳级",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very dizzy.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常晕眩的, 眼花缭乱。"
+        }
+      ],
+      "headword": "dizzy",
+      "lexical_entry_id": "w_dizzy",
+      "ordinal": 38,
+      "phonetic_uk": "'dizi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "晕眩的, 眼花缭乱的",
+          "pos": "a."
+        },
+        {
+          "gloss": "使晕眩",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my flu.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的流感, 流行性感冒。"
+        },
+        {
+          "en": "I can see a flu.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到流感, 流行性感冒。"
+        }
+      ],
+      "headword": "flu",
+      "lexical_entry_id": "w_flu",
+      "ordinal": 39,
+      "phonetic_uk": "flu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "流感, 流行性感冒",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can stimulate.",
+          "origin": "template:t-v-can",
+          "zh": "我会刺激, 激励, 鼓舞。"
+        },
+        {
+          "en": "Let's stimulate together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起刺激, 激励, 鼓舞吧。"
+        }
+      ],
+      "headword": "stimulate",
+      "lexical_entry_id": "w_stimulate",
+      "ordinal": 40,
+      "phonetic_uk": "'stimjuleit",
+      "phonetic_us": null,
+      "phonics_split": "stim·u·late",
+      "senses": [
+        {
+          "gloss": "刺激, 激励, 鼓舞",
+          "pos": "vt."
+        },
+        {
+          "gloss": "起刺激作用",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my dentist.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的牙科医生。"
+        },
+        {
+          "en": "I can see a dentist.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到牙科医生。"
+        }
+      ],
+      "headword": "dentist",
+      "lexical_entry_id": "w_dentist",
+      "ordinal": 41,
+      "phonetic_uk": "'dentist",
+      "phonetic_us": null,
+      "phonics_split": "den·tist",
+      "senses": [
+        {
+          "gloss": "牙科医生",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very sugary.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常含糖的, 糖一般的, 甜。"
+        }
+      ],
+      "headword": "sugary",
+      "lexical_entry_id": "w_sugary",
+      "ordinal": 42,
+      "phonetic_uk": "'ʃugəri",
+      "phonetic_us": null,
+      "phonics_split": "sug·ary",
+      "senses": [
+        {
+          "gloss": "含糖的, 糖一般的, 甜的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my nut.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的坚果, 核心, 螺帽。"
+        },
+        {
+          "en": "I can see a nut.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到坚果, 核心, 螺帽。"
+        }
+      ],
+      "headword": "nut",
+      "lexical_entry_id": "w_nut",
+      "ordinal": 43,
+      "phonetic_uk": "nʌt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "坚果, 核心, 螺帽",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my skateboard.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的溜冰板。"
+        },
+        {
+          "en": "I can see a skateboard.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到溜冰板。"
+        }
+      ],
+      "headword": "skateboard",
+      "lexical_entry_id": "w_skateboard",
+      "ordinal": 44,
+      "phonetic_uk": "'skeitbɔ:d",
+      "phonetic_us": null,
+      "phonics_split": "skate·board",
+      "senses": [
+        {
+          "gloss": "溜冰板",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very dynamic.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常动态的, 有活力的, 有力的, 动力的, 不断变化。"
+        }
+      ],
+      "headword": "dynamic",
+      "lexical_entry_id": "w_dynamic",
+      "ordinal": 45,
+      "phonetic_uk": "dai'næmik",
+      "phonetic_us": null,
+      "phonics_split": "dy·nam·ic",
+      "senses": [
+        {
+          "gloss": "动态的, 有活力的, 有力的, 动力的, 不断变化的",
+          "pos": "a."
+        },
+        {
+          "gloss": "动力, 动态",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “stressed out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“stressed out”。"
+        }
+      ],
+      "headword": "stressed out",
+      "lexical_entry_id": "w_stressed_out",
+      "ordinal": 46,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有压力的, 紧张的",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “worn out”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“worn out”。"
+        }
+      ],
+      "headword": "worn out",
+      "lexical_entry_id": "w_worn_out",
+      "ordinal": 47,
+      "phonetic_uk": "wɔ:n aut",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "磨穿; 疲乏",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bowling.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的保龄球戏。"
+        },
+        {
+          "en": "I can see a bowling.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到保龄球戏。"
+        }
+      ],
+      "headword": "bowling",
+      "lexical_entry_id": "w_bowling",
+      "ordinal": 48,
+      "phonetic_uk": "'bəuliŋ",
+      "phonetic_us": null,
+      "phonics_split": "bowl·ing",
+      "senses": [
+        {
+          "gloss": "保龄球戏",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my comedy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的喜剧, 有趣的事情。"
+        },
+        {
+          "en": "I can see a comedy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到喜剧, 有趣的事情。"
+        }
+      ],
+      "headword": "comedy",
+      "lexical_entry_id": "w_comedy",
+      "ordinal": 49,
+      "phonetic_uk": "'kɒmidi",
+      "phonetic_us": null,
+      "phonics_split": "com·e·dy",
+      "senses": [
+        {
+          "gloss": "喜剧, 有趣的事情",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my monthly.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的月刊。"
+        },
+        {
+          "en": "I can see a monthly.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到月刊。"
+        }
+      ],
+      "headword": "monthly",
+      "lexical_entry_id": "w_monthly",
+      "ordinal": 50,
+      "phonetic_uk": "'mʌnθli",
+      "phonetic_us": null,
+      "phonics_split": "month·ly",
+      "senses": [
+        {
+          "gloss": "月刊",
+          "pos": "n."
+        },
+        {
+          "gloss": "每月的, 每月一次的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can enhance.",
+          "origin": "template:t-v-can",
+          "zh": "我会提高, 加强, 增加。"
+        },
+        {
+          "en": "Let's enhance together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起提高, 加强, 增加吧。"
+        }
+      ],
+      "headword": "enhance",
+      "lexical_entry_id": "w_enhance",
+      "ordinal": 51,
+      "phonetic_uk": "in'hæns",
+      "phonetic_us": null,
+      "phonics_split": "en·hance",
+      "senses": [
+        {
+          "gloss": "提高, 加强, 增加",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can refresh.",
+          "origin": "template:t-v-can",
+          "zh": "我会使清新, 使恢复, 使生气蓬勃。"
+        },
+        {
+          "en": "Let's refresh together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起使清新, 使恢复, 使生气蓬勃吧。"
+        }
+      ],
+      "headword": "refresh",
+      "lexical_entry_id": "w_refresh",
+      "ordinal": 52,
+      "phonetic_uk": "ri'freʃ",
+      "phonetic_us": null,
+      "phonics_split": "re·fresh",
+      "senses": [
+        {
+          "gloss": "使清新, 使恢复, 使生气蓬勃",
+          "pos": "vt."
+        },
+        {
+          "gloss": "提起精神, 恢复精神, 吃点心, 喝饮料",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can absorb.",
+          "origin": "template:t-v-can",
+          "zh": "我会吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担。"
+        },
+        {
+          "en": "Let's absorb together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担吧。"
+        }
+      ],
+      "headword": "absorb",
+      "lexical_entry_id": "w_absorb",
+      "ordinal": 53,
+      "phonetic_uk": "əb'sɔːb",
+      "phonetic_us": null,
+      "phonics_split": "ab·sorb",
+      "senses": [
+        {
+          "gloss": "吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my Aristotle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的亚里士多德。"
+        },
+        {
+          "en": "I can see an Aristotle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到亚里士多德。"
+        }
+      ],
+      "headword": "Aristotle",
+      "lexical_entry_id": "w_aristotle",
+      "ordinal": 54,
+      "phonetic_uk": "'æristɒtl",
+      "phonetic_us": null,
+      "phonics_split": "aris·to·tle",
+      "senses": [
+        {
+          "gloss": "亚里士多德",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “People's Liberation Army”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“People's Liberation Army”。"
+        }
+      ],
+      "headword": "People's Liberation Army",
+      "lexical_entry_id": "w_people_s_liberation_army",
+      "ordinal": 55,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "中国人民解放军",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Lao Zi was a great thinker in ancient China.",
+          "origin": "curated:senior-lao-zi",
+          "zh": "老子是中国古代伟大的思想家。"
+        }
+      ],
+      "headword": "Lao Zi",
+      "lexical_entry_id": "w_lao_zi",
+      "ordinal": 56,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "老子（古代哲学家）",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

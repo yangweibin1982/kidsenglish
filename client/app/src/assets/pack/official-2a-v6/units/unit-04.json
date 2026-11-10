@@ -1,0 +1,153 @@
+{
+  "title": "What is around your home?",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my pet shop.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的玩赏动物商店。"
+        },
+        {
+          "en": "I can see a pet shop.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到玩赏动物商店。"
+        }
+      ],
+      "headword": "pet shop",
+      "lexical_entry_id": "w_pet_shop",
+      "ordinal": 1,
+      "phonetic_uk": "pet ʃɔp",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩赏动物商店，宠物商店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We buy apples at the fruit shop.",
+          "origin": "curated:g2an-u4-fruit-shop",
+          "zh": "我们在水果店买苹果。"
+        }
+      ],
+      "headword": "fruit shop",
+      "lexical_entry_id": "w_fruit_shop",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "水果店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cinema.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电影院, 电影。"
+        },
+        {
+          "en": "I can see a cinema.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电影院, 电影。"
+        }
+      ],
+      "headword": "cinema",
+      "lexical_entry_id": "w_cinema",
+      "ordinal": 3,
+      "phonetic_uk": "'sinəmə",
+      "phonetic_us": null,
+      "phonics_split": "cin·e·ma",
+      "senses": [
+        {
+          "gloss": "电影院, 电影",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my zoo.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的动物园。"
+        },
+        {
+          "en": "I can see a zoo.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到动物园。"
+        }
+      ],
+      "headword": "zoo",
+      "lexical_entry_id": "w_zoo",
+      "ordinal": 4,
+      "phonetic_uk": "zu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "动物园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We are in the park.",
+          "origin": "curated:g2u12-park",
+          "zh": "我们在公园里。"
+        }
+      ],
+      "headword": "park",
+      "lexical_entry_id": "w_park",
+      "ordinal": 5,
+      "phonetic_uk": "pɑ:k",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "公园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "The toy shop is big.",
+          "origin": "curated:g2an-u4-toy-shop",
+          "zh": "玩具店很大。"
+        }
+      ],
+      "headword": "toy shop",
+      "lexical_entry_id": "w_toy_shop",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "玩具店",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

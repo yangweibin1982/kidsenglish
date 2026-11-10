@@ -1,0 +1,158 @@
+{
+  "title": "Children's Day",
+  "unit_no": 11,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “also”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“also”。"
+        }
+      ],
+      "headword": "also",
+      "lexical_entry_id": "w_also",
+      "ordinal": 1,
+      "phonetic_uk": "'ɔːlsəu",
+      "phonetic_us": null,
+      "phonics_split": "al·so",
+      "senses": [
+        {
+          "gloss": "也, 并且, 同样地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cinema.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的电影院, 电影。"
+        },
+        {
+          "en": "I can see a cinema.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到电影院, 电影。"
+        }
+      ],
+      "headword": "cinema",
+      "lexical_entry_id": "w_cinema",
+      "ordinal": 2,
+      "phonetic_uk": "'sinəmə",
+      "phonetic_us": null,
+      "phonics_split": "cin·e·ma",
+      "senses": [
+        {
+          "gloss": "电影院, 电影",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "We have a party on Children's Day.",
+          "origin": "curated:primary-4b-party",
+          "zh": "我们在儿童节举办聚会。"
+        }
+      ],
+      "headword": "have a party",
+      "lexical_entry_id": "w_have_a_party",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "举办聚会",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my museum.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的博物馆。"
+        },
+        {
+          "en": "I can see a museum.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到博物馆。"
+        }
+      ],
+      "headword": "museum",
+      "lexical_entry_id": "w_museum",
+      "ordinal": 4,
+      "phonetic_uk": "mju:'ziəm",
+      "phonetic_us": null,
+      "phonics_split": "mu·se·um",
+      "senses": [
+        {
+          "gloss": "博物馆",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my song.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌。"
+        },
+        {
+          "en": "I can see a song.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌。"
+        }
+      ],
+      "headword": "song",
+      "lexical_entry_id": "w_song",
+      "ordinal": 5,
+      "phonetic_uk": "sɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "歌, 曲, 鸣声, 歌唱, 歌曲, 诗歌",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my zoo.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的动物园。"
+        },
+        {
+          "en": "I can see a zoo.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到动物园。"
+        }
+      ],
+      "headword": "zoo",
+      "lexical_entry_id": "w_zoo",
+      "ordinal": 6,
+      "phonetic_uk": "zu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "动物园",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

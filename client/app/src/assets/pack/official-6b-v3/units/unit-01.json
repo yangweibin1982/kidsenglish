@@ -1,0 +1,281 @@
+{
+  "title": "You and me",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can weigh.",
+          "origin": "template:t-v-can",
+          "zh": "我会称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚。"
+        },
+        {
+          "en": "Let's weigh together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚吧。"
+        }
+      ],
+      "headword": "weigh",
+      "lexical_entry_id": "w_weigh",
+      "ordinal": 1,
+      "phonetic_uk": "wei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "称...重量, 衡量, 把...压弯, 考虑, 权衡, 起锚",
+          "pos": "vt."
+        },
+        {
+          "gloss": "称分量, 有意义, 重压, 起锚",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kilogram.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的千克, 公斤。"
+        },
+        {
+          "en": "I can see a kilogram.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到千克, 公斤。"
+        }
+      ],
+      "headword": "kilogram",
+      "lexical_entry_id": "w_kilogram",
+      "ordinal": 2,
+      "phonetic_uk": "'kiləgræm",
+      "phonetic_us": null,
+      "phonics_split": "kilo·gram",
+      "senses": [
+        {
+          "gloss": "千克, 公斤",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my centimeter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厘米。"
+        },
+        {
+          "en": "I can see a centimeter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厘米。"
+        }
+      ],
+      "headword": "centimeter",
+      "lexical_entry_id": "w_centimeter",
+      "ordinal": 3,
+      "phonetic_uk": "'sentimi:tə",
+      "phonetic_us": null,
+      "phonics_split": "cen·time·ter",
+      "senses": [
+        {
+          "gloss": "厘米",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very taller.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常高的( tall的比较级 ); 难以置信的; 难以完成的; （用以表示或询问高度）有...高。"
+        }
+      ],
+      "headword": "taller",
+      "lexical_entry_id": "w_taller",
+      "ordinal": 4,
+      "phonetic_uk": "'tɔ:lə(r)",
+      "phonetic_us": null,
+      "phonics_split": "tal·ler",
+      "senses": [
+        {
+          "gloss": "高的( tall的比较级 ); 难以置信的; 难以完成的; （用以表示或询问高度）有...高",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my fan.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的风扇, 迷, 狂热者, 爱好者。"
+        },
+        {
+          "en": "I can see a fan.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到风扇, 迷, 狂热者, 爱好者。"
+        }
+      ],
+      "headword": "fan",
+      "lexical_entry_id": "w_fan",
+      "ordinal": 5,
+      "phonetic_uk": "fæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "风扇, 迷, 狂热者, 爱好者",
+          "pos": "n."
+        },
+        {
+          "gloss": "煽动, 刺激, 吹拂",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very fantastic.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常奇妙的, 稀奇的, 空想。"
+        }
+      ],
+      "headword": "fantastic",
+      "lexical_entry_id": "w_fantastic",
+      "ordinal": 6,
+      "phonetic_uk": "fæn'tæstik",
+      "phonetic_us": null,
+      "phonics_split": "fan·tas·tic",
+      "senses": [
+        {
+          "gloss": "奇妙的, 稀奇的, 空想的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "They clean the room themselves.",
+          "origin": "curated:p-pron-themselves",
+          "zh": "他们自己打扫房间。"
+        }
+      ],
+      "headword": "themselves",
+      "lexical_entry_id": "w_themselves",
+      "ordinal": 7,
+      "phonetic_uk": "ðəm'selvz",
+      "phonetic_us": null,
+      "phonics_split": "them·selves",
+      "senses": [
+        {
+          "gloss": "他们自己, 她们自己, 它们自己",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my theatre.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所。"
+        },
+        {
+          "en": "I can see a theatre.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所。"
+        }
+      ],
+      "headword": "theatre",
+      "lexical_entry_id": "w_theatre",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": "the·atre",
+      "senses": [
+        {
+          "gloss": "戏院, 电影院, 剧场, 全体观众, 戏剧, 戏剧效果, 阶梯式讲堂, 场所",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “go fishing”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“go fishing”。"
+        }
+      ],
+      "headword": "go fishing",
+      "lexical_entry_id": "w_go_fishing",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "去钓鱼",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “enjoy oneself”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“enjoy oneself”。"
+        }
+      ],
+      "headword": "enjoy oneself",
+      "lexical_entry_id": "w_enjoy_oneself",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "过得快乐",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Farmers get in the rice in autumn.",
+          "origin": "curated:g6b-u2-get-in",
+          "zh": "农民秋天收稻子。"
+        }
+      ],
+      "headword": "get in",
+      "lexical_entry_id": "w_get_in",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "收获；进入",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

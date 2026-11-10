@@ -1,0 +1,117 @@
+{
+  "name": "demote-to-floor",
+  "description": "【四类必含·降】两快对升到 P2 后连续三答错：P2→P1（真降档，到期=答日+1）、P1 自环（降档地板，R3 图 P1 自环）、P1 再自环。快对连击清零、错误连击累加到 3；近 3 次全错（快对率 0 < 1/3）→ 变式档 easy。",
+  "events": [
+    {
+      "event_id": "e-001",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-26T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-ball",
+        "question_type": "teach_picture_audio",
+        "correct": true,
+        "reaction_ms": 3000,
+        "answered_on": "2026-10-26"
+      }
+    },
+    {
+      "event_id": "e-002",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 2000, "counter": 0 },
+      "occurred_at": "2026-10-27T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-ball",
+        "question_type": "audio_pick_picture",
+        "correct": true,
+        "reaction_ms": 2000,
+        "answered_on": "2026-10-27"
+      }
+    },
+    {
+      "event_id": "e-003",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 3,
+      "hlc": { "physicalMs": 3000, "counter": 0 },
+      "occurred_at": "2026-10-30T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-ball",
+        "question_type": "word_pick_meaning",
+        "correct": false,
+        "reaction_ms": 6000,
+        "answered_on": "2026-10-30"
+      }
+    },
+    {
+      "event_id": "e-004",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 4,
+      "hlc": { "physicalMs": 4000, "counter": 0 },
+      "occurred_at": "2026-10-31T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-ball",
+        "question_type": "audio_pick_picture",
+        "correct": false,
+        "reaction_ms": 4000,
+        "answered_on": "2026-10-31"
+      }
+    },
+    {
+      "event_id": "e-005",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 5,
+      "hlc": { "physicalMs": 5000, "counter": 0 },
+      "occurred_at": "2026-11-01T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-ball",
+        "question_type": "audio_pick_picture",
+        "correct": false,
+        "reaction_ms": 4000,
+        "answered_on": "2026-11-01"
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-ball",
+        "pool": "P1",
+        "fastStreak": 0,
+        "errorStreak": 3,
+        "dueDate": "2026-11-02",
+        "variationTier": "easy",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": [
+          { "correct": false, "fast": false, "answeredOn": "2026-10-30" },
+          { "correct": false, "fast": false, "answeredOn": "2026-10-31" },
+          { "correct": false, "fast": false, "answeredOn": "2026-11-01" }
+        ]
+      }
+    ],
+    "counters": { "answered": 5, "correct": 2, "stars": 0, "shards": 0 },
+    "dailySummaries": [
+      { "date": "2026-10-26", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-10-27", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-10-30", "answered": 1, "correct": 0, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-10-31", "answered": 1, "correct": 0, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-11-01", "answered": 1, "correct": 0, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 }
+    ],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

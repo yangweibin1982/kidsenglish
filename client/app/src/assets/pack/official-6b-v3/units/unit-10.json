@@ -1,0 +1,208 @@
+{
+  "title": "Great storybooks",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I can say “fairy tale”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“fairy tale”。"
+        }
+      ],
+      "headword": "fairy tale",
+      "lexical_entry_id": "w_fairy_tale",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "神话故事, 童话, 谎言",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my adult.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的成人, 成虫。"
+        },
+        {
+          "en": "I can see an adult.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到成人, 成虫。"
+        }
+      ],
+      "headword": "adult",
+      "lexical_entry_id": "w_adult",
+      "ordinal": 2,
+      "phonetic_uk": "'ædʌlt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "成人, 成虫",
+          "pos": "n."
+        },
+        {
+          "gloss": "成年的, 成熟的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very well-known.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常众所周知的, 有名。"
+        }
+      ],
+      "headword": "well-known",
+      "lexical_entry_id": "w_well_known",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "众所周知的, 有名的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very stronger.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良。"
+        }
+      ],
+      "headword": "stronger",
+      "lexical_entry_id": "w_stronger",
+      "ordinal": 4,
+      "phonetic_uk": "strɒŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的",
+          "pos": "a."
+        },
+        {
+          "gloss": "强劲地, 有力地, 猛烈地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": "strong"
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “than”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“than”。"
+        }
+      ],
+      "headword": "than",
+      "lexical_entry_id": "w_than",
+      "ordinal": 5,
+      "phonetic_uk": "ðæn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "比, 除...外",
+          "pos": "conj."
+        },
+        {
+          "gloss": "比",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my scarf.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的围巾, 头巾, 领带, 领巾, 嵌接。"
+        },
+        {
+          "en": "I can see a scarf.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到围巾, 头巾, 领带, 领巾, 嵌接。"
+        }
+      ],
+      "headword": "scarf",
+      "lexical_entry_id": "w_scarf",
+      "ordinal": 6,
+      "phonetic_uk": "skɑ:f",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "围巾, 头巾, 领带, 领巾, 嵌接",
+          "pos": "n."
+        },
+        {
+          "gloss": "用围巾围, 嵌接",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “blow off”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“blow off”。"
+        }
+      ],
+      "headword": "blow off",
+      "lexical_entry_id": "w_blow_off",
+      "ordinal": 7,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "吹掉, 放出",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “take off”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“take off”。"
+        }
+      ],
+      "headword": "take off",
+      "lexical_entry_id": "w_take_off",
+      "ordinal": 8,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "拿掉, 取消, 脱下, 领走, 减去, 复制, 起飞, 离开, 岔开",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

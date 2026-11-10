@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U10 On the farm 情景图样张：谷仓栅栏前的奶牛小猪鸭子和鸡宝宝">
+  <!--
+    战机英语美术样张 · U10「On the farm」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed110, bf0.035, oct3, scale5) + ke-crayon(seed210, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed310, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 110 / crayon 210 / papergrain 310。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；动物＝罩体圈，随体型定径）。
+    代表词：cow / pig / duck / chick。
+    热点坐标（内容域票接词包配置用）：cow=(200,442,82) pig=(420,448,58) duck=(595,460,54) chick=(756,488,36)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="110" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="210" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="310"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 天空 + 草地 -->
+    <rect x="0" y="0" width="900" height="382" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="375" width="900" height="185" fill="#8FBE6E" opacity="0.28" filter="url(#ke-crayon)"/>
+    <path d="M-10,385 Q220,375 460,383 T910,379 L910,570 L-10,570 Z" fill="#8FBE6E" opacity="0.18" filter="url(#ke-crayon)"/>
+
+    <!-- 太阳与云 -->
+    <g filter="url(#ke-crayon)">
+      <circle cx="820" cy="82" r="26" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="820" y1="48" x2="819" y2="39"/><line x1="820" y1="116" x2="821" y2="125"/>
+        <line x1="786" y1="82" x2="777" y2="83"/><line x1="854" y1="82" x2="863" y2="81"/>
+      </g>
+      <g fill="#FFF9EC" opacity="0.85">
+        <circle cx="390" cy="84" r="15"/><circle cx="412" cy="77" r="19"/><circle cx="434" cy="86" r="14"/>
+        <rect x="378" y="82" width="68" height="17" rx="8.5"/>
+      </g>
+    </g>
+
+    <!-- 谷仓（背景左） -->
+    <g filter="url(#ke-crayon)">
+      <path d="M45,250 L80,185 L250,185 L285,250 Z" fill="#D96843" opacity="0.9" stroke="#7A5A3D" stroke-width="3.5" stroke-linejoin="round"/>
+      <rect x="60" y="245" width="210" height="145" rx="8" fill="#E8764F" opacity="0.85" stroke="#7A5A3D" stroke-width="3.5"/>
+      <circle cx="165" cy="218" r="15" fill="#F0C05A" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="135" y="300" width="60" height="90" rx="6" fill="#7A5A3D" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M135,300 L195,390 M195,300 L135,390" stroke="#FFF9EC" stroke-width="3" opacity="0.6"/>
+    </g>
+
+    <!-- 栅栏（背景右） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="610" y="402" width="12" height="88" rx="5" fill="#E8A95C" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="690" y="402" width="12" height="88" rx="5" fill="#E8A95C" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="770" y="402" width="12" height="88" rx="5" fill="#E8A95C" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="850" y="402" width="12" height="88" rx="5" fill="#E8A95C" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M600,424 L880,420 M600,462 L880,458" stroke="#D9A05B" stroke-width="7" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- cow 奶牛（代表词 cow：白身棕斑＋粉鼻） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="205" cy="521" rx="85" ry="9" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="150" y="472" width="14" height="46" rx="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="180" y="472" width="14" height="46" rx="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="222" y="472" width="14" height="46" rx="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="250" y="472" width="14" height="46" rx="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M268,428 q16,8 10,34" stroke="#B9844A" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <circle cx="280" cy="466" r="5" fill="#4A3A2A"/>
+      <rect x="140" y="405" width="128" height="75" rx="34" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="182" cy="438" rx="16" ry="12" fill="#4A3A2A" opacity="0.7"/>
+      <ellipse cx="232" cy="452" rx="13" ry="10" fill="#4A3A2A" opacity="0.7"/>
+      <ellipse cx="116" cy="384" rx="9" ry="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.2" transform="rotate(-30 116 384)"/>
+      <ellipse cx="162" cy="380" rx="9" ry="6" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.2" transform="rotate(20 162 380)"/>
+      <path d="M124,374 q-4,-10 4,-12 M152,372 q4,-10 -2,-13" stroke="#E8A95C" stroke-width="4" fill="none" stroke-linecap="round"/>
+      <circle cx="140" cy="398" r="26" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="132" cy="410" rx="15" ry="10" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <circle cx="126" cy="410" r="2" fill="#B9844A"/>
+      <circle cx="139" cy="410" r="2" fill="#B9844A"/>
+      <circle cx="128" cy="392" r="2.8" fill="#4A3A2A"/>
+      <circle cx="150" cy="390" r="2.8" fill="#4A3A2A"/>
+    </g>
+
+    <!-- pig 小猪（代表词 pig：粉身＋猪鼻＋卷尾） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="420" cy="521" rx="70" ry="8" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="382" y="486" width="12" height="32" rx="5" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="406" y="486" width="12" height="32" rx="5" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="436" y="486" width="12" height="32" rx="5" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2"/>
+      <rect x="458" y="486" width="12" height="32" rx="5" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2"/>
+      <path d="M472,452 q14,-2 12,8 q-2,8 -10,4" stroke="#B9844A" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <rect x="368" y="428" width="105" height="62" rx="28" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M360,396 L352,378 L372,384 Z" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2" stroke-linejoin="round"/>
+      <path d="M384,392 L386,372 L398,386 Z" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2" stroke-linejoin="round"/>
+      <circle cx="372" cy="414" r="24" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="356" cy="418" rx="11" ry="8" fill="#FBE3D6" opacity="0.95" stroke="#7A5A3D" stroke-width="2.2"/>
+      <circle cx="352" cy="418" r="1.8" fill="#B9844A"/>
+      <circle cx="361" cy="418" r="1.8" fill="#B9844A"/>
+      <circle cx="366" cy="408" r="2.6" fill="#4A3A2A"/>
+      <circle cx="384" cy="406" r="2.6" fill="#4A3A2A"/>
+    </g>
+
+    <!-- duck 鸭子（代表词 duck：扁嘴白鸭＋小翅膀） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="595" cy="521" rx="52" ry="7" fill="#7A5A3D" opacity="0.13"/>
+      <path d="M585,502 L580,518 M610,502 L615,518" stroke="#E8764F" stroke-width="4.5" stroke-linecap="round"/>
+      <path d="M580,518 l-8,2 M615,518 l8,2" stroke="#E8764F" stroke-width="3.5" stroke-linecap="round"/>
+      <path d="M630,462 Q650,442 658,452 Q648,456 636,470 Z" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="598" cy="474" rx="40" ry="30" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M584,470 Q608,456 628,470" stroke="#B9844A" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M590,478 q14,-6 28,0" stroke="#B9844A" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.6"/>
+      <circle cx="560" cy="432" r="20" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="532" y="430" width="22" height="9" rx="4.5" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="2.2"/>
+      <circle cx="564" cy="428" r="2.8" fill="#4A3A2A"/>
+    </g>
+
+    <!-- chick 鸡宝宝（代表词 chick：小黄绒球） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="755" cy="521" rx="34" ry="6" fill="#7A5A3D" opacity="0.13"/>
+      <path d="M748,506 L745,518 M764,506 L767,518" stroke="#E8764F" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="756" cy="486" r="21" fill="#F0C05A" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M737,484 L727,488 L737,492 Z" fill="#E8764F" opacity="0.9" stroke="#7A5A3D" stroke-width="2" stroke-linejoin="round"/>
+      <circle cx="748" cy="482" r="2.5" fill="#4A3A2A"/>
+      <path d="M752,488 q12,-2 14,10" stroke="#D9A05B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <path d="M754,466 q-2,-8 -8,-10 M760,465 q0,-8 6,-10" stroke="#D9A05B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- 地面轻细节两件：草叶两组＋小花（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <path d="M320,545 q8,-10 16,0 M690,548 q8,-9 16,0" stroke="#5C9968" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+      <line x1="60" y1="545" x2="60" y2="524" stroke="#5C9968" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="60" cy="506" r="5" fill="#E8764F" opacity="0.85"/><circle cx="70" cy="513" r="5" fill="#E8764F" opacity="0.85"/>
+      <circle cx="66" cy="524" r="5" fill="#E8764F" opacity="0.85"/><circle cx="54" cy="524" r="5" fill="#E8764F" opacity="0.85"/>
+      <circle cx="50" cy="513" r="5" fill="#E8764F" opacity="0.85"/><circle cx="60" cy="515" r="4" fill="#F0C05A"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（罩体圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="200" cy="442" r="82"/>
+      <circle cx="420" cy="448" r="58"/>
+      <circle cx="595" cy="460" r="54"/>
+      <circle cx="756" cy="488" r="36"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 10 · On the farm</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="175" y="528" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="200" y="546" fill="#FFF9EC">cow</text>
+    <rect x="395" y="528" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="420" y="546" fill="#FFF9EC">pig</text>
+    <rect x="570" y="528" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="595" y="546" fill="#FFF9EC">duck</text>
+    <rect x="731" y="528" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="756" y="546" fill="#FFF9EC">chick</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

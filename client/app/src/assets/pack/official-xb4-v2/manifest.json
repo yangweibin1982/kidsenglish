@@ -1,0 +1,39 @@
+{
+  "files": [
+    {
+      "bytes": 44521,
+      "path": "units/unit-01.json",
+      "sha256": "899547e0ec38ff739c6a4b82a81e32b0425c4dbf53ed137cd1e4a83c95dc2a5a"
+    },
+    {
+      "bytes": 43562,
+      "path": "units/unit-02.json",
+      "sha256": "8ce211b948be046f7b7c8eeeaaaf86169dabe8f0cdd34c97f7ac05042e41afb3"
+    },
+    {
+      "bytes": 29480,
+      "path": "units/unit-03.json",
+      "sha256": "881859155ffed1b3906e969905b16319f2ca9bd9a42a45f30788ddb6d549a478"
+    },
+    {
+      "bytes": 43202,
+      "path": "units/unit-04.json",
+      "sha256": "e183ed1b867f2f8f51a61c62477c7e4ee42aefccde6b17b7551d3064adba22ba"
+    },
+    {
+      "bytes": 43745,
+      "path": "units/unit-05.json",
+      "sha256": "ac3cde7f8b93a6f1376b9856bcb9f434621c948b5053fdb2ca1e953e09641a39"
+    }
+  ],
+  "generated_at": "2026-11-08T03:22:31+00:00",
+  "manifest_version": 1,
+  "pack": {
+    "grade": "高中",
+    "pack_id": 61,
+    "source": "official",
+    "term": "选必四",
+    "textbook_series": "人教版（2019年版）",
+    "version": 2
+  }
+}

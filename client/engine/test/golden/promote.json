@@ -1,0 +1,83 @@
+{
+  "name": "promote-single-device",
+  "description": "【四类必含·升】单设备连续三次快对：P0→P1→P2→P3（teach_picture_audio 基线 8000ms、audio_pick_picture 5000ms、word_pick_meaning 6000ms，三次反应时均在基线内=快对）。到期时间随新池间隔：P1=D+1、P2=D+3、P3=D+7。近 3 次快对率 1.0（样本≥2）→ 变式档 hard。",
+  "events": [
+    {
+      "event_id": "e-001",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 1,
+      "hlc": { "physicalMs": 1000, "counter": 0 },
+      "occurred_at": "2026-10-26T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-apple",
+        "question_type": "teach_picture_audio",
+        "correct": true,
+        "reaction_ms": 3000,
+        "answered_on": "2026-10-26"
+      }
+    },
+    {
+      "event_id": "e-002",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 2,
+      "hlc": { "physicalMs": 2000, "counter": 0 },
+      "occurred_at": "2026-10-27T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-apple",
+        "question_type": "audio_pick_picture",
+        "correct": true,
+        "reaction_ms": 2000,
+        "answered_on": "2026-10-27"
+      }
+    },
+    {
+      "event_id": "e-003",
+      "child_id": "c1",
+      "device_id": "dev-a",
+      "device_seq": 3,
+      "hlc": { "physicalMs": 3000, "counter": 0 },
+      "occurred_at": "2026-10-30T09:00:00Z",
+      "type": "answer",
+      "payload": {
+        "lexical_entry_id": "w-apple",
+        "question_type": "word_pick_meaning",
+        "correct": true,
+        "reaction_ms": 2500,
+        "answered_on": "2026-10-30"
+      }
+    }
+  ],
+  "expected": {
+    "childId": "c1",
+    "poolStates": [
+      {
+        "childId": "c1",
+        "lexicalEntryId": "w-apple",
+        "pool": "P3",
+        "fastStreak": 0,
+        "errorStreak": 0,
+        "dueDate": "2026-11-06",
+        "variationTier": "hard",
+        "paused": false,
+        "graduatedSampledMonth": null,
+        "recentOutcomes": [
+          { "correct": true, "fast": true, "answeredOn": "2026-10-26" },
+          { "correct": true, "fast": true, "answeredOn": "2026-10-27" },
+          { "correct": true, "fast": true, "answeredOn": "2026-10-30" }
+        ]
+      }
+    ],
+    "counters": { "answered": 3, "correct": 3, "stars": 0, "shards": 0 },
+    "dailySummaries": [
+      { "date": "2026-10-26", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-10-27", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 },
+      { "date": "2026-10-30", "answered": 1, "correct": 1, "completedOnTime": false, "segmentSeconds": { "newWords": 0, "review": 0 }, "starsEarned": 0, "shardsEarned": 0 }
+    ],
+    "planAdjustments": [],
+    "unknownEventTypes": {}
+  }
+}

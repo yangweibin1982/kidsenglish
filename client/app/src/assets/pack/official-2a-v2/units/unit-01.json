@@ -1,0 +1,269 @@
+{
+  "title": "Good morning",
+  "unit_no": 1,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very good.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常好。"
+        }
+      ],
+      "headword": "good",
+      "lexical_entry_id": "w_good",
+      "ordinal": 1,
+      "phonetic_uk": "gud",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "好的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good morning, Miss Li!",
+          "origin": "curated:u1-greet-morning",
+          "zh": "早上好，李老师！"
+        }
+      ],
+      "headword": "morning",
+      "lexical_entry_id": "w_morning",
+      "ordinal": 2,
+      "phonetic_uk": "'mɔːniŋ",
+      "phonetic_us": null,
+      "phonics_split": "mor·ning",
+      "senses": [
+        {
+          "emoji": "🌅",
+          "gloss": "早晨",
+          "pos": "n."
+        },
+        {
+          "gloss": "上午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good afternoon, boys and girls.",
+          "origin": "curated:u1-greet-afternoon",
+          "zh": "下午好，同学们。"
+        }
+      ],
+      "headword": "afternoon",
+      "lexical_entry_id": "w_afternoon",
+      "ordinal": 3,
+      "phonetic_uk": "'ɑ:ftə'nu:n",
+      "phonetic_us": null,
+      "phonics_split": "af·ter·noon",
+      "senses": [
+        {
+          "emoji": "🌞",
+          "gloss": "下午",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good evening, Dad.",
+          "origin": "curated:g2u1-greet-evening",
+          "zh": "晚上好，爸爸。"
+        }
+      ],
+      "headword": "evening",
+      "lexical_entry_id": "w_evening",
+      "ordinal": 4,
+      "phonetic_uk": "'i:vniŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "傍晚、晚上",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Good night, Mum!",
+          "origin": "curated:g2u1-greet-night",
+          "zh": "晚安，妈妈！"
+        }
+      ],
+      "headword": "night",
+      "lexical_entry_id": "w_night",
+      "ordinal": 5,
+      "phonetic_uk": "nait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "夜晚",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Have a nice day!",
+          "origin": "curated:u1-farewell-day",
+          "zh": "祝你度过愉快的一天！"
+        }
+      ],
+      "headword": "day",
+      "lexical_entry_id": "w_day",
+      "ordinal": 6,
+      "phonetic_uk": "dei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "emoji": "📅",
+          "gloss": "天、日子",
+          "pos": "n."
+        },
+        {
+          "gloss": "白天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my mum.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的妈妈。"
+        },
+        {
+          "en": "I can see a mum.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到妈妈。"
+        }
+      ],
+      "headword": "mum",
+      "lexical_entry_id": "w_mum",
+      "ordinal": 7,
+      "phonetic_uk": "mʌm",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "妈妈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Today is Monday.",
+          "origin": "curated:g2u1-today",
+          "zh": "今天是星期一。"
+        }
+      ],
+      "headword": "today",
+      "lexical_entry_id": "w_today",
+      "ordinal": 8,
+      "phonetic_uk": "tə'dei",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "今天",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am very well, thank you.",
+          "origin": "curated:g2u1-very-well",
+          "zh": "我很好，谢谢你。"
+        }
+      ],
+      "headword": "very well",
+      "lexical_entry_id": "w_very_well",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "很好",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Look! A little ant.",
+          "origin": "curated:g2u1-ant",
+          "zh": "看！一只小蚂蚁。"
+        }
+      ],
+      "headword": "ant",
+      "lexical_entry_id": "w_ant",
+      "ordinal": 10,
+      "phonetic_uk": "ænt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "蚂蚁",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的熊。"
+        },
+        {
+          "en": "I can see a bear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到熊。"
+        }
+      ],
+      "headword": "bear",
+      "lexical_entry_id": "w_bear",
+      "ordinal": 11,
+      "phonetic_uk": "bɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "熊",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

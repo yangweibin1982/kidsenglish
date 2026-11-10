@@ -1,0 +1,44 @@
+# —— Node / 构建 ——
+node_modules/
+dist/
+*.tsbuildinfo
+
+# —— 运行态资产（gitignored 大资产：重生成入口见 reports/57-assets/fetch-audio.py）——
+client/app/public/audio/
+client/app/public/assets/
+
+# —— Android 构建产物 ——
+client/app/android/.gradle/
+client/app/android/app/build/
+client/app/android/build/
+client/app/android/local.properties
+client/app/android/app/src/main/assets/public/
+
+# —— 服务端运行态 ——
+server/data/*.db
+server/data/*.db-journal
+server/data/*.db-wal
+server/data/*.db-shm
+server/data/family_token
+server/data/imports/
+server/data/server.err.log
+server/venv/
+
+# —— 会话/工具运行态（探针脚本与证据工件为会话私有面）——
+.squad/tmp/
+.squad/**/.edge-tmp/
+.mimosa/
+.zcode/
+
+# —— 系统/编辑器 ——
+.DS_Store
+Thumbs.db
+*.log
+
+# —— 服务端第二 venv 与数据面（2026-11-11 基线重建补充：全部可再生/运行态）——
+server/.venv/
+server/data/
+
+# —— Python 字节码（2026-11-11 票 62 开源清障补充）——
+__pycache__/
+*.pyc

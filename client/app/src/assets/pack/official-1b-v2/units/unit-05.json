@@ -1,0 +1,226 @@
+{
+  "title": "What do you know about fruit?",
+  "unit_no": 5,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my lemon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的柠檬, 柠檬树, 柠檬色。"
+        },
+        {
+          "en": "I can see a lemon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到柠檬, 柠檬树, 柠檬色。"
+        }
+      ],
+      "headword": "lemon",
+      "lexical_entry_id": "w_lemon",
+      "ordinal": 1,
+      "phonetic_uk": "'lemən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "柠檬, 柠檬树, 柠檬色",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my banana.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的香蕉。"
+        },
+        {
+          "en": "I can see a banana.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到香蕉。"
+        }
+      ],
+      "headword": "banana",
+      "lexical_entry_id": "w_banana",
+      "ordinal": 2,
+      "phonetic_uk": "bə'nɑ:nə",
+      "phonetic_us": null,
+      "phonics_split": "ba·nana",
+      "senses": [
+        {
+          "gloss": "香蕉",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my apple.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的苹果。"
+        },
+        {
+          "en": "I can see an apple.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到苹果。"
+        }
+      ],
+      "headword": "apple",
+      "lexical_entry_id": "w_apple",
+      "ordinal": 3,
+      "phonetic_uk": "'æpl",
+      "phonetic_us": null,
+      "phonics_split": "ap·ple",
+      "senses": [
+        {
+          "gloss": "苹果",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my watermelon.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的西瓜。"
+        },
+        {
+          "en": "I can see a watermelon.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到西瓜。"
+        }
+      ],
+      "headword": "watermelon",
+      "lexical_entry_id": "w_watermelon",
+      "ordinal": 4,
+      "phonetic_uk": "'wɒtə.melən",
+      "phonetic_us": null,
+      "phonics_split": "wa·ter·mel·on",
+      "senses": [
+        {
+          "gloss": "西瓜",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pear.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的梨。"
+        },
+        {
+          "en": "I can see a pear.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到梨。"
+        }
+      ],
+      "headword": "pear",
+      "lexical_entry_id": "w_pear",
+      "ordinal": 5,
+      "phonetic_uk": "pɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "梨",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my pineapple.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的凤梨, 菠萝, 失业救济金。"
+        },
+        {
+          "en": "I can see a pineapple.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到凤梨, 菠萝, 失业救济金。"
+        }
+      ],
+      "headword": "pineapple",
+      "lexical_entry_id": "w_pineapple",
+      "ordinal": 6,
+      "phonetic_uk": "'pain.æpl",
+      "phonetic_us": null,
+      "phonics_split": "pineap·ple",
+      "senses": [
+        {
+          "gloss": "凤梨, 菠萝, 失业救济金",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my peach.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的桃子。"
+        },
+        {
+          "en": "I can see a peach.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到桃子。"
+        }
+      ],
+      "headword": "peach",
+      "lexical_entry_id": "w_peach",
+      "ordinal": 7,
+      "phonetic_uk": "pi:tʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "桃子",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my orange.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的橙子。"
+        },
+        {
+          "en": "I can see an orange.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到橙子。"
+        }
+      ],
+      "headword": "orange",
+      "lexical_entry_id": "w_orange",
+      "ordinal": 8,
+      "phonetic_uk": "'ɔːrindʒ",
+      "phonetic_us": null,
+      "phonics_split": "or·ange",
+      "senses": [
+        {
+          "gloss": "橙子",
+          "pos": "n."
+        },
+        {
+          "gloss": "橙色的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U2 My classmates 情景图样张：教室里老师和同学们">
+  <!--
+    战机英语美术样张 · U2「My classmates」单元情景图（案 C 蜡笔绘本）
+    参数唯一事实源：docs/art-style-bible.md（圣经 §2 色板 / §4 滤镜锁参）。
+    滤镜：ke-wobble(seed7, bf0.035, oct3, scale5) + ke-crayon(seed8, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed11, bf0.9, oct2, alpha0.06) —— 禁改参（圣经 §4）。
+    文字层不参与抖动滤镜（圣经 §3.5 铁律）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2，只罩头肩上圈——票 18 两案择优定案）；
+    量产时热点坐标归词包配置。几何/构图 v2（票 18）：四角色 Q 版头身比≈1:1.5、连肩弧线手臂、
+    全员落地软阴影、三课桌一横排、讲台移位杜绝横杆穿模。人物→pixi 映射见圣经 §7「U2 人物映射」。
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="7" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="8" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="11"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 墙面淡彩一笔 + 蜡笔地板 -->
+    <rect x="0" y="0" width="900" height="400" fill="#E3F0F2" opacity="0.5"/>
+    <rect x="0" y="392" width="900" height="178" fill="#E8A95C" opacity="0.45" filter="url(#ke-crayon)"/>
+    <path d="M-10,400 Q220,386 460,398 T910,394 L910,570 L-10,570 Z" fill="#D9A05B" opacity="0.5" filter="url(#ke-crayon)"/>
+    <!-- 地板蜡笔短线（落在家具间隙） -->
+    <path d="M262,516 q28,-4 56,0 M520,540 q26,-4 52,0 M788,502 q30,-4 60,0 M40,548 q24,-4 48,0" stroke="#B9844A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.55"/>
+
+    <!-- 窗（蜡笔框 + 天空淡彩 + 太阳贴纸） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="620" y="60" width="200" height="150" rx="16" fill="#FFF9EC" opacity="0.9" stroke="#7A5A3D" stroke-width="3.5"/>
+      <rect x="636" y="76" width="168" height="118" rx="10" fill="#A8D3E2" opacity="0.75"/>
+      <line x1="720" y1="76" x2="720" y2="194" stroke="#7A5A3D" stroke-width="3"/>
+      <line x1="636" y1="135" x2="804" y2="135" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="688" cy="108" r="20" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <g stroke="#E8B84A" stroke-width="4" stroke-linecap="round" fill="none" opacity="0.9">
+        <line x1="688" y1="80" x2="687" y2="70"/><line x1="688" y1="136" x2="689" y2="146"/>
+        <line x1="660" y1="108" x2="650" y2="109"/><line x1="716" y1="108" x2="726" y2="107"/>
+      </g>
+    </g>
+
+    <!-- 黑板（暖棕框 + 深墨板面 + 蜡笔字迹线，居中上方） -->
+    <g filter="url(#ke-crayon)">
+      <rect x="255" y="62" width="330" height="180" rx="14" fill="#A9764E" opacity="0.9" stroke="#7A5A3D" stroke-width="3.5"/>
+      <rect x="271" y="78" width="298" height="148" rx="8" fill="#5C6E5A" opacity="0.92"/>
+      <path d="M293,116 q30,-6 58,0 M293,146 q44,-6 88,0 M293,176 q24,-5 48,0" stroke="#FBF3DF" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.6"/>
+      <path d="M435,128 q40,-6 80,0 M447,160 q30,-5 60,0" stroke="#F0C05A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.65"/>
+      <rect x="292" y="212" width="26" height="14" rx="7" fill="#FBF3DF" stroke="#7A5A3D" stroke-width="2.5"/>
+    </g>
+
+    <!-- 讲台（左后独立落地，杜绝「椅背横杆」误读） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="82" cy="443" rx="56" ry="8" fill="#7A5A3D" opacity="0.12"/>
+      <rect x="40" y="372" width="18" height="66" rx="9" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="106" y="372" width="18" height="66" rx="9" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="22" y="352" width="120" height="20" rx="10" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="52" y="357" width="20" height="9" rx="4" fill="#FBF3DF" stroke="#7A5A3D" stroke-width="2" opacity="0.9"/>
+      <rect x="84" y="356" width="36" height="10" rx="3" fill="#FFF9EC" stroke="#7A5A3D" stroke-width="2" opacity="0.85"/>
+    </g>
+
+    <!-- 老师（站姿·讲台侧：连肩弧线手臂＋眼镜成年感＋落地鞋与软阴影） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="292" cy="447" rx="44" ry="8" fill="#7A5A3D" opacity="0.15"/>
+      <rect x="274" y="396" width="16" height="38" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="296" y="396" width="16" height="38" rx="8" fill="#4A3A2A" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="266" y="430" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="294" y="430" width="26" height="13" rx="6.5" fill="#356E88" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="258" y="326" width="68" height="78" rx="24" fill="#5B9BB5" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M282,328 L292,342 L302,328" fill="none" stroke="#FFF9EC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+      <!-- 指黑板手臂（棕描边底＋衣色覆面＝连肩蜡笔臂） -->
+      <path d="M270,336 Q246,332 230,308" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M270,336 Q246,332 230,308" stroke="#5B9BB5" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <!-- 垂臂持书 -->
+      <path d="M314,338 Q330,366 326,400" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M314,338 Q330,366 326,400" stroke="#5B9BB5" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <rect x="316" y="404" width="26" height="18" rx="4" fill="#FFF9EC" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M321,410 q8,-3 15,0 M321,415 q8,-3 15,0" stroke="#7A5A3D" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.5"/>
+      <circle cx="292" cy="296" r="34" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M258,296 q3,-38 34,-38 q31,0 34,38 q-9,-17 -34,-17 q-25,0 -34,17 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="281" cy="296" r="7.5" fill="#FFF9EC" opacity="0.55" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="305" cy="294" r="7.5" fill="#FFF9EC" opacity="0.55" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M288,295 Q293,291 299,293" stroke="#7A5A3D" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+      <circle cx="282" cy="297" r="2.8" fill="#4A3A2A"/>
+      <circle cx="304" cy="295" r="2.8" fill="#4A3A2A"/>
+      <path d="M284,312 Q293,320 302,310" stroke="#7A5A3D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M270,306 l6,4 M314,304 l-6,4" stroke="#E8764F" stroke-width="2.5" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 课桌①＋me（蛋黄衣，坐姿写作业：单人桌一横排，桌腿垂直落地） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="160" cy="549" rx="100" ry="8.5" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="145" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="171" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="139" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="167" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="88" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="217" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="134" y="394" width="52" height="64" rx="20" fill="#F0C05A" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M142,406 Q135,428 141,452" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M142,406 Q135,428 141,452" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M178,406 Q185,428 179,452" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M178,406 Q185,428 179,452" stroke="#F0C05A" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <rect x="70" y="452" width="180" height="16" rx="8" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="160" cy="370" r="28" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M134,370 q1,-31 26,-31 q25,0 26,31 q-8,-14 -26,-14 q-18,0 -26,14 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M160,340 q2,-9 8,-10" stroke="#4A3A2A" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="151" cy="372" r="3" fill="#4A3A2A"/>
+      <circle cx="171" cy="370" r="3" fill="#4A3A2A"/>
+      <path d="M152,383 Q161,390 170,382" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M140,378 l5,4 M180,376 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 课桌②＋boy（草绿衣，坐姿举手答题） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="420" cy="549" rx="100" ry="8.5" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="405" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="431" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="399" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="427" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="348" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="477" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="392" y="393" width="56" height="65" rx="22" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <!-- 举手答题臂（连肩短弧线，圆头蜡笔端＝无圈手） -->
+      <path d="M442,384 Q466,378 472,348" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M442,384 Q466,378 472,348" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <!-- 扶桌臂 -->
+      <path d="M398,388 Q391,414 395,448" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M398,388 Q391,414 395,448" stroke="#8FBE6E" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <rect x="330" y="452" width="180" height="16" rx="8" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="420" cy="369" r="29" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M391,369 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M414,338 l3,-8 M424,339 l3,-7" stroke="#4A3A2A" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="410" cy="371" r="3" fill="#4A3A2A"/>
+      <circle cx="432" cy="369" r="3" fill="#4A3A2A"/>
+      <path d="M412,383 Q421,390 430,382" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M400,377 l5,4 M440,375 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 课桌③＋girl（番茄红衣双马尾，坐姿） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="680" cy="549" rx="100" ry="8.5" fill="#7A5A3D" opacity="0.13"/>
+      <rect x="665" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="691" y="466" width="14" height="62" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="659" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="687" y="528" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="608" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="737" y="466" width="15" height="80" rx="7" fill="#D9A05B" opacity="0.85" stroke="#7A5A3D" stroke-width="3"/>
+      <rect x="654" y="394" width="52" height="64" rx="20" fill="#E8764F" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M662,406 Q655,430 661,454" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M662,406 Q655,430 661,454" stroke="#E8764F" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M698,406 Q705,430 699,454" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M698,406 Q705,430 699,454" stroke="#E8764F" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <rect x="590" y="452" width="180" height="16" rx="8" fill="#E8A95C" opacity="0.9" stroke="#7A5A3D" stroke-width="3"/>
+      <circle cx="680" cy="370" r="28" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <ellipse cx="646" cy="368" rx="11" ry="13" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="714" cy="366" rx="11" ry="13" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="649" cy="356" r="3.5" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2"/>
+      <circle cx="711" cy="354" r="3.5" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2"/>
+      <path d="M654,368 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="671" cy="372" r="3" fill="#4A3A2A"/>
+      <circle cx="691" cy="370" r="3" fill="#4A3A2A"/>
+      <path d="M672,383 Q681,390 690,382" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M660,378 l5,4 M700,376 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 地面轻细节：散页纸＋蜡笔黄铅笔（禁堆砌，仅两件） -->
+    <g filter="url(#ke-crayon)">
+      <g transform="rotate(-5 544 511)">
+        <rect x="520" y="500" width="48" height="22" rx="4" fill="#FFF9EC" stroke="#7A5A3D" stroke-width="2.5" opacity="0.85"/>
+        <path d="M528,509 q14,-3 30,0" stroke="#7A5A3D" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.45"/>
+      </g>
+      <g transform="rotate(-4 833 527)">
+        <rect x="798" y="521" width="10" height="12" rx="3" fill="#E8764F" stroke="#7A5A3D" stroke-width="2.2" opacity="0.9"/>
+        <rect x="806" y="522" width="48" height="10" rx="5" fill="#F0C05A" stroke="#7A5A3D" stroke-width="2.5" opacity="0.9"/>
+        <path d="M854,522 L868,527 L854,532 Z" fill="#F2D6B4" stroke="#7A5A3D" stroke-width="2.2"/>
+      </g>
+    </g>
+
+    <!-- 热点圈：蜡笔涂改圈柔化版（票 18 择优＝头肩小圈＋opacity 0.2；dasharray 10 8 锁定不动；
+         量产时坐标接词包热点配置） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="292" cy="312" r="52"/>
+      <circle cx="420" cy="384" r="47"/>
+      <circle cx="680" cy="385" r="46"/>
+      <circle cx="160" cy="385" r="46"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 2 · My classmates</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="253" y="380" width="78" height="26" rx="13" fill="#7A5A3D"/><text x="292" y="398" fill="#FFF9EC">teacher</text>
+    <rect x="394" y="416" width="52" height="26" rx="13" fill="#7A5A3D"/><text x="420" y="434" fill="#FFF9EC">boy</text>
+    <rect x="651" y="416" width="58" height="26" rx="13" fill="#7A5A3D"/><text x="680" y="434" fill="#FFF9EC">girl</text>
+    <rect x="138" y="416" width="44" height="26" rx="13" fill="#7A5A3D"/><text x="160" y="434" fill="#FFF9EC">me</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

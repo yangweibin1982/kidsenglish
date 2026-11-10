@@ -1,0 +1,745 @@
+{
+  "title": null,
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my master.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的主人, 硕士, 大师, 母机。"
+        },
+        {
+          "en": "I can see a master.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到主人, 硕士, 大师, 母机。"
+        }
+      ],
+      "headword": "master",
+      "lexical_entry_id": "w_master",
+      "ordinal": 1,
+      "phonetic_uk": "'mɑ:stə. 'mæstə",
+      "phonetic_us": null,
+      "phonics_split": "mas·ter",
+      "senses": [
+        {
+          "gloss": "主人, 硕士, 大师, 母机",
+          "pos": "n."
+        },
+        {
+          "gloss": "主人的, 主要的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my masterpiece.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的杰作, 名著。"
+        },
+        {
+          "en": "I can see a masterpiece.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到杰作, 名著。"
+        }
+      ],
+      "headword": "masterpiece",
+      "lexical_entry_id": "w_masterpiece",
+      "ordinal": 2,
+      "phonetic_uk": "'mɑ:stəpi:s",
+      "phonetic_us": null,
+      "phonics_split": "mas·ter·piece",
+      "senses": [
+        {
+          "gloss": "杰作, 名著",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “whenever”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“whenever”。"
+        }
+      ],
+      "headword": "whenever",
+      "lexical_entry_id": "w_whenever",
+      "ordinal": 3,
+      "phonetic_uk": "hwen'evə",
+      "phonetic_us": null,
+      "phonics_split": "when·ev·er",
+      "senses": [
+        {
+          "gloss": "每当",
+          "pos": "conj."
+        },
+        {
+          "gloss": "不论何时, 每逢",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very alone.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常孤独的, 单独的, 独自。"
+        }
+      ],
+      "headword": "alone",
+      "lexical_entry_id": "w_alone",
+      "ordinal": 4,
+      "phonetic_uk": "ə'ləun",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "孤独的, 单独的, 独自的",
+          "pos": "a."
+        },
+        {
+          "gloss": "独自地",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my copy.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的副本, 摹仿, 一册。"
+        },
+        {
+          "en": "I can see a copy.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到副本, 摹仿, 一册。"
+        }
+      ],
+      "headword": "copy",
+      "lexical_entry_id": "w_copy",
+      "ordinal": 5,
+      "phonetic_uk": "'kɒpi",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "副本, 摹仿, 一册",
+          "pos": "n."
+        },
+        {
+          "gloss": "复印, 抄袭, 复制",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my damage.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的损害, 伤害。"
+        },
+        {
+          "en": "I can see a damage.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到损害, 伤害。"
+        }
+      ],
+      "headword": "damage",
+      "lexical_entry_id": "w_damage",
+      "ordinal": 6,
+      "phonetic_uk": "'dæmidʒ",
+      "phonetic_us": null,
+      "phonics_split": "dam·age",
+      "senses": [
+        {
+          "gloss": "损害, 伤害",
+          "pos": "n."
+        },
+        {
+          "gloss": "损害",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my separate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的独立件, 抽印本。"
+        },
+        {
+          "en": "I can see a separate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到独立件, 抽印本。"
+        }
+      ],
+      "headword": "separate",
+      "lexical_entry_id": "w_separate",
+      "ordinal": 7,
+      "phonetic_uk": "'sepəreit",
+      "phonetic_us": null,
+      "phonics_split": "sep·a·rate",
+      "senses": [
+        {
+          "gloss": "独立件, 抽印本",
+          "pos": "n."
+        },
+        {
+          "gloss": "分开的, 各别的, 单独的, 分隔的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my exhibition.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的表现, 展览会, 展览品。"
+        },
+        {
+          "en": "I can see an exhibition.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到表现, 展览会, 展览品。"
+        }
+      ],
+      "headword": "exhibition",
+      "lexical_entry_id": "w_exhibition",
+      "ordinal": 8,
+      "phonetic_uk": ".eksi'biʃən",
+      "phonetic_us": null,
+      "phonics_split": "ex·hi·bi·tion",
+      "senses": [
+        {
+          "gloss": "表现, 展览会, 展览品",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my lifestyle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生活方式。"
+        },
+        {
+          "en": "I can see a lifestyle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生活方式。"
+        }
+      ],
+      "headword": "lifestyle",
+      "lexical_entry_id": "w_lifestyle",
+      "ordinal": 9,
+      "phonetic_uk": "'laifstail",
+      "phonetic_us": null,
+      "phonics_split": "life·style",
+      "senses": [
+        {
+          "gloss": "生活方式",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my detail.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的细节, 详情。"
+        },
+        {
+          "en": "I can see a detail.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到细节, 详情。"
+        }
+      ],
+      "headword": "detail",
+      "lexical_entry_id": "w_detail",
+      "ordinal": 10,
+      "phonetic_uk": "'di:teil",
+      "phonetic_us": null,
+      "phonics_split": "de·tail",
+      "senses": [
+        {
+          "gloss": "细节, 详情",
+          "pos": "n."
+        },
+        {
+          "gloss": "详述, 选派",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can require.",
+          "origin": "template:t-v-can",
+          "zh": "我会需要, 命令, 要求。"
+        },
+        {
+          "en": "Let's require together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起需要, 命令, 要求吧。"
+        }
+      ],
+      "headword": "require",
+      "lexical_entry_id": "w_require",
+      "ordinal": 11,
+      "phonetic_uk": "ri'kwaiə",
+      "phonetic_us": null,
+      "phonics_split": "re·quire",
+      "senses": [
+        {
+          "gloss": "需要, 命令, 要求",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my daughter.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的女儿。"
+        },
+        {
+          "en": "I can see a daughter.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到女儿。"
+        }
+      ],
+      "headword": "daughter",
+      "lexical_entry_id": "w_daughter",
+      "ordinal": 12,
+      "phonetic_uk": "'dɔːtə",
+      "phonetic_us": null,
+      "phonics_split": "daugh·ter",
+      "senses": [
+        {
+          "gloss": "女儿",
+          "pos": "n."
+        },
+        {
+          "gloss": "女儿的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "It is very priceless.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常无价的, 极贵重。"
+        }
+      ],
+      "headword": "priceless",
+      "lexical_entry_id": "w_priceless",
+      "ordinal": 13,
+      "phonetic_uk": "'praislis",
+      "phonetic_us": null,
+      "phonics_split": "price·less",
+      "senses": [
+        {
+          "gloss": "无价的, 极贵重的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my sculpture.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的雕刻, 雕塑。"
+        },
+        {
+          "en": "I can see a sculpture.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到雕刻, 雕塑。"
+        }
+      ],
+      "headword": "sculpture",
+      "lexical_entry_id": "w_sculpture",
+      "ordinal": 14,
+      "phonetic_uk": "'skʌlptʃə",
+      "phonetic_us": null,
+      "phonics_split": "sculp·ture",
+      "senses": [
+        {
+          "gloss": "雕刻, 雕塑",
+          "pos": "n."
+        },
+        {
+          "gloss": "雕刻, 雕塑",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “unfortunately”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“unfortunately”。"
+        }
+      ],
+      "headword": "unfortunately",
+      "lexical_entry_id": "w_unfortunately",
+      "ordinal": 15,
+      "phonetic_uk": "ʌn'fɔ:tjjnətli",
+      "phonetic_us": null,
+      "phonics_split": "un·for·tu·nate·ly",
+      "senses": [
+        {
+          "gloss": "恐怕, 不幸的是",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my graduate.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的毕业生, 量杯。"
+        },
+        {
+          "en": "I can see a graduate.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到毕业生, 量杯。"
+        }
+      ],
+      "headword": "graduate",
+      "lexical_entry_id": "w_graduate",
+      "ordinal": 16,
+      "phonetic_uk": "'grædʒueit",
+      "phonetic_us": null,
+      "phonics_split": "grad·u·ate",
+      "senses": [
+        {
+          "gloss": "毕业生, 量杯",
+          "pos": "n."
+        },
+        {
+          "gloss": "已得学位的, 研究生的, 毕业的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my limit.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的界限, 边界, 限度, 极限, 限制。"
+        },
+        {
+          "en": "I can see a limit.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到界限, 边界, 限度, 极限, 限制。"
+        }
+      ],
+      "headword": "limit",
+      "lexical_entry_id": "w_limit",
+      "ordinal": 17,
+      "phonetic_uk": "'limit",
+      "phonetic_us": null,
+      "phonics_split": "lim·it",
+      "senses": [
+        {
+          "gloss": "界限, 边界, 限度, 极限, 限制",
+          "pos": "n."
+        },
+        {
+          "gloss": "限制, 限定",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my temperature.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的温度, 发烧, 热度。"
+        },
+        {
+          "en": "I can see a temperature.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到温度, 发烧, 热度。"
+        }
+      ],
+      "headword": "temperature",
+      "lexical_entry_id": "w_temperature",
+      "ordinal": 18,
+      "phonetic_uk": "'temprətʃə",
+      "phonetic_us": null,
+      "phonics_split": "tem·per·a·ture",
+      "senses": [
+        {
+          "gloss": "温度, 发烧, 热度",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can preserve.",
+          "origin": "template:t-v-can",
+          "zh": "我会保护, 保持, 保存, 维持, 腌, 禁猎。"
+        },
+        {
+          "en": "Let's preserve together.",
+          "origin": "template:t-v-lets",
+          "zh": "我们一起保护, 保持, 保存, 维持, 腌, 禁猎吧。"
+        }
+      ],
+      "headword": "preserve",
+      "lexical_entry_id": "w_preserve",
+      "ordinal": 19,
+      "phonetic_uk": "pri'zə:v",
+      "phonetic_us": null,
+      "phonics_split": "pre·serve",
+      "senses": [
+        {
+          "gloss": "保护, 保持, 保存, 维持, 腌, 禁猎",
+          "pos": "vt."
+        },
+        {
+          "gloss": "加工食品, 禁猎",
+          "pos": "vi."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I read the book in one sitting.",
+          "origin": "curated:g8b-one-sitting",
+          "zh": "我一口气读完了这本书。"
+        }
+      ],
+      "headword": "in one sitting",
+      "lexical_entry_id": "w_in_one_sitting",
+      "ordinal": 20,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一口气",
+          "pos": "adv."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I'm in the mood for a walk.",
+          "origin": "curated:g8b-mood",
+          "zh": "我有心情散散步。"
+        }
+      ],
+      "headword": "in the mood",
+      "lexical_entry_id": "w_in_the_mood",
+      "ordinal": 21,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "有心情",
+          "pos": "prep."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “pass along”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“pass along”。"
+        }
+      ],
+      "headword": "pass along",
+      "lexical_entry_id": "w_pass_along",
+      "ordinal": 22,
+      "phonetic_uk": "pɑ:s əˈlɔŋ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "沿…向前走; 传送, 传递",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "He feels at one with nature.",
+          "origin": "curated:g8b-at-one",
+          "zh": "他感到与自然融为一体。"
+        }
+      ],
+      "headword": "be at one with",
+      "lexical_entry_id": "w_be_at_one_with",
+      "ordinal": 23,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "与……融为一体",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “next to”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“next to”。"
+        }
+      ],
+      "headword": "next to",
+      "lexical_entry_id": "w_next_to",
+      "ordinal": 24,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "几乎",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “at last”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“at last”。"
+        }
+      ],
+      "headword": "at last",
+      "lexical_entry_id": "w_at_last",
+      "ordinal": 25,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "终于",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “all walks of life”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“all walks of life”。"
+        }
+      ],
+      "headword": "all walks of life",
+      "lexical_entry_id": "w_all_walks_of_life",
+      "ordinal": 26,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "各行各业",
+          "pos": "phra."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “all the time”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“all the time”。"
+        }
+      ],
+      "headword": "all the time",
+      "lexical_entry_id": "w_all_the_time",
+      "ordinal": 27,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "始终",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “make up one's mind”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“make up one's mind”。"
+        }
+      ],
+      "headword": "make up one's mind",
+      "lexical_entry_id": "w_make_up_one_s_mind",
+      "ordinal": 28,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "下决心, 接受, 承认",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

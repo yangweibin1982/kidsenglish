@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="U3 My face 情景图样张：画架大脸海报前指眼睛摸耳朵的同学们">
+  <!--
+    战机英语美术样张 · U3「My face」单元情景图（案 C 蜡笔绘本 · 票 20 批量产出）
+    参数唯一事实源：docs/art-style-bible.md（§2 色板 / §4 滤镜锁参 / §7.1 人物几何）。
+    滤镜：ke-wobble(seed103, bf0.035, oct3, scale5) + ke-crayon(seed203, bf0.5, oct2, alpha0.45)
+          + ke-papergrain(seed303, bf0.9, oct2, alpha0.06) —— 参数禁改（圣经 §4），
+          seed 按图注册（圣经 §4.4）：wobble 103 / crayon 203 / papergrain 303。
+    文字层不参与抖动滤镜（圣经 §3.5）。零外链资产（儿童红线 R18）。
+    热点圈＝涂改圈隐喻（dasharray 10 8 暖棕 3.5px，opacity 0.2；人物＝头肩小圈，物件＝罩物圈）。
+    代表词：face / eye / ear。
+    热点坐标（内容域票接词包配置用）：face=(240,305,98) eye=(590,438,46) ear=(785,438,46)
+  -->
+  <defs>
+    <filter id="ke-wobble" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="3" seed="103" result="w"/>
+      <feDisplacementMap in="SourceGraphic" in2="w" scale="5"/>
+    </filter>
+    <filter id="ke-crayon" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="2" seed="203" result="n"/>
+      <feColorMatrix in="n" type="matrix" values="0 0 0 0 0.45  0 0 0 0 0.35  0 0 0 0 0.22  0 0 0 0.45 0" result="g"/>
+      <feComposite in="g" in2="SourceAlpha" operator="in" result="grain"/>
+      <feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="grain"/></feMerge>
+    </filter>
+    <filter id="ke-papergrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="303"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.5  0 0 0 0 0.42  0 0 0 0 0.28  0 0 0 0.06 0"/>
+    </filter>
+  </defs>
+
+  <!-- 纸底 -->
+  <rect width="900" height="560" fill="#FBF3DF"/>
+
+  <g filter="url(#ke-wobble)">
+    <!-- 墙面淡彩 + 蜡笔地板 -->
+    <rect x="0" y="0" width="900" height="392" fill="#FBE3D6" opacity="0.35"/>
+    <rect x="0" y="392" width="900" height="178" fill="#E8A95C" opacity="0.45" filter="url(#ke-crayon)"/>
+    <path d="M-10,400 Q220,386 460,398 T910,394 L910,570 L-10,570 Z" fill="#D9A05B" opacity="0.5" filter="url(#ke-crayon)"/>
+    <path d="M100,516 q28,-4 56,0 M340,540 q26,-4 52,0 M700,506 q30,-4 60,0 M820,548 q24,-4 48,0" stroke="#B9844A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.55"/>
+
+    <!-- 画架＋大脸海报（代表词 face：五官齐全的大脸） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="240" cy="546" rx="70" ry="8" fill="#7A5A3D" opacity="0.12"/>
+      <line x1="240" y1="205" x2="185" y2="540" stroke="#7A5A3D" stroke-width="6" stroke-linecap="round"/>
+      <line x1="240" y1="205" x2="295" y2="540" stroke="#7A5A3D" stroke-width="6" stroke-linecap="round"/>
+      <line x1="212" y1="470" x2="268" y2="470" stroke="#7A5A3D" stroke-width="5" stroke-linecap="round"/>
+      <rect x="150" y="200" width="180" height="195" rx="10" fill="#FFF9EC" opacity="0.92" stroke="#7A5A3D" stroke-width="3.5"/>
+      <circle cx="182" cy="300" r="11" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="298" cy="300" r="11" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="240" cy="300" r="58" fill="#F5DCC0" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M182,300 q2,-62 58,-62 q56,0 58,62 q-10,-26 -29,-28 q-6,-10 -29,-10 q-23,0 -29,10 q-19,2 -29,28 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="219" cy="296" r="6" fill="#4A3A2A"/>
+      <circle cx="261" cy="294" r="6" fill="#4A3A2A"/>
+      <path d="M242,304 q5,8 -2,12" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M216,326 Q240,342 264,324" stroke="#7A5A3D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <path d="M198,314 l7,5 M282,312 l-7,5" stroke="#E8764F" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 地面轻细节两件：盆栽＋散页纸（禁堆砌） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="450" cy="470" rx="10" ry="22" fill="#8FBE6E" opacity="0.85"/>
+      <ellipse cx="428" cy="478" rx="9" ry="18" fill="#8FBE6E" opacity="0.75" transform="rotate(-25 428 478)"/>
+      <ellipse cx="472" cy="478" rx="9" ry="18" fill="#8FBE6E" opacity="0.75" transform="rotate(25 472 478)"/>
+      <path d="M430,505 L470,505 L463,540 L437,540 Z" fill="#E8764F" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="421" y="497" width="58" height="11" rx="4" fill="#E8764F" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <g transform="rotate(-4 350 528)">
+        <rect x="330" y="518" width="40" height="20" rx="4" fill="#FFF9EC" stroke="#7A5A3D" stroke-width="2.5" opacity="0.85"/>
+        <path d="M337,527 q12,-3 26,0" stroke="#7A5A3D" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.45"/>
+      </g>
+    </g>
+
+    <!-- boy（指尖点自己的眼睛：代表词 eye） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="590" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="571" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="595" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="564" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="592" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="564" y="447" width="52" height="64" rx="20" fill="#8FBE6E" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M614,458 Q624,484 619,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M614,458 Q624,484 619,508" stroke="#8FBE6E" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <circle cx="590" cy="423" r="28" fill="#F2D6B4" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M564,423 q2,-32 29,-32 q27,0 29,32 q-6,-12 -16,-13 q-4,-7 -13,-6 q-9,-1 -13,6 q-10,1 -16,13 Z" fill="#4A3A2A" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <path d="M574,392 l3,-8 M584,393 l3,-7" stroke="#4A3A2A" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+      <circle cx="581" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="601" cy="423" r="3" fill="#4A3A2A"/>
+      <!-- 点眼手臂（画在脸之后＝手指落在眼角） -->
+      <path d="M592,460 Q570,448 566,430" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M592,460 Q570,448 566,430" stroke="#8FBE6E" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M582,436 Q590,443 598,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M570,430 l5,4 M610,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- girl（手摸自己的耳朵：代表词 ear） -->
+    <g filter="url(#ke-crayon)">
+      <ellipse cx="785" cy="549" rx="60" ry="8" fill="#7A5A3D" opacity="0.14"/>
+      <rect x="766" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="790" y="503" width="14" height="34" rx="7" fill="#6E4A2E" opacity="0.85" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="759" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="787" y="533" width="24" height="13" rx="6" fill="#7A5A3D" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <rect x="759" y="447" width="52" height="64" rx="20" fill="#5B9BB5" opacity="0.88" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M807,458 Q817,484 812,508" stroke="#7A5A3D" stroke-width="15" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M807,458 Q817,484 812,508" stroke="#5B9BB5" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <ellipse cx="749" cy="424" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <ellipse cx="821" cy="422" rx="10" ry="12" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="751" cy="412" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="819" cy="410" r="3" fill="#F0C05A" stroke="#7A5A3D" stroke-width="1.6"/>
+      <circle cx="785" cy="423" r="28" fill="#EED3B3" opacity="0.92" stroke="#7A5A3D" stroke-width="3"/>
+      <path d="M761,423 q2,-30 26,-30 q24,0 26,30 q-7,-13 -26,-13 q-19,0 -26,13 Z" fill="#6E4A2E" opacity="0.9" stroke="#7A5A3D" stroke-width="2.5"/>
+      <circle cx="776" cy="425" r="3" fill="#4A3A2A"/>
+      <circle cx="796" cy="423" r="3" fill="#4A3A2A"/>
+      <!-- 摸耳手臂（画在脸之后＝手落在耳侧） -->
+      <path d="M765,460 Q748,446 754,426" stroke="#7A5A3D" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.9"/>
+      <path d="M765,460 Q748,446 754,426" stroke="#5B9BB5" stroke-width="11" stroke-linecap="round" fill="none" opacity="0.88"/>
+      <path d="M777,436 Q786,443 795,435" stroke="#7A5A3D" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+      <path d="M765,430 l5,4 M805,428 l-5,4" stroke="#E8764F" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+    </g>
+
+    <!-- 热点圈：涂改圈柔化版（头肩小圈＋罩物圈；dasharray 10 8 锁定不动） -->
+    <g fill="none" stroke="#7A5A3D" stroke-width="3.5" stroke-dasharray="10 8" stroke-linecap="round" opacity="0.2">
+      <circle cx="240" cy="305" r="98"/>
+      <circle cx="590" cy="438" r="46"/>
+      <circle cx="785" cy="438" r="46"/>
+    </g>
+  </g>
+
+  <!-- 文字层（不参与抖动，圣经 §3.5） -->
+  <text x="450" y="42" text-anchor="middle" font-size="27" font-weight="bold" fill="#5A4A38" font-family="system-ui, 'Segoe UI', 'Microsoft YaHei', sans-serif">Unit 3 · My face</text>
+  <g font-size="15" font-weight="bold" text-anchor="middle" font-family="system-ui, 'Segoe UI', sans-serif">
+    <rect x="206" y="410" width="68" height="26" rx="13" fill="#7A5A3D"/><text x="240" y="428" fill="#FFF9EC">face</text>
+    <rect x="565" y="470" width="50" height="26" rx="13" fill="#7A5A3D"/><text x="590" y="488" fill="#FFF9EC">eye</text>
+    <rect x="765" y="470" width="40" height="26" rx="13" fill="#7A5A3D"/><text x="785" y="488" fill="#FFF9EC">ear</text>
+  </g>
+
+  <!-- 全局纸面颗粒（alpha 0.06 锁定） -->
+  <rect width="900" height="560" filter="url(#ke-papergrain)"/>
+</svg>

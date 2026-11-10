@@ -1,0 +1,72 @@
+{
+  "title": "How can we keep clean?",
+  "unit_no": 2,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I wash my hands before dinner.",
+          "origin": "curated:g2bn-u2-wash-hands",
+          "zh": "晚饭前我洗手。"
+        }
+      ],
+      "headword": "wash my hands",
+      "lexical_entry_id": "w_wash_my_hands",
+      "ordinal": 1,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洗手",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I brush my teeth every morning.",
+          "origin": "curated:g2bn-u2-brush-teeth",
+          "zh": "我每天早上刷牙。"
+        }
+      ],
+      "headword": "brush my teeth",
+      "lexical_entry_id": "w_brush_my_teeth",
+      "ordinal": 2,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "刷牙",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I wash my face in the morning.",
+          "origin": "curated:g2bn-u2-wash-face",
+          "zh": "我早上洗脸。"
+        }
+      ],
+      "headword": "wash my face",
+      "lexical_entry_id": "w_wash_my_face",
+      "ordinal": 3,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "洗脸",
+          "pos": "v."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

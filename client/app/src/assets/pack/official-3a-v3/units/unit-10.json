@@ -1,0 +1,248 @@
+{
+  "title": "Numbers",
+  "unit_no": 10,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "I see eight fish.",
+          "origin": "curated:g2u3-eight",
+          "zh": "我看见八条鱼。"
+        }
+      ],
+      "headword": "eight",
+      "lexical_entry_id": "w_eight",
+      "ordinal": 1,
+      "phonetic_uk": "eit",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "八",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see five ducks.",
+          "origin": "curated:u7-five",
+          "zh": "我看见五只鸭子。"
+        }
+      ],
+      "headword": "five",
+      "lexical_entry_id": "w_five",
+      "ordinal": 2,
+      "phonetic_uk": "faiv",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "五",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see four chicks.",
+          "origin": "curated:u7-four",
+          "zh": "我看见四只小鸡。"
+        }
+      ],
+      "headword": "four",
+      "lexical_entry_id": "w_four",
+      "ordinal": 3,
+      "phonetic_uk": "fɔː",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "四",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "How many books?",
+          "origin": "curated:u7-how-many",
+          "zh": "有多少本书？"
+        }
+      ],
+      "headword": "how many",
+      "lexical_entry_id": "w_how_many",
+      "ordinal": 4,
+      "phonetic_uk": "hau ˈmeni",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "多少、几个",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I see nine birds.",
+          "origin": "curated:g2u3-nine",
+          "zh": "我看见九只鸟。"
+        }
+      ],
+      "headword": "nine",
+      "lexical_entry_id": "w_nine",
+      "ordinal": 5,
+      "phonetic_uk": "nain",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "九",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have one apple.",
+          "origin": "curated:u7-one",
+          "zh": "我有一个苹果。"
+        }
+      ],
+      "headword": "one",
+      "lexical_entry_id": "w_one",
+      "ordinal": 6,
+      "phonetic_uk": "wʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "一",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I am seven years old.",
+          "origin": "curated:g2u3-seven",
+          "zh": "我七岁。"
+        }
+      ],
+      "headword": "seven",
+      "lexical_entry_id": "w_seven",
+      "ordinal": 7,
+      "phonetic_uk": "'sevn",
+      "phonetic_us": null,
+      "phonics_split": "sev·en",
+      "senses": [
+        {
+          "gloss": "七",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have six books.",
+          "origin": "curated:u7-six",
+          "zh": "我有六本书。"
+        }
+      ],
+      "headword": "six",
+      "lexical_entry_id": "w_six",
+      "ordinal": 8,
+      "phonetic_uk": "siks",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "六",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have ten fingers.",
+          "origin": "curated:g2u3-ten",
+          "zh": "我有十根手指。"
+        }
+      ],
+      "headword": "ten",
+      "lexical_entry_id": "w_ten",
+      "ordinal": 9,
+      "phonetic_uk": "ten",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "十",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have three peaches.",
+          "origin": "curated:u7-three",
+          "zh": "我有三个桃子。"
+        }
+      ],
+      "headword": "three",
+      "lexical_entry_id": "w_three",
+      "ordinal": 10,
+      "phonetic_uk": "θri:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "三",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I have two pears.",
+          "origin": "curated:u7-two",
+          "zh": "我有两个梨。"
+        }
+      ],
+      "headword": "two",
+      "lexical_entry_id": "w_two",
+      "ordinal": 11,
+      "phonetic_uk": "tu:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "二",
+          "pos": "num."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

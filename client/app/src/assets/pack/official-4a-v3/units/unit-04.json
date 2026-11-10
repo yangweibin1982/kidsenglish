@@ -1,0 +1,282 @@
+{
+  "title": "Do you have any cousins?",
+  "unit_no": 4,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "It is very any.",
+          "origin": "template:t-adj-very",
+          "zh": "它非常任何。"
+        }
+      ],
+      "headword": "any",
+      "lexical_entry_id": "w_any",
+      "ordinal": 1,
+      "phonetic_uk": "'eni",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "任何的",
+          "pos": "a."
+        },
+        {
+          "gloss": "任何",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my aunt.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的阿姨, 姨妈, 舅妈, 姑妈, 伯母。"
+        },
+        {
+          "en": "I can see an aunt.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到阿姨, 姨妈, 舅妈, 姑妈, 伯母。"
+        }
+      ],
+      "headword": "aunt",
+      "lexical_entry_id": "w_aunt",
+      "ordinal": 2,
+      "phonetic_uk": "ɑ:nt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "阿姨, 姨妈, 舅妈, 姑妈, 伯母",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my cousin.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的堂兄弟姊妹, 表兄弟姊妹。"
+        },
+        {
+          "en": "I can see a cousin.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到堂兄弟姊妹, 表兄弟姊妹。"
+        }
+      ],
+      "headword": "cousin",
+      "lexical_entry_id": "w_cousin",
+      "ordinal": 3,
+      "phonetic_uk": "'kʌzən",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "堂兄弟姊妹, 表兄弟姊妹",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my family.",
+          "origin": "curated:g2u5-family",
+          "zh": "这是我的家人。"
+        }
+      ],
+      "headword": "family",
+      "lexical_entry_id": "w_family",
+      "ordinal": 4,
+      "phonetic_uk": "'fæməli",
+      "phonetic_us": null,
+      "phonics_split": "fam·i·ly",
+      "senses": [
+        {
+          "gloss": "家庭、家人",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandfather is seventy years old.",
+          "origin": "curated:primary-4a-grandfather",
+          "zh": "我爷爷七十岁了。"
+        }
+      ],
+      "headword": "grandfather (grandpa)",
+      "lexical_entry_id": "w_grandfather_grandpa",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "爷爷;外公;祖父;外祖父",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "My grandmother cooks nice food.",
+          "origin": "curated:primary-4a-grandmother",
+          "zh": "我奶奶做的饭菜很好吃。"
+        }
+      ],
+      "headword": "grandmother (grandma)",
+      "lexical_entry_id": "w_grandmother_grandma",
+      "ordinal": 6,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "奶奶;外婆;祖母;外祖母",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my grandparent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的祖父母。"
+        },
+        {
+          "en": "I can see a grandparent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到祖父母。"
+        }
+      ],
+      "headword": "grandparent",
+      "lexical_entry_id": "w_grandparent",
+      "ordinal": 7,
+      "phonetic_uk": "'grændperənt",
+      "phonetic_us": null,
+      "phonics_split": "grand·par·ent",
+      "senses": [
+        {
+          "gloss": "祖父母",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my parent.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的父母, 父母亲, 根源。"
+        },
+        {
+          "en": "I can see a parent.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到父母, 父母亲, 根源。"
+        }
+      ],
+      "headword": "parent",
+      "lexical_entry_id": "w_parent",
+      "ordinal": 8,
+      "phonetic_uk": "'perənt",
+      "phonetic_us": null,
+      "phonics_split": "par·ent",
+      "senses": [
+        {
+          "gloss": "父母, 父母亲, 根源",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my son.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的儿子, 女婿, 子孙。"
+        },
+        {
+          "en": "I can see a son.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到儿子, 女婿, 子孙。"
+        }
+      ],
+      "headword": "son",
+      "lexical_entry_id": "w_son",
+      "ordinal": 9,
+      "phonetic_uk": "sʌn",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "儿子, 女婿, 子孙",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "What is that?",
+          "origin": "curated:u10-that",
+          "zh": "那是什么？"
+        }
+      ],
+      "headword": "that",
+      "lexical_entry_id": "w_that",
+      "ordinal": 10,
+      "phonetic_uk": "ðæt",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "那、那个",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my uncle.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的叔父, 伯父, 姨丈。"
+        },
+        {
+          "en": "I can see an uncle.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到叔父, 伯父, 姨丈。"
+        }
+      ],
+      "headword": "uncle",
+      "lexical_entry_id": "w_uncle",
+      "ordinal": 11,
+      "phonetic_uk": "ʌŋkl",
+      "phonetic_us": null,
+      "phonics_split": "un·cle",
+      "senses": [
+        {
+          "gloss": "叔父, 伯父, 姨丈",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}

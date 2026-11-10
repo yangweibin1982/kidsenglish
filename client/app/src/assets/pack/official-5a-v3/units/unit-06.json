@@ -1,0 +1,405 @@
+{
+  "title": "Family life",
+  "unit_no": 6,
+  "words": [
+    {
+      "examples": [
+        {
+          "en": "This is my bathroom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的浴室, 厕所。"
+        },
+        {
+          "en": "I can see a bathroom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到浴室, 厕所。"
+        }
+      ],
+      "headword": "bathroom",
+      "lexical_entry_id": "w_bathroom",
+      "ordinal": 1,
+      "phonetic_uk": "'bɑ:θru:m",
+      "phonetic_us": null,
+      "phonics_split": "bath·room",
+      "senses": [
+        {
+          "gloss": "浴室, 厕所",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bedroom.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的卧室。"
+        },
+        {
+          "en": "I can see a bedroom.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到卧室。"
+        }
+      ],
+      "headword": "bedroom",
+      "lexical_entry_id": "w_bedroom",
+      "ordinal": 2,
+      "phonetic_uk": "'bedrum",
+      "phonetic_us": null,
+      "phonics_split": "bed·room",
+      "senses": [
+        {
+          "gloss": "卧室",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my bedtime.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的就寝时间。"
+        },
+        {
+          "en": "I can see a bedtime.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到就寝时间。"
+        }
+      ],
+      "headword": "bedtime",
+      "lexical_entry_id": "w_bedtime",
+      "ordinal": 3,
+      "phonetic_uk": "'bedtaim",
+      "phonetic_us": null,
+      "phonics_split": "bed·time",
+      "senses": [
+        {
+          "gloss": "就寝时间",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “before”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“before”。"
+        }
+      ],
+      "headword": "before",
+      "lexical_entry_id": "w_before",
+      "ordinal": 4,
+      "phonetic_uk": "bi'fɔː",
+      "phonetic_us": null,
+      "phonics_split": "be·fore",
+      "senses": [
+        {
+          "gloss": "在...之前",
+          "pos": "prep."
+        },
+        {
+          "gloss": "在...之前",
+          "pos": "conj."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “do homework”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“do homework”。"
+        }
+      ],
+      "headword": "do homework",
+      "lexical_entry_id": "w_do_homework",
+      "ordinal": 5,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "做家庭作业;做准备工作",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my kitchen.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的厨房, 全套炊具。"
+        },
+        {
+          "en": "I can see a kitchen.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到厨房, 全套炊具。"
+        }
+      ],
+      "headword": "kitchen",
+      "lexical_entry_id": "w_kitchen",
+      "ordinal": 6,
+      "phonetic_uk": "'kitʃin",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "厨房, 全套炊具",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my life.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑。"
+        },
+        {
+          "en": "I can see a life.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑。"
+        }
+      ],
+      "headword": "life",
+      "lexical_entry_id": "w_life",
+      "ordinal": 7,
+      "phonetic_uk": "laif",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my light.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光。"
+        },
+        {
+          "en": "I can see a light.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光。"
+        }
+      ],
+      "headword": "light",
+      "lexical_entry_id": "w_light",
+      "ordinal": 8,
+      "phonetic_uk": "lait",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光",
+          "pos": "n."
+        },
+        {
+          "gloss": "轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的",
+          "pos": "a."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “living room”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“living room”。"
+        }
+      ],
+      "headword": "living room",
+      "lexical_entry_id": "w_living_room",
+      "ordinal": 9,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "客厅, 起居室",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "Peter has a cool model plane.",
+          "origin": "curated:primary-5a-model-plane",
+          "zh": "彼得有一架很酷的飞机模型。"
+        }
+      ],
+      "headword": "model plane",
+      "lexical_entry_id": "w_model_plane",
+      "ordinal": 10,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "飞机模型",
+          "pos": "n."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “tell a story”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“tell a story”。"
+        }
+      ],
+      "headword": "tell a story",
+      "lexical_entry_id": "w_tell_a_story",
+      "ordinal": 11,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "讲故事",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is their classroom.",
+          "origin": "curated:p-pron-their",
+          "zh": "这是他们的教室。"
+        }
+      ],
+      "headword": "their",
+      "lexical_entry_id": "w_their",
+      "ordinal": 12,
+      "phonetic_uk": "ðɛə",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "他们的",
+          "pos": "pron."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “turn off”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“turn off”。"
+        }
+      ],
+      "headword": "turn off",
+      "lexical_entry_id": "w_turn_off",
+      "ordinal": 13,
+      "phonetic_uk": null,
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "关掉, 卖掉, 使转变方向, 解雇, 生产, 制造, 车削成, 使厌烦, 拐弯, 变成",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “TV”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“TV”。"
+        }
+      ],
+      "headword": "TV",
+      "lexical_entry_id": "w_tv",
+      "ordinal": 14,
+      "phonetic_uk": "'ti:'vi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "电视",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "This is my watch.",
+          "origin": "template:t-n-my",
+          "zh": "这是我的观察, 手表, 看守, 守护, 监视, 值班人。"
+        },
+        {
+          "en": "I can see a watch.",
+          "origin": "template:t-n-see",
+          "zh": "我能看到观察, 手表, 看守, 守护, 监视, 值班人。"
+        }
+      ],
+      "headword": "watch",
+      "lexical_entry_id": "w_watch",
+      "ordinal": 15,
+      "phonetic_uk": "wɒtʃ",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "观察, 手表, 看守, 守护, 监视, 值班人",
+          "pos": "n."
+        },
+        {
+          "gloss": "看, 注视, 照顾, 看守, 守护, 监视",
+          "pos": "vt."
+        }
+      ],
+      "used_lemma": null
+    },
+    {
+      "examples": [
+        {
+          "en": "I can say “watch TV”.",
+          "origin": "template:t-default-say",
+          "zh": "我会说“watch TV”。"
+        }
+      ],
+      "headword": "watch TV",
+      "lexical_entry_id": "w_watch_tv",
+      "ordinal": 16,
+      "phonetic_uk": "wɔtʃ ˈti:ˈvi:",
+      "phonetic_us": null,
+      "phonics_split": null,
+      "senses": [
+        {
+          "gloss": "看电视",
+          "pos": null
+        }
+      ],
+      "used_lemma": null
+    }
+  ]
+}
